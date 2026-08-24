@@ -1,0 +1,203 @@
+{
+  "site_name": "域外法学文献追踪",
+  "journals": [
+    {
+      "id": "jcle",
+      "name": "Journal of Competition Law & Economics",
+      "name_cn": "竞争法与经济学杂志",
+      "issn": "1741-2009",
+      "category": "competition",
+      "enabled": true,
+      "issn_verify": false
+    },
+    {
+      "id": "ecj",
+      "name": "European Competition Journal",
+      "name_cn": "欧洲竞争杂志",
+      "issn": "1744-1021",
+      "category": "competition",
+      "enabled": true,
+      "issn_verify": true
+    },
+    {
+      "id": "alj",
+      "name": "Antitrust Law Journal",
+      "name_cn": "反垄断法杂志",
+      "issn": "0003-5383",
+      "category": "competition",
+      "enabled": true,
+      "issn_verify": true
+    },
+    {
+      "id": "worldcomp",
+      "name": "World Competition",
+      "name_cn": "世界竞争",
+      "issn": "1011-6558",
+      "category": "competition",
+      "enabled": true,
+      "issn_verify": true
+    },
+    {
+      "id": "jeclap",
+      "name": "Journal of European Competition Law & Practice",
+      "name_cn": "欧洲竞争法与实践杂志",
+      "issn": "2043-4754",
+      "category": "competition",
+      "enabled": true,
+      "issn_verify": true
+    },
+    {
+      "id": "jle",
+      "name": "Journal of Law and Economics",
+      "name_cn": "法与经济学杂志",
+      "issn": "0022-2186",
+      "category": "law-econ",
+      "enabled": true,
+      "issn_verify": false
+    },
+    {
+      "id": "jls",
+      "name": "Journal of Legal Studies",
+      "name_cn": "法学研究杂志",
+      "issn": "0047-2530",
+      "category": "law-econ",
+      "enabled": true,
+      "issn_verify": false
+    },
+    {
+      "id": "jla",
+      "name": "Journal of Legal Analysis",
+      "name_cn": "法律分析杂志",
+      "issn": "1946-5734",
+      "category": "law-econ",
+      "enabled": true,
+      "issn_verify": true
+    },
+    {
+      "id": "aler",
+      "name": "American Law and Economics Review",
+      "name_cn": "美国法经济学评论",
+      "issn": "1465-7252",
+      "category": "law-econ",
+      "enabled": true,
+      "issn_verify": true
+    },
+    {
+      "id": "irle",
+      "name": "International Review of Law and Economics",
+      "name_cn": "国际法与经济学评论",
+      "issn": "0144-8188",
+      "category": "law-econ",
+      "enabled": true,
+      "issn_verify": false
+    },
+    {
+      "id": "rle",
+      "name": "Review of Law & Economics",
+      "name_cn": "法与经济学评论",
+      "issn": "1555-5879",
+      "category": "law-econ",
+      "enabled": true,
+      "issn_verify": true
+    },
+    {
+      "id": "rile",
+      "name": "Research in Law and Economics",
+      "name_cn": "法与经济学研究",
+      "issn": "0193-5895",
+      "category": "law-econ",
+      "enabled": true,
+      "issn_verify": true
+    },
+    {
+      "id": "rio",
+      "name": "Review of Industrial Organization",
+      "name_cn": "产业组织评论",
+      "issn": "0889-938X",
+      "category": "io",
+      "enabled": true,
+      "issn_verify": false
+    },
+    {
+      "id": "jie",
+      "name": "Journal of Industrial Economics",
+      "name_cn": "产业经济学杂志",
+      "issn": "0022-1821",
+      "category": "io",
+      "enabled": true,
+      "issn_verify": false
+    },
+    {
+      "id": "ijio",
+      "name": "International Journal of Industrial Organization",
+      "name_cn": "国际产业组织杂志",
+      "issn": "0167-7187",
+      "category": "io",
+      "enabled": true,
+      "issn_verify": false
+    },
+    {
+      "id": "ylj",
+      "name": "Yale Law Journal",
+      "name_cn": "耶鲁法律杂志",
+      "issn": "0044-0094",
+      "category": "law-review",
+      "enabled": true,
+      "issn_verify": false
+    },
+    {
+      "id": "hlr",
+      "name": "Harvard Law Review",
+      "name_cn": "哈佛法律评论",
+      "issn": "0017-811X",
+      "category": "law-review",
+      "enabled": true,
+      "issn_verify": false
+    },
+    {
+      "id": "slr",
+      "name": "Stanford Law Review",
+      "name_cn": "斯坦福法律评论",
+      "issn": "0038-9765",
+      "category": "law-review",
+      "enabled": true,
+      "issn_verify": false
+    },
+    {
+      "id": "clr",
+      "name": "Columbia Law Review",
+      "name_cn": "哥伦比亚法律评论",
+      "issn": "0010-1958",
+      "category": "law-review",
+      "enabled": true,
+      "issn_verify": false
+    },
+    {
+      "id": "nyulr",
+      "name": "New York University Law Review",
+      "name_cn": "纽约大学法律评论",
+      "issn": "0028-7881",
+      "category": "law-review",
+      "enabled": true,
+      "issn_verify": false
+    },
+    {
+      "id": "uclr",
+      "name": "University of Chicago Law Review",
+      "name_cn": "芝加哥大学法律评论",
+      "issn": "0041-9494",
+      "category": "law-review",
+      "enabled": true,
+      "issn_verify": false
+    },
+    {
+      "id": "vlr",
+      "name": "Virginia Law Review",
+      "name_cn": "弗吉尼亚法律评论",
+      "issn": "0042-6601",
+      "category": "law-review",
+      "enabled": true,
+      "issn_verify": false
+    }
+  ]
+}

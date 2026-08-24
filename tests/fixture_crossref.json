@@ -1,0 +1,38 @@
+{
+  "1741-2009": {
+    "status": 200,
+    "body": {
+      "message": {
+        "items": [
+          {
+            "DOI": "10.1093/jcle/nhaa012",
+            "title": ["Vertical Restraints and Platform Design"],
+            "author": [
+              {"family": "Hovenkamp", "given": "Herbert"},
+              {"family": "Wright", "given": "Joshua D"}
+            ],
+            "container-title": ["Journal of Competition Law & Economics"],
+            "published": {"date-parts": [[2026, 8, 12]]},
+            "abstract": "<jats:p>We examine the interaction between <jats:italic>vertical restraints</jats:p> and platform design choices in multi-sided markets.</jats:p>",
+            "type": "journal-article"
+          },
+          {
+            "DOI": "10.1093/jcle/nhaa013",
+            "title": ["Merger Review in Algorithmic Pricing Cases"],
+            "author": [{"family": "Chen", "given": "Lin"}],
+            "container-title": ["Journal of Competition Law & Economics"],
+            "published": {"date-parts": [[2025, 3, 1]]},
+            "abstract": "Old article outside window.",
+            "type": "journal-article"
+          }
+        ]
+      }
+    }
+  },
+  "1744-1021": {
+    "status": 404
+  },
+  "0022-2186": {
+    "status": "timeout"
+  }
+}

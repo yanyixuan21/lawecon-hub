@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="域外法学文献追踪——自动追踪约20本英文法学期刊的新发文，覆盖竞争法、法经济学、产业组织与法律评论。中文界面，一键直达原文。">
+<title>域外法学文献追踪</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+  <div class="header-inner">
+    <div class="brand">
+      <h1>域外法学文献追踪</h1>
+      <span class="sub">反垄断 · 法经济学 · 产业组织 · 综合法律评论</span>
+    </div>
+    <div class="controls">
+      <input type="search" id="search" placeholder="搜索标题 / 作者 / 期刊…" autocomplete="off">
+      <select id="journal-filter"><option value="">全部期刊</option></select>
+    </div>
+  </div>
+  <nav class="cats" id="cat-filter">
+    <button class="cat-btn active" data-cat="">全部</button>
+    <button class="cat-btn" data-cat="competition">竞争法</button>
+    <button class="cat-btn" data-cat="law-econ">法经济学</button>
+    <button class="cat-btn" data-cat="io">产业组织</button>
+    <button class="cat-btn" data-cat="law-review">法律评论</button>
+  </nav>
+</header>
+
+<main>
+  <div class="hero" id="hero">
+    <div class="hero-inner">
+      <p>追踪约 <strong>20 本</strong>英文学术期刊的新发文，覆盖竞争法、法经济学、产业组织与法律评论领域。</p>
+      <p>数据来自 <a href="https://www.crossref.org" target="_blank" rel="noopener">Crossref</a> 开放接口，每 6 小时自动更新。点击卡片即可跳转原文。</p>
+      <div class="hero-meta">
+        <span>📚 <span id="journal-count">—</span> 本期刊</span>
+        <span>🔄 每 6 小时自动更新</span>
+      </div>
+      <button class="hero-close" id="hero-close" type="button" aria-label="隐藏介绍">✕</button>
+    </div>
+  </div>
+
+  <div class="status-bar">
+    <span id="result-count"></span>
+    <span id="updated-at" class="muted"></span>
+  </div>
+  <div id="loading">加载中…</div>
+  <div id="empty" class="hidden">没有匹配的文章</div>
+  <div id="list" class="grid"></div>
+  <button id="load-more" class="hidden">加载更多</button>
+</main>
+
+<footer>
+  <div class="footer-inner">
+    <span>数据来自 <a href="https://www.crossref.org" target="_blank" rel="noopener">Crossref</a> · 点击 DOI 链接跳转原文</span>
+    <span class="footer-right">构建于 <a href="https://pages.github.com" target="_blank" rel="noopener">GitHub Pages</a></span>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
