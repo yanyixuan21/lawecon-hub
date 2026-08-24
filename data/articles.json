@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-08-24 11:38",
- "count": 314,
+ "updated_at": "2026-08-24 14:28",
+ "count": 389,
  "articles": [
   {
    "doi": "10.1016/j.ijindorg.2026.103320",
@@ -2192,6 +2192,149 @@
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103269"
   },
   {
+   "doi": "10.1016/j.ijindorg.2026.103248",
+   "title": "Optimal patent screening with imperfect enforcement",
+   "authors": [
+    "Llobet G",
+    "Parra Á",
+    "Suarez J"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-04-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103248"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103246",
+   "title": "R&amp;D and firm resilience during bad times",
+   "authors": [
+    "Gupta A"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-04-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103246"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103261",
+   "title": "How package size changes affect food inflation: evidence from scanner data",
+   "authors": [
+    "Rojas C",
+    "Jaenicke E",
+    "Page E T"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-04-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103261"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103262",
+   "title": "News media bargaining codes",
+   "authors": [
+    "Sandrini L",
+    "Somogyi R"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-04-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103262"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103247",
+   "title": "Competing for time: A study of mobile applications",
+   "authors": [
+    "Yuan H"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-04-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103247"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103265",
+   "title": "Broad and narrow price parity agreements: Evidence from European hotels",
+   "authors": [
+    "Klopack B",
+    "Pierri N"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-04-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103265"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103263",
+   "title": "Measuring markups with revenue data",
+   "authors": [
+    "Kirov I",
+    "Mengano P",
+    "Traina J"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-04-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103263"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103256",
+   "title": "The dynamics of competition in the Chinese electric vehicle market: Insights from BYD’s market evolution",
+   "authors": [
+    "Hao Y",
+    "Hao Y"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-04-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103256"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103267",
+   "title": "Examining the recidivism-productivity growth nexus: Evidence from anti-cartel enforcement in the US",
+   "authors": [
+    "Fotis P",
+    "Polemis M"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-04-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103267"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103264",
+   "title": "The anatomy of costs and firm performance: Evidence from Belgium",
+   "authors": [
+    "De Loecker J",
+    "Fuss C",
+    "Quiller-Doust N",
+    "Treuren L"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-04-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103264"
+  },
+  {
    "doi": "10.1093/aler/ahaf016",
    "title": "Ignorance Is Bliss? Information Avoidance in Litigation",
    "authors": [
@@ -3321,6 +3464,366 @@
    "url": "https://doi.org/10.1086/740651"
   },
   {
+   "doi": "10.1016/j.ijindorg.2025.103210",
+   "title": "Information disclosure in expert's market with diagnostic uncertainty",
+   "authors": [
+    "Zhao L"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103210"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103243",
+   "title": "Lessons on industrial policy from industrial organization: Introduction to the special issue",
+   "authors": [
+    "Van Biesebroeck J",
+    "Zhang H"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103243"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103242",
+   "title": "The effects of LCC subsidies on the tourism industry",
+   "authors": [
+    "Bontemps C",
+    "Martini G",
+    "Porta F"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103242"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103240",
+   "title": "State aid for broadband and crowding out of private investment: Evidence from the French market",
+   "authors": [
+    "Bourreau M",
+    "Grzybowski L",
+    "Muñoz-Acevedo Á"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103240"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103228",
+   "title": "Public procurement cartels: A large-sample testing of screens using machine learning",
+   "authors": [
+    "Fazekas M",
+    "Tóth B",
+    "Wachs J",
+    "Abdou A"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103228"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103220",
+   "title": "Growing bigger or becoming stronger: A response of downstream manufacturing firms to the coal price shock",
+   "authors": [
+    "Hou Y",
+    "Wan P",
+    "Yang M"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103220"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103218",
+   "title": "Generic entry, price competition, and market segmentation in the prescription drug market – a comment",
+   "authors": [
+    "Jelovac I"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103218"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103219",
+   "title": "Information disclosure and information acquisition in credit markets",
+   "authors": [
+    "Eccles P",
+    "Siciliani P"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103219"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103237",
+   "title": "Industrial policy and capacity utilization: Evidence from China’s five-year plans",
+   "authors": [
+    "Li H",
+    "Lu W",
+    "Xie X",
+    "Yin H"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103237"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103233",
+   "title": "Is the pursuit of a competition-friendly industrial policy desirable? Evidence from Korea's post-Asian Financial Crisis policy shift",
+   "authors": [
+    "Kwon N",
+    "Park M",
+    "Sung W"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103233"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103235",
+   "title": "Standard-setting and the incentives to innovate: Evidence from the IEEE patent policy update",
+   "authors": [
+    "Bonani M"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103235"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103236",
+   "title": "Comparative advantage and optimal trade policy with strategic interactions",
+   "authors": [
+    "Dai M",
+    "Hsu W",
+    "Jin W",
+    "Wang Y",
+    "Yang S"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103236"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103239",
+   "title": "Supply chain disruption and precautionary industrial policy",
+   "authors": [
+    "Motta M",
+    "Polo M"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103239"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103227",
+   "title": "Patents and the choice of research projects",
+   "authors": [
+    "Teshima N"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103227"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103232",
+   "title": "Technology spillovers from Sino-foreign auto joint ventures to indigenous brands",
+   "authors": [
+    "Liang J",
+    "Qiu L D",
+    "Xiao J"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103232"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103238",
+   "title": "Subsidies, new firms, and productivity in global manufacturing",
+   "authors": [
+    "Belloc F",
+    "Lofaro A"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103238"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103266",
+   "title": "What is the “right” geographic market definition?",
+   "authors": [
+    "Genakos C",
+    "Kampouris T"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103266"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103229",
+   "title": "Industrial policy in China: Its development and ongoing transformation",
+   "authors": [
+    "Fu X",
+    "Lin P",
+    "Ye G"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103229"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103244",
+   "title": "Incentives for contract designers and contractual design",
+   "authors": [
+    "Rodivilov A"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103244"
+  },
+  {
+   "doi": "10.1016/s0167-7187(26)00006-8",
+   "title": "Editorial Board",
+   "authors": [],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/s0167-7187(26)00006-8"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103230",
+   "title": "Industrial policies and innovation: Evidence from the global automobile industry",
+   "authors": [
+    "Barwick P J",
+    "Kwon H",
+    "Li S",
+    "Wang Y",
+    "Zahur N B"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103230"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103241",
+   "title": "Can a tiger change its stripes? Reform of Chinese state-owned enterprises in the penumbra of the state",
+   "authors": [
+    "Harrison A",
+    "Wang P",
+    "Zhao M",
+    "Meyer M",
+    "Zhao L"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103241"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103234",
+   "title": "The effectiveness of ’in-market’ and ’out-of-market’ liberalization policies. Evidence from Indian produce markets",
+   "authors": [
+    "Itin-Shwartz B"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103234"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103245",
+   "title": "Outsourcing without cost advantages",
+   "authors": [
+    "Milliou C"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103245"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103231",
+   "title": "China-US trade war: Firm import-export linkage along global supply chains",
+   "authors": [
+    "Tian W",
+    "Yu M",
+    "Zheng C"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103231"
+  },
+  {
    "doi": "10.1515/rle-2024-0059",
    "title": "Buying an Influencer with Binding Promises",
    "authors": [
@@ -3630,6 +4133,332 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1111/joie.12399"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2024.103070",
+   "title": "Denial of interoperability and future first-party entry",
+   "authors": [
+    "Motta M",
+    "Peitz M"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2025-12-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2024.103070"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103202",
+   "title": "Competition and cooperation in international air travel markets with complements and substitutes",
+   "authors": [
+    "Fu X",
+    "Tan G"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2025-12-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103202"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103204",
+   "title": "Digital business models and quality investment",
+   "authors": [
+    "Allain M",
+    "Bourreau M",
+    "Darlas P"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2025-12-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103204"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103209",
+   "title": "Mergers and unionization: Roll together or clash?",
+   "authors": [
+    "Ge Q",
+    "Kim D",
+    "Kim M",
+    "Yoon J"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2025-12-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103209"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103200",
+   "title": "Welfare implications of personalized pricing in competitive platform markets: The role of network effects",
+   "authors": [
+    "Lu Q",
+    "Matsushima N",
+    "Shekhar S"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2025-12-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103200"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103188",
+   "title": "Corrigendum to “Brewed in North America: Mergers, marginal costs, and efficiency” [International Journal of Industrial Organization 59 (2018) 24–65]",
+   "authors": [
+    "Grieco P",
+    "Pinkse J",
+    "Slade M"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2025-12-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103188"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103205",
+   "title": "Does costly persuasion signal quality?",
+   "authors": [
+    "Carroni E",
+    "Ferrari L",
+    "Pignataro G"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2025-12-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103205"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103134",
+   "title": "Artificial intelligence and competition policy",
+   "authors": [
+    "Hagiu A",
+    "Wright J"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2025-12-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103134"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2024.103114",
+   "title": "Merger of complements: Empirical evidence from the eyewear industry",
+   "authors": [
+    "Gaudin G",
+    "Nagel N"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2025-12-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2024.103114"
+  },
+  {
+   "doi": "10.1016/s0167-7187(25)00080-3",
+   "title": "Editorial Board",
+   "authors": [],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2025-12-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/s0167-7187(25)00080-3"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103187",
+   "title": "Socially responsible lobbying",
+   "authors": [
+    "Hämäläinen S",
+    "Zheng Y"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2025-12-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103187"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2024.103127",
+   "title": "Big tech acquisitions",
+   "authors": [
+    "Cabral L"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2025-12-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2024.103127"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2024.103115",
+   "title": "Evaluating the impact of price caps - Evidence from the European roam-like-at-home regulation",
+   "authors": [
+    "Canzian G",
+    "Mazzarella G",
+    "Ronchail L",
+    "Verboven F",
+    "Verzillo S"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2025-12-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2024.103115"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103190",
+   "title": "How do hospital markets respond to universal health insurance?",
+   "authors": [
+    "Liu C",
+    "Chou S",
+    "Lien H",
+    "Deily M E"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2025-12-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103190"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103201",
+   "title": "Export market entry of Chinese SMEs: The role of scale economies and outstanding trade credit",
+   "authors": [
+    "Van Biesebroeck J",
+    "Zheng H"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2025-12-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103201"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103207",
+   "title": "Disclosure and pricing with heterogeneous priors",
+   "authors": [
+    "Pham H"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2025-12-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103207"
+  },
+  {
+   "doi": "10.1016/s0167-7187(25)00090-6",
+   "title": "Editorial Board",
+   "authors": [],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2025-12-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/s0167-7187(25)00090-6"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103185",
+   "title": "Collecting and selling consumer information: Selling mechanisms matter",
+   "authors": [
+    "Bounie D",
+    "Dubus A",
+    "Waelbroeck P"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2025-12-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103185"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103189",
+   "title": "Lost green leaders: Is China's green financial regulation efficient?",
+   "authors": [
+    "Wang W",
+    "Pan Q",
+    "Xie X"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2025-12-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103189"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103146",
+   "title": "Data brokers competition, synergic datasets, and endogenous information value",
+   "authors": [
+    "Abrardi L",
+    "Cambini C",
+    "Pino F"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2025-12-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103146"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103206",
+   "title": "Market definition: A sensitivity analysis",
+   "authors": [
+    "Koh P S"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2025-12-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103206"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103203",
+   "title": "Greening vehicle fleets: A structural analysis of scrappage programs during the financial crisis",
+   "authors": [
+    "Kitano T"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2025-12-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103203"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103208",
+   "title": "Consumer search costs and the provision of service quality",
+   "authors": [
+    "Moraga-González J L",
+    "Sun Y"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2025-12-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103208"
   },
   {
    "doi": "10.1093/aler/ahaf006",
@@ -4277,6 +5106,113 @@
    "url": "https://doi.org/10.1515/rle-2024-0066"
   },
   {
+   "doi": "10.1093/hrlr/ngaf026",
+   "title": "From common law duty of care to statutory mandatory human rights due diligence: the continuing challenge of holding parent companies liable for human rights abuses committed by subsidiary companies",
+   "authors": [
+    "Tiruneh W"
+   ],
+   "journal": "Human Rights Law Review",
+   "journal_id": "ecj",
+   "date": "2025-09-12",
+   "abstract": "Abstract Victims of corporate-related human rights abuses, particularly those occurring abroad in developing countries, for various reasons want to hold parent companies liable in their home states for adverse human rights impacts caused by their subsidiary companies. However, the principle of limited liability, a corporate law principle recognized in almost all states, does not allow victims to automatically hold parent companies liable for abuses committed by their subsidiaries. Accordingly, with a view to circumvent the principle of limited liability, victims have long been relying on common law duty of care to bring action against parent companies in common law jurisdictions. Similarly, mandatory human rights due diligence (HRDD) laws recently adopted in different jurisdictions was hoped to offer another avenue for victims to hold parent companies liable for abuses committed by their subsidiaries. However, the article argues that neither common law duty of care nor mandatory HRDD laws currently provide effective legal pathway for victims seeking to hold parent companies liable for abuses committed by their subsidiary companies.",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1093/hrlr/ngaf026"
+  },
+  {
+   "doi": "10.1093/hrlr/ngaf032",
+   "title": "Brazil and Climate Justice: Pioneering Climate Litigation for a Global Cause",
+   "authors": [
+    "De Spiegeleir A"
+   ],
+   "journal": "Human Rights Law Review",
+   "journal_id": "ecj",
+   "date": "2025-09-12",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1093/hrlr/ngaf032"
+  },
+  {
+   "doi": "10.1093/hrlr/ngaf036",
+   "title": "The Cambridge handbook of the right to freedom of thought",
+   "authors": [
+    "Ksiazek K"
+   ],
+   "journal": "Human Rights Law Review",
+   "journal_id": "ecj",
+   "date": "2025-09-12",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1093/hrlr/ngaf036"
+  },
+  {
+   "doi": "10.1093/hrlr/ngaf034",
+   "title": "Incompatible or impossible—legal conflict resolution at the European Court of Human Rights",
+   "authors": [
+    "Wibye J V"
+   ],
+   "journal": "Human Rights Law Review",
+   "journal_id": "ecj",
+   "date": "2025-09-12",
+   "abstract": "Abstract The article mediates between doctrinal and analytical scholarship by framing conflict between duties enshrined in the European Convention of Human Rights using the impossibility-of-joint-compliance test, and examining how the resulting account diverges from human rights literature. Analysis of conflict management at the European Court of Human Rights (ECtHR) has been hampered, in part, by a conflation of legal conflict and logical contradiction. Court precedent is used as support for a revised stance, highlighting the specificity, plurality and contingency of conflict resolution rules. This stance leads to a more charitable interpretation of case law, a rejection of absolute rights as an explanatory mechanism, and a rebuttal to calls for the ECtHR to adopt an explicit moral framework for conflict resolution.",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1093/hrlr/ngaf034"
+  },
+  {
+   "doi": "10.1093/hrlr/ngaf030",
+   "title": "Litigating the politics of human rights: contemporary U.S. culture wars on trial",
+   "authors": [
+    "Novemyanto A D",
+    "Karo S M",
+    "Afriani F"
+   ],
+   "journal": "Human Rights Law Review",
+   "journal_id": "ecj",
+   "date": "2025-09-12",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1093/hrlr/ngaf030"
+  },
+  {
+   "doi": "10.1093/hrlr/ngaf035",
+   "title": "Blurred lines: the European court of human rights and jurisprudential confusion at the border",
+   "authors": [
+    "Pazaryna I"
+   ],
+   "journal": "Human Rights Law Review",
+   "journal_id": "ecj",
+   "date": "2025-09-12",
+   "abstract": "Abstract This article examines the jurisprudence of the European Court of Human Rights in relation to the prohibition of collective expulsion, enshrined in Article 4 of Protocol No. 4. In the midst of the European ‘migrant crisis’, the Court has handed down confusing and contradictory rulings in relation to this obligation, which in effect allows states to subvert the intended protection. The nature of European borders has evolved, characterized by increased securitization and extraterritorial enforcement, which comes at the expense of humanitarian obligations, and unclear guidance from the Court serves to further imperil the protection of migrants’ human rights.",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1093/hrlr/ngaf035"
+  },
+  {
+   "doi": "10.1093/hrlr/ngaf031",
+   "title": "The <i>Engel</i> criteria in the 21st century: irrational flexibility and deference in recent European Court of Human Rights jurisprudence",
+   "authors": [
+    "Goss R"
+   ],
+   "journal": "Human Rights Law Review",
+   "journal_id": "ecj",
+   "date": "2025-09-12",
+   "abstract": "Abstract What does it mean for someone to be charged with a criminal offence? This is a question of considerable significance for multiple heavily-litigated European Convention on Human Rights (ECHR) guarantees. For decades the approach to the criminal charge threshold has been to recite the Engel ‘autonomous meaning’ criteria. This article is focused squarely on the last decade of the European Court of Human Rights (ECtHR) case law on the Engel criteria, not only on the Grand Chamber decisions in Gestur Jónsson and Ragnar Halldór Hall v Iceland (2020) and Grosam v Czech Republic (2023), but also dozens of other recent decisions, most of which have received no detailed scholarly attention. Based on this analysis, this article argues, first, that the recent jurisprudence is characterized by a degree of incoherence and inconsistency that manifests as ‘irrational flexibility’. Second, and contrary to much existing literature, the last decade of case law shows that the Engel criteria can provide cover for decisions facilitating State sovereignty or facilitating State arguments justifying restrictions on the basis of broader public interests. Thus the article contributes to much broader conversations about recent trends in the ECtHR’s oscillating approach to European supervision and State sovereignty: the article draws together some of the most heavily-litigated ECHR guarantees and some of the more prominent themes in current commentary on ECtHR case law more generally.",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1093/hrlr/ngaf031"
+  },
+  {
+   "doi": "10.1093/hrlr/ngaf028",
+   "title": "Better nutrition for better health: a human rights perspective on EU law and policy on food and nutrition",
+   "authors": [
+    "El Gemayel M",
+    "Winkler I T"
+   ],
+   "journal": "Human Rights Law Review",
+   "journal_id": "ecj",
+   "date": "2025-09-12",
+   "abstract": "Abstract Overconsumption of unhealthy foods poses a significant public health challenge in the European Union (EU) and is linked to high rates of non-communicable disease. We analyse EU food and nutrition law and policy against global health and nutrition objectives, specifically the human rights to health and food. We find that EU law and policy prioritize food safety and consumer information which results in nutrition being considered solely an individual responsibility. Whilst healthy and nutritious choices are promoted, they are not supported by food environments that would facilitate these choices. Based on our analysis of global recommendations, we suggest measures across the entire food supply chain that prioritize nutritional quality in production, processing, distribution, retail, marketing, and consumption. Given the emerging momentum around the right to food within the EU, we draw on human rights commitments to suggest strategies that ensure adequate access to healthy and nutritious diets for everyone.",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1093/hrlr/ngaf028"
+  },
+  {
    "doi": "10.1111/joie.70008",
    "title": "Share to Scare: Technology Sharing in the Absence of Intellectual Property Rights",
    "authors": [
@@ -4367,6 +5303,133 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1111/joie.12398"
+  },
+  {
+   "doi": "10.1016/j.irle.2025.106267",
+   "title": "Vertical interoperability in mobile ecosystems: Will the DMA deliver (what competition law could not)?",
+   "authors": [
+    "Colangelo G",
+    "Martínez A R"
+   ],
+   "journal": "International Review of Law and Economics",
+   "journal_id": "irle",
+   "date": "2025-09-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.irle.2025.106267"
+  },
+  {
+   "doi": "10.1016/j.irle.2025.106281",
+   "title": "Notice-and-takedown as dispute resolution: An empirical analysis of GitHub notices",
+   "authors": [
+    "Zhang P",
+    "Li J"
+   ],
+   "journal": "International Review of Law and Economics",
+   "journal_id": "irle",
+   "date": "2025-09-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.irle.2025.106281"
+  },
+  {
+   "doi": "10.1016/j.irle.2025.106263",
+   "title": "The role of the regulatory framework in enhancing SMEs’ digital transformation",
+   "authors": [
+    "Succurro M",
+    "Donati C"
+   ],
+   "journal": "International Review of Law and Economics",
+   "journal_id": "irle",
+   "date": "2025-09-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.irle.2025.106263"
+  },
+  {
+   "doi": "10.1016/j.irle.2025.106268",
+   "title": "The impact of antitrust enforcement on China’s digital platforms: Evidence from SAMR v. Alibaba",
+   "authors": [
+    "Khoo K",
+    "Lai S",
+    "Tian C"
+   ],
+   "journal": "International Review of Law and Economics",
+   "journal_id": "irle",
+   "date": "2025-09-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.irle.2025.106268"
+  },
+  {
+   "doi": "10.1016/j.irle.2025.106266",
+   "title": "“Platform Holdup” and Platform Regulation",
+   "authors": [
+    "Huang J",
+    "Xie D"
+   ],
+   "journal": "International Review of Law and Economics",
+   "journal_id": "irle",
+   "date": "2025-09-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.irle.2025.106266"
+  },
+  {
+   "doi": "10.1016/j.irle.2025.106279",
+   "title": "Do Chinese courts apply the “Hand Formula”: Empirical evidence from cases related to the duty of safety protection",
+   "authors": [
+    "Zhang H"
+   ],
+   "journal": "International Review of Law and Economics",
+   "journal_id": "irle",
+   "date": "2025-09-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.irle.2025.106279"
+  },
+  {
+   "doi": "10.1016/j.irle.2025.106280",
+   "title": "Conflict and property law: The hidden costs of takings and of liability rule protection",
+   "authors": [
+    "Mittlaender S"
+   ],
+   "journal": "International Review of Law and Economics",
+   "journal_id": "irle",
+   "date": "2025-09-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.irle.2025.106280"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103186",
+   "title": "Firm markups and the economic value of innovation",
+   "authors": [
+    "Martin R",
+    "Solorzano Mosquera J",
+    "Thomas C",
+    "Verhoeven D"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2025-09-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103186"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2025.103170",
+   "title": "Shaping preferences through industrial policy: The Canary Islands in autarkic Spain",
+   "authors": [
+    "Miravete E J",
+    "Moral M J"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2025-09-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2025.103170"
   }
  ]
 }
