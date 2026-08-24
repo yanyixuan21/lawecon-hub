@@ -15,7 +15,11 @@
       <span class="sub">竞争法 · 法经济学 · 数据合规 · 平台治理</span>
     </div>
     <div class="controls">
-      <input type="search" id="search" placeholder="搜索标题 / 作者 / 期刊…" autocomplete="off">
+      <div class="search-wrap">
+        <input type="search" id="search" placeholder="搜索标题 / 作者 / 期刊…" autocomplete="off">
+        <button id="search-btn" type="button">检索</button>
+        <button id="search-clear" type="button" class="hidden" aria-label="清空">✕</button>
+      </div>
       <select id="journal-filter"><option value="">全部期刊</option></select>
     </div>
   </div>
@@ -26,7 +30,8 @@
     <button class="cat-btn" data-cat="io">产业组织</button>
     <button class="cat-btn" data-cat="law-review">法律评论</button>
     <button class="cat-btn fav-toggle" id="fav-toggle" type="button">★ 收藏</button>
-    <span class="cats-spacer"></span>
+  </nav>
+  <nav class="tabs">
     <button class="tab-btn active" id="tab-journals" type="button">文献动态</button>
     <button class="tab-btn" id="tab-scholars" type="button">学者名录</button>
     <button class="tab-btn" id="tab-pubs" type="button">期刊动态</button>

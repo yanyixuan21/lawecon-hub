@@ -65,11 +65,12 @@ def fmt_authors(authors):
     return out
 
 
-def fetch_journal(issn, timeout=30):
+def fetch_journal(issn, cutoff_str, timeout=30):
     params = urllib.parse.urlencode({
-        "rows": "40",
+        "rows": "100",
         "sort": "published",
         "order": "desc",
+        "filter": "from-pub-date:%s,type:journal-article" % cutoff_str,
         "select": "DOI,title,author,container-title,published,published-online,abstract,type",
     })
     url = "https://api.crossref.org/journals/%s/works?%s" % (urllib.parse.quote(issn), params)
@@ -112,6 +113,7 @@ def crawl(days=365, fixture=False):
             pass
 
     cutoff = datetime.date.today() - datetime.timedelta(days=days)
+    cutoff_str = cutoff.isoformat()
     ok, fail = 0, 0
     for j in journals:
         issn = j["issn"]
@@ -121,7 +123,7 @@ def crawl(days=365, fixture=False):
                 if data is None:
                     raise urllib.error.HTTPError("fixture", 404, "no fixture", None, None)
             else:
-                data = fetch_journal(issn)
+                data = fetch_journal(issn, cutoff_str)
             items = data.get("message", {}).get("items", [])
         except TimeoutError:
             log_error("timeout: %s (%s)" % (j["name"], issn))
@@ -158,6 +160,8 @@ def crawl(days=365, fixture=False):
         ok += 1
 
     articles = sorted(existing.values(), key=lambda a: a["date"], reverse=True)
+    # 清理过期文章与非期刊文章（法律评论的 Editorial、书评等）
+    articles = [a for a in articles if a["date"] >= cutoff_str and a.get("type") == "journal-article"]
     out = {
         "updated_at": datetime.datetime.now().strftime("%Y-%m-%d %H:%M"),
         "count": len(articles),

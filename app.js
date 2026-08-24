@@ -52,6 +52,8 @@
     scholarLoadMore: document.getElementById("scholar-load-more"),
     scholarMode: document.getElementById("scholar-mode"),
     favToggle: document.getElementById("fav-toggle"),
+    searchBtn: document.getElementById("search-btn"),
+    searchClear: document.getElementById("search-clear"),
   };
 
   var journals = {}; // id -> journal config
@@ -484,12 +486,6 @@
   function renderEvents() {
     var qs = state.q.trim().toLowerCase();
     var list = events.filter(function (e) {
-      if (state.cat) {
-        var catFields = { competition: ["竞争法", "反垄断经济学"], "law-econ": ["法经济学", "实证研究"], io: ["产业组织", "创新经济学", "政治经济学"], "law-review": [] };
-        var f = catFields[state.cat] || [];
-        var hit = (e.fields || []).some(function (x) { return f.indexOf(x) !== -1; });
-        if (!hit) return false;
-      }
       if (qs) {
         var hay = (e.name_cn + " " + e.name_en + " " + e.organizer + " " + e.location + " " + (e.fields || []).join(" ")).toLowerCase();
         if (hay.indexOf(qs) === -1) return false;
@@ -514,7 +510,16 @@
   /* ---------- 页签切换 ---------- */
 
   function switchTab(tab) {
+    var prevTab = state.tab;
     state.tab = tab;
+    // 切换板块时重置类目筛选，避免类目与板块内容不匹配
+    if (state.cat) {
+      state.cat = "";
+      var act = el.catFilter.querySelector(".cat-btn.active");
+      if (act) act.classList.remove("active");
+      var allBtn = el.catFilter.querySelector('.cat-btn[data-cat=""]');
+      if (allBtn) allBtn.classList.add("active");
+    }
     el.tabJournals.classList.toggle("active", tab === "journals");
     el.tabScholars.classList.toggle("active", tab === "scholars");
     el.tabPubs.classList.toggle("active", tab === "pubs");
@@ -523,7 +528,7 @@
     el.viewScholars.classList.toggle("hidden", tab !== "scholars");
     el.viewPubs.classList.toggle("hidden", tab !== "pubs");
     el.viewEvents.classList.toggle("hidden", tab !== "events");
-    // 搜索框在所有页签生效（重放当前值）
+    // 搜索词跨板块保留（重放当前值）
     applySearch();
   }
 
@@ -539,13 +544,35 @@
 
   /* ---------- 事件 ---------- */
 
+  function doSearch() {
+    state.q = el.search.value;
+    updateSearchClear();
+    applySearch();
+  }
+
+  function updateSearchClear() {
+    el.searchClear.classList.toggle("hidden", !el.search.value);
+  }
+
   var debounceTimer = null;
   el.search.addEventListener("input", function () {
+    updateSearchClear();
     clearTimeout(debounceTimer);
     debounceTimer = setTimeout(function () {
       state.q = el.search.value;
       applySearch();
-    }, 300);
+    }, 400);
+  });
+  el.search.addEventListener("keydown", function (ev) {
+    if (ev.key === "Enter") {
+      clearTimeout(debounceTimer);
+      doSearch();
+    }
+  });
+  el.searchBtn.addEventListener("click", doSearch);
+  el.searchClear.addEventListener("click", function () {
+    el.search.value = "";
+    doSearch();
   });
 
   el.journalFilter.addEventListener("change", function () {
