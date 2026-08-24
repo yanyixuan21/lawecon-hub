@@ -376,10 +376,8 @@
   /* ---------- 期刊动态板块 ---------- */
 
   function pubRowHTML(a) {
-    var j = journals[a.journal_id] || {};
     return (
       '<a class="pub-row" href="' + esc(a.url) + '" target="_blank" rel="noopener">' +
-      '<span class="pub-journal">' + esc(j.name_cn || a.journal) + "</span>" +
       '<span class="pub-title">' + esc(a.title) + "</span>" +
       '<span class="pub-date">' + esc(a.date) + "</span>" +
       "</a>"
