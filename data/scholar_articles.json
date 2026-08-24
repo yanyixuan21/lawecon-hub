@@ -1,7 +1,39 @@
 {
- "updated_at": "2026-08-24 17:58",
- "count": 3,
+ "updated_at": "2026-08-24 11:39",
+ "count": 50,
  "articles": [
+  {
+   "doi": "10.1016/j.clsr.2026.106389",
+   "title": "A fairness standard in EU platform regulation: Moving beyond fragmented protections for consumers, business users, and workers",
+   "authors": [
+    "Inge Graef"
+   ],
+   "journal": "Computer law & security review",
+   "journal_id": "",
+   "date": "2026-08-20",
+   "abstract": "Digital platforms generate significant benefits for consumers, business users, and workers through new forms of interaction and services, yet their superior bargaining power gives rise to fairness concerns. The EU has responded with a range of legislative instruments, including the Platform-to-Business Regulation, the Digital Markets Act, the Digital Services Act, and the Platform Work Directive. This has produced a fragmented regulatory landscape with each instrument targeting specific stakeholders or issues. The paper argues that establishing an overarching fairness standard would not only simplify and consolidate EU platform regulation, but also shift the focus from merely prohibiting unfair practices to prescribing how platforms should operate fairly. Relying on a legal doctrinal analysis of existing EU consumer law, sector-specific instruments and former EU initiatives to extend contractual protections to businesses, the paper proposes to ground such a standard in the concept of good commercial practice interpreted in light of the autonomy of platform users. This notion provides a flexible yet principled standard for assessing through a proportionality test whether a term or practice is reasonably necessary or proportionate to protect the platform’s interests. The paper tailors the proposed standard to the distinct position of consumers, business users, and workers – applying it most strictly to consumers, more leniently to business users, and intermediately to workers. By articulating a general fairness standard, the paper contributes to the European Commission’s ongoing efforts, including those under the Digital Fitness Check, to streamline and enhance regulatory coherence in the platform economy.",
+   "type": "article",
+   "url": "https://doi.org/10.1016/j.clsr.2026.106389",
+   "scholar_id": "inge-graef",
+   "scholar_name": "Inge Graef",
+   "scholar_institution": "Tilburg University"
+  },
+  {
+   "doi": "10.1086/743388",
+   "title": "Safe Spaces: Shelters or Tribes?",
+   "authors": [
+    "Jean Tirole"
+   ],
+   "journal": "Journal of Political Economy",
+   "journal_id": "",
+   "date": "2026-07-31",
+   "abstract": "",
+   "type": "article",
+   "url": "https://doi.org/10.1086/743388",
+   "scholar_id": "jean-tirole",
+   "scholar_name": "Jean Tirole",
+   "scholar_institution": "Toulouse School of Economics"
+  },
   {
    "doi": "10.1093/antitrust/atx001",
    "title": "Self-Preferencing in Digital Markets",
@@ -20,6 +52,47 @@
    "scholar_institution": "Toulouse School of Economics"
   },
   {
+   "doi": "10.1038/s41467-026-75115-4",
+   "title": "High-throughput characterization of transcription factors that modulate UV damage formation and repair at single-nucleotide resolution",
+   "authors": [
+    "Hana Wasserman",
+    "Bo Chi",
+    "Kaitlynne A. Bohm",
+    "Mingrui Duan",
+    "Harshit Sahay",
+    "Alexias Safi",
+    "Gregory E. Crawford",
+    "Peng Mao",
+    "等"
+   ],
+   "journal": "Nature Communications",
+   "journal_id": "",
+   "date": "2026-07-10",
+   "abstract": "Genomic studies revealed elevated DNA damage and mutation rates at transcription factor (TF) binding sites in UV-linked cancers. While TFs can promote UV-induced mutagenesis by altering both damage formation and repair, these mechanisms have not been systematically characterized across TFs at high resolution. Using genome-wide UV damage maps from skin fibroblasts, we develop a scalable statistical framework to analyze TF-mediated mutagenic mechanisms across hundreds of TFs. We identify numerous previously unreported TFs that significantly enhance or suppress UV damage formation within their binding sites. A systematic survey of TF-DNA complexes reveals that damage modulation often coincides with TF-induced DNA distortions that either protect against or promote photodimer formation. Additionally, we analyze repair efficiency in TF binding sites at high resolution, identifying TFs likely to compete with repair. Comparisons with skin cancer mutations distinguish mutation enrichment driven by increased damageability versus attenuated repair, revealing the highly contextual nature of TF-mediated mutagenesis.",
+   "type": "article",
+   "url": "https://doi.org/10.1038/s41467-026-75115-4",
+   "scholar_id": "gregory-crawford",
+   "scholar_name": "Gregory Crawford",
+   "scholar_institution": "University of Zurich"
+  },
+  {
+   "doi": "10.1093/9780198969815.003.0017",
+   "title": "Digital and Data Regulation",
+   "authors": [
+    "Orla Lynskey",
+    "Katherine Nolan"
+   ],
+   "journal": "",
+   "journal_id": "",
+   "date": "2026-06-22",
+   "abstract": "Abstract The chapter charts the way in which the UK’s departure from the European Union coincided with significant change in EU digital governance. The impetus for this reform of the first generation of EU digital regulation was social and technical. The movement from a unidirectional internet to the platform economy, and now the mainstreaming of so-called artificial intelligence (AI), brought about considerable social and economic change. The optimism associated with earlier technical advances was tempered by challenges, including child safety, misinformation, and the vast power of technology providers. This resulted in a second generation of digital rules that are more interventionist and numerous. The story of digital and data regulation in the EU and the UK post-Brexit is best envisaged in two layers. Above the surface, both jurisdictions introduced reform to the legislative landscape. However, the common ground between them pre-dates Brexit, whereas regulatory responses to societal challenges post-Brexit increasingly diverge.",
+   "type": "book-chapter",
+   "url": "https://doi.org/10.1093/9780198969815.003.0017",
+   "scholar_id": "orla-lynskey",
+   "scholar_name": "Orla Lynskey",
+   "scholar_institution": "University of Cambridge"
+  },
+  {
    "doi": "",
    "title": "Platform Neutrality and the DMA",
    "authors": [
@@ -34,6 +107,43 @@
    "scholar_id": "pinar-akman",
    "scholar_name": "Pinar Akman",
    "scholar_institution": "University of Leeds"
+  },
+  {
+   "doi": "",
+   "title": "Dynamic Competition in the Cloud : The Regulation of Egress Fees",
+   "authors": [
+    "Gary Biglaiser",
+    "Jacques Crémer",
+    "Alexandre de Cornière",
+    "Andrea Mantovani"
+   ],
+   "journal": "Toulouse Capitole Publications (University Toulouse 1 Capitole)",
+   "journal_id": "",
+   "date": "2026-06-01",
+   "abstract": "As cloud computing continues to expand, it has drawn significant attention from policymakers due to concerns over market concentration and potentially controversial practices employed by dominant providers. In this paper, we examine the impact of egress fees, which are imposed on users when switching providers. Using a two-period horizontal differentiated duopoly model, we analyze their effects on firms and society. Our findings reveal that cloud providers have strong incentives to implement egress fees, yet these fees harm users. Regulating egress fees has often been evoked as a solution, ranging from banning them to capping them at the cost of transfer. We find that regulation improves user surplus, but excessive regulation, such as banning such fees, may harm total welfare when providers’ data-transfer costs or users’ operational switching costs are high. We also find that regulation can have opposing effects on societal outcomes: while it may incentivize cloud providers to increase switching costs for users, thereby harming society, it may also stimulate cloud usage, a consideration that may matter in policy environments where increasing cloud adoption is itself an objective.",
+   "type": "book",
+   "url": "https://openalex.org/works/W7165499039",
+   "scholar_id": "jacques-cremer",
+   "scholar_name": "Jacques Crémer",
+   "scholar_institution": "Toulouse School of Economics"
+  },
+  {
+   "doi": "10.1093/joclec/nhag019",
+   "title": "BEYOND INTERCHANGE FEE CAPS: RETHINKING MERCHANT CHOICE AND COMPETITION IN EUROPEAN PAYMENTS",
+   "authors": [
+    "Roman Inderst",
+    "Tommaso Valletti",
+    "Christoph Wentzien"
+   ],
+   "journal": "Journal of Competition Law & Economics",
+   "journal_id": "",
+   "date": "2026-05-21",
+   "abstract": "Abstract This article examines the persistent challenges in European payment markets a decade after the EU Interchange Fee Regulation. Despite fee caps on debit and credit card transactions, merchants continue to face limited choice and high, often opaque costs, as international card schemes raise nonregulated fees and consumer reliance on cash diminishes. We argue that regulation focused solely on price caps has proven insufficient to address structural imbalances at the point of sale and, possibly to a lesser extent, in e-commerce. Although we also set out proposals for adjusting fee regulation, the core of our analysis is a shift in policy towards strengthening merchants’ effective choice of payment instruments. Two complementary approaches are developed: first, enabling merchants to initiate direct debit transactions directly from payment card data, thus creating a genuine outside option that disciplines card-based fees; second, breaking single-homing of cardholders by requiring banks to issue multiple branded debit cards or by preventing (quasi-)exclusive issuing arrangements. We also explore tentative remedies in e-commerce and mobile payments, where merchants may, on the one hand, enjoy a wider choice, but digital wallets and intermediaries may also create new ‘must-have’ bottlenecks. Overall, the paper advocates structural reforms to restore competition rather than relying exclusively on fee regulation.",
+   "type": "article",
+   "url": "https://doi.org/10.1093/joclec/nhag019",
+   "scholar_id": "tommaso-valletti",
+   "scholar_name": "Tommaso Valletti",
+   "scholar_institution": "Imperial College London"
   },
   {
    "doi": "10.1093/antitrust/atx002",
@@ -57,6 +167,799 @@
    "url": "https://doi.org/10.1093/antitrust/atx002",
    "scholar_id": "jacques-cremer",
    "scholar_name": "Jacques Crémer",
+   "scholar_institution": "Toulouse School of Economics"
+  },
+  {
+   "doi": "10.1093/jaenfo/jnag007",
+   "title": "Platform and infrastructure competition after Android Auto",
+   "authors": [
+    "Konstantinos Stylianou"
+   ],
+   "journal": "Journal of Antitrust Enforcement",
+   "journal_id": "",
+   "date": "2026-04-27",
+   "abstract": "Abstract On 25 February 2025, the Grand Chamber of the Court of Justice delivered its judgment in the Android Auto case, remaking the core doctrine around how dominant undertakings relate to their competitors and the extent to which they have an obligation to assist them, namely the refusal to deal doctrine. Despite the good intention to update a notoriously strict doctrine for the digital economy (if not more broadly), the Court may have moved too far too fast. This article critically assesses the new refusal to deal doctrine, its relationship with past caselaw, its tension with platform literature, and its interaction with the Digital Markets Act, with which it overlaps. Crucially, it also proposes simple ways by which the new test could have been better calibrated while at the same time still allowing the Court to achieve its objectives.",
+   "type": "article",
+   "url": "https://doi.org/10.1093/jaenfo/jnag007",
+   "scholar_id": "konstantinos-stylianou",
+   "scholar_name": "Konstantinos Stylianou",
+   "scholar_institution": "University of Leeds"
+  },
+  {
+   "doi": "10.64898/2026.04.02.715458",
+   "title": "Multi-enhancer regulatory hubs control Th17 cell identity",
+   "authors": [
+    "Keith Siklenka",
+    "Chuangchuang Zhang",
+    "Liqing Li",
+    "Morgan E. Parker",
+    "Naren Mehta",
+    "Alejandro Barrera",
+    "Revathy Venukuttan",
+    "Gregory E. Crawford",
+    "等"
+   ],
+   "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+   "journal_id": "",
+   "date": "2026-04-04",
+   "abstract": "Abstract Between one and two million noncoding regulatory elements have been described across mammalian genomes, but determining their functional role remains a challenge. To address this gap, we measure the regulatory potential of open chromatin regions (OCRs) in five closely related mouse CD4+ T cell subsets with ATAC-STARR-seq, then map endogenous enhancer function and three-dimensional contacts in Th17 cells with pooled CRISPR-based noncoding screens and high-resolution Micro-C. Of all CD4+ T cell OCRs, approximately 25% demonstrate largely subset-shared regulatory activity, though we identify subset-restricted active elements distinguishable by their sequence features. In Th17 cells, we reveal a set of core regulatory OCRs essential for subset polarization at the Batf , Rorc(t) and Il17a/f loci, and confirm their requirement for cell identity in vivo . At these three loci, we resolve nested yet selective enhancer-to-enhancer and enhancer-to-promoter physical interactions that converge into multi-enhancer hubs. Importantly, these hubs contain many of the strongest functional elements. Perturbation of a single enhancer within the Batf locus selectively disrupts hub contacts and Batf expression in Th17 cells, recapitulating the genome-wide transcriptional and chromatin accessibility signatures of a germline knockout. Together, this work assigns regulatory activity to accessible chromatin across CD4+ T cell subsets and couples the function of a set of essential elements to selective three-dimensional contacts in Th17 cells.",
+   "type": "preprint",
+   "url": "https://doi.org/10.64898/2026.04.02.715458",
+   "scholar_id": "gregory-crawford",
+   "scholar_name": "Gregory Crawford",
+   "scholar_institution": "University of Zurich"
+  },
+  {
+   "doi": "10.1016/j.lrp.2026.102636",
+   "title": "Strategic responses of platform multinational enterprises: Rethinking competition policy through a comparative institutional perspective",
+   "authors": [
+    "Huda Khan",
+    "Konstantinos Stylianou",
+    "Zaheer Khan",
+    "Geoffrey Wood"
+   ],
+   "journal": "Long Range Planning",
+   "journal_id": "",
+   "date": "2026-03-30",
+   "abstract": "As of 2026, the battle continues between competition and regulatory policies over whether—and how much—to rein in online digital platforms. These debates have gained renewed urgency given the growing entanglement of major U.S.-based platforms with domestic political elites. The global responses of multinational platform firms (platform MNEs) further complicate this conflict. Existing research has largely focused on market dynamics and firm behavior, explaining how platforms have evaded effective oversight even as content moderation has weakened and extremist material has proliferated. Building on this literature, our paper examines cross-national variation in regulatory approaches and platform MNEs’ responses. We argue that while the Liberal/Coordinated Market Economy (LME/CME) typology provides a useful starting point for understanding regulatory diversity, contemporary regimes increasingly exhibit cross-system borrowing, institutional layering, and hybridization. Large economies in the Global South further highlight distinctive state–market relationships that challenge traditional models. Together, these differences generate novel regulatory approaches and shape distinct patterns in how platform MNEs respond to oversight efforts.",
+   "type": "article",
+   "url": "https://doi.org/10.1016/j.lrp.2026.102636",
+   "scholar_id": "konstantinos-stylianou",
+   "scholar_name": "Konstantinos Stylianou",
+   "scholar_institution": "University of Leeds"
+  },
+  {
+   "doi": "10.64898/2026.03.07.710282",
+   "title": "Reprogramming of neuronal genome function and phenotype by astrocytes",
+   "authors": [
+    "B. Li",
+    "Kevin Hagy",
+    "Alexias Safi",
+    "M Beer",
+    "Alejandro Barrera",
+    "Sara Geraghty",
+    "Ruhi Rai",
+    "Alyssa N. Pederson",
+    "等"
+   ],
+   "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+   "journal_id": "",
+   "date": "2026-03-07",
+   "abstract": "Abstract Heterotypic cell-cell interactions are critical to governing cellular physiology, disease progression, and responses to the environment and pharmacologic interventions. For example, neurons and astrocytes engage in intricate interactions that are essential for brain development and function 1–3 . However, the transformation of these extracellular signals into epigenomic regulation that governs cell function is poorly understood. Here, we report that weeks of co-culture between human induced pluripotent stem cell (hiPSC)-derived neurons and mouse cortical astrocytes extensively reprograms gene expression and the chromatin accessibility landscape in neurons, affecting thousands of genes and putative gene regulatory elements (REs), including many transcription factors (TFs). These genes are enriched for functions implicated in neuronal differentiation and maturation, and tend to be impacted in schizophrenia, and autosomal dominant Alzheimer’s disease. Through complementary CRISPR interference and activation screens, we recapitulated hundreds of astrocyte-induced transcriptional and chromatin remodeling events in mono-cultured neurons at both promoters and distal regulatory elements (REs) of TF genes. We discovered functional REs for ∼50 astrocyte-responsive TF genes, providing a map of gene regulatory network control. Astrocyte-responsive TF genes fall into groups that exert independent or counter-balancing transcriptional effects, highlighting the complex coordination of the neuronal response to astrocytes. Functional effects of specific TFs, including POU3F2 and TFAP2E, on neurite morphology and neuronal electrophysiology are consistent with transcriptional effects, demonstrating the capacity of direct epigenetic control to mimic heterotypic cellular signals. This work illuminates the regulation of neurodevelopment-and disease-relevant gene modules by neuron-astrocyte interactions, and provides a blueprint for applying modern functional genomics to uncover the links between cell microenvironment and epigenomic programming. Highlights Neuronal gene expression and chromatin accessibility landscape are profoundly remodeled by astrocytes over weeks of co-culture Astrocyte-responsive neuronal gene modules and neuron-responsive astrocytic gene modules are enriched for genes associated with schizophrenia and familial Alzheimer’s Disease Single-cell CRISPR interference and activation screens of astrocyte-responsive gene regulatory elements identified dozens of functional regulatory elements of TF genes in neurons Single-cell CRISPR interference and activation screens of >200 astrocyte-responsive TF genes uncovered discrete functional clusters that promote neuronal maturity or stemness Astrocyte-responsive TF genes reprogram neuronal electrophysiology and neurite morphology",
+   "type": "preprint",
+   "url": "https://doi.org/10.64898/2026.03.07.710282",
+   "scholar_id": "gregory-crawford",
+   "scholar_name": "Gregory Crawford",
+   "scholar_institution": "University of Zurich"
+  },
+  {
+   "doi": "10.3917/comm.193.0015",
+   "title": "Mémoires et identités",
+   "authors": [
+    "Jean Tirole"
+   ],
+   "journal": "Commentaire",
+   "journal_id": "",
+   "date": "2026-03-05",
+   "abstract": "Pour réfléchir au rôle de la mémoire dans la réalisation du bien commun, on doit rappeler la distinction entre mémoire et histoire, chère à Pierre Nora. En le paraphrasant, l’histoire, si elle est une reconstruction de ce qui n’est plus, se veut néanmoins une production intellectuelle et profane appartenant à tous et appelant l’analyse et la critique. La mémoire, en revanche, est aveugle à tous sauf au groupe qu’elle lie, c’est-à-dire, comme l’a dit Maurice Halbwachs, qu’il y a autant de mémoires que de groupes. À ce titre, une mémoire n’accueille que les faits qui lui conviennent. Citant toujours Pierre Nora, on dira ou peut dire que la mémoire est en évolution permanente et inconsciente de ses déformations successives, vulnérable à la manipulation et à l’appropriation. Le travail historiographique entre donc en conflit avec les groupes sociaux qui attendent de ce dernier qu’il abonde dans le sens de leur mémoire. Je ne suis pas historien, mais je peux affirmer sans beaucoup m’aventurer que l’histoire, en créant une mémoire particulière, représente beaucoup plus que la documentation et l’interprétation du passé que j’avais envisagées lors de mes études secondaires. Le contrôle du récit historique est bien évidemment un enjeu de pouvoir ; comme le disait d’une façon concise George Orwell dans 1984 : « Celui qui a le contrôle du passé a le contrôle du futur. Celui qui a le contrôle du présent a le contrôle du passé. » Pour la même raison, tout exposé sur la mémoire a forcément l’actualité en toile de fond, de l’inflation mémorielle à la définition de nos identités, des réécritures de l’histoire partout dans le monde aux guerres culturelles concernant notre passé colonialiste et esclavagiste. L’historien fait donc face au défi posé par la remise en question de l’expertise – particulièrement par les mouvements populistes, mais pas seulement… Ce fléau, que je souhaite examiner ici, affecte en fait tout domaine en prise directe avec la société : l’histoire bien sûr, mais aussi l’économie, la médecine, la biologie, le changement climatique ou encore la théorie de l’évolution. Pour l’économiste que je suis, appréhender les phénomènes sociétaux nécessite d’analyser la confrontation de l’offre et de la demande. Le travail mémoriel ne fait pas exception à cette règle : à quels désirs individuels et collectifs répond-il ? Comment les narratifs historiques se construisent-ils ? Comment la concurrence sur le terrain des mémoires opère-t-elle ? Mon exposé reflétera le cadre suivant : partant du vécu de l’individu et de l’histoire du groupe (ethnique, religieux, racial, national…), un processus mémoriel biaisé façonne la mémoire, individuelle ou collective. Ces mémoires sont déterminantes pour la formation de l’identité. Elles s’expriment souvent au travers de narratifs, dont la nature sera exposée dans l’article qui suit. J. T.",
+   "type": "article",
+   "url": "https://doi.org/10.3917/comm.193.0015",
+   "scholar_id": "jean-tirole",
+   "scholar_name": "Jean Tirole",
+   "scholar_institution": "Toulouse School of Economics"
+  },
+  {
+   "doi": "10.17615/me8c-0d64",
+   "title": "Does Childhood Trauma Moderate Polygenic Risk for Depression? A Meta-analysis of 5765 Subjects From the Psychiatric Genomics Consortium",
+   "authors": [
+    "Ole Mors",
+    "Jakob Grove",
+    "Pamela A.F. Madden",
+    "Thorgeir E. Thorgeirsson",
+    "Futao Zhang",
+    "Enrique Castelao",
+    "Preben Bo Mortensen",
+    "Michel Guillaume Nivard",
+    "等"
+   ],
+   "journal": "UNC Libraries",
+   "journal_id": "",
+   "date": "2026-02-10",
+   "abstract": "",
+   "type": "review",
+   "url": "https://doi.org/10.17615/me8c-0d64",
+   "scholar_id": "gregory-crawford",
+   "scholar_name": "Gregory Crawford",
+   "scholar_institution": "University of Zurich"
+  },
+  {
+   "doi": "10.17615/kv27-bj15",
+   "title": "Transcriptome-wide association study of schizophrenia and chromatin activity yields mechanistic disease insights",
+   "authors": [
+    "Benjamin M. Neale",
+    "Yakir Reshef",
+    "Roel A. Ophoff",
+    "Bogdan Pasaniuc",
+    "Alkes L. Price",
+    "Alexias Safi",
+    "Patrick F. Sullivan",
+    "Hyejung Won",
+    "等"
+   ],
+   "journal": "UNC Libraries",
+   "journal_id": "",
+   "date": "2026-02-10",
+   "abstract": "",
+   "type": "article",
+   "url": "https://doi.org/10.17615/kv27-bj15",
+   "scholar_id": "gregory-crawford",
+   "scholar_name": "Gregory Crawford",
+   "scholar_institution": "University of Zurich"
+  },
+  {
+   "doi": "10.64898/2026.02.01.703129",
+   "title": "Mismatch tolerance of a gRNA for CRISPR-based gene activation confers broad activity critical for cell reprogramming",
+   "authors": [
+    "Samuel Reisman",
+    "Wei Zhu",
+    "Samantha E Miller",
+    "Dahlia Halabi",
+    "Nicholas Sangvai",
+    "Gregory E. Crawford",
+    "Raluca Gordan",
+    "Charles A. Gersbach"
+   ],
+   "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+   "journal_id": "",
+   "date": "2026-02-03",
+   "abstract": "CRISPR activation and interference systems (CRISPRa/i) are widely used for programmable transcriptional control. Although these technologies are capable of highly specific single-gene activity, some applications of transcriptional network reprogramming require broad, genome-wide effects. Here, we identify a CRISPRa gRNA that robustly reprograms astrocyte transcriptional state. Unexpectedly, this activity arises from extensive off-target binding that induces expression changes in thousands of genes, unlike neighboring gRNAs targeting the same intended on-target site. We leverage this promiscuous gRNA to dissect determinants of gRNA-driven off-target dCas9 binding in the context of transcriptional reprogramming. Using ChIP-seq, high-throughput protein-binding microarrays, and gRNA-variant library screening in cells, we demonstrate that PAM-proximal bases are primary determinants of genomic binding, mismatch tolerance is both gRNA- and base-specific, and targeted mutations within the PAM-proximal region can tune gRNA specificity. We further demonstrate that CRISPRa-driven phenotypes can reflect combined contributions from widespread off-target activity and dose-dependent on-target effects. These findings highlight the potentially widespread impacts of CRISPRa off-target activity, underscore the need to account for cryptic effects when selecting and evaluating gRNAs for programming cell phenotypes, and demonstrate that multi-site binding by CRISPRa systems can be exploited as a feature for network-level perturbations in cell reprogramming.",
+   "type": "preprint",
+   "url": "https://doi.org/10.64898/2026.02.01.703129",
+   "scholar_id": "gregory-crawford",
+   "scholar_name": "Gregory Crawford",
+   "scholar_institution": "University of Zurich"
+  },
+  {
+   "doi": "10.18632/oncotarget.28844",
+   "title": "Correction: Enhancement of the anti-tumor activity of FGFR1 inhibition in squamous cell lung cancer by targeting downstream signaling involved in glucose metabolism",
+   "authors": [
+    "Claudia Fumarola",
+    "Daniele Cretella",
+    "Silvia La Monica",
+    "Mara Bonelli",
+    "Roberta Alfieri",
+    "Cristina Caffarra",
+    "Federico Quaini",
+    "Denise Madeddu",
+    "等"
+   ],
+   "journal": "Oncotarget",
+   "journal_id": "",
+   "date": "2026-01-06",
+   "abstract": "",
+   "type": "erratum",
+   "url": "https://doi.org/10.18632/oncotarget.28844",
+   "scholar_id": "cristina-caffarra",
+   "scholar_name": "Cristina Caffarra",
+   "scholar_institution": "CEPR"
+  },
+  {
+   "doi": "10.2139/ssrn.6569346",
+   "title": "Bid-rigging and the First Conduct Rule of the Competition Ordinance in Hong Kong: Learning from the past and planning for the future",
+   "authors": [
+    "Frédéric Jenny"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.6569346",
+   "scholar_id": "frederic-jenny",
+   "scholar_name": "Frédéric Jenny",
+   "scholar_institution": "ESSEC Business School"
+  },
+  {
+   "doi": "10.1007/978-3-032-13473-8_14",
+   "title": "Thoughtful Competition Law: Power and Reflexivity",
+   "authors": [
+    "Nicolas Petit"
+   ],
+   "journal": "",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "book-chapter",
+   "url": "https://doi.org/10.1007/978-3-032-13473-8_14",
+   "scholar_id": "nicolas-petit",
+   "scholar_name": "Nicolas Petit",
+   "scholar_institution": "University of Liège"
+  },
+  {
+   "doi": "10.2139/ssrn.6505945",
+   "title": "Cultural Exception? The Impact of Price Regulation on Prices and Variety in the Market for Books 1",
+   "authors": [
+    "Christos Genakos",
+    "Lorien Sabatino",
+    "Tommaso Valletti"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.6505945",
+   "scholar_id": "tommaso-valletti",
+   "scholar_name": "Tommaso Valletti",
+   "scholar_institution": "Imperial College London"
+  },
+  {
+   "doi": "10.2139/ssrn.7244144",
+   "title": "Collective Wage Bargaining and Horizontal Mergers",
+   "authors": [
+    "Jorge Padilla"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.7244144",
+   "scholar_id": "jorge-padilla",
+   "scholar_name": "Jorge Padilla",
+   "scholar_institution": "Compass Lexecon"
+  },
+  {
+   "doi": "10.2139/ssrn.7010044",
+   "title": "Cartel Behavior, Private Enforcement, and Overcharge Dynamics",
+   "authors": [
+    "Salvatore Piccolo",
+    "Enrique Andreu",
+    "Jorge Padilla"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.7010044",
+   "scholar_id": "jorge-padilla",
+   "scholar_name": "Jorge Padilla",
+   "scholar_institution": "Compass Lexecon"
+  },
+  {
+   "doi": "10.2139/ssrn.6349278",
+   "title": "When iRobot Met Amazon",
+   "authors": [
+    "Gabriel Baron",
+    "Jorge Padilla"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.6349278",
+   "scholar_id": "jorge-padilla",
+   "scholar_name": "Jorge Padilla",
+   "scholar_institution": "Compass Lexecon"
+  },
+  {
+   "doi": "10.1007/978-3-032-13473-8_12",
+   "title": "What Is an Exploitative Abuse?",
+   "authors": [
+    "Jorge Padilla"
+   ],
+   "journal": "",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "book-chapter",
+   "url": "https://doi.org/10.1007/978-3-032-13473-8_12",
+   "scholar_id": "jorge-padilla",
+   "scholar_name": "Jorge Padilla",
+   "scholar_institution": "Compass Lexecon"
+  },
+  {
+   "doi": "10.2139/ssrn.7160038",
+   "title": "Resilience and Restructuring Merger Efficiencies in Declining Industries",
+   "authors": [
+    "Jorge Padilla",
+    "Román Fischer",
+    "Kadambari Prasad"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.7160038",
+   "scholar_id": "jorge-padilla",
+   "scholar_name": "Jorge Padilla",
+   "scholar_institution": "Compass Lexecon"
+  },
+  {
+   "doi": "10.2139/ssrn.7126358",
+   "title": "Dynamic Mergers, Productivity Growth, and European Competitiveness",
+   "authors": [
+    "Jorge Padilla",
+    "Angelos Stenimachitis"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.7126358",
+   "scholar_id": "jorge-padilla",
+   "scholar_name": "Jorge Padilla",
+   "scholar_institution": "Compass Lexecon"
+  },
+  {
+   "doi": "10.2139/ssrn.6392338",
+   "title": "Revisiting the Limits of Antitrust: Humility, Legitimacy, Justice",
+   "authors": [
+    "Cani Fernández",
+    "Jorge Padilla"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.6392338",
+   "scholar_id": "jorge-padilla",
+   "scholar_name": "Jorge Padilla",
+   "scholar_institution": "Compass Lexecon"
+  },
+  {
+   "doi": "10.1007/s10549-025-07880-7",
+   "title": "Correction: Effects of sorafenib on energy metabolism in breast cancer cells: role of AMPK–mTORC1 signaling",
+   "authors": [
+    "Claudia Fumarola",
+    "Cristina Caffarra",
+    "Silvia La Monica",
+    "Maricla Galetti",
+    "Roberta R. Alfieri",
+    "Andrea Cavazzoni",
+    "Elena Galvani",
+    "Daniele Generali",
+    "等"
+   ],
+   "journal": "Breast Cancer Research and Treatment",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "erratum",
+   "url": "https://doi.org/10.1007/s10549-025-07880-7",
+   "scholar_id": "cristina-caffarra",
+   "scholar_name": "Cristina Caffarra",
+   "scholar_institution": "CEPR"
+  },
+  {
+   "doi": "10.2139/ssrn.6985419",
+   "title": "How to Maintain Our Privacy in the AI Age",
+   "authors": [
+    "Daniel J. Solove"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.6985419",
+   "scholar_id": "daniel-solove",
+   "scholar_name": "Daniel Solove",
+   "scholar_institution": "George Washington University"
+  },
+  {
+   "doi": "10.2139/ssrn.6977878",
+   "title": "On the Right to Obscurity",
+   "authors": [
+    "Woodrow Hartzog",
+    "Evan Selinger"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.6977878",
+   "scholar_id": "woodrow-hartzog",
+   "scholar_name": "Woodrow Hartzog",
+   "scholar_institution": "Boston University"
+  },
+  {
+   "doi": "10.2139/ssrn.6475518",
+   "title": "Testimony of Professor Neil Richards Before the Vermont General Assembly on Privacy Reform",
+   "authors": [
+    "Neil Richards"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.6475518",
+   "scholar_id": "neil-richards",
+   "scholar_name": "Neil Richards",
+   "scholar_institution": "Washington University in St. Louis"
+  },
+  {
+   "doi": "10.2139/ssrn.7075378",
+   "title": "Sharing Health Stories in a World of Privacy Risk",
+   "authors": [
+    "Neil Richards",
+    "Megumi Suzuki"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.7075378",
+   "scholar_id": "neil-richards",
+   "scholar_name": "Neil Richards",
+   "scholar_institution": "Washington University in St. Louis"
+  },
+  {
+   "doi": "10.2139/ssrn.6847684",
+   "title": "Privacy Is Not Theft",
+   "authors": [
+    "Neil Richards"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.6847684",
+   "scholar_id": "neil-richards",
+   "scholar_name": "Neil Richards",
+   "scholar_institution": "Washington University in St. Louis"
+  },
+  {
+   "doi": "10.2139/ssrn.6473658",
+   "title": "The Non-Delegable Duty to Think: Judicial Legitimacy and the Limits of Generative AI",
+   "authors": [
+    "Frank Pasquale"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.6473658",
+   "scholar_id": "frank-pasquale",
+   "scholar_name": "Frank Pasquale",
+   "scholar_institution": "University of Maryland"
+  },
+  {
+   "doi": "10.21203/rs.3.rs-8197218/v1",
+   "title": "High-throughput characterization of transcription factors that modulate UV damage formation and repair at single-nucleotide resolution",
+   "authors": [
+    "Raluca Gordân",
+    "Hana Wasserman",
+    "Bo Chi",
+    "Kaitlynne A. Bohm",
+    "Mingrui Duan",
+    "Harshit Sahay",
+    "Alexias Safi",
+    "Gregory E. Crawford",
+    "等"
+   ],
+   "journal": "Research Square",
+   "journal_id": "",
+   "date": "2025-12-10",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.21203/rs.3.rs-8197218/v1",
+   "scholar_id": "gregory-crawford",
+   "scholar_name": "Gregory Crawford",
+   "scholar_institution": "University of Zurich"
+  },
+  {
+   "doi": "",
+   "title": "General Rulemaking Grants and the Federal Trade Commission",
+   "authors": [
+    "Tamar Katz",
+    "Alex Lloyd George",
+    "Lev Menand",
+    "Tim Wu"
+   ],
+   "journal": "eYLS (Yale Law School)",
+   "journal_id": "",
+   "date": "2025-12-01",
+   "abstract": "The legal campaign against the administrative state has a new front: general rulemaking provisions. General rulemaking provisions authorize agencies, in an open-ended way, to write rules to carry out Congress’s directives. Administrative agencies have relied on such provisions for decades. But over the last several years, some litigators, scholars, and judges have advanced limiting theories that would, if applied widely, greatly reduce the ability of agencies to execute federal statutes. The leading edge of this campaign is an effort to negate the rulemaking authority of the Federal Trade Commission (FTC). The reasoning employed by the FTC’s opponents, already adopted by a district court, could affect thousands of rules regulating matters from bank powers to air quality. This Article carefully examines the challenge to the FTC’s general rulemaking power and rebuts it. Through meticulous reconstruction of the FTC’s history, it shows how judges and legislators transformed the FTC into a modern rulemaking agency in the 1970s and built an entire rulemaking apparatus into the FTC Act. It further shows that this is not a special case: Judges and legislators have long approached these provisions using ordinary principles of statutory interpretation. The current attack on their scope often employs the language of restraint. But it is narrowing the FTC’s power that would mark a radical departure from administrative law principles, upending over fifty years of settled understandings about the meaning of the word “rules” as employed by legislators across the U.S. Code.",
+   "type": "article",
+   "url": "https://openalex.org/works/W7119242575",
+   "scholar_id": "tim-wu",
+   "scholar_name": "Tim Wu",
+   "scholar_institution": "Columbia Law School"
+  },
+  {
+   "doi": "10.1002/alz70855_099090",
+   "title": "Unraveling the genetic complexity of Alzheimer's disease across diverse populations via integrative single‐cell multi‐omics",
+   "authors": [
+    "Elliot Keats Shwab",
+    "Daniel Gingerich",
+    "Dellila Hodgson",
+    "Zhaohui Man",
+    "Melanie E. Garrett﻿",
+    "Gregory E. Crawford",
+    "Allison E. Ashley‐Koch",
+    "Ornit Chiba‐Falek"
+   ],
+   "journal": "Alzheimer s & Dementia",
+   "journal_id": "",
+   "date": "2025-12-01",
+   "abstract": "BACKGROUND: The multifactorial and heterogenous nature of Late Onset Alzheimer's disease (LOAD) presents a challenge, particularly in capturing genetic complexity across diverse populations. Recent single-nucleus (sn)multi-omics analyses have advanced the LOAD genetics field. However, most studies were conducted in European ancestry subjects, while other populations remain largely understudied. Here, we aimed to explore the underpinning genetics of LOAD in diverse populations and to gain insights into the shared (pan-ethnic) and distinct (ancestry-specific) genetic drivers of LOAD between European and African ancestries. METHODS: We analyzed cortical tissues from European (EA) and African ancestry (AA) LOAD and control donors, and simultaneously characterized their transcriptomic (snRNA-seq) and chromatin accessibility (snATAC-seq) profiles at a single-cell level using 10x Genomics Multiome technology. We analyzed these datasets using our integrative genomic pipeline to catalogue differentially expressed genes (DEGs) in LOAD and to identify candidate cis-regulatory elements (cCREs) and their target DEGs at the cell-subtype level. Finally, we performed differential-expression analysis on the combined snRNA-seq datasets from both ancestries and modeled ancestry interactions for statistically robust inference of shared and divergent DEGs between ancestries. RESULTS: EA and AA nuclei were clustered into 32 cell-subtypes each, representing 8 major neuronal and glial cell types. The highest numbers of DEGs were found in GABAergic and interneuron subtypes in EA vs. GABAergic neuron and oligodendrocyte subtypes in AA. Analysis of cCRE-DEG pairs revealed differential chromatin interactions governing gene dysregulation across ancestries. For example, microglial APOE expression was predicted be regulated by six EA-specific and four AA-specific cCREs, and only one common cCRE. Differential expression analysis revealed the highest numbers of pan-ethnic DEGs in specific excitatory and inhibitory neuronal subtypes, with excitatory-neuron DEGs primarily associated with cellular growth and extracellular matrix assembly, and inhibitory-neuron DEGs largely associated with membrane trafficking. Ancestry-specific DEGs were more commonly identified in AA compared to EA. AA-specific DEGs were also primarily in excitatory-neurons, with roles in fatty acid metabolism and neuronal structure, and in inhibitory-neurons with roles in respiration and synaptic transmission. CONCLUSIONS: These results enhance our understanding of the shared and distinct cell-subtype gene dysregulation networks and biological processes underlying LOAD in African vs. European ancestries.",
+   "type": "article",
+   "url": "https://doi.org/10.1002/alz70855_099090",
+   "scholar_id": "gregory-crawford",
+   "scholar_name": "Gregory Crawford",
+   "scholar_institution": "University of Zurich"
+  },
+  {
+   "doi": "10.1016/j.gimo.2025.103474",
+   "title": "Cell modeling and rescue of a novel noncoding genetic cause of glycogen storage disease IX",
+   "authors": [
+    "Apoorva K. Iyengar",
+    "Xue Zou",
+    "Jian Dai",
+    "R. A. Francis",
+    "Alexias Safi",
+    "Karynne Patterson",
+    "Rebecca L. Koch",
+    "Shannon Clarke",
+    "等"
+   ],
+   "journal": "Genetics in Medicine Open",
+   "journal_id": "",
+   "date": "2025-11-20",
+   "abstract": "Purpose Delayed diagnosis of Mendelian disease prevents early therapeutic intervention that could improve symptoms and prognosis. One major contributing challenge is functional interpretation of noncoding variants that alter splicing. Here, we aimed to better understand both how splice altering variants contribute to Mendelian disease and how to identify such mechanisms via an instrumental case study of 2 siblings with glycogen storage disease (GSD) IX γ2. Methods The siblings had a classic clinical presentation, enzyme deficiency, and a known pathogenic splice variant on 1 allele of PHKG2 (HGNC:8931). Despite the autosomal recessive nature of the disease, no coding variant on the second allele was identified by targeted sequencing. We evaluated potential noncoding pathogenic variants using genome sequencing and RNA sequencing and created an isogenic model of the candidate variant using CRISPR/Cas9 genome editing. Results In both siblings, we identified a second variant (NC_000016.10:g.30754626T>G [GRCh38]): a deep intronic variant that caused a 76-bp pseudoexon inclusion in PHKG2 . In a HEK293T cell model in which we installed that variant, we confirmed its effects on splicing in addition to multiple biochemical and cellular phenotypes consistent with GSD IX. We then reversed aberrant splicing using antisense oligonucleotide technology. Conclusion As evidenced by RNA sequencing, population and allelic segregation data, and phenotyping of an isogenic cell culture model of the variant, we concluded that PHKG2 c.556+1069T>G causes GSD IX γ2 and can be targeted using antisense oligonucleotides. This demonstrates a novel and robust pathway for detecting, validating, and reversing the impacts of noncoding causes of rare disease.",
+   "type": "article",
+   "url": "https://doi.org/10.1016/j.gimo.2025.103474",
+   "scholar_id": "gregory-crawford",
+   "scholar_name": "Gregory Crawford",
+   "scholar_institution": "University of Zurich"
+  },
+  {
+   "doi": "10.1017/9781009383851.005",
+   "title": "Cultural Foundations for Conserving Human Capacities in an Era of Generative Artificial Intelligence",
+   "authors": [
+    "Frank Pasquale"
+   ],
+   "journal": "Cambridge University Press eBooks",
+   "journal_id": "",
+   "date": "2025-11-11",
+   "abstract": "Pasquale draws from the world of literature and film to explore the role of emotions in being human and the ways that affective computing both seeks to duplicate and constrain caring as a fundamental human quality. Focusing on digital culture, he discusses various films (e.g. Ich bin dein Mensch), novels (e.g. Rachel Cusks), and TV series (e.g. Westworld) in order to unpack the alienation and loneliness which robots and AI promise to cure. He argues that cultural products ostensibly decrying the lack of humanity in an age of alexithymia work to create and sustain a particular culture, one that makes it difficult to recognize or describe human emotions by creating affective relationships between humans and technology. He concludes with critical reflections on the politico-economic context of those professed emotional attachments to AI and robotics.",
+   "type": "book-chapter",
+   "url": "https://doi.org/10.1017/9781009383851.005",
+   "scholar_id": "frank-pasquale",
+   "scholar_name": "Frank Pasquale",
+   "scholar_institution": "University of Maryland"
+  },
+  {
+   "doi": "10.3386/w34444",
+   "title": "Artificial Intelligence, Competition, and Welfare",
+   "authors": [
+    "Susan Athey",
+    "Fiona Scott Morton"
+   ],
+   "journal": "National Bureau of Economic Research",
+   "journal_id": "",
+   "date": "2025-11-01",
+   "abstract": "We study how market power in artificial intelligence (AI) shapes wages and welfare in openeconomy general equilibrium by treating AI as a priced, imported factor.Across three models, we separate technical efficiency from the impact of upstream price setting.In a two-traded-goods benchmark, the incidence of AI price changes depends on how sectoral skill intensity changes with AI prices; non-monotone intensity can generate \"double harm\" for unskilled workers (lower real wage after a large decrease in the price of AI, and real wage decreases further when the AI price rises as a result of market power).With one non-traded sector, we observe that the classic \"Dutch disease\" effect here would arise when one sector gets more productive and draws labor away from other sectors, creating scarcity and raising prices; but this is not what we expect from the introduction of labor-substituting AI.In contrast, our last model considers two non-traded sectors and CES/free entry, and the opportunity for discrete adoption of technology that replaces unskilled labor from the AI-using sector.When AI reduces unit costs and increases variety, it will not pull U from non-tradables, instead it will displace workers from the AI-using sector and lower wage due to diminishing returns in alternative sectors.Strategic upstream pricing of AI then harms welfare through unit-cost (usage fees) and variety (access fees) channels, with income leakage abroad.We derive an adoption frontier tying feasible usage prices to displaced workers' outside options and show a monopolist typically prices on this boundary; capping one instrument shifts rents to the other.Broad gains for the adopting country relies on pressure (or regulation) on both usage and access fees and as well as policy that supports productive absorption of displaced labor.The framework clarifies when AI can lower real wages and aggregate welfare despite efficiency gains.",
+   "type": "report",
+   "url": "https://doi.org/10.3386/w34444",
+   "scholar_id": "fiona-scott-morton",
+   "scholar_name": "Fiona Scott Morton",
+   "scholar_institution": "Yale University"
+  },
+  {
+   "doi": "10.17615/2fja-j859",
+   "title": "Genome-wide association analyses identify 44 risk variants and refine the genetic architecture of major depression.",
+   "authors": [
+    "Peter M. Visscher",
+    "Ole Mors",
+    "Isaac S. Kohane",
+    "Christine Søholm Hansen",
+    "Susanne Lucae",
+    "Hans J. Grabe",
+    "Cheynna Crowley",
+    "Futao Zhang",
+    "等"
+   ],
+   "journal": "UNC Libraries",
+   "journal_id": "",
+   "date": "2025-10-17",
+   "abstract": "Major depressive disorder (MDD) is a common illness accompanied by considerable morbidity, mortality, costs, and heightened risk of suicide. We conducted a genome-wide association meta-analysis based in 135,458 cases and 344,901 controls and identified 44 independent and significant loci. The genetic findings were associated with clinical features of major depression and implicated brain regions exhibiting anatomical differences in cases. Targets of antidepressant medications and genes involved in gene splicing were enriched for smaller association signal. We found important relationships of genetic risk for major depression with educational attainment, body mass, and schizophrenia: lower educational attainment and higher body mass were putatively causal, whereas major depression and schizophrenia reflected a partly shared biological etiology. All humans carry lesser or greater numbers of genetic risk factors for major depression. These findings help refine the basis of major depression and imply that a continuous measure of risk underlies the clinical phenotype.",
+   "type": "article",
+   "url": "https://doi.org/10.17615/2fja-j859",
+   "scholar_id": "gregory-crawford",
+   "scholar_name": "Gregory Crawford",
+   "scholar_institution": "University of Zurich"
+  },
+  {
+   "doi": "10.1101/2025.10.11.681828",
+   "title": "Comprehensive profiling of transcription factors for reprogramming human astrocytes to neuronal cells through endogenous CRISPR-based gene activation",
+   "authors": [
+    "Samuel Reisman",
+    "Dahlia Halabi",
+    "Samantha E. Miller",
+    "Lingyun Song",
+    "Sara Geraghty",
+    "Nicholas Sangvai",
+    "Grayson Rice",
+    "Alexias Safi",
+    "等"
+   ],
+   "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+   "journal_id": "",
+   "date": "2025-10-12",
+   "abstract": "ABSTRACT Neuronal loss is a hallmark of neurodegeneration and brain injury. Direct reprogramming of astrocytes into neurons has emerged as a promising approach to restore lost neurons. Comprehensive mapping and characterization of candidate astrocyte-to-neuron reprogramming factors is an essential step to realizing the potential of this strategy. Here, we established a CRISPR activation (CRISPRa)-based approach for neuronal reprogramming of primary human astrocytes. We conducted high-throughput CRISPRa screens of all human genes encoding transcription factors (TFs) to identify novel and efficient reprogramming factors. scRNA-seq characterization of top hits revealed that single TFs reprogram primary human astrocytes into multiple neuronal subtypes with distinct cell type-specific gene signatures. We demonstrate that INSM1 reprograms astrocytes to a glutamatergic neuron-like state and has broad neurogenic activity across different cell types and across human and mouse contexts. Finally, we conduct paired CRISPRa screens to identify cofactors that cooperate with INSM1 to enhance neuronal reprogramming and subtype specification, and elucidate genomic mechanisms of interaction and downstream regulators.",
+   "type": "preprint",
+   "url": "https://doi.org/10.1101/2025.10.11.681828",
+   "scholar_id": "gregory-crawford",
+   "scholar_name": "Gregory Crawford",
+   "scholar_institution": "University of Zurich"
+  },
+  {
+   "doi": "10.21203/rs.3.rs-7610132/v1",
+   "title": "Cross-tissue molecular responses in the liver and blood after toxicant exposures",
+   "authors": [
+    "Bo Zhang",
+    "Benpeng Miao",
+    "Shuhua Fu",
+    "Wanqing Shao",
+    "Cristian Coarfa",
+    "Ravindra Kumar1",
+    "Prashant Kumar Kuntala",
+    "Bongsoo Park",
+    "等"
+   ],
+   "journal": "Research Square",
+   "journal_id": "",
+   "date": "2025-10-10",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.21203/rs.3.rs-7610132/v1",
+   "scholar_id": "gregory-crawford",
+   "scholar_name": "Gregory Crawford",
+   "scholar_institution": "University of Zurich"
+  },
+  {
+   "doi": "10.17615/eftt-rm75",
+   "title": "Promoter Deletion Leading to Allele Specific Expression in a Genetically Unsolved Case of Primary Ciliary Dyskinesia",
+   "authors": [
+    "William H. Majoros",
+    "Maimoona A. Zariwala",
+    "Kenneth N. Olivier",
+    "Amanda Smith",
+    "Hong Dang",
+    "Weining Yin",
+    "Margaret W. Leigh",
+    "Alejandro Barrera",
+    "等"
+   ],
+   "journal": "UNC Libraries",
+   "journal_id": "",
+   "date": "2025-10-05",
+   "abstract": "Variation in the non-coding genome represents an understudied mechanism of disease and it remains challenging to predict if single nucleotide variants, small insertions and deletions, or structural variants in non-coding genomic regions will be detrimental. Our approach using complementary RNA-seq and targeted long-read DNA sequencing can prioritize identification of non-coding variants that lead to disease via alteration of gene splicing or expression. We have identified a patient with primary ciliary dyskinesia with a pathogenic coding variant on one allele of the SPAG1 gene, while the second allele appears normal by whole exome sequencing despite an autosomal recessive inheritance pattern. RNA sequencing revealed reduced SPAG1 transcript levels and exclusive allele specific expression of the known pathogenic allele, suggesting the presence of a non-coding variant on the second allele that impacts transcription. Targeted long-read DNA sequencing identified a heterozygous 3 kilobase deletion of the 5' untranslated region of SPAG1, overlapping the promoter and first non-coding exon. This non-coding deletion was missed by whole exome sequencing and gene-specific deletion/duplication analysis, highlighting the importance of investigating the non-coding genome in patients with \"missing\" disease-causing variation. This paradigm demonstrates the utility of both RNA and long-read DNA sequencing in identifying pathogenic non-coding variants in patients with unexplained genetic disease.",
+   "type": "article",
+   "url": "https://doi.org/10.17615/eftt-rm75",
+   "scholar_id": "gregory-crawford",
+   "scholar_name": "Gregory Crawford",
+   "scholar_institution": "University of Zurich"
+  },
+  {
+   "doi": "10.1017/9781009306720.012",
+   "title": "The EU Regulatory Patchwork for Dark Patterns",
+   "authors": [
+    "Inge Graef"
+   ],
+   "journal": "Cambridge University Press eBooks",
+   "journal_id": "",
+   "date": "2025-09-26",
+   "abstract": "Dark patterns are the subject of a surge of regulatory interest in the EU. Much new legislation in the areas of consumer law, data protection and competition law include provisions on dark patterns. Businesses use dark patterns to increase their revenue at the expense of consumers who purchase products they may not need, spend more time or give up more personal data than they would otherwise. Instead of focusing on the more normative issue of when dark patterns should be considered harmful, the chapter compares the different legal frameworks applicable to these practices and asks to what extent the increasingly fragmented EU regulatory landscape can offer effective overall protection against dark patterns. While useful complementarities may arise when parallel sets of rules target different concerns or protect different values, there are also risks of inconsistencies that may lead to either under- or overenforcement due to the fragmentation of the overall regulatory framework. The chapter submits that three needs result from the state of play and offers suggestions to improve the enforcement against dark patterns based on the current EU regulatory framework.",
+   "type": "book-chapter",
+   "url": "https://doi.org/10.1017/9781009306720.012",
+   "scholar_id": "inge-graef",
+   "scholar_name": "Inge Graef",
+   "scholar_institution": "Tilburg University"
+  },
+  {
+   "doi": "10.1126/science.adl1988",
+   "title": "Mechanosensitive genomic enhancers potentiate the cellular response to matrix stiffness",
+   "authors": [
+    "Brian D. Cosgrove",
+    "Lexi R. Bounds",
+    "Carson Key Taylor",
+    "Alan L Su",
+    "Anthony Rizzo",
+    "Alejandro Barrera",
+    "Tongyu Sun",
+    "Alexias Safi",
+    "等"
+   ],
+   "journal": "Science",
+   "journal_id": "",
+   "date": "2025-09-25",
+   "abstract": "Epigenetic control of gene expression and cellular phenotype is influenced by changes in the local microenvironment, yet how mechanical cues precisely influence epigenetic state to regulate transcription remains largely unmapped. In this study, we combined genome-wide epigenome profiling, epigenome editing, and phenotypic and single-cell RNA sequencing CRISPR screening to identify a class of genomic enhancers that responds to the mechanical microenvironment. These \"mechanoenhancers\" can be preferentially activated on either soft or stiff extracellular matrix contexts and regulate transcription to influence critical cell functions including apoptosis, adhesion, proliferation, and migration. Epigenetic editing of mechanoenhancers reprograms the cellular response to the mechanical microenvironment and modulates the activation of disease-related genes in lung fibroblasts from healthy and fibrotic donors. Epigenetic editing of mechanoenhancers holds potential for precise targeting of mechanically driven diseases.",
+   "type": "article",
+   "url": "https://doi.org/10.1126/science.adl1988",
+   "scholar_id": "gregory-crawford",
+   "scholar_name": "Gregory Crawford",
+   "scholar_institution": "University of Zurich"
+  },
+  {
+   "doi": "10.4337/9781803921198.00036",
+   "title": "Social data's role in law and political economy",
+   "authors": [
+    "Salomé Viljoen"
+   ],
+   "journal": "Edward Elgar Publishing eBooks",
+   "journal_id": "",
+   "date": "2025-09-16",
+   "abstract": "",
+   "type": "book-chapter",
+   "url": "https://doi.org/10.4337/9781803921198.00036",
+   "scholar_id": "salome-viljoen",
+   "scholar_name": "Salomé Viljoen",
+   "scholar_institution": "University of Michigan"
+  },
+  {
+   "doi": "10.1017/9781009627351",
+   "title": "Data Access and AI Explainability",
+   "authors": [
+    "Frank Pasquale"
+   ],
+   "journal": "Cambridge University Press eBooks",
+   "journal_id": "",
+   "date": "2025-09-12",
+   "abstract": "As managers digitize judgment using AI, their evaluations of persons risk imposing benefits and burdens in opaque and unaccountable ways. A wide range of harms may occur when access to one's personal data (and meaningful information about its use) is denied. Key data access rights and AI explainability guarantees in US. and EU law are designed to ameliorate the harms caused by irresponsible digitization, but their definition and range of application is contested. A robust policy evaluation framework will be needed to inform the proper level and scope of information access, as regulators clarify the contours of such rights and guarantees. By revealing the stakes of data access, this Element offers a useful evaluative framework for those interpreting and applying laws of data protection and AI explainability. This title is also available as Open Access on Cambridge Core.",
+   "type": "book",
+   "url": "https://doi.org/10.1017/9781009627351",
+   "scholar_id": "frank-pasquale",
+   "scholar_name": "Frank Pasquale",
+   "scholar_institution": "University of Maryland"
+  },
+  {
+   "doi": "10.1086/738343",
+   "title": "Laws and Norms",
+   "authors": [
+    "Roland Bénabou",
+    "Jean Tirole"
+   ],
+   "journal": "Journal of Political Economy",
+   "journal_id": "",
+   "date": "2025-08-25",
+   "abstract": "We analyze how private decisions and optimal public policies are shaped by personal and societal preferences, material incentives, and social norms. We show how incentives interact with honor and stigma, deriving optimal taxation. We then analyze the expressive role of law as embodying society’s values and when it calls for a weakening or a strengthening of incentives. The law should be softened when it signals agents’ willingness to contribute to the public good and toughened when it signals social externalities. We also shed light on norms-based interventions, societies’ resistance to economists’ messages, and the avoidance of cruel and unusual punishments.",
+   "type": "article",
+   "url": "https://doi.org/10.1086/738343",
+   "scholar_id": "jean-tirole",
+   "scholar_name": "Jean Tirole",
    "scholar_institution": "Toulouse School of Economics"
   }
  ]
