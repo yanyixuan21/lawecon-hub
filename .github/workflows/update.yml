@@ -37,7 +37,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No data changes."
           else
-            git commit -m "chore: update articles data [skip ci]"
+            git commit -m "chore: update data [skip ci]"
             git push
           fi
 
