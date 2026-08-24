@@ -26,6 +26,9 @@ jobs:
       - name: Crawl journals
         run: python3 crawler.py --days 365
 
+      - name: Crawl scholars
+        run: python3 crawl_scholars.py
+
       - name: Commit data if changed
         run: |
           git config user.name "github-actions[bot]"

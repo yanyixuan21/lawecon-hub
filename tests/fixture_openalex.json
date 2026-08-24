@@ -1,0 +1,116 @@
+{
+  "authors_search": {
+    "Jacques Crémer": {
+      "meta": {"count": 1},
+      "results": [
+        {
+          "id": "https://openalex.org/A5012345678",
+          "display_name": "Jacques Crémer",
+          "works_count": 87,
+          "affiliations": [
+            {"institution": {"display_name": "Toulouse School of Economics"}}
+          ]
+        },
+        {
+          "id": "https://openalex.org/A9999999999",
+          "display_name": "J. Cremer",
+          "works_count": 3,
+          "affiliations": []
+        }
+      ]
+    },
+    "Pinar Akman": {
+      "meta": {"count": 1},
+      "results": [
+        {
+          "id": "https://openalex.org/A8765432109",
+          "display_name": "Pinar Akman",
+          "works_count": 64,
+          "affiliations": [
+            {"institution": {"display_name": "University of Leeds"}}
+          ]
+        }
+      ]
+    }
+  },
+  "works": {
+    "A5012345678": {
+      "meta": {"count": 2},
+      "results": [
+        {
+          "id": "https://openalex.org/W11100000001",
+          "doi": "https://doi.org/10.1093/antitrust/atx001",
+          "display_name": "Self-Preferencing in Digital Markets",
+          "publication_date": "2026-07-15",
+          "type": "article",
+          "authorships": [
+            {"author": {"display_name": "Jacques Crémer"}},
+            {"author": {"display_name": "Yves Balasko"}}
+          ],
+          "primary_location": {"source": {"display_name": "Journal of Competition Law and Economics"}},
+          "abstract_inverted_index": {
+            "Self-": [0],
+            "when": [1],
+            "preferencing": [2],
+            "by": [3],
+            "a": [4],
+            "gatekeeper": [5],
+            "raises": [6],
+            "competition": [7],
+            "concerns": [8],
+            "in": [9],
+            "digital": [10],
+            "markets": [11]
+          }
+        },
+        {
+          "id": "https://openalex.org/W11100000002",
+          "doi": "https://doi.org/10.1093/antitrust/atx002",
+          "display_name": "The Economics of Platform Regulation",
+          "publication_date": "2026-05-02",
+          "type": "article",
+          "authorships": [
+            {"author": {"display_name": "Jacques Crémer"}},
+            {"author": {"display_name": "Patrick Rey"}},
+            {"author": {"display_name": "Jean Tirole"}},
+            {"author": {"display_name": "Someone Else"}},
+            {"author": {"display_name": "Another Person"}},
+            {"author": {"display_name": "Third Author"}},
+            {"author": {"display_name": "Fourth Author"}},
+            {"author": {"display_name": "Fifth Author"}},
+            {"author": {"display_name": "Sixth Author"}},
+            {"author": {"display_name": "Seventh Author"}}
+          ],
+          "primary_location": {"source": {"display_name": "Review of Economic Studies"}},
+          "abstract_inverted_index": {
+            "study": [1],
+            "We": [0],
+            "the": [2],
+            "welfare": [3],
+            "effects": [4],
+            "of": [5],
+            "platform": [6],
+            "regulation": [7]
+          }
+        }
+      ]
+    },
+    "A8765432109": {
+      "meta": {"count": 1},
+      "results": [
+        {
+          "id": "https://openalex.org/W22200000001",
+          "doi": "",
+          "display_name": "Platform Neutrality and the DMA",
+          "publication_date": "2026-06-20",
+          "type": "article",
+          "authorships": [
+            {"author": {"display_name": "Pinar Akman"}}
+          ],
+          "primary_location": {"source": {"display_name": "Journal of European Competition Law and Practice"}},
+          "abstract_inverted_index": null
+        }
+      ]
+    }
+  }
+}

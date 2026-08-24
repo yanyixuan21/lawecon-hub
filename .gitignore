@@ -1,0 +1,5 @@
+__pycache__/
+M_SPANID='0.14.4' data/errors.log
+M_SPANID='0.14.5' data/scholar_errors.log
+M_SPANID='0.14.6' EOF
+M_SPANID='0.14.7' git add -A && M_SPANID='0.14.8' git status --short | head -30 && M_SPANID='0.14.9' git commit -q -m "feat: 四板块版（文献动态/学者名录/期刊动态/会议与征稿）+ 学者爬虫 + 会议数据" && M_SPANID='0.14.10' git push origin HEAD:main 2>&1 | tail -5

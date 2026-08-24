@@ -1,0 +1,63 @@
+{
+ "updated_at": "2026-08-24 17:58",
+ "count": 3,
+ "articles": [
+  {
+   "doi": "10.1093/antitrust/atx001",
+   "title": "Self-Preferencing in Digital Markets",
+   "authors": [
+    "Jacques Crémer",
+    "Yves Balasko"
+   ],
+   "journal": "Journal of Competition Law and Economics",
+   "journal_id": "",
+   "date": "2026-07-15",
+   "abstract": "Self- when preferencing by a gatekeeper raises competition concerns in digital markets",
+   "type": "article",
+   "url": "https://doi.org/10.1093/antitrust/atx001",
+   "scholar_id": "jacques-cremer",
+   "scholar_name": "Jacques Crémer",
+   "scholar_institution": "Toulouse School of Economics"
+  },
+  {
+   "doi": "",
+   "title": "Platform Neutrality and the DMA",
+   "authors": [
+    "Pinar Akman"
+   ],
+   "journal": "Journal of European Competition Law and Practice",
+   "journal_id": "",
+   "date": "2026-06-20",
+   "abstract": "",
+   "type": "article",
+   "url": "https://openalex.org/works/W22200000001",
+   "scholar_id": "pinar-akman",
+   "scholar_name": "Pinar Akman",
+   "scholar_institution": "University of Leeds"
+  },
+  {
+   "doi": "10.1093/antitrust/atx002",
+   "title": "The Economics of Platform Regulation",
+   "authors": [
+    "Jacques Crémer",
+    "Patrick Rey",
+    "Jean Tirole",
+    "Someone Else",
+    "Another Person",
+    "Third Author",
+    "Fourth Author",
+    "Fifth Author",
+    "等"
+   ],
+   "journal": "Review of Economic Studies",
+   "journal_id": "",
+   "date": "2026-05-02",
+   "abstract": "We study the welfare effects of platform regulation",
+   "type": "article",
+   "url": "https://doi.org/10.1093/antitrust/atx002",
+   "scholar_id": "jacques-cremer",
+   "scholar_name": "Jacques Crémer",
+   "scholar_institution": "Toulouse School of Economics"
+  }
+ ]
+}

@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="域外法学文献追踪——自动追踪约20本英文法学期刊的新发文，覆盖竞争法、法经济学、产业组织与法律评论。中文界面，一键直达原文。">
+<meta name="description" content="域外法学文献追踪——自动追踪英文法学期刊与重点学者的新发文，覆盖竞争法、法经济学、数据合规与平台治理。中文界面，一键直达原文。">
 <title>域外法学文献追踪</title>
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -12,7 +12,7 @@
   <div class="header-inner">
     <div class="brand">
       <h1>域外法学文献追踪</h1>
-      <span class="sub">反垄断 · 法经济学 · 产业组织 · 综合法律评论</span>
+      <span class="sub">竞争法 · 法经济学 · 数据合规 · 平台治理</span>
     </div>
     <div class="controls">
       <input type="search" id="search" placeholder="搜索标题 / 作者 / 期刊…" autocomplete="off">
@@ -25,35 +25,81 @@
     <button class="cat-btn" data-cat="law-econ">法经济学</button>
     <button class="cat-btn" data-cat="io">产业组织</button>
     <button class="cat-btn" data-cat="law-review">法律评论</button>
+    <button class="cat-btn fav-toggle" id="fav-toggle" type="button">★ 收藏</button>
+    <span class="cats-spacer"></span>
+    <button class="tab-btn active" id="tab-journals" type="button">文献动态</button>
+    <button class="tab-btn" id="tab-scholars" type="button">学者名录</button>
+    <button class="tab-btn" id="tab-pubs" type="button">期刊动态</button>
+    <button class="tab-btn" id="tab-events" type="button">会议与征稿</button>
   </nav>
 </header>
 
 <main>
   <div class="hero" id="hero">
     <div class="hero-inner">
-      <p>追踪约 <strong>20 本</strong>英文学术期刊的新发文，覆盖竞争法、法经济学、产业组织与法律评论领域。</p>
-      <p>数据来自 <a href="https://www.crossref.org" target="_blank" rel="noopener">Crossref</a> 开放接口，每 6 小时自动更新。点击卡片即可跳转原文。</p>
+      <p>追踪 <strong>20 本</strong>英文学术期刊与 <strong>24 位</strong>重点学者的新发文，覆盖竞争法、法经济学、数据合规与平台治理领域。</p>
+      <p>数据来自 <a href="https://www.crossref.org" target="_blank" rel="noopener">Crossref</a> 与 <a href="https://openalex.org" target="_blank" rel="noopener">OpenAlex</a> 开放接口，定时自动更新；会议信息人工整理收录。点击链接即可跳转原文。</p>
       <div class="hero-meta">
         <span>📚 <span id="journal-count">—</span> 本期刊</span>
-        <span>🔄 每 6 小时自动更新</span>
+        <span>👤 <span id="scholar-count">—</span> 位学者</span>
+        <span>🔄 定时自动更新</span>
       </div>
       <button class="hero-close" id="hero-close" type="button" aria-label="隐藏介绍">✕</button>
     </div>
   </div>
 
-  <div class="status-bar">
-    <span id="result-count"></span>
-    <span id="updated-at" class="muted"></span>
-  </div>
-  <div id="loading">加载中…</div>
-  <div id="empty" class="hidden">没有匹配的文章</div>
-  <div id="list" class="grid"></div>
-  <button id="load-more" class="hidden">加载更多</button>
+  <!-- 文献板块 -->
+  <section id="view-journals">
+    <div class="status-bar">
+      <span id="result-count"></span>
+      <span id="updated-at" class="muted"></span>
+    </div>
+    <div id="loading">加载中…</div>
+    <div id="empty" class="hidden">没有匹配的文章</div>
+    <div id="list" class="grid"></div>
+    <button id="load-more" class="hidden">加载更多</button>
+  </section>
+
+  <!-- 期刊动态板块 -->
+  <section id="view-pubs" class="hidden">
+    <div class="status-bar">
+      <span id="pub-count"></span>
+      <span id="pub-updated-at" class="muted"></span>
+    </div>
+    <div id="pub-empty" class="hidden">没有匹配的期刊</div>
+    <div id="pub-list"></div>
+  </section>
+
+  <!-- 会议与征稿板块 -->
+  <section id="view-events" class="hidden">
+    <div class="status-bar">
+      <span id="event-count"></span>
+      <span class="muted">信息人工整理收录，投稿前请查阅官网确认</span>
+    </div>
+    <div id="event-empty" class="hidden">暂无会议信息</div>
+    <div id="event-list" class="event-grid"></div>
+  </section>
+
+  <!-- 学者板块 -->
+  <section id="view-scholars" class="hidden">
+    <div class="status-bar">
+      <span id="scholar-count-text"></span>
+      <span id="scholar-updated-at" class="muted"></span>
+    </div>
+    <div id="scholar-mode" class="scholar-mode">
+      <button class="mode-btn active" data-mode="all" type="button">全部动态</button>
+      <button class="mode-btn" data-mode="scholar" type="button">按学者浏览</button>
+    </div>
+    <div id="scholar-grid" class="scholar-grid hidden"></div>
+    <div id="scholar-empty" class="hidden">没有匹配的内容</div>
+    <div id="scholar-list" class="grid"></div>
+    <button id="scholar-load-more" class="hidden">加载更多</button>
+  </section>
 </main>
 
 <footer>
   <div class="footer-inner">
-    <span>数据来自 <a href="https://www.crossref.org" target="_blank" rel="noopener">Crossref</a> · 点击 DOI 链接跳转原文</span>
+    <span>数据来自 <a href="https://www.crossref.org" target="_blank" rel="noopener">Crossref</a> · <a href="https://openalex.org" target="_blank" rel="noopener">OpenAlex</a> · 会议信息人工整理</span>
     <span class="footer-right">构建于 <a href="https://pages.github.com" target="_blank" rel="noopener">GitHub Pages</a></span>
   </div>
 </footer>
