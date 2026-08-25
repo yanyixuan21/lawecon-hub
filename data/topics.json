@@ -1,29 +1,25 @@
 {
- "updated_at": "2026-08-25 17:27",
- "doc_count": 342,
+ "updated_at": "2026-08-25 14:31",
+ "doc_count": 388,
  "heat": [
   {
-   "term": "pricing",
+   "term": "innovation",
    "count": 24
   },
   {
-   "term": "innovation",
-   "count": 20
-  },
-  {
    "term": "platform",
-   "count": 20
+   "count": 22
   },
   {
    "term": "firms",
-   "count": 18
-  },
-  {
-   "term": "consumers",
-   "count": 14
+   "count": 20
   },
   {
    "term": "cost",
+   "count": 15
+  },
+  {
+   "term": "consumers",
    "count": 14
   },
   {
@@ -39,19 +35,27 @@
    "count": 14
   },
   {
+   "term": "judicial",
+   "count": 13
+  },
+  {
    "term": "demand",
    "count": 13
+  },
+  {
+   "term": "judges",
+   "count": 13
+  },
+  {
+   "term": "role",
+   "count": 12
   },
   {
    "term": "incentives",
    "count": 12
   },
   {
-   "term": "judges",
-   "count": 12
-  },
-  {
-   "term": "judicial",
+   "term": "efficiency",
    "count": 11
   },
   {
@@ -59,16 +63,40 @@
    "count": 11
   },
   {
-   "term": "role",
+   "term": "value",
+   "count": 10
+  },
+  {
+   "term": "liability",
+   "count": 10
+  },
+  {
+   "term": "across",
+   "count": 10
+  },
+  {
+   "term": "cartel",
+   "count": 10
+  },
+  {
+   "term": "remedies",
+   "count": 10
+  },
+  {
+   "term": "contract",
+   "count": 10
+  },
+  {
+   "term": "italian",
+   "count": 10
+  },
+  {
+   "term": "rules",
    "count": 10
   },
   {
    "term": "industrial",
    "count": 10
-  },
-  {
-   "term": "value",
-   "count": 9
   },
   {
    "term": "products",
@@ -79,15 +107,11 @@
    "count": 9
   },
   {
-   "term": "economics",
-   "count": 9
-  },
-  {
    "term": "collusion",
    "count": 9
   },
   {
-   "term": "across",
+   "term": "decisions",
    "count": 9
   },
   {
@@ -99,15 +123,23 @@
    "count": 9
   },
   {
-   "term": "remedies",
-   "count": 9
-  },
-  {
    "term": "contracts",
    "count": 9
   },
   {
-   "term": "liability",
+   "term": "gender",
+   "count": 9
+  },
+  {
+   "term": "public procurement",
+   "count": 8
+  },
+  {
+   "term": "design",
+   "count": 8
+  },
+  {
+   "term": "workers",
    "count": 8
   },
   {
@@ -115,11 +147,19 @@
    "count": 8
   },
   {
+   "term": "state",
+   "count": 8
+  },
+  {
    "term": "interoperability",
    "count": 8
   },
   {
-   "term": "efficiency",
+   "term": "rule",
+   "count": 8
+  },
+  {
+   "term": "justice",
    "count": 8
   },
   {
@@ -131,8 +171,12 @@
    "count": 8
   },
   {
-   "term": "rules",
+   "term": "often",
    "count": 8
+  },
+  {
+   "term": "power",
+   "count": 7
   },
   {
    "term": "after",
@@ -143,11 +187,11 @@
    "count": 7
   },
   {
-   "term": "decisions",
+   "term": "services",
    "count": 7
   },
   {
-   "term": "services",
+   "term": "years",
    "count": 7
   },
   {
@@ -155,15 +199,7 @@
    "count": 7
   },
   {
-   "term": "state",
-   "count": 7
-  },
-  {
-   "term": "algorithmic",
-   "count": 7
-  },
-  {
-   "term": "rule",
+   "term": "test",
    "count": 7
   },
   {
@@ -171,11 +207,11 @@
    "count": 7
   },
   {
-   "term": "contract",
+   "term": "experiment",
    "count": 7
   },
   {
-   "term": "often",
+   "term": "regulatory",
    "count": 7
   },
   {
@@ -187,11 +223,11 @@
    "count": 7
   },
   {
-   "term": "design",
+   "term": "digital markets",
    "count": 6
   },
   {
-   "term": "european",
+   "term": "increased",
    "count": 6
   },
   {
@@ -203,6 +239,10 @@
    "count": 6
   },
   {
+   "term": "welfare",
+   "count": 6
+  },
+  {
    "term": "choice",
    "count": 6
   },
@@ -211,19 +251,19 @@
    "count": 6
   },
   {
-   "term": "years",
+   "term": "consider",
    "count": 6
   },
   {
-   "term": "many",
+   "term": "only",
    "count": 6
   },
   {
-   "term": "test",
+   "term": "structural",
    "count": 6
   },
   {
-   "term": "workers",
+   "term": "scale",
    "count": 6
   },
   {
@@ -235,51 +275,11 @@
    "count": 6
   },
   {
-   "term": "experiment",
+   "term": "framework",
    "count": 6
   },
   {
-   "term": "downstream",
-   "count": 6
-  },
-  {
-   "term": "investment",
-   "count": 6
-  },
-  {
-   "term": "trade",
-   "count": 6
-  },
-  {
-   "term": "reduce",
-   "count": 6
-  },
-  {
-   "term": "justice",
-   "count": 6
-  },
-  {
-   "term": "italian",
-   "count": 6
-  },
-  {
-   "term": "hidden",
-   "count": 6
-  },
-  {
-   "term": "chinese",
-   "count": 6
-  },
-  {
-   "term": "efficient",
-   "count": 6
-  },
-  {
-   "term": "gender",
-   "count": 6
-  },
-  {
-   "term": "range",
+   "term": "insights",
    "count": 6
   }
  ],
@@ -331,7 +331,7 @@
    ]
   },
   "irle": {
-   "count": 49,
+   "count": 50,
    "avg_authors": 2.3,
    "terms": [
     {
@@ -454,6 +454,44 @@
     }
    ]
   },
+  "ejle": {
+   "count": 33,
+   "avg_authors": 2.2,
+   "terms": [
+    {
+     "term": "european economics",
+     "count": 3
+    },
+    {
+     "term": "public procurement",
+     "count": 2
+    },
+    {
+     "term": "cartel fines",
+     "count": 2
+    },
+    {
+     "term": "economics",
+     "count": 8
+    },
+    {
+     "term": "italian",
+     "count": 3
+    },
+    {
+     "term": "european",
+     "count": 3
+    },
+    {
+     "term": "cartel",
+     "count": 3
+    },
+    {
+     "term": "market",
+     "count": 3
+    }
+   ]
+  },
   "aler": {
    "count": 28,
    "avg_authors": 2.1,
@@ -473,9 +511,26 @@
    ]
   },
   "ecj": {
-   "count": 2,
-   "avg_authors": 2.0,
-   "terms": []
+   "count": 14,
+   "avg_authors": 1.7,
+   "terms": [
+    {
+     "term": "european commission",
+     "count": 2
+    },
+    {
+     "term": "merger control",
+     "count": 2
+    },
+    {
+     "term": "merger",
+     "count": 4
+    },
+    {
+     "term": "antitrust",
+     "count": 3
+    }
+   ]
   },
   "jla": {
    "count": 2,

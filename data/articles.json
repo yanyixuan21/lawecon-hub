@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-08-25 08:23",
- "count": 390,
+ "updated_at": "2026-08-25 14:31",
+ "count": 388,
  "articles": [
   {
    "doi": "10.1016/j.ijindorg.2026.103320",
@@ -227,6 +227,17 @@
    "url": "https://doi.org/10.1016/j.irle.2026.106348"
   },
   {
+   "doi": "10.1016/s0144-8188(26)00033-5",
+   "title": "Editorial Board",
+   "authors": [],
+   "journal": "International Review of Law and Economics",
+   "journal_id": "irle",
+   "date": "2026-08-25",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/s0144-8188(26)00033-5"
+  },
+  {
    "doi": "10.1111/joie.70042",
    "title": "Coordinated Effects in the American Airlines‐US Airways Merger",
    "authors": [
@@ -322,6 +333,20 @@
    "url": "https://doi.org/10.1007/s11151-026-10058-0"
   },
   {
+   "doi": "10.1007/s10657-026-09884-0",
+   "title": "The economics of evolutionary programming",
+   "authors": [
+    "Luppi B",
+    "Parisi F"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2026-08-20",
+   "abstract": "Abstract In this paper, we present an economic model of evolutionary computation technologies, highlighting how alternative propertization and liability mechanisms shape the balance between “exploration” and “exploitation” in evolutionary research. We consider two interrelated effects of evolutionary experimentation: (i) the positive externalities that occur when superior mutations enhance performance, benefitting all subsequent implementations of the algorithm; (ii) the negative externalities that arise when inferior mutations cause harm. Our analysis reveals that experimentation reaches the optimal stopping point only with a combined use of propertization and liability instruments. If intellectual property frameworks fail to propertize benefits from evolutionary processes, limiting liability may be a second-best means of encouraging experimentation.",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-026-09884-0"
+  },
+  {
    "doi": "10.1093/aler/ahad012",
    "title": "Labor Market Monopsony and Non-Compete Enforcement Spillovers",
    "authors": [
@@ -334,6 +359,19 @@
    "abstract": "State-level non-compete bans raise wages not only at constrained workers' employers but also at rivals, consistent with oligopsonistic externalities.",
    "type": "journal-article",
    "url": "https://doi.org/10.1093/aler/ahad012"
+  },
+  {
+   "doi": "10.1007/s10657-026-09883-1",
+   "title": "Capitalising residual control: leasehold tenure and institutional risk in England and Wales",
+   "authors": [
+    "Gugnani A"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2026-08-19",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-026-09883-1"
   },
   {
    "doi": "10.1080/17441056.2026.1945001",
@@ -564,6 +602,21 @@
    "url": "https://doi.org/10.1111/joie.12388"
   },
   {
+   "doi": "10.1080/17441056.2026.2711570",
+   "title": "C-level insights regarding awareness and optimal design of the European Commission’s leniency programme",
+   "authors": [
+    "Buts C",
+    "Maes S",
+    "Theis J"
+   ],
+   "journal": "European Competition Journal",
+   "journal_id": "ecj",
+   "date": "2026-08-03",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1080/17441056.2026.2711570"
+  },
+  {
    "doi": "10.1080/17441056.2026.1944998",
    "title": "Ex Post Evaluation of the DMA: Gatekeeper Compliance Costs",
    "authors": [
@@ -576,6 +629,19 @@
    "abstract": "First-year evidence on compliance costs under Articles 5 and 6 of the Digital Markets Act, based on disclosures by three gatekeepers.",
    "type": "journal-article",
    "url": "https://doi.org/10.1080/17441056.2026.1944998"
+  },
+  {
+   "doi": "10.1080/17441056.2026.2706894",
+   "title": "Algorithmic coordination: a proposal under collective dominance",
+   "authors": [
+    "González Cortes B"
+   ],
+   "journal": "European Competition Journal",
+   "journal_id": "ecj",
+   "date": "2026-08-02",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1080/17441056.2026.2706894"
   },
   {
    "doi": "10.1086/721455",
@@ -803,6 +869,21 @@
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103324"
   },
   {
+   "doi": "10.1007/s10657-026-09885-z",
+   "title": "Sharing the cost of cleaning up non-point source pollution",
+   "authors": [
+    "Béal S",
+    "Lowing D",
+    "Munich L"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2026-08-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-026-09885-z"
+  },
+  {
    "doi": "10.1093/jcle/nhaa039",
    "title": "Killer Acquisitions on Two-Sided Platforms: A Screening Approach",
    "authors": [
@@ -855,6 +936,20 @@
    "abstract": "Remedy selection in platform cases should track the situational durability of the conduct at issue; structural remedies are not the default the new critics assume.",
    "type": "journal-article",
    "url": "https://doi.org/10.2308/hlr.2026.014"
+  },
+  {
+   "doi": "10.1080/17441056.2026.2706893",
+   "title": "Chaos or nuance? A systematic content analysis of the use of the term “innovation” in European Commission’s merger decisions concerning digital markets",
+   "authors": [
+    "Mazur J",
+    "Żądło A"
+   ],
+   "journal": "European Competition Journal",
+   "journal_id": "ecj",
+   "date": "2026-07-28",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1080/17441056.2026.2706893"
   },
   {
    "doi": "10.37974/alj.2026.0386",
@@ -926,6 +1021,20 @@
    "abstract": "ABSTRACT We study the retail price pass‐through of four major tax changes in petroleum products using daily pricing data from gas stations on small Greek islands. We find that (i) the pass‐through of the tax hikes is five times higher than for the tax decrease, (ii) the pass‐through of the tax hikes increases with competition, while that of the tax decrease does not, (iii) there is significant asymmetry in the speed of price adjustments, and (iv) the asymmetric price adjustment can be rationalized by either tacit collusion or consumer search behavior, as the most plausible explanations.",
    "type": "journal-article",
    "url": "https://doi.org/10.1111/joie.70036"
+  },
+  {
+   "doi": "10.1007/s10657-026-09882-2",
+   "title": "Auditor’s liability, audit quality and inflation: an economic analysis",
+   "authors": [
+    "Steller M",
+    "Pummerer E"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2026-07-20",
+   "abstract": "Abstract This article examines the relationship between audit quality and growth in audit-relevant parameters, especially in the context of recent inflationary trends within the European Union. Using a formal model, it analyses how increases in variable audit costs influence auditors’ decisions on the level of audit effort, which directly impacts audit quality. The study finds that if statutory liability limits remain fixed in nominal terms while audit costs rise, auditors’ incentives to maintain high-quality audits weaken. This leads to lower audit effort and thus to reduced audit quality. At the same time, total audit costs are increasing, resulting in higher audit fees for the auditee. From the auditee’s perspective, the value of an audit depends on balancing the benefits of improved quality—primarily through reducing the risk of financial misstatements—against rising costs. The paper derives a neutrality condition that shows how liability limits must grow to keep audit quality stable in real terms. While it is relatively straightforward for auditors to maintain incentives by adjusting liability limits, the auditee’s assessment is more complex due to differences between audit cost growth and inflation, and uncertainties about potential claims. Because of these factors, no universal solution for a constant optimal level of audit quality exists. The findings highlight the need for periodic review and adjustment of liability limits to sustain audit quality. This study contributes to a deeper understanding of the dynamic relationship between economic growth, audit costs, and liability frameworks, offering insights for policymakers and practitioners in a changing economic environment.",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-026-09882-2"
   },
   {
    "doi": "10.1093/jeclap/jvab075",
@@ -1149,6 +1258,23 @@
    "url": "https://doi.org/10.1515/rle-2025-0062"
   },
   {
+   "doi": "10.1007/s10657-026-09881-3",
+   "title": "How is digital evidence used in the international criminal court? An exploratory analysis",
+   "authors": [
+    "Lecorps Y",
+    "Naili K",
+    "Obidzinski M",
+    "Oytana Y",
+    "Toutounji T"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2026-06-29",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-026-09881-3"
+  },
+  {
    "doi": "10.1093/aler/ahad010",
    "title": "Judicial Selection and the Economics of Opinion Length",
    "authors": [
@@ -1191,6 +1317,35 @@
    "url": "https://doi.org/10.2308/clr.2026.102"
   },
   {
+   "doi": "10.1007/s10657-026-09879-x",
+   "title": "The green transition and competition in public procurement",
+   "authors": [
+    "Arve M",
+    "Desrieux C"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2026-06-25",
+   "abstract": "Abstract Over the last decade, the European legislation on public procurement has been clarified to facilitate green public procurement. Traditionally best value for money has been the main goal of public procurement, while new regulations have increased the scope for secondary goals such as environmental policy. We investigate how the secondary goal of greener public procurement has affected output of public tenders. Using the TED database, we investigate whether environmental criteria in public contracts are associated with a lower degree of competition. Exploring French public contracts between 2017 and 2019 for the largest cities and metropolitan areas, our results show that the introduction of a green criterion in the public procurement notices is associated with a reduction in the number of firms participating in the competitive tenders. Award prices also appear higher, both because of reduced competition and, more directly, because of environmental criteria.",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-026-09879-x"
+  },
+  {
+   "doi": "10.1007/s10657-026-09880-4",
+   "title": "Did the merger strategy towards optimal scale go too far? The case of Swedish district courts",
+   "authors": [
+    "Månsson J",
+    "Rasmussen K",
+    "Unnikrishnan A"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2026-06-25",
+   "abstract": "Abstract In Sweden, as in many other countries, the public sector has implemented merger policies to exploit economies of scale and improve efficiency. In previous work, Agrell et al. (Annals of Operations Research, 288:653–679, 2020) we showed that mergers had a positive impact on efficiency. In this study, we investigate the economies of scale argument for mergers. To measure scale elasticity, we estimate a global translog stochastic frontier input distance function covering the years 2000–2016. Our results show that the merger strategy is well supported in empirical results. In the early 2000s, the majority of district courts (94%) operated under increasing returns to scale (IRS), meaning that they were too small compared to optimal scale. About 3% operated under decreasing returns to scale (DRS) and 3% operated at optimal scale. In 2016, around 40% had targeted optimal scale, but 20% were operating at DRS, indicating that they had become too large. These findings show both the potential and the limits of public-sector mergers in demand-driven services such as courts.",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-026-09880-4"
+  },
+  {
    "doi": "10.1086/721450",
    "title": "Standards of Review in Regulatory Appeals: Deference and Error Costs",
    "authors": [
@@ -1230,6 +1385,33 @@
    "abstract": "ABSTRACT We propose a new approach to production function estimation that integrates the strengths of the proxy‐variable (PV) and dynamic panel data (DPD) methods. Our framework augments the set of instruments for the level equation in Blundell and Bond [8] with a Berkson‐type instrument motivated by economic theory, following Olley and Pakes [28], Levinsohn and Petrin [24], and Ackerberg et al. [4]. This modification allows unobserved productivity to include both a time‐invariant (“fixed‐effect”) component and a time‐varying component that follows a potentially nonlinear Markov process. Whereas the PV approach accommodates nonlinear Markov dynamics but not fixed effects, and the DPD approach accounts for fixed effects but only with linear Markov dynamics, our method relaxes both restrictions. Our estimator is straightforward to implement using GMM. Monte Carlo simulations demonstrate that it outperforms the canonical PV and DPD estimators when productivity persistence is low and fixed‐effect heterogeneity is substantial.",
    "type": "journal-article",
    "url": "https://doi.org/10.1111/joie.70033"
+  },
+  {
+   "doi": "10.1080/17441056.2026.2683221",
+   "title": "Licensing negotiation groups: the new antitrust kid on the SEPs block",
+   "authors": [
+    "Colangelo G"
+   ],
+   "journal": "European Competition Journal",
+   "journal_id": "ecj",
+   "date": "2026-06-03",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1080/17441056.2026.2683221"
+  },
+  {
+   "doi": "10.1080/17441056.2026.2675832",
+   "title": "Merger simulations in EU merger control: what have we learned?",
+   "authors": [
+    "Andrews J",
+    "Ormosi P L"
+   ],
+   "journal": "European Competition Journal",
+   "journal_id": "ecj",
+   "date": "2026-06-02",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1080/17441056.2026.2675832"
   },
   {
    "doi": "10.1086/741728",
@@ -1637,6 +1819,19 @@
    "url": "https://doi.org/10.1007/s11151-026-10057-1"
   },
   {
+   "doi": "10.1080/17441056.2026.2675841",
+   "title": "Who governs platform power? Reforming governance as an EU competition law remedy to democratic harm",
+   "authors": [
+    "van Rosmalen G"
+   ],
+   "journal": "European Competition Journal",
+   "journal_id": "ecj",
+   "date": "2026-05-24",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1080/17441056.2026.2675841"
+  },
+  {
    "doi": "10.1111/joie.70030",
    "title": "Make or Buy Decisions and Data Sharing",
    "authors": [
@@ -1692,6 +1887,20 @@
    "url": "https://doi.org/10.1007/s11151-026-10055-3"
   },
   {
+   "doi": "10.1080/17441056.2026.2675836",
+   "title": "Antitrust as antidiscrimination: competition law remedies against gender wage discrimination",
+   "authors": [
+    "Bhaduri A",
+    "Dhonchak A"
+   ],
+   "journal": "European Competition Journal",
+   "journal_id": "ecj",
+   "date": "2026-05-20",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1080/17441056.2026.2675836"
+  },
+  {
    "doi": "10.1111/joie.70027",
    "title": "Bad NGOs? Competition in the Market for Donations and Workers' Misconduct",
    "authors": [
@@ -1704,6 +1913,21 @@
    "abstract": "ABSTRACT In this paper, we investigate how competition among NGOs to attract donations shapes the incentives that NGOs provide to their employees. NGOs hire workers to undertake development projects, which are horizontally and vertically differentiated. Workers perform constructive activities that enhance project quality, but can also engage in non‐observable destructive activities that harm the employing organization. NGOs offer monetary incentives to encourage constructive effort, but also need monitoring to curb destructive behavior. Our analysis yields the following results: (i) a high mission orientation on the part of NGOs makes workers' misconduct harder to eliminate; (ii) increased competition in the market for donations leads to higher constructive effort and project quality, but also to greater destructive effort; (iii) relative to the social optimum, the market outcome entails inadequate monitoring and excessive destructive behavior.",
    "type": "journal-article",
    "url": "https://doi.org/10.1111/joie.70027"
+  },
+  {
+   "doi": "10.1007/s10657-026-09878-y",
+   "title": "Is the Mafia responsible for technological backwardness in Sicily? An analysis from unification of the Italian Kingdom in 1861 to 1913",
+   "authors": [
+    "Di Vita F P",
+    "Di Vita G",
+    "Ferrante L"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2026-05-06",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-026-09878-y"
   },
   {
    "doi": "10.1111/joie.70026",
@@ -1720,6 +1944,34 @@
    "abstract": "ABSTRACT We study RPM and vertical integration in a common agency setting with two differentiated manufacturers and one retailer, where consumer demand depends on both the manufacturers' and retailer's noncontractible efforts. Under vertical separation, the adoption of maximum RPM by both manufacturers is an equilibrium and intensifies competition, since manufacturing margins are positive to incentivize manufacturing effort. This benefits consumers and may lower industry profits relative to a scenario where RPM is not available. Vertical integration between the retailer and one of the manufacturers increases industry profits and, when retail effort is also important, may benefit consumers by mitigating double marginalization.",
    "type": "journal-article",
    "url": "https://doi.org/10.1111/joie.70026"
+  },
+  {
+   "doi": "10.1080/17441056.2026.2690683",
+   "title": "When algorithmic pricing becomes a problem: FIFA World Cup ticket pricing and consumer welfare",
+   "authors": [
+    "Das R"
+   ],
+   "journal": "European Competition Journal",
+   "journal_id": "ecj",
+   "date": "2026-05-04",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1080/17441056.2026.2690683"
+  },
+  {
+   "doi": "10.1080/17441056.2026.2675831",
+   "title": "A framework for effective public enforcement of cartels: a study of four Nordic countries",
+   "authors": [
+    "Barlund I M H",
+    "Harrington J E",
+    "Sørgard L"
+   ],
+   "journal": "European Competition Journal",
+   "journal_id": "ecj",
+   "date": "2026-05-04",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1080/17441056.2026.2675831"
   },
   {
    "doi": "10.1086/737770",
@@ -1919,6 +2171,20 @@
    "abstract": "Abstract How do judges respond to social sanctions related to judicial inefficiency? This paper shows that social sanctions may lead judges to conceal their underperformance, rather than improve their performance. I focus on the Supreme Court of Israel where court decisions prominently display the hearing date, making delays in issuing decisions salient. Using hand-coded data, I show that hearing dates are more likely to be missing from court decisions when those decisions are delayed, consistent with strategic concealment of delays. I use the unique setting to argue that this behavior is driven by judges’ concerns about their reputation within the wider legal community. Leveraging a natural experiment that publicly exposed this concealment strategy, I show that the practice largely disappeared following the exposure. Finally, I present suggestive evidence that the ability to conceal delays contributed to longer decision times. These findings highlight an unintended consequence of reputational sanctions: when performance is imperfectly observable, they may induce concealment rather than improvement.",
    "type": "journal-article",
    "url": "https://doi.org/10.1093/aler/ahag005"
+  },
+  {
+   "doi": "10.1080/17441056.2026.2649673",
+   "title": "Towards an effective merger control policy in a dynamic context",
+   "authors": [
+    "Jeanjean F",
+    "Ciriani S"
+   ],
+   "journal": "European Competition Journal",
+   "journal_id": "ecj",
+   "date": "2026-04-15",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1080/17441056.2026.2649673"
   },
   {
    "doi": "10.1093/aler/ahaf008",
@@ -2201,6 +2467,19 @@
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103264"
   },
   {
+   "doi": "10.1080/17441056.2026.2649672",
+   "title": "Between army and market – can increased defence spending result in concealed state aid to undertakings active in both civilian and military markets?",
+   "authors": [
+    "Kociubiński J"
+   ],
+   "journal": "European Competition Journal",
+   "journal_id": "ecj",
+   "date": "2026-03-25",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1080/17441056.2026.2649672"
+  },
+  {
    "doi": "10.1093/aler/ahaf016",
    "title": "Ignorance Is Bliss? Information Avoidance in Litigation",
    "authors": [
@@ -2258,6 +2537,36 @@
    "url": "https://doi.org/10.1007/s11151-026-10052-6"
   },
   {
+   "doi": "10.1007/s10657-026-09876-0",
+   "title": "Celebrating European law and economics: three decades in a long tradition",
+   "authors": [
+    "Ambrosino A",
+    "Cedrini M",
+    "Marciano A",
+    "Ramello G B"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2026-03-16",
+   "abstract": "Abstract This paper analyzes the intellectual foundations and evolution of the European Journal of Law and Economics (EJLE) over its first thirty years. We first reconstruct the European intellectual traditions underlying law and economics—Enlightenment thought, the German Historical School, ordoliberalism, and comparative institutional analysis—and their role in shaping the journal’s founding mission. We then complement this historical analysis with a comprehensive, data-driven study of all EJLE articles published since 1994. Using topic modeling (BERTopic) and abstract-similarity clustering, we document the journal’s thematic structure, its evolution over time, and changes in authorship, collaboration, and geographic composition. The results highlight both continuity and rebalancing within a methodologically plural and institutionally grounded research agenda.",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-026-09876-0"
+  },
+  {
+   "doi": "10.1007/s10657-026-09875-1",
+   "title": "The effect of rule of law on board gender diversity: a cross-country analysis",
+   "authors": [
+    "Özparlak G",
+    "Wang Y"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2026-03-13",
+   "abstract": "Abstract This study investigates whether equality-oriented rule-of-law institutions foster gender diversity on corporate boards. Using an unbalanced panel of 2,375 listed firms from 41 countries over 2014–2022, we proxy legal quality with two World Justice Project dimensions: equal treatment and anti-discrimination enforcement (ROL1) and the effective guarantee of fundamental labour rights (ROL2). We estimate baseline OLS and firm fixed-effects models and address endogeneity through lagged specifications, 2SLS, and system-GMM, while controlling for board and firm characteristics as well as country-year factors including quota strength and macro-labour conditions. Across estimators, stronger rule-of-law environments are generally associated with higher women’s representation on boards. Sub-sample evidence, however, reveals important heterogeneity: The effect of ROL1 is highly context-dependent, significant in non-financial firms and the post-2020 period but statistically insignificant in weak-governance settings and exhibiting substitution effects in strong-governance contexts. By contrast, ROL2 shows a robust positive association across all contexts, which further intensifies in environments with strong governance capacity. These findings suggest that enforceable labour rights provide a universal pipeline mechanism for women’s advancement, while the impact of anti-discrimination norms is conditional on the broader institutional architecture. The study contributes to cross-country corporate governance research by clarifying the conditional channels through which the rule of law shapes board-level gender diversity.",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-026-09875-1"
+  },
+  {
    "doi": "10.1111/joie.70025",
    "title": "Optimal Simple Ratings",
    "authors": [
@@ -2270,6 +2579,46 @@
    "abstract": "ABSTRACT We study optimal simple rating systems that partition sellers into a finite number of tiers. We show that optimal ratings must be threshold partitions, and that for linear supply and Cournot competition with constant marginal cost, optimal thresholds solve a k‐means clustering problem requiring only the quality distribution. For convex (concave) supply functions, optimal thresholds are higher (lower) than the k‐means solution. For log‐concave distributions, two‐tier certification captures at least 50% of maximum welfare gains from full disclosure, with five tiers typically achieving over 90%. Applications to eBay and Medicare Advantage data illustrate our method.",
    "type": "journal-article",
    "url": "https://doi.org/10.1111/joie.70025"
+  },
+  {
+   "doi": "10.1007/s10657-026-09874-2",
+   "title": "Structural constraints and the diffusion of responsibility",
+   "authors": [
+    "Bourgeois-Gironde S"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2026-03-11",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-026-09874-2"
+  },
+  {
+   "doi": "10.1007/s10657-026-09873-3",
+   "title": "Regulatory delays and patent term erosion in medical device innovation: a two-market analysis of EU and US frameworks",
+   "authors": [
+    "Peters A"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2026-03-05",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-026-09873-3"
+  },
+  {
+   "doi": "10.1007/s10657-026-09877-z",
+   "title": "An introduction to the anniversary issue",
+   "authors": [
+    "Marciano A",
+    "Ramello G B"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2026-03-05",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-026-09877-z"
   },
   {
    "doi": "10.1016/j.irle.2025.106319",
@@ -2502,6 +2851,48 @@
    "url": "https://doi.org/10.1111/joie.70022"
   },
   {
+   "doi": "10.1007/s10657-026-09871-5",
+   "title": "Is there a European law and economics? A reflection on identity, method, and national traditions",
+   "authors": [
+    "Lacave M S",
+    "Domenech G",
+    "Garoupa N"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2026-02-23",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-026-09871-5"
+  },
+  {
+   "doi": "10.1007/s10657-026-09872-4",
+   "title": "The Covid-19 vaccine passports: a failure of policy",
+   "authors": [
+    "Ekman M"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2026-02-21",
+   "abstract": "Abstract In many countries, the roll-out of the Covid-19 vaccines was accompanied by vaccine passports. In Sweden, anyone aged 18 or above was required to have taken two doses of an approved vaccine to visit any venues with a capacity of a hundred guests or more. This article compares Swedish 17- and 18-year-olds in difference-in-difference and event-study analyses. These indicate that the vaccine passports produced an effect that lasted around four or five weeks and led to at most approximately one per cent of unvaccinated 18-year-olds getting vaccinated. The vaccines were not sterilizing but plausibly lowered the reproductive value and thereby slowed the spread of the virus. However, with at most a negligible effect on take-up, there is little to recommend the vaccine passports.",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-026-09872-4"
+  },
+  {
+   "doi": "10.1007/s10657-026-09868-0",
+   "title": "Anti-piracy enforcements and innovation quality",
+   "authors": [
+    "Banerjee D S",
+    "Poddar S"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2026-02-21",
+   "abstract": "Abstract This paper analyzes the effectiveness of public enforcement in combating piracy and promoting innovation. Our analysis emphasizes that the design of enforcement policy must take into account not only the intensity of enforcement but also its form and structural constraints. We show that under a social welfare–maximizing regime, optimal enforcement always eliminates piracy but cannot fully prevent a decline in innovation quality as piracy rises. When this decline significantly reduces welfare, the government intensifies enforcement to block piracy and restore monopoly outcomes. However, when enforcement is constrained by a proportional fine structure, the government optimally tolerates some piracy, with no monitoring as the best response. Strengthening fines reduces piracy, but does not eliminate it, until a threshold is reached where the optimal enforcement restores the monopoly outcome, often at a lower piracy level than under welfare maximization. We also find that private enforcement yields outcomes identical to public enforcement when the government pursues social welfare maximizing objective.",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-026-09868-0"
+  },
+  {
    "doi": "10.1007/s11151-026-10049-1",
    "title": "Cost Uncertainty and Process Innovation in Bertrand Duopoly",
    "authors": [
@@ -2659,6 +3050,24 @@
    "url": "https://doi.org/10.1111/joie.70020"
   },
   {
+   "doi": "10.1007/s10657-026-09870-6",
+   "title": "Advancing law and economics in France: the role of the French association",
+   "authors": [
+    "Deffains B",
+    "Doriat-Duban M",
+    "Ferey S",
+    "Harnay S",
+    "Obidzinski M",
+    ""
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2026-02-09",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-026-09870-6"
+  },
+  {
    "doi": "10.1111/joie.70019",
    "title": "Gaining Control by Losing Control",
    "authors": [
@@ -2686,6 +3095,20 @@
    "abstract": "Abstract This paper examines the influence of judges’ gender on decisions in marital separation cases in France. Using detailed data on both judges and cases, we do not detect significant differences between male and female judges regarding child custody or child support. However, female judges grant significantly higher compensatory allowance compared to their male counterparts. Regardless of the dispute type, female judges do not render decisions closer to the demands of either female or male litigants than male judges do. Despite evidence that women judges are more sensitive to inequalities within couples than male judges, the effects of judicial decisions do not compensate for the inequalities created at the time of separation to the detriment of women. This is not due to judicial discretion but rather from the claims presented by litigants and the weight that judges assign to these claims in their decision-making processes. This paper thus challenges the notion of a feminine and therefore feminist justice, which would be “rendered by women for women.”",
    "type": "journal-article",
    "url": "https://doi.org/10.1093/aler/ahaf024"
+  },
+  {
+   "doi": "10.1007/s10657-026-09869-z",
+   "title": "Testing the impact of liquidation speed on leverage using Indian data",
+   "authors": [
+    "Banerjee B",
+    "Herrala R"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2026-02-03",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-026-09869-z"
   },
   {
    "doi": "10.1086/736368",
@@ -2814,6 +3237,19 @@
    "url": "https://doi.org/10.1111/joie.70018"
   },
   {
+   "doi": "10.1007/s10657-026-09867-1",
+   "title": "Rules without morals: modeling Buchanan’s relatively absolute absolutes",
+   "authors": [
+    "Berggren N"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2026-01-20",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-026-09867-1"
+  },
+  {
    "doi": "10.1515/rle-2025-frontmatter4",
    "title": "Frontmatter",
    "authors": [],
@@ -2877,6 +3313,19 @@
    "abstract": "ABSTRACT We provide a novel empirical analysis of the role of technology licensing, between competitors, for genetically engineered (GE) traits in the US seed industry. We extend the standard differentiated‐product Bertrand pricing model to include trait licensing, which permits us to recover marginal costs and (otherwise unobserved) royalty rates. Estimation relies on a large dataset of farm‐level seed purchases. We find that markups over marginal cost are sizeable, and royalties for GE traits contribute a non‐trivial amount to these markups. Licensing GE traits to competitors benefits all seed sellers and, notwithstanding its strategic effect on pricing, also increases total market surplus.",
    "type": "journal-article",
    "url": "https://doi.org/10.1111/joie.70016"
+  },
+  {
+   "doi": "10.1080/17441056.2026.2641378",
+   "title": "Foundation models and generative AI applications: what competitive concerns?",
+   "authors": [
+    "Manganelli A"
+   ],
+   "journal": "European Competition Journal",
+   "journal_id": "ecj",
+   "date": "2026-01-02",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1080/17441056.2026.2641378"
   },
   {
    "doi": "10.1086/737229",
@@ -3385,6 +3834,19 @@
    "abstract": "Abstract Deterrence and retribution are among the most significant motives for punishing offenders. Using experimental data, we analyze whether enforcers in a deterrence-and-retribution regime punish offenders differently than enforcers in a retribution-only regime. In contrast to previous results, we find that the deterrence potential is a significant motive for punishment. The possibility of deterrence increases the average sanction by 50% and the probability that an enforcer will punish by 40%. Exploring how punishment changes when potential offenders learn the injunctive social norm regarding the offense before their violation decision, we find that the punishment probability increases only in the deterrence-and-retribution regime but not in the retribution-only one. The interaction of punishment and social norms depends on the punishment motive.",
    "type": "journal-article",
    "url": "https://doi.org/10.1093/aler/ahaf018"
+  },
+  {
+   "doi": "10.1007/s10657-025-09866-8",
+   "title": "The German Law and Economics Association and the evolution of European Law and Economics",
+   "authors": [
+    "Sarel R"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2025-12-16",
+   "abstract": "Abstract This paper explores the identity and contributions of the German Law and Economics Association (GLEA) within the broader European Law &amp; Economics landscape. We examine GLEA’s distinctive features, its role in bridging economics and legal scholarship, and consider whether a unique “European” approach to law and economics exists.",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-025-09866-8"
   },
   {
    "doi": "10.1093/aler/ahaf011",
@@ -3982,6 +4444,75 @@
    "url": "https://doi.org/10.1016/j.ijindorg.2025.103208"
   },
   {
+   "doi": "10.1007/s10657-025-09865-9",
+   "title": "The limits of hierarchy in the digital platform era; or, the phenomenon of inverted principal-agency",
+   "authors": [
+    "O’Loughlin P"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2025-12-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-025-09865-9"
+  },
+  {
+   "doi": "10.1007/s10657-025-09860-0",
+   "title": "Political competition and discretionary procedures in public procurement: evidence from Italian data",
+   "authors": [
+    "Cavalieri A"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2025-12-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-025-09860-0"
+  },
+  {
+   "doi": "10.1007/s10657-025-09862-y",
+   "title": "An empirical inquiry into cartel overcharges and cartel fines including an assessment of the EU’s guidelines on cartel fines and damages",
+   "authors": [
+    "Haucap J",
+    "Karacuka M",
+    "Inke H"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2025-12-01",
+   "abstract": "Abstract Utilizing Connor’s International Cartel Database and employing difference-in-differences methodology, we find that market concentration, the number of buyers and cartel duration have significant impacts on cartel overcharges. We also find that the European Commission’s 2006 guidelines on the method of setting fines for cartel infringements seem to have decreased cartel overcharges in the EU. In addition, the EU’s cartel damages directive of 2014 (2014/104/EU) appears to have increased private damage payments. Overall, we find support that these two changes in EU competition policy have a reversing impact on the otherwise increasing trend of cartel overcharges, as these measures tend to make infringements more costly at least in the EU.",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-025-09862-y"
+  },
+  {
+   "doi": "10.1007/s10657-025-09861-z",
+   "title": "Decentralization, politics and political legislation cycles: a test on Italian regions",
+   "authors": [
+    "Padovano F",
+    "Sy Y"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2025-12-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-025-09861-z"
+  },
+  {
+   "doi": "10.1007/s10657-025-09864-w",
+   "title": "Law and economics in Italy: an overview",
+   "authors": [
+    "Bellantuono G",
+    "Ramello G B"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2025-11-29",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-025-09864-w"
+  },
+  {
    "doi": "10.1093/aler/ahaf006",
    "title": "Crime Can Be a Giffen Good: The Role of Need in Criminal Labor Supply",
    "authors": [
@@ -4020,6 +4551,34 @@
    "abstract": "ABSTRACT Electric vehicle (EV) drivers experience range anxiety (RA) due to a gap between latent travel demand and battery range. Low fuel prices or limited range exacerbate RA. Range relevance diminishes under high fuel prices, as driving demand is suppressed, while low fuel prices have small effects on RA when range is sufficiently high. We formalize and estimate RA, leveraging the implicit interaction between local electricity prices and range. Results suggest average prospective EV consumers expect $2500–3400/year welfare costs through the RA mechanism. These estimates have strong implications for policies targeting EV ownership, underscoring another channel EV costs exceed conventional vehicles.",
    "type": "journal-article",
    "url": "https://doi.org/10.1111/joie.70015"
+  },
+  {
+   "doi": "10.1007/s10657-025-09859-7",
+   "title": "Constitutional monarchy and long-run economic growth: friends or foes?",
+   "authors": [
+    "Garoupa N",
+    "Spruk R"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2025-11-26",
+   "abstract": "Abstract This article examines the long-run relationship between constitutional monarchy and economic growth using a panel of 37 countries from 1870 to 2018. Exploiting the staggered timing of regime transitions as a source of quasi-experimental variation, we reassess whether monarchies promote prosperity or merely survive because of it. The results suggest that pre-existing economic development, rather than monarchical institutions themselves, explains the persistence of constitutional monarchy. The apparent growth advantage of monarchies is concentrated among wealthier pre-war states, where fiscal capacity and institutional maturity sustained stability. In poorer settings, constitutional monarchies failed to generate lasting growth and were eventually replaced by republican regimes, which subsequently outperformed them. These findings imply that prosperity sustains monarchy, not the reverse, and that contemporary constitutional monarchies represent the historical survivors of economic success rather than its institutional cause.",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-025-09859-7"
+  },
+  {
+   "doi": "10.1007/s10657-025-09863-x",
+   "title": "A hybrid legislative model for the sex market: policy and fiscal insights",
+   "authors": [
+    "Santini F",
+    "Ippoliti R"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2025-11-26",
+   "abstract": "Abstract This study investigates the Italian sex market and its current legislative framework, offering policy recommendations aimed at protecting sex workers from exploitation and preventing human trafficking. We compare alternative European regulatory models to identify their core components and adopt a trade-off framework to explicitly assess whose welfare would be affected by the proposed reform. Based on our analysis, we find that several stakeholders would benefit from the adoption of a hybrid legislative model that combines (i) regulation and licensing of sex services with (ii) a system of incentives and disincentives designed to guide both workers and clients toward the formal market. According to our budget impact analysis, if implemented in 2024, this policy reform could generate between €3.893 and €7.410 billion in income, with estimated tax revenues under a flat-rate regime would fall between €0.875 and €1.470 billion.",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-025-09863-x"
   },
   {
    "doi": "10.1093/aler/ahae001",
@@ -4290,6 +4849,20 @@
    "url": "https://doi.org/10.1515/rle-2025-frontmatter3"
   },
   {
+   "doi": "10.1007/s10657-025-09858-8",
+   "title": "Fairness in contract law: an impossibility theorem?",
+   "authors": [
+    "Parisi F",
+    "Bix B H"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2025-10-23",
+   "abstract": "Abstract Scholars have long debated whether contract law should prioritize maximizing efficiency and social welfare or, instead, prioritize justice, fairness and other deontological values. The debate is partly prescriptive (what should we try to do with contract law rules) and partly conceptual (how should we understand contract law). This article surveys central positions in this debate, distinguishing between the corrective and redistributive functions of contract law and between doing justice between the parties and more systemic effects. It highlights an impossibility theorem that underscores the self-defeating nature of redistributive policies in price-based contractual relationships, using a numerical example and two policy interventions to illustrate the inherent trade-offs.",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-025-09858-8"
+  },
+  {
    "doi": "10.1515/rle-2025-0067",
    "title": "Efficiencies in the 2023 Merger Guidelines",
    "authors": [
@@ -4465,6 +5038,33 @@
    "url": "https://doi.org/10.1007/s11151-025-10035-z"
   },
   {
+   "doi": "10.1007/s10657-025-09857-9",
+   "title": "Judicial enforcement as a worker discipline device",
+   "authors": [
+    "Dughera S",
+    "Melcarne A"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2025-10-01",
+   "abstract": "Abstract We develop an efficiency-wage model with firing costs, judicial delay, and judges’ pro-labor bias. When workers dismissed for personal reasons are not entitled to severance pay, a double moral hazard emerges: firms may disguise redundancies as disciplinary dismissals, and caught shirkers may litigate for wrongful termination. The impact of employment protection legislation—and its imperfect enforcement—on the efficiency wage depends on how the institutional environment shapes these strategic behaviors. In one of five possible settings, the efficiency wage decreases with pro-labor bias and increases with judicial delay. Using data on French labor courts and hourly wages, we find correlational evidence consistent with this prediction: wages correlate negatively with judicial delay and positively with pro-labor bias.",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-025-09857-9"
+  },
+  {
+   "doi": "10.1007/s10657-025-09856-w",
+   "title": "Law and economics, and the labour market: a comprehensive research agenda",
+   "authors": [
+    "Malo M Á"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2025-10-01",
+   "abstract": "Abstract This article reviews the evolution of law and economics as applied to the study of labour law and labour market issues, as an introduction to the articles included in this special issue. This evolution can be divided into three main stages. Initially, the focus was on the negative effects of labour law on efficiency. This was followed by a stage devoted to examining the role of labour law in addressing market failures. The third stage is marked by the expansion of empirical analysis, driven by the development of causal inference techniques. Throughout this evolution, labour economics has been a key partner in this subfield, with a fruitful exchange of concepts. The result of this interaction between disciplines is a kind of comprehensive research agenda, where law and economics related to the labour market retain the typical characteristics of detailed and nuanced analyses of institutions, legal practice, and the enforcement of legal regulations. The articles in this special issue illustrate this comprehensive perspective. They cover labour tribunals, severance pay, and worker representation at the firm level.",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-025-09856-w"
+  },
+  {
    "doi": "10.1007/s11151-025-10033-1",
    "title": "Run-up to a Merger: Pre-Consolidation Pricing by Merging Airlines and Their Rivals",
    "authors": [
@@ -4535,6 +5135,20 @@
    "url": "https://doi.org/10.1007/s11151-025-10031-3"
   },
   {
+   "doi": "10.1007/s10657-025-09855-x",
+   "title": "Covid and the constitution: unlawful states of emergency during the pandemic",
+   "authors": [
+    "Bjørnskov C",
+    "Voigt S"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2025-09-19",
+   "abstract": "Abstract The Covid-19 pandemic in 2020 and 2021 gave rise to an unprecedented number of emergency declarations across the world. Recent research shows that the transfer of substantial discretionary power to the executive branch in an emergency often gives rise to unlawful and unconstitutional political behaviour. In this paper, we explore if the large number of emergencies during the pandemic were special. We document that they were, in the sense that unlawful emergencies were substantially more likely to occur among democracies. We also show that apart from economic variables, better rule of law and more permissive constitutionalised emergency provisions contributed to a higher risk of unlawful behaviour.",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-025-09855-x"
+  },
+  {
    "doi": "10.1515/rle-2024-0054",
    "title": "It Takes Two to Tango: Nudging Cooperative Behavior with a Proverb",
    "authors": [
@@ -4586,6 +5200,35 @@
    "abstract": "Abstract The Islamic inheritance law puts women at a distributive disadvantage leading to gender inequality in wealth accumulation. Religiosity and patriarchy are often blamed for the persistence of gender inequality in Muslim-majority countries. Employing an online vignette experiment, we examine whether religious and pro-male preferences reinforce gender inequality in inheritance in Egypt. We find that religious individuals prefer to abide by the inheritance law and its distributive inequality. We also find that individuals with pro-male cultural beliefs prefer to avoid the inheritance law only selectively to protect the male distributive advantage. Put together, we find that both religiosity and pro-male cultural beliefs are impediments to achieving gender equality in inheritance in Egypt.",
    "type": "journal-article",
    "url": "https://doi.org/10.1515/rle-2024-0066"
+  },
+  {
+   "doi": "10.1007/s10657-025-09849-9",
+   "title": "The market of infidelity—the effect of party switching on lawmaking productivity: evidence from Italy",
+   "authors": [
+    "Nizza U"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2025-09-08",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-025-09849-9"
+  },
+  {
+   "doi": "10.1007/s10657-025-09854-y",
+   "title": "Personality, creativity and adherence to intellectual property: a lab experiment on copyright",
+   "authors": [
+    "Guichardaz R",
+    "Lefebvre M",
+    "Igersheim H",
+    "Pénin J"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2025-09-06",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-025-09854-y"
   },
   {
    "doi": "10.1111/joie.70008",
