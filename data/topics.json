@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-08-25 14:31",
- "doc_count": 388,
+ "updated_at": "2026-08-25 19:50",
+ "doc_count": 389,
  "heat": [
   {
    "term": "innovation",
@@ -8,7 +8,7 @@
   },
   {
    "term": "platform",
-   "count": 22
+   "count": 23
   },
   {
    "term": "firms",
@@ -55,6 +55,10 @@
    "count": 12
   },
   {
+   "term": "value",
+   "count": 11
+  },
+  {
    "term": "efficiency",
    "count": 11
   },
@@ -63,7 +67,7 @@
    "count": 11
   },
   {
-   "term": "value",
+   "term": "strategic",
    "count": 10
   },
   {
@@ -100,10 +104,6 @@
   },
   {
    "term": "products",
-   "count": 9
-  },
-  {
-   "term": "strategic",
    "count": 9
   },
   {
@@ -179,6 +179,10 @@
    "count": 7
   },
   {
+   "term": "higher",
+   "count": 7
+  },
+  {
    "term": "after",
    "count": 7
   },
@@ -203,10 +207,6 @@
    "count": 7
   },
   {
-   "term": "higher",
-   "count": 7
-  },
-  {
    "term": "experiment",
    "count": 7
   },
@@ -227,6 +227,10 @@
    "count": 6
   },
   {
+   "term": "third-party",
+   "count": 6
+  },
+  {
    "term": "increased",
    "count": 6
   },
@@ -244,10 +248,6 @@
   },
   {
    "term": "choice",
-   "count": 6
-  },
-  {
-   "term": "third-party",
    "count": 6
   },
   {
@@ -285,7 +285,7 @@
  ],
  "profiles": {
   "ijio": {
-   "count": 101,
+   "count": 102,
    "avg_authors": 2.5,
    "terms": [
     {

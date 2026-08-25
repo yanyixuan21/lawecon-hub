@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-08-25 14:31",
- "count": 388,
+ "updated_at": "2026-08-25 19:49",
+ "count": 389,
  "articles": [
   {
    "doi": "10.1016/j.ijindorg.2026.103320",
@@ -236,6 +236,20 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/s0144-8188(26)00033-5"
+  },
+  {
+   "doi": "10.1016/j.irle.2026.106349",
+   "title": "A new case for a higher standard of care: The uncompensated tertiary and third-party costs",
+   "authors": [
+    "Schäfer H",
+    "Singh R"
+   ],
+   "journal": "International Review of Law and Economics",
+   "journal_id": "irle",
+   "date": "2026-08-25",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.irle.2026.106349"
   },
   {
    "doi": "10.1111/joie.70042",
@@ -658,20 +672,6 @@
    "url": "https://doi.org/10.1086/721455"
   },
   {
-   "doi": "10.1016/j.irle.2026.106349",
-   "title": "A new case for a higher standard of care: The uncompensated tertiary and third-party costs",
-   "authors": [
-    "Schäfer H",
-    "Singh R"
-   ],
-   "journal": "International Review of Law and Economics",
-   "journal_id": "irle",
-   "date": "2026-08-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.irle.2026.106349"
-  },
-  {
    "doi": "10.1016/j.irle.2026.106347",
    "title": "Legal Institutions and Economic Growth: A Meta-Analytic Perspective",
    "authors": [
@@ -882,6 +882,22 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1007/s10657-026-09885-z"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103334",
+   "title": "The Strategic Value of Platform Encroachment: Seller Entry and Network Effects",
+   "authors": [
+    "Piccolo S",
+    "Shekhar S",
+    "Padilla J",
+    "Pagnozzi M"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-08-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103334"
   },
   {
    "doi": "10.1093/jcle/nhaa039",
