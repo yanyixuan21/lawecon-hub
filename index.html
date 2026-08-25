@@ -21,24 +21,17 @@
         <button id="search-clear" type="button" class="hidden" aria-label="清空">✕</button>
       </div>
       <select id="journal-filter"><option value="">全部期刊</option></select>
+      <button class="fav-btn" id="fav-toggle" type="button" title="只看已收藏">★</button>
     </div>
   </div>
-  <nav class="cats" id="cat-filter">
-    <button class="cat-btn active" data-cat="">全部</button>
-    <button class="cat-btn" data-cat="competition">竞争法</button>
-    <button class="cat-btn" data-cat="law-econ">法经济学</button>
-    <button class="cat-btn" data-cat="io">产业组织</button>
-    <button class="cat-btn" data-cat="law-review">法律评论</button>
-    <button class="cat-btn fav-toggle" id="fav-toggle" type="button">★ 收藏</button>
-  </nav>
   <nav class="tabs">
-    <button class="tab-btn active" id="tab-journals" type="button">文献动态</button>
+    <button class="tab-btn active" id="tab-policy" type="button">平台治理</button>
+    <button class="tab-btn" id="tab-journals" type="button">文献动态</button>
     <button class="tab-btn" id="tab-scholars" type="button">学者名录</button>
     <button class="tab-btn" id="tab-pubs" type="button">期刊动态</button>
     <button class="tab-btn" id="tab-heat" type="button">议题热力</button>
     <button class="tab-btn" id="tab-events" type="button">会议与征稿</button>
     <button class="tab-btn" id="tab-interviews" type="button">访谈与对话</button>
-    <button class="tab-btn" id="tab-policy" type="button">平台治理</button>
   </nav>
 </header>
 
@@ -57,11 +50,18 @@
   </div>
 
   <!-- 文献板块 -->
-  <section id="view-journals">
+  <section id="view-journals" class="hidden">
     <div class="status-bar">
       <span id="result-count"></span>
       <span id="updated-at" class="muted"></span>
     </div>
+    <nav class="cats" id="cat-filter">
+      <button class="cat-btn active" data-cat="">全部</button>
+      <button class="cat-btn" data-cat="competition">竞争法</button>
+      <button class="cat-btn" data-cat="law-econ">法经济学</button>
+      <button class="cat-btn" data-cat="io">产业组织</button>
+      <button class="cat-btn" data-cat="law-review">法律评论</button>
+    </nav>
     <div id="loading">加载中…</div>
     <div id="empty" class="hidden">没有匹配的文章</div>
     <div id="list" class="grid"></div>
@@ -127,7 +127,7 @@
   </section>
 
   <!-- 平台治理板块 -->
-  <section id="view-policy" class="hidden">
+  <section id="view-policy">
     <div class="status-bar">
       <span id="policy-count"></span>
       <span class="muted">域外平台收费、商户关系、补贴定价与自我优待监管动态，人工整理收录</span>

@@ -42,7 +42,7 @@ header {
   padding: 8px 10px; border: 1px solid var(--border); border-radius: 6px;
   font-size: 14px; background: #fff; max-width: 220px; cursor: pointer;
 }
-.cats { max-width: 1080px; margin: 0 auto; padding: 4px 20px 16px; display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+.cats { max-width: 1080px; margin: 0 auto; padding: 14px 0 10px; display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
 .cats-spacer { flex: 1; }
 .tab-btn {
   border: 1px solid var(--primary); background: #fff; color: var(--primary);
@@ -51,11 +51,13 @@ header {
 }
 .tab-btn:hover { background: #f0f5fb; }
 .tab-btn.active { background: var(--primary); color: #fff; }
-.fav-toggle {
-  margin-left: 8px;
-  color: #8a6d1a;
+.fav-btn {
+  padding: 8px 12px; border: 1px solid var(--border); border-radius: 6px;
+  font-size: 15px; line-height: 1; cursor: pointer; background: #fff; color: #b3a26a;
+  transition: all .15s;
 }
-.fav-toggle.active { background: #8a6d1a; border-color: #8a6d1a; color: #fff; }
+.fav-btn:hover { border-color: #8a6d1a; color: #8a6d1a; }
+.fav-btn.active { background: #8a6d1a; border-color: #8a6d1a; color: #fff; }
 .cat-btn {
   border: 1px solid var(--border); background: #fff; color: var(--muted);
   padding: 4px 14px; border-radius: 999px; font-size: 13px; cursor: pointer;

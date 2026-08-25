@@ -4,7 +4,7 @@
 
   var PAGE_SIZE = 200;
   var state = {
-    tab: "journals",       // journals | scholars | pubs | events | interviews | policy
+    tab: "policy",       // policy | journals | scholars | pubs | heat | events | interviews
     q: "",
     cat: "",
     journal: "",
@@ -726,16 +726,8 @@
   /* ---------- 页签切换 ---------- */
 
   function switchTab(tab) {
-    var prevTab = state.tab;
     state.tab = tab;
-    // 切换板块时重置类目筛选，避免类目与板块内容不匹配
-    if (state.cat) {
-      state.cat = "";
-      var act = el.catFilter.querySelector(".cat-btn.active");
-      if (act) act.classList.remove("active");
-      var allBtn = el.catFilter.querySelector('.cat-btn[data-cat=""]');
-      if (allBtn) allBtn.classList.add("active");
-    }
+    // 类目筛选已移入文献板块内部，只影响文献/期刊动态，切页签不重置
     el.tabJournals.classList.toggle("active", tab === "journals");
     el.tabScholars.classList.toggle("active", tab === "scholars");
     el.tabPubs.classList.toggle("active", tab === "pubs");
