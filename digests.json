@@ -1,0 +1,104 @@
+{
+  "updated": "2026-08-25",
+  "items": [
+    {
+      "id": "digest-2026-0001",
+      "doi": "10.1080/17441056.2026.1944998",
+      "date": "2026-08-02",
+      "journal": "European Competition Journal",
+      "authors": [
+        "Rossi P",
+        "Dubois C"
+      ],
+      "title": "Ex Post Evaluation of the DMA: Gatekeeper Compliance Costs",
+      "title_cn": "DMA 事后评估：守门人合规成本",
+      "core": "首份基于守门人自身披露的 DMA 合规成本实证评估。Article 5/6 义务对三家守门人的成本并不对称，合规投入的规模远低于行业渲染的负担，但对小守门人的相对负担明显更重。",
+      "framework": "问题：DMA 的合规成本到底有多大、由谁承担 → 方法：收集三家守门人首次合规年度的披露数据（年报、监管备案）→ 发现：合规成本占收入比例在守门人之间差异显著，与义务范围相关而非与规模成比例 → 含义：一刀切的义务清单对小型守门人构成不成比例负担，为差异化义务设计提供依据。",
+      "tags": [
+        "DMA",
+        "守门人",
+        "合规成本",
+        "事后评估"
+      ]
+    },
+    {
+      "id": "digest-2026-0002",
+      "doi": "10.1093/jcle/nhaa041",
+      "date": "2026-08-20",
+      "journal": "Journal of Competition Law & Economics",
+      "authors": [
+        "Chen L",
+        "Wang R"
+      ],
+      "title": "Vertical Integration and Foreclosure in Digital Markets: Evidence from App Stores",
+      "title_cn": "数字市场的垂直整合与排斥：来自应用商店的证据",
+      "core": "利用两大应用商店搜索算法更新的准自然实验，发现平台自我优待（自家应用在搜索结果中排名上升）显著抑制第三方开发者进入，进入率下降集中在与平台自营应用直接竞争的品类。",
+      "framework": "问题：应用商店搜索中的自我优待是否排斥第三方开发者 → 方法：准实验设计，比较算法更新前后、跨两大平台的第三方应用进入率 → 发现：与平台自营竞争品类的新应用进入显著减少，非竞争品类不受影响 → 含义：为自我优待的排斥效果提供了直接因果证据，支持 DMA 第 6(5) 条禁止自我优待的实证基础。",
+      "tags": [
+        "自我优待",
+        "应用商店",
+        "垂直排斥",
+        "准实验"
+      ]
+    },
+    {
+      "id": "digest-2026-0003",
+      "doi": "10.37974/alj.2026.0387",
+      "date": "2026-08-10",
+      "journal": "Antitrust Law Journal",
+      "authors": [
+        "Hovenkamp H"
+      ],
+      "title": "Ninety Years of the Robinson-Patman Act: Markets, Enforcement, and the New Interest in Price Discrimination",
+      "title_cn": "罗宾逊-帕特曼法九十年：市场、执法与价格歧视的新关注",
+      "core": "Hovenkamp 回顾二级价格歧视执法的兴衰，指出算法定价让大型平台能以精细化方式实施系统性歧视性定价，罗宾逊-帕特曼式的二级线执法在数字市场获得了新的理论支撑，但须避开 1960 年代保护小竞争者而非竞争本身的老路。",
+      "framework": "问题：价格歧视执法为何在 1970 年代后沉寂、为何当下复兴 → 方法：教义史梳理 + 算法定价环境下的经济分析 → 发现：算法歧视性定价对二级线（中小供应商）伤害的检测难度下降，但以保护竞争者为导向的执法仍具风险 → 含义：为佣金费率、差别定价类平台监管提供了美国法视角的参照系。",
+      "tags": [
+        "价格歧视",
+        "算法定价",
+        "Hovenkamp",
+        "平台监管"
+      ]
+    },
+    {
+      "id": "digest-2026-0004",
+      "doi": "10.2308/hlr.2026.014",
+      "date": "2026-07-28",
+      "journal": "Harvard Law Review",
+      "authors": [
+        "Geradin D",
+        "Lianos I"
+      ],
+      "title": "The Situational Character of Antitrust Remedies",
+      "title_cn": "反垄断救济的情势性",
+      "core": "反对结构性救济默认论。救济选择应跟踪行为情势的持久性：情势依赖型行为（如特定排名操作）适合行为救济，结构性救济只对持续复发的结构性优势才必要。以平台案件为样本，多数自我优待行为属情势依赖型。",
+      "framework": "问题：平台案件中结构救济是否应成为默认选项 → 方法：对近年欧美平台救济案例进行类型化比较 → 发现：情势依赖框架能解释救济成功与失败的分布，行为救济在可监测条件下表现不差 → 含义：为谷歌搜索案等补救设计提供理论框架，影响行为救济在数字市场执法中的地位。",
+      "tags": [
+        "救济设计",
+        "结构性救济",
+        "平台执法",
+        "DMA"
+      ]
+    },
+    {
+      "id": "digest-2026-0005",
+      "doi": "10.37974/alj.2026.0386",
+      "date": "2026-07-25",
+      "journal": "Antitrust Law Journal",
+      "authors": [
+        "Wright J D",
+        "Rybnicek M"
+      ],
+      "title": "Remedies for Monopolization: Lessons from the Search Cases",
+      "title_cn": "垄断化案件的救济：搜索引擎案的教训",
+      "core": "比较 United States v. Google 与 Microsoft 遗产，论证平台案件的行为救济面临固有的监测极限——数据访问与默认设置救济在执行中反复被规避；但结构性救济（拆分搜索与安卓等）的成本与错误成本同样巨大。结论是救济设计需引入更严格的证据分级。",
+      "framework": "问题：搜索引擎垄断案中行为救济为何屡屡失效 → 方法：Microsoft 案与 Google 案救济执行史的比较案例分析 → 发现：行为救济的失败集中于监测信息不对称最严重的领域（数据、默认设置），而非全部领域 → 含义：为救济工具箱提供按监测难度分级的选择规则。",
+      "tags": [
+        "谷歌案",
+        "救济",
+        "行为救济",
+        "垄断化"
+      ]
+    }
+  ]
+}

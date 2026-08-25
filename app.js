@@ -39,7 +39,12 @@
     heatProfiles: document.getElementById("heat-profiles"),
     tabEvents: document.getElementById("tab-events"),
     tabInterviews: document.getElementById("tab-interviews"),
+    tabDigest: document.getElementById("tab-digest"),
     tabPolicy: document.getElementById("tab-policy"),
+    viewDigest: document.getElementById("view-digest"),
+    digestCount: document.getElementById("digest-count"),
+    digestList: document.getElementById("digest-list"),
+    digestEmpty: document.getElementById("digest-empty"),
     viewInterviews: document.getElementById("view-interviews"),
     interviewCount: document.getElementById("interview-count"),
     interviewList: document.getElementById("interview-list"),
@@ -83,6 +88,7 @@
   var scholarArticles = [];
   var events = [];
   var interviews = [];
+  var digests = [];
   var topicsData = null;
   var policyItems = [];
   var policyCats = [];
@@ -660,7 +666,46 @@
     el.policyEmpty.classList.toggle("hidden", list.length !== 0);
   }
 
+
+  /* ---------- 本周精读板块 ---------- */
+
+  function renderDigest() {
+    var qs = state.q.trim().toLowerCase();
+    var list = digests.filter(function (it) {
+      if (!qs) return true;
+      var hay = (it.title + " " + (it.title_cn || "") + " " + (it.authors || []).join(" ") + " " + (it.journal || "") + " " + (it.core || "") + " " + (it.framework || "") + " " + (it.tags || []).join(" ")).toLowerCase();
+      return hay.indexOf(qs) !== -1;
+    });
+    list.sort(function (x, y) { return (y.date || "").localeCompare(x.date || ""); });
+    el.digestCount.textContent = list.length ? "共 " + list.length + " 篇精选精读" : "";
+    el.digestList.innerHTML = list.map(digestCardHTML).join("");
+    el.digestEmpty.classList.toggle("hidden", list.length !== 0);
+  }
+
+  function digestCardHTML(it) {
+    var authors = (it.authors || []).join(", ");
+    var tags = (it.tags || []).map(function (t) {
+      return '<span class="event-tag">' + esc(t) + "</span>";
+    }).join("");
+    var doiLink = it.doi ? ' <a class="card-link" href="https://doi.org/' + esc(it.doi) + '" target="_blank" rel="noopener">原文 ↗</a>' : "";
+    return (
+      '<article class="digest-card">' +
+      '<div class="digest-head">' +
+      '<h3 class="digest-title">' + esc(it.title) + "</h3>" +
+      '<p class="digest-title-cn">' + esc(it.title_cn || "") + "</p>" +
+      '<p class="digest-meta">' + esc(authors) + " · " + esc(it.journal || "") + " · " + esc((it.date || "").slice(0, 10)) + doiLink + "</p>" +
+      "</div>" +
+      '<div class="digest-body">' +
+      '<p class="digest-core"><span class="digest-label">核心观点</span>' + esc(it.core || "") + "</p>" +
+      '<p class="digest-framework"><span class="digest-label">论证框架</span>' + esc(it.framework || "") + "</p>" +
+      "</div>" +
+      (tags ? '<div class="digest-tags">' + tags + "</div>" : "") +
+      "</article>"
+    );
+  }
+
   /* ---------- 议题热力板块 ---------- */
+
 
   function heatTier(c, maxC) {
     // 8 级 tier，1=最低频 8=最高频
@@ -753,9 +798,11 @@
     el.tabHeat.classList.toggle("active", tab === "heat");
     el.tabEvents.classList.toggle("active", tab === "events");
     el.tabInterviews.classList.toggle("active", tab === "interviews");
+    el.tabDigest.classList.toggle("active", tab === "digest");
     el.tabPolicy.classList.toggle("active", tab === "policy");
     el.viewEvents.classList.toggle("hidden", tab !== "events");
     el.viewInterviews.classList.toggle("hidden", tab !== "interviews");
+    el.viewDigest.classList.toggle("hidden", tab !== "digest");
     el.viewPolicy.classList.toggle("hidden", tab !== "policy");
     el.viewJournals.classList.toggle("hidden", tab !== "journals");
     el.viewScholars.classList.toggle("hidden", tab !== "scholars");
@@ -777,6 +824,7 @@
     else if (state.tab === "heat") renderHeat();
     else if (state.tab === "interviews") renderInterviews();
     else if (state.tab === "policy") renderPolicy();
+    else if (state.tab === "digest") renderDigest();
     else renderEvents();
   }
 
@@ -825,6 +873,14 @@
       return termsMatch(hayOf(it.title, it.scholar, it.institution, it.source, (it.topics || []).join(" "), it.note));
     });
     groups.push({ tab: "interviews", name: "访谈与对话", total: ivs.length });
+
+    // 本周精读
+    var dgs = digests.filter(function (it) {
+      return termsMatch(hayOf(it.title, it.title_cn, (it.authors || []).join(", "), it.journal, (it.tags || []).join(" "), it.core, it.framework));
+    });
+    if (dgs.length) {
+      groups.push({ tab: "digest", name: "本周精读", total: dgs.length });
+    }
 
     // 会议与征稿
     var evs = events.filter(function (e) {
@@ -932,6 +988,7 @@
   el.tabHeat.addEventListener("click", function () { switchTab("heat"); });
   el.tabEvents.addEventListener("click", function () { switchTab("events"); });
   el.tabInterviews.addEventListener("click", function () { switchTab("interviews"); });
+  el.tabDigest.addEventListener("click", function () { switchTab("digest"); });
   el.tabPolicy.addEventListener("click", function () { switchTab("policy"); });
 
   el.favToggle.addEventListener("click", function () {
@@ -964,6 +1021,7 @@
     fetch("interviews.json").then(function (r) { return r.json(); }).catch(function () { return null; }),
     fetch("data/topics.json").then(function (r) { return r.json(); }).catch(function () { return null; }),
     fetch("policy_items.json").then(function (r) { return r.json(); }).catch(function () { return null; }),
+    fetch("digests.json").then(function (r) { return r.json(); }).catch(function () { return null; }),
   ]).then(function (res) {
     res[0].journals.forEach(function (j) { journals[j.id] = j; });
     articles = res[1].articles || [];
@@ -981,6 +1039,7 @@
     topicsData = res[6];
     policyCats = (res[7] && res[7].categories) || [];
     policyItems = (res[7] && res[7].items) || [];
+    digests = (res[8] && res[8].items) || [];
     initPolicyCats();
     el.loading.classList.add("hidden");
     if (el.journalCount) el.journalCount.textContent = Object.keys(journals).filter(function (k) { return journals[k].enabled; }).length;
@@ -997,6 +1056,7 @@
     renderHeat();
     renderInterviews();
     renderPolicy();
+    renderDigest();
     if (!scholarArticles.length) {
       el.scholarEmpty.textContent = "学者数据生成中，请稍后再来。";
       el.scholarEmpty.classList.remove("hidden");

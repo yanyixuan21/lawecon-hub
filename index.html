@@ -31,6 +31,7 @@
     <button class="tab-btn" id="tab-heat" type="button">议题热力</button>
     <button class="tab-btn" id="tab-events" type="button">会议与征稿</button>
     <button class="tab-btn" id="tab-interviews" type="button">访谈与对话</button>
+    <button class="tab-btn" id="tab-digest" type="button">本周精读</button>
   </nav>
 </header>
 
@@ -125,6 +126,16 @@
     <div id="interview-list" class="event-grid"></div>
   </section>
 
+  <!-- 本周精读板块 -->
+  <section id="view-digest" class="hidden">
+    <div class="status-bar">
+      <span id="digest-count"></span>
+      <span class="muted">从近期新发文中甄选的重点文献，附核心观点与论证框架，可直接作为公众号选文候选</span>
+    </div>
+    <div id="digest-empty" class="hidden">暂无精读内容</div>
+    <div id="digest-list"></div>
+  </section>
+
   <!-- 平台治理板块 -->
   <section id="view-policy">
     <div class="status-bar">
@@ -157,6 +168,7 @@
   </button>
 </footer>
 
+<script src="dbg.js"></script>
 <script src="app.js"></script>
 </body>
 </html>
