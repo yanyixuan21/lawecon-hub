@@ -70,6 +70,10 @@
     favToggle: document.getElementById("fav-toggle"),
     searchBtn: document.getElementById("search-btn"),
     searchClear: document.getElementById("search-clear"),
+    viewSearch: document.getElementById("view-search"),
+    searchCount: document.getElementById("search-count"),
+    searchEmpty: document.getElementById("search-empty"),
+    searchGroups: document.getElementById("search-groups"),
   };
 
   var journals = {}; // id -> journal config
@@ -701,8 +705,7 @@
       terms[i].addEventListener("click", (function (t) {
         return function () {
           el.search.value = t.getAttribute("data-term");
-          doSearch();
-          switchTab("journals");
+          doSearch(); // 全站检索，用户可再点「期刊文献」分组深入
         };
       })(terms[i]));
     }
@@ -758,7 +761,7 @@
     el.viewScholars.classList.toggle("hidden", tab !== "scholars");
     el.viewPubs.classList.toggle("hidden", tab !== "pubs");
     el.viewHeat.classList.toggle("hidden", tab !== "heat");
-    el.viewEvents.classList.toggle("hidden", tab !== "events");
+    el.viewSearch.classList.toggle("hidden", tab !== "search");
     // 搜索词跨板块保留（重放当前值）
     applySearch();
   }
@@ -767,7 +770,8 @@
     state.shown = PAGE_SIZE;
     state.scholarShown = PAGE_SIZE;
     saveState();
-    if (state.tab === "journals") renderJournals();
+    if (state.tab === "search") renderGlobalSearch();
+    else if (state.tab === "journals") renderJournals();
     else if (state.tab === "scholars") renderScholars();
     else if (state.tab === "pubs") renderPubs();
     else if (state.tab === "heat") renderHeat();
@@ -776,12 +780,111 @@
     else renderEvents();
   }
 
+  /* ---------- 全站关联检索 ---------- */
+
+  function hayOf() {
+    // 拼接任意对象的字符串字段用于全文匹配
+    return Array.prototype.slice.call(arguments).filter(Boolean).join(" ").toLowerCase();
+  }
+
+  function termsMatch(hay) {
+    if (!state.q.trim()) return false;
+    var terms = state.q.toLowerCase().split(/\s+/).filter(Boolean);
+    return terms.every(function (t) { return hay.indexOf(t) !== -1; });
+  }
+
+  function searchAllGroups() {
+    var qs = state.q.trim().toLowerCase();
+    if (!qs) return [];
+    var groups = [];
+
+    // 文献（含学者动态）
+    var arts = articles.filter(function (a) {
+      var j = journals[a.journal_id] || {};
+      return termsMatch(hayOf(a.title, a.journal, a.authors.join(", "), j.name, j.name_cn, a.abstract));
+    });
+    var sArts = scholarArticles.filter(function (a) {
+      return termsMatch(hayOf(a.title, a.journal, a.authors.join(", "), a.scholar_name, a.abstract));
+    });
+    groups.push({ tab: "journals", name: "期刊文献", total: arts.length + sArts.length });
+
+    // 学者
+    var sch = scholars.filter(function (s) {
+      return termsMatch(hayOf(s.name, s.institution, s.focus));
+    });
+    groups.push({ tab: "scholars", name: "学者", total: sch.length });
+
+    // 平台治理
+    var pol = policyItems.filter(function (it) {
+      return termsMatch(hayOf(it.title, it.region, it.authority, (it.tags || []).join(" "), it.note));
+    });
+    groups.push({ tab: "policy", name: "平台治理", total: pol.length });
+
+    // 访谈与对话
+    var ivs = interviews.filter(function (it) {
+      return termsMatch(hayOf(it.title, it.scholar, it.institution, it.source, (it.topics || []).join(" "), it.note));
+    });
+    groups.push({ tab: "interviews", name: "访谈与对话", total: ivs.length });
+
+    // 会议与征稿
+    var evs = events.filter(function (e) {
+      return termsMatch(hayOf(e.name_cn, e.name_en, e.organizer, e.location, (e.fields || []).join(" "), e.note));
+    });
+    groups.push({ tab: "events", name: "会议与征稿", total: evs.length });
+
+    // 热词也参与命中提示
+    var heatHits = (topicsData && topicsData.heat || []).filter(function (h) {
+      return termsMatch(hayOf(h.term));
+    });
+    if (heatHits.length) {
+      groups.push({ tab: "heat", name: "议题热词", total: heatHits.length });
+    }
+
+    return groups.filter(function (g) { return g.total > 0; });
+  }
+
+  function renderGlobalSearch() {
+    var qs = state.q.trim();
+    if (!qs) {
+      el.searchCount.textContent = "请输入关键词";
+      el.searchGroups.innerHTML = "";
+      el.searchEmpty.classList.add("hidden");
+      return;
+    }
+    var groups = searchAllGroups();
+    var total = groups.reduce(function (n, g) { return n + g.total; }, 0);
+    el.searchCount.textContent = "“" + qs + "” 全站命中 " + total + " 条，分布于 " + groups.length + " 个板块";
+    el.searchEmpty.classList.toggle("hidden", total > 0);
+    el.searchGroups.innerHTML = groups.map(function (g) {
+      return (
+        '<button class="search-group" type="button" data-tab="' + g.tab + '">' +
+        '<span class="search-group-name">' + esc(g.name) + "</span>" +
+        '<span class="search-group-count">' + g.total + " 条</span>" +
+        '<span class="search-group-arrow">→</span>' +
+        "</button>"
+      );
+    }).join("");
+    var btns = el.searchGroups.querySelectorAll(".search-group");
+    for (var i = 0; i < btns.length; i++) {
+      btns[i].addEventListener("click", (function (b) {
+        return function () { switchTab(b.getAttribute("data-tab")); };
+      })(btns[i]));
+    }
+  }
+
   /* ---------- 事件 ---------- */
 
   function doSearch() {
     state.q = el.search.value;
     updateSearchClear();
-    applySearch();
+    // 有搜索词时进入全站检索视图；清空时回到默认板块
+    if (state.q.trim()) {
+      if (state.tab !== "search") switchTab("search");
+      else applySearch();
+    } else {
+      if (state.tab === "search") switchTab("policy");
+      else applySearch();
+    }
   }
 
   function updateSearchClear() {
@@ -793,8 +896,7 @@
     updateSearchClear();
     clearTimeout(debounceTimer);
     debounceTimer = setTimeout(function () {
-      state.q = el.search.value;
-      applySearch();
+      doSearch();
     }, 400);
   });
   el.search.addEventListener("keydown", function (ev) {
