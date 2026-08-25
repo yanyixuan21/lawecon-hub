@@ -656,11 +656,18 @@
 
   /* ---------- 议题热力板块 ---------- */
 
-  function heatSize(c, maxC) {
-    // 词频映射到字号（px）：12 ~ 26
-    if (maxC <= 1) return 14;
-    var r = Math.sqrt(c / maxC);
-    return Math.round(12 + r * 14);
+  function heatTier(c, maxC) {
+    // 8 级 tier，1=最低频 8=最高频
+    if (maxC <= 1) return 4;
+    var r = c / maxC;
+    if (r > 0.85) return 8;
+    if (r > 0.65) return 7;
+    if (r > 0.50) return 6;
+    if (r > 0.38) return 5;
+    if (r > 0.28) return 4;
+    if (r > 0.18) return 3;
+    if (r > 0.10) return 2;
+    return 1;
   }
 
   function renderHeat() {
@@ -675,9 +682,16 @@
     });
     var maxC = heat.length ? heat[0].count : 1;
     el.heatCount.textContent = "近12个月 " + (topicsData.doc_count || 0) + " 篇文献的 " + heat.length + " 个高频议题";
-    el.heatCloud.innerHTML = heat.map(function (h) {
-      var size = heatSize(h.count, maxC);
-      return '<span class="heat-term" style="font-size:' + size + 'px" data-term="' + esc(h.term) + '" title="' + h.count + ' 篇提及">' + esc(h.term) + "</span>";
+    // 错落布局：高频词水平保证可读，中低频词带旋转增加云感；最多展示 45 个避免拥挤
+    var display = heat.slice(0, 45);
+    el.heatCloud.innerHTML = display.map(function (h, idx) {
+      var tier = heatTier(h.count, maxC);
+      var cls = "heat-term t" + tier;
+      // t7/t8 水平；t4-t6 轻微旋转；t1-t3 明显倾斜
+      if (tier <= 6) {
+        cls += " a" + (idx % 7);
+      }
+      return '<span class="' + cls + '" data-term="' + esc(h.term) + '" title="' + h.count + ' 篇提及">' + esc(h.term) + "</span>";
     }).join("");
     // 点击词条 → 填入搜索框检索文献
     var terms = el.heatCloud.querySelectorAll(".heat-term");

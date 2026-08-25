@@ -271,7 +271,6 @@ footer {
 }
 .ev-link:hover { border-bottom-color: var(--primary); }
 
-
 /* ===================== 搜索框与页签分区 ===================== */
 .search-wrap { position: relative; display: flex; align-items: center; gap: 6px; }
 .search-wrap #search { flex: 1; }
@@ -304,7 +303,6 @@ nav.tabs .tab-btn.active {
 /* 平台治理子分类条 */
 .sub-cats { padding: 10px 0 0; margin: 0; }
 CSSEOF
-echo "css appended"
 
 /* 平台治理子分类条 */
 .sub-cats { padding: 10px 0 0; margin: 0; }
@@ -319,19 +317,6 @@ echo "css appended"
 }
 .ext-links a:hover { border-color: #1f6feb; color: #1f6feb; }
 
-/* ---------- 议题热力图 ---------- */
-.heat-cloud {
-  display: flex; flex-wrap: wrap; gap: 10px 14px; align-items: center;
-  padding: 18px 4px; line-height: 1.5;
-}
-.heat-term {
-  color: #57606a; cursor: pointer; user-select: none;
-  transition: color .12s;
-}
-.heat-term:hover { color: #1f6feb; }
-.heat-section-title { font-size: 18px; margin: 26px 0 4px; }
-.heat-section-sub { font-size: 12px; color: #6b7681; margin: 0 0 14px; }
-
 /* ---------- 期刊选稿画像 ---------- */
 .profile-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px; }
 .profile-card {
@@ -345,3 +330,63 @@ echo "css appended"
 
 /* 期刊动态行内星标 */
 .pub-fav { color: #e3b341; margin-right: 2px; }
+
+
+/* ---------- 议题热力词云（气泡错落版） ---------- */
+.heat-cloud {
+  position: relative;
+  padding: 24px 12px 32px;
+  line-height: 1.4;
+  text-align: center;
+  min-height: 260px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  gap: 12px 18px;
+}
+
+/* tier 1~8：字号与透明度分层 */
+.heat-term { display: inline-block; cursor: pointer; transition: all .18s ease; user-select: none; }
+.heat-term:hover { transform: scale(1.08); z-index: 2; }
+
+.heat-term.t1  { font-size: 13px; opacity: .45; }
+.heat-term.t2  { font-size: 14px; opacity: .55; }
+.heat-term.t3  { font-size: 15px; opacity: .62; }
+.heat-term.t4  { font-size: 17px; opacity: .72; }
+.heat-term.t5  { font-size: 20px; opacity: .82; }
+.heat-term.t6  { font-size: 24px; opacity: .88; }
+.heat-term.t7  { font-size: 29px; opacity: .93; font-weight: 600; }
+.heat-term.t8  { font-size: 36px; opacity: 1; font-weight: 700; }
+
+/* 颜色深浅（同色系深浅，频率越高越饱和） */
+.heat-term.t1,
+.heat-term.t2  { color: #8a929c; }
+.heat-term.t3,
+.heat-term.t4,
+.heat-term.t5  { color: #495763; }
+.heat-term.t6  { color: #3a5a8a; }
+.heat-term.t7  { color: #1f6feb; }
+.heat-term.t8  { color: #0d2d5c; }
+
+
+/* 7 种错落变体：纵向偏移 + 可辨识旋转 */
+.heat-term.a0 { transform: translateY(2px)  rotate(-35deg); }
+.heat-term.a1 { transform: translateY(-6px) rotate(28deg); }
+.heat-term.a2 { transform: translateY(4px)  rotate(-22deg); }
+.heat-term.a3 { transform: translateY(-3px) rotate(18deg); }
+.heat-term.a4 { transform: translateY(7px)  rotate(-32deg); }
+.heat-term.a5 { transform: translateY(-5px) rotate(15deg); }
+.heat-term.a6 { transform: translateY(1px)  rotate(-25deg); }
+
+/* 低频词加深一点，保持可读 */
+.heat-term.t1  { color: #8a929c; }
+.heat-term.t2  { color: #8a929c; }
+
+
+.heat-term:hover { transform: scale(1.1) rotate(0deg) !important; opacity: 1 !important; }
+
+/* 板块间距与标题 */
+.heat-section-title { font-size: 18px; margin: 36px 0 4px; }
+.heat-section-sub   { font-size: 12px; color: #6b7681; margin: 0 0 18px; }
