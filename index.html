@@ -35,6 +35,7 @@
     <button class="tab-btn active" id="tab-journals" type="button">文献动态</button>
     <button class="tab-btn" id="tab-scholars" type="button">学者名录</button>
     <button class="tab-btn" id="tab-pubs" type="button">期刊动态</button>
+    <button class="tab-btn" id="tab-heat" type="button">议题热力</button>
     <button class="tab-btn" id="tab-events" type="button">会议与征稿</button>
     <button class="tab-btn" id="tab-interviews" type="button">访谈与对话</button>
     <button class="tab-btn" id="tab-policy" type="button">平台治理</button>
@@ -75,6 +76,18 @@
     </div>
     <div id="pub-empty" class="hidden">没有匹配的期刊</div>
     <div id="pub-list"></div>
+  </section>
+
+  <!-- 议题热力板块 -->
+  <section id="view-heat" class="hidden">
+    <div class="status-bar">
+      <span id="heat-count"></span>
+      <span class="muted">基于近12个月收录文献的标题与摘要自动统计</span>
+    </div>
+    <div id="heat-cloud" class="heat-cloud"></div>
+    <h2 class="heat-section-title">期刊选稿画像</h2>
+    <p class="heat-section-sub">每本期刊近12个月的发文量、平均作者数与高频主题词，供选题与投稿参考</p>
+    <div id="heat-profiles" class="profile-grid"></div>
   </section>
 
   <!-- 会议与征稿板块 -->

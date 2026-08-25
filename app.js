@@ -32,6 +32,11 @@
     tabJournals: document.getElementById("tab-journals"),
     tabScholars: document.getElementById("tab-scholars"),
     tabPubs: document.getElementById("tab-pubs"),
+    tabHeat: document.getElementById("tab-heat"),
+    viewHeat: document.getElementById("view-heat"),
+    heatCloud: document.getElementById("heat-cloud"),
+    heatCount: document.getElementById("heat-count"),
+    heatProfiles: document.getElementById("heat-profiles"),
     tabEvents: document.getElementById("tab-events"),
     tabInterviews: document.getElementById("tab-interviews"),
     tabPolicy: document.getElementById("tab-policy"),
@@ -74,6 +79,7 @@
   var scholarArticles = [];
   var events = [];
   var interviews = [];
+  var topicsData = null;
   var policyItems = [];
   var policyCats = [];
   var policyCat = "";
@@ -142,6 +148,19 @@
     return terms.every(function (t) { return hay.indexOf(t) !== -1; });
   }
 
+  /* ---------- 学术外链（Connected Papers / Semantic Scholar） ---------- */
+
+  function extLinks(a) {
+    if (!a.doi) return "";
+    var d = encodeURIComponent(a.doi);
+    return (
+      '<span class="ext-links">' +
+      '<a href="https://www.connectedpapers.com/search?q=' + d + '" target="_blank" rel="noopener" title="在 Connected Papers 查看引用图谱" aria-label="Connected Papers">CP</a>' +
+      '<a href="https://www.semanticscholar.org/search?q=' + d + '" target="_blank" rel="noopener" title="在 Semantic Scholar 查看引用与相关文献" aria-label="Semantic Scholar">S2</a>' +
+      "</span>"
+    );
+  }
+
   /* ---------- 期刊板块 ---------- */
 
   function filter() {
@@ -164,7 +183,7 @@
     return (
       '<article class="card" data-key="' + esc(a.doi || a.url) + '">' +
       '<button class="fav-star' + (isFav(a) ? " on" : "") + '" type="button" aria-label="收藏">' + star + "</button>" +
-      '<div class="card-top">' + badge + '<span class="date">' + esc(a.date) + "</span></div>" +
+      '<div class="card-top">' + badge + '<span class="date">' + esc(a.date) + "</span>" + extLinks(a) + "</div>" +
       '<h3><a href="' + esc(a.url) + '" target="_blank" rel="noopener">' + esc(a.title) + "</a></h3>" +
       '<div class="journal-name">' + esc(a.journal) + "</div>" +
       '<div class="authors">' + authors + "</div>" +
@@ -348,7 +367,7 @@
       '<button class="fav-star' + (isFav(a) ? " on" : "") + '" type="button" aria-label="收藏">' + star + "</button>" +
       '<div class="card-top">' +
       '<span class="badge ' + cat + '">' + esc(a.scholar_name) + "</span>" +
-      '<span class="date">' + esc(a.date) + "</span></div>" +
+      '<span class="date">' + esc(a.date) + "</span>" + extLinks(a) + "</div>" +
       '<h3><a href="' + esc(a.url) + '" target="_blank" rel="noopener">' + esc(a.title) + "</a></h3>" +
       '<div class="journal-name">' + esc(a.journal || "—") + "</div>" +
       '<div class="authors">' + authors + "</div>" +
@@ -400,8 +419,10 @@
   /* ---------- 期刊动态板块 ---------- */
 
   function pubRowHTML(a) {
+    var fav = isFav(a);
     return (
       '<a class="pub-row" href="' + esc(a.url) + '" target="_blank" rel="noopener">' +
+      (fav ? '<span class="pub-fav">★</span>' : '') +
       '<span class="pub-title">' + esc(a.title) + "</span>" +
       '<span class="pub-date">' + esc(a.date) + "</span>" +
       "</a>"
@@ -427,6 +448,7 @@
       var j = journals[id];
       var jArts = articles.filter(function (a) {
         if (a.journal_id !== id) return false;
+        if (state.favOnly && !isFav(a)) return false;
         if (state.cat && j.category !== state.cat) return false;
         if (!matchKeywords(a)) return false;
         return true;
@@ -632,6 +654,75 @@
     el.policyEmpty.classList.toggle("hidden", list.length !== 0);
   }
 
+  /* ---------- 议题热力板块 ---------- */
+
+  function heatSize(c, maxC) {
+    // 词频映射到字号（px）：12 ~ 26
+    if (maxC <= 1) return 14;
+    var r = Math.sqrt(c / maxC);
+    return Math.round(12 + r * 14);
+  }
+
+  function renderHeat() {
+    if (!topicsData || !topicsData.heat || !topicsData.heat.length) {
+      el.heatCloud.innerHTML = '<p class="muted">议题数据生成中，请稍后再来。</p>';
+      el.heatProfiles.innerHTML = "";
+      return;
+    }
+    var qs = state.q.trim().toLowerCase();
+    var heat = topicsData.heat.filter(function (h) {
+      return !qs || h.term.toLowerCase().indexOf(qs) !== -1;
+    });
+    var maxC = heat.length ? heat[0].count : 1;
+    el.heatCount.textContent = "近12个月 " + (topicsData.doc_count || 0) + " 篇文献的 " + heat.length + " 个高频议题";
+    el.heatCloud.innerHTML = heat.map(function (h) {
+      var size = heatSize(h.count, maxC);
+      return '<span class="heat-term" style="font-size:' + size + 'px" data-term="' + esc(h.term) + '" title="' + h.count + ' 篇提及">' + esc(h.term) + "</span>";
+    }).join("");
+    // 点击词条 → 填入搜索框检索文献
+    var terms = el.heatCloud.querySelectorAll(".heat-term");
+    for (var i = 0; i < terms.length; i++) {
+      terms[i].addEventListener("click", (function (t) {
+        return function () {
+          el.search.value = t.getAttribute("data-term");
+          doSearch();
+          switchTab("journals");
+        };
+      })(terms[i]));
+    }
+    renderProfiles(qs);
+  }
+
+  function renderProfiles(qs) {
+    var ids = Object.keys(topicsData.profiles || {});
+    ids.sort(function (x, y) {
+      return topicsData.profiles[y].count - topicsData.profiles[x].count;
+    });
+    var html = ids.map(function (jid) {
+      var j = journals[jid] || {};
+      var p = topicsData.profiles[jid];
+      if (qs) {
+        var hay = (j.name + " " + (j.name_cn || "") + " " + p.terms.map(function (t) { return t.term; }).join(" ")).toLowerCase();
+        if (hay.indexOf(qs) === -1) return "";
+      }
+      var terms = p.terms.map(function (t) {
+        return '<span class="ev-field">' + esc(t.term) + "</span>";
+      }).join("");
+      return (
+        '<article class="profile-card">' +
+        '<h3 class="profile-name">' + esc(j.name_cn || j.name) + "</h3>" +
+        '<div class="profile-sub">' + esc(j.name) + "</div>" +
+        '<div class="profile-stats">' +
+        '<span><strong>' + p.count + "</strong> 篇/12个月</span>" +
+        '<span>平均 <strong>' + p.avg_authors + '</strong> 位作者</span>' +
+        "</div>" +
+        '<div class="ev-fields">' + terms + "</div>" +
+        "</article>"
+      );
+    }).join("");
+    el.heatProfiles.innerHTML = html || '<p class="muted">没有匹配的期刊画像</p>';
+  }
+
   /* ---------- 页签切换 ---------- */
 
   function switchTab(tab) {
@@ -648,6 +739,7 @@
     el.tabJournals.classList.toggle("active", tab === "journals");
     el.tabScholars.classList.toggle("active", tab === "scholars");
     el.tabPubs.classList.toggle("active", tab === "pubs");
+    el.tabHeat.classList.toggle("active", tab === "heat");
     el.tabEvents.classList.toggle("active", tab === "events");
     el.tabInterviews.classList.toggle("active", tab === "interviews");
     el.tabPolicy.classList.toggle("active", tab === "policy");
@@ -657,6 +749,7 @@
     el.viewJournals.classList.toggle("hidden", tab !== "journals");
     el.viewScholars.classList.toggle("hidden", tab !== "scholars");
     el.viewPubs.classList.toggle("hidden", tab !== "pubs");
+    el.viewHeat.classList.toggle("hidden", tab !== "heat");
     el.viewEvents.classList.toggle("hidden", tab !== "events");
     // 搜索词跨板块保留（重放当前值）
     applySearch();
@@ -669,6 +762,7 @@
     if (state.tab === "journals") renderJournals();
     else if (state.tab === "scholars") renderScholars();
     else if (state.tab === "pubs") renderPubs();
+    else if (state.tab === "heat") renderHeat();
     else if (state.tab === "interviews") renderInterviews();
     else if (state.tab === "policy") renderPolicy();
     else renderEvents();
@@ -725,6 +819,7 @@
   el.tabJournals.addEventListener("click", function () { switchTab("journals"); });
   el.tabScholars.addEventListener("click", function () { switchTab("scholars"); });
   el.tabPubs.addEventListener("click", function () { switchTab("pubs"); });
+  el.tabHeat.addEventListener("click", function () { switchTab("heat"); });
   el.tabEvents.addEventListener("click", function () { switchTab("events"); });
   el.tabInterviews.addEventListener("click", function () { switchTab("interviews"); });
   el.tabPolicy.addEventListener("click", function () { switchTab("policy"); });
@@ -736,6 +831,8 @@
     state.scholarShown = PAGE_SIZE;
     if (state.tab === "journals") renderJournals();
     else if (state.tab === "scholars") renderScholars();
+    else if (state.tab === "pubs") renderPubs();
+    else applySearch();
   });
 
   if (el.heroClose) {
@@ -755,6 +852,7 @@
     fetch("data/scholar_articles.json").then(function (r) { return r.json(); }).catch(function () { return null; }),
     fetch("events.json").then(function (r) { return r.json(); }).catch(function () { return null; }),
     fetch("interviews.json").then(function (r) { return r.json(); }).catch(function () { return null; }),
+    fetch("data/topics.json").then(function (r) { return r.json(); }).catch(function () { return null; }),
     fetch("policy_items.json").then(function (r) { return r.json(); }).catch(function () { return null; }),
   ]).then(function (res) {
     res[0].journals.forEach(function (j) { journals[j.id] = j; });
@@ -770,8 +868,9 @@
     }
     events = (res[4] && res[4].events) || [];
     interviews = (res[5] && res[5].items) || [];
-    policyCats = (res[6] && res[6].categories) || [];
-    policyItems = (res[6] && res[6].items) || [];
+    topicsData = res[6];
+    policyCats = (res[7] && res[7].categories) || [];
+    policyItems = (res[7] && res[7].items) || [];
     initPolicyCats();
     el.loading.classList.add("hidden");
     if (el.journalCount) el.journalCount.textContent = Object.keys(journals).filter(function (k) { return journals[k].enabled; }).length;
@@ -785,6 +884,7 @@
     renderScholars();
     renderPubs();
     renderEvents();
+    renderHeat();
     renderInterviews();
     renderPolicy();
     if (!scholarArticles.length) {

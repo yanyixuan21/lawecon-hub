@@ -1,0 +1,608 @@
+{
+ "updated_at": "2026-08-25 13:14",
+ "doc_count": 389,
+ "heat": [
+  {
+   "term": "human rights",
+   "count": 69
+  },
+  {
+   "term": "pricing",
+   "count": 23
+  },
+  {
+   "term": "innovation",
+   "count": 20
+  },
+  {
+   "term": "platform",
+   "count": 20
+  },
+  {
+   "term": "firms",
+   "count": 18
+  },
+  {
+   "term": "private",
+   "count": 15
+  },
+  {
+   "term": "european human",
+   "count": 14
+  },
+  {
+   "term": "consumers",
+   "count": 14
+  },
+  {
+   "term": "cost",
+   "count": 14
+  },
+  {
+   "term": "firm",
+   "count": 14
+  },
+  {
+   "term": "role",
+   "count": 13
+  },
+  {
+   "term": "rule",
+   "count": 13
+  },
+  {
+   "term": "demand",
+   "count": 13
+  },
+  {
+   "term": "judges",
+   "count": 12
+  },
+  {
+   "term": "editorial board",
+   "count": 11
+  },
+  {
+   "term": "judicial",
+   "count": 11
+  },
+  {
+   "term": "state",
+   "count": 11
+  },
+  {
+   "term": "incentives",
+   "count": 11
+  },
+  {
+   "term": "tax",
+   "count": 11
+  },
+  {
+   "term": "strategic",
+   "count": 10
+  },
+  {
+   "term": "settlement",
+   "count": 10
+  },
+  {
+   "term": "justice",
+   "count": 10
+  },
+  {
+   "term": "industrial",
+   "count": 10
+  },
+  {
+   "term": "value",
+   "count": 9
+  },
+  {
+   "term": "products",
+   "count": 9
+  },
+  {
+   "term": "economics",
+   "count": 9
+  },
+  {
+   "term": "affects",
+   "count": 9
+  },
+  {
+   "term": "across",
+   "count": 9
+  },
+  {
+   "term": "time",
+   "count": 9
+  },
+  {
+   "term": "test",
+   "count": 9
+  },
+  {
+   "term": "efficiency",
+   "count": 9
+  },
+  {
+   "term": "industry",
+   "count": 9
+  },
+  {
+   "term": "china",
+   "count": 9
+  },
+  {
+   "term": "remedies",
+   "count": 9
+  },
+  {
+   "term": "protection",
+   "count": 9
+  },
+  {
+   "term": "contracts",
+   "count": 9
+  },
+  {
+   "term": "european union",
+   "count": 8
+  },
+  {
+   "term": "power",
+   "count": 8
+  },
+  {
+   "term": "liability",
+   "count": 8
+  },
+  {
+   "term": "online",
+   "count": 8
+  },
+  {
+   "term": "interoperability",
+   "count": 8
+  },
+  {
+   "term": "collusion",
+   "count": 8
+  },
+  {
+   "term": "investment",
+   "count": 8
+  },
+  {
+   "term": "advantage",
+   "count": 8
+  },
+  {
+   "term": "size",
+   "count": 8
+  },
+  {
+   "term": "often",
+   "count": 8
+  },
+  {
+   "term": "rules",
+   "count": 8
+  },
+  {
+   "term": "punishment",
+   "count": 8
+  },
+  {
+   "term": "crime",
+   "count": 8
+  },
+  {
+   "term": "propose",
+   "count": 7
+  },
+  {
+   "term": "services",
+   "count": 7
+  },
+  {
+   "term": "only",
+   "count": 7
+  },
+  {
+   "term": "algorithmic",
+   "count": 7
+  },
+  {
+   "term": "health",
+   "count": 7
+  },
+  {
+   "term": "higher",
+   "count": 7
+  },
+  {
+   "term": "contract",
+   "count": 7
+  },
+  {
+   "term": "against",
+   "count": 7
+  },
+  {
+   "term": "increasingly",
+   "count": 7
+  },
+  {
+   "term": "system",
+   "count": 7
+  },
+  {
+   "term": "jurisprudence",
+   "count": 7
+  },
+  {
+   "term": "criminal",
+   "count": 7
+  },
+  {
+   "term": "risk",
+   "count": 7
+  },
+  {
+   "term": "hidden",
+   "count": 7
+  },
+  {
+   "term": "control",
+   "count": 7
+  },
+  {
+   "term": "gender",
+   "count": 7
+  },
+  {
+   "term": "rights abstract",
+   "count": 6
+  },
+  {
+   "term": "european convention",
+   "count": 6
+  },
+  {
+   "term": "convention human",
+   "count": 6
+  },
+  {
+   "term": "legitimate aims",
+   "count": 6
+  },
+  {
+   "term": "design",
+   "count": 6
+  }
+ ],
+ "profiles": {
+  "ijio": {
+   "count": 101,
+   "avg_authors": 2.5,
+   "terms": [
+    {
+     "term": "editorial board",
+     "count": 7
+    },
+    {
+     "term": "market definition",
+     "count": 3
+    },
+    {
+     "term": "personalized pricing",
+     "count": 2
+    },
+    {
+     "term": "mergers investments",
+     "count": 2
+    },
+    {
+     "term": "consumer search",
+     "count": 2
+    },
+    {
+     "term": "manufacturing firms",
+     "count": 2
+    },
+    {
+     "term": "state-owned enterprises",
+     "count": 2
+    },
+    {
+     "term": "competition market",
+     "count": 2
+    },
+    {
+     "term": "market",
+     "count": 15
+    },
+    {
+     "term": "price",
+     "count": 9
+    }
+   ]
+  },
+  "irle": {
+   "count": 49,
+   "avg_authors": 2.3,
+   "terms": [
+    {
+     "term": "editorial board",
+     "count": 4
+    },
+    {
+     "term": "williamson legacy",
+     "count": 2
+    },
+    {
+     "term": "antitrust enforcement",
+     "count": 2
+    },
+    {
+     "term": "judicial independence",
+     "count": 2
+    },
+    {
+     "term": "transaction costs",
+     "count": 2
+    },
+    {
+     "term": "enforcement",
+     "count": 6
+    },
+    {
+     "term": "judicial",
+     "count": 5
+    },
+    {
+     "term": "liability",
+     "count": 5
+    },
+    {
+     "term": "costs",
+     "count": 4
+    },
+    {
+     "term": "editorial",
+     "count": 4
+    }
+   ]
+  },
+  "jeclap": {
+   "count": 2,
+   "avg_authors": 1.5,
+   "terms": []
+  },
+  "jie": {
+   "count": 37,
+   "avg_authors": 2.0,
+   "terms": [
+    {
+     "term": "competition",
+     "count": 5
+    },
+    {
+     "term": "information",
+     "count": 5
+    },
+    {
+     "term": "innovation",
+     "count": 3
+    },
+    {
+     "term": "demand",
+     "count": 3
+    }
+   ]
+  },
+  "jcle": {
+   "count": 3,
+   "avg_authors": 2.0,
+   "terms": []
+  },
+  "rio": {
+   "count": 42,
+   "avg_authors": 2.3,
+   "terms": [
+    {
+     "term": "optimal disclosure",
+     "count": 2
+    },
+    {
+     "term": "disclosure crowdfunding",
+     "count": 2
+    },
+    {
+     "term": "crowdfunding platforms",
+     "count": 2
+    },
+    {
+     "term": "pricing after",
+     "count": 2
+    },
+    {
+     "term": "adam smith",
+     "count": 2
+    },
+    {
+     "term": "introduction special",
+     "count": 2
+    },
+    {
+     "term": "recent developments",
+     "count": 2
+    },
+    {
+     "term": "competition",
+     "count": 8
+    },
+    {
+     "term": "pricing",
+     "count": 6
+    },
+    {
+     "term": "merger",
+     "count": 6
+    }
+   ]
+  },
+  "aler": {
+   "count": 28,
+   "avg_authors": 2.1,
+   "terms": [
+    {
+     "term": "medicaid expansion",
+     "count": 2
+    },
+    {
+     "term": "disclosure",
+     "count": 3
+    },
+    {
+     "term": "judicial",
+     "count": 3
+    }
+   ]
+  },
+  "ecj": {
+   "count": 50,
+   "avg_authors": 1.3,
+   "terms": [
+    {
+     "term": "human rights",
+     "count": 28
+    },
+    {
+     "term": "european human",
+     "count": 7
+    },
+    {
+     "term": "rights committee",
+     "count": 3
+    },
+    {
+     "term": "rights older",
+     "count": 2
+    },
+    {
+     "term": "older persons",
+     "count": 2
+    },
+    {
+     "term": "inter-american human",
+     "count": 2
+    },
+    {
+     "term": "international covenant",
+     "count": 2
+    },
+    {
+     "term": "covenant economic",
+     "count": 2
+    },
+    {
+     "term": "rights",
+     "count": 41
+    },
+    {
+     "term": "human",
+     "count": 31
+    }
+   ]
+  },
+  "jla": {
+   "count": 2,
+   "avg_authors": 2.0,
+   "terms": []
+  },
+  "ylj": {
+   "count": 1,
+   "avg_authors": 2.0,
+   "terms": []
+  },
+  "alj": {
+   "count": 2,
+   "avg_authors": 1.5,
+   "terms": []
+  },
+  "jle": {
+   "count": 27,
+   "avg_authors": 2.7,
+   "terms": [
+    {
+     "term": "front matter",
+     "count": 3
+    },
+    {
+     "term": "matter",
+     "count": 4
+    },
+    {
+     "term": "act",
+     "count": 3
+    },
+    {
+     "term": "front",
+     "count": 3
+    }
+   ]
+  },
+  "rle": {
+   "count": 22,
+   "avg_authors": 1.9,
+   "terms": [
+    {
+     "term": "frontmatter",
+     "count": 3
+    },
+    {
+     "term": "punishment",
+     "count": 3
+    }
+   ]
+  },
+  "worldcomp": {
+   "count": 1,
+   "avg_authors": 2.0,
+   "terms": []
+  },
+  "jls": {
+   "count": 18,
+   "avg_authors": 2.2,
+   "terms": [
+    {
+     "term": "front matter",
+     "count": 2
+    }
+   ]
+  },
+  "hlr": {
+   "count": 1,
+   "avg_authors": 2.0,
+   "terms": []
+  },
+  "slr": {
+   "count": 1,
+   "avg_authors": 2.0,
+   "terms": []
+  },
+  "nyulr": {
+   "count": 1,
+   "avg_authors": 2.0,
+   "terms": []
+  },
+  "clr": {
+   "count": 1,
+   "avg_authors": 1.0,
+   "terms": []
+  }
+ }
+}

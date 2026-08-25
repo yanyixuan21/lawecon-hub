@@ -299,10 +299,47 @@ nav.tabs .tab-btn.active {
   background: var(--primary); color: #fff; border-color: var(--primary);
 }
 
-M_SPANID='0.45.2' /* 平台治理子分类条 */
-M_SPANID='0.45.3' .sub-cats { padding: 10px 0 0; margin: 0; }
-M_SPANID='0.45.4' CSSEOF
+/* 平台治理子分类条 */
+.sub-cats { padding: 10px 0 0; margin: 0; }
+CSSEOF
 echo "css appended"
 
 /* 平台治理子分类条 */
 .sub-cats { padding: 10px 0 0; margin: 0; }
+
+/* ---------- 学术外链（CP / S2） ---------- */
+.ext-links { margin-left: auto; display: inline-flex; gap: 4px; }
+.ext-links a {
+  font-size: 10px; font-weight: 700; line-height: 1;
+  padding: 3px 5px; border-radius: 4px;
+  text-decoration: none; letter-spacing: .3px;
+  background: var(--card-bg, #f1f3f5); border: 1px solid var(--line, #d8dee4); color: #6b7681;
+}
+.ext-links a:hover { border-color: #1f6feb; color: #1f6feb; }
+
+/* ---------- 议题热力图 ---------- */
+.heat-cloud {
+  display: flex; flex-wrap: wrap; gap: 10px 14px; align-items: center;
+  padding: 18px 4px; line-height: 1.5;
+}
+.heat-term {
+  color: #57606a; cursor: pointer; user-select: none;
+  transition: color .12s;
+}
+.heat-term:hover { color: #1f6feb; }
+.heat-section-title { font-size: 18px; margin: 26px 0 4px; }
+.heat-section-sub { font-size: 12px; color: #6b7681; margin: 0 0 14px; }
+
+/* ---------- 期刊选稿画像 ---------- */
+.profile-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px; }
+.profile-card {
+  background: var(--card-bg, #fff); border: 1px solid var(--line, #d8dee4);
+  border-radius: 10px; padding: 14px 16px;
+}
+.profile-name { margin: 0 0 2px; font-size: 15px; }
+.profile-sub { font-size: 11px; color: #8a939c; margin-bottom: 10px; }
+.profile-stats { display: flex; gap: 16px; font-size: 12px; color: #57606a; margin-bottom: 10px; }
+.profile-stats strong { font-size: 15px; color: #1f2328; }
+
+/* 期刊动态行内星标 */
+.pub-fav { color: #e3b341; margin-right: 2px; }
