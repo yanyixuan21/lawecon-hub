@@ -4,7 +4,7 @@
 
   var PAGE_SIZE = 200;
   var state = {
-    tab: "journals",       // journals | scholars | pubs | events | interviews
+    tab: "journals",       // journals | scholars | pubs | events | interviews | policy
     q: "",
     cat: "",
     journal: "",
@@ -34,10 +34,16 @@
     tabPubs: document.getElementById("tab-pubs"),
     tabEvents: document.getElementById("tab-events"),
     tabInterviews: document.getElementById("tab-interviews"),
+    tabPolicy: document.getElementById("tab-policy"),
     viewInterviews: document.getElementById("view-interviews"),
     interviewCount: document.getElementById("interview-count"),
     interviewList: document.getElementById("interview-list"),
     interviewEmpty: document.getElementById("interview-empty"),
+    viewPolicy: document.getElementById("view-policy"),
+    policyCount: document.getElementById("policy-count"),
+    policyCats: document.getElementById("policy-cats"),
+    policyList: document.getElementById("policy-list"),
+    policyEmpty: document.getElementById("policy-empty"),
     viewJournals: document.getElementById("view-journals"),
     viewScholars: document.getElementById("view-scholars"),
     viewPubs: document.getElementById("view-pubs"),
@@ -68,6 +74,9 @@
   var scholarArticles = [];
   var events = [];
   var interviews = [];
+  var policyItems = [];
+  var policyCats = [];
+  var policyCat = "";
   var typeNames = {
     interview: "访谈",
     conversation: "对话",
@@ -564,6 +573,65 @@
     el.interviewEmpty.classList.toggle("hidden", list.length !== 0);
   }
 
+  /* ---------- 平台治理板块 ---------- */
+
+  var policyCatMap = {};
+
+  function policyCardHTML(it) {
+    var cat = policyCatMap[it.category] || { name: it.category };
+    var tags = (it.tags || []).map(function (t) {
+      return '<span class="ev-field">' + esc(t) + "</span>";
+    }).join("");
+    return (
+      '<article class="ev-card ev-open">' +
+      '<div class="ev-top">' +
+      '<span class="ev-type">' + esc(cat.name) + "</span>" +
+      '<span class="ev-region">' + esc(it.region || "") + "</span>" +
+      '<span class="ev-status">' + esc(it.date || "") + "</span>" +
+      "</div>" +
+      '<h3 class="ev-name">' + esc(it.title) + "</h3>" +
+      '<div class="ev-meta"><span>机构</span>' + esc(it.authority || "—") + "</div>" +
+      (tags ? '<div class="ev-fields">' + tags + "</div>" : "") +
+      (it.note ? '<p class="ev-note">' + esc(it.note) + "</p>" : "") +
+      '<a class="ev-link" href="' + esc(it.url) + '" target="_blank" rel="noopener">查看官方来源 →</a>' +
+      "</article>"
+    );
+  }
+
+  function initPolicyCats() {
+    policyCatMap = {};
+    policyCats.forEach(function (c) { policyCatMap[c.id] = c; });
+    var btns = ['<button class="cat-btn' + (policyCat === "" ? " active" : "") + '" data-pcat="">全部</button>'];
+    policyCats.forEach(function (c) {
+      btns.push('<button class="cat-btn' + (policyCat === c.id ? " active" : "") + '" data-pcat="' + esc(c.id) + '">' + esc(c.name) + "</button>");
+    });
+    el.policyCats.innerHTML = btns.join("");
+    el.policyCats.querySelectorAll(".cat-btn").forEach(function (b) {
+      b.addEventListener("click", function () {
+        policyCat = b.getAttribute("data-pcat") || "";
+        el.policyCats.querySelectorAll(".cat-btn").forEach(function (x) { x.classList.remove("active"); });
+        b.classList.add("active");
+        renderPolicy();
+      });
+    });
+  }
+
+  function renderPolicy() {
+    var qs = state.q.trim().toLowerCase();
+    var list = policyItems.filter(function (it) {
+      if (policyCat && it.category !== policyCat) return false;
+      if (qs) {
+        var hay = (it.title + " " + (it.region || "") + " " + (it.authority || "") + " " + (it.tags || []).join(" ") + " " + (it.note || "")).toLowerCase();
+        if (hay.indexOf(qs) === -1) return false;
+      }
+      return true;
+    });
+    list.sort(function (x, y) { return (y.date || "").localeCompare(x.date || ""); });
+    el.policyCount.textContent = list.length ? "共 " + list.length + " 条监管动态" : "";
+    el.policyList.innerHTML = list.map(policyCardHTML).join("");
+    el.policyEmpty.classList.toggle("hidden", list.length !== 0);
+  }
+
   /* ---------- 页签切换 ---------- */
 
   function switchTab(tab) {
@@ -582,8 +650,10 @@
     el.tabPubs.classList.toggle("active", tab === "pubs");
     el.tabEvents.classList.toggle("active", tab === "events");
     el.tabInterviews.classList.toggle("active", tab === "interviews");
+    el.tabPolicy.classList.toggle("active", tab === "policy");
     el.viewEvents.classList.toggle("hidden", tab !== "events");
     el.viewInterviews.classList.toggle("hidden", tab !== "interviews");
+    el.viewPolicy.classList.toggle("hidden", tab !== "policy");
     el.viewJournals.classList.toggle("hidden", tab !== "journals");
     el.viewScholars.classList.toggle("hidden", tab !== "scholars");
     el.viewPubs.classList.toggle("hidden", tab !== "pubs");
@@ -600,6 +670,7 @@
     else if (state.tab === "scholars") renderScholars();
     else if (state.tab === "pubs") renderPubs();
     else if (state.tab === "interviews") renderInterviews();
+    else if (state.tab === "policy") renderPolicy();
     else renderEvents();
   }
 
@@ -656,6 +727,7 @@
   el.tabPubs.addEventListener("click", function () { switchTab("pubs"); });
   el.tabEvents.addEventListener("click", function () { switchTab("events"); });
   el.tabInterviews.addEventListener("click", function () { switchTab("interviews"); });
+  el.tabPolicy.addEventListener("click", function () { switchTab("policy"); });
 
   el.favToggle.addEventListener("click", function () {
     state.favOnly = !state.favOnly;
@@ -683,6 +755,7 @@
     fetch("data/scholar_articles.json").then(function (r) { return r.json(); }).catch(function () { return null; }),
     fetch("events.json").then(function (r) { return r.json(); }).catch(function () { return null; }),
     fetch("interviews.json").then(function (r) { return r.json(); }).catch(function () { return null; }),
+    fetch("policy_items.json").then(function (r) { return r.json(); }).catch(function () { return null; }),
   ]).then(function (res) {
     res[0].journals.forEach(function (j) { journals[j.id] = j; });
     articles = res[1].articles || [];
@@ -697,6 +770,9 @@
     }
     events = (res[4] && res[4].events) || [];
     interviews = (res[5] && res[5].items) || [];
+    policyCats = (res[6] && res[6].categories) || [];
+    policyItems = (res[6] && res[6].items) || [];
+    initPolicyCats();
     el.loading.classList.add("hidden");
     if (el.journalCount) el.journalCount.textContent = Object.keys(journals).filter(function (k) { return journals[k].enabled; }).length;
     if (el.scholarCount) el.scholarCount.textContent = scholars.length;
@@ -710,6 +786,7 @@
     renderPubs();
     renderEvents();
     renderInterviews();
+    renderPolicy();
     if (!scholarArticles.length) {
       el.scholarEmpty.textContent = "学者数据生成中，请稍后再来。";
       el.scholarEmpty.classList.remove("hidden");

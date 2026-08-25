@@ -1,0 +1,143 @@
+{
+  "updated_at": "2026-08-25",
+  "categories": [
+    { "id": "fees", "name": "收费与佣金限制" },
+    { "id": "business", "name": "平台与商户关系" },
+    { "id": "pricing", "name": "补贴与定价行为" },
+    { "id": "selfpref", "name": "自我优待与互操作" }
+  ],
+  "items": [
+    {
+      "id": "jp-smartphone-act-2024",
+      "category": "fees",
+      "date": "2024-06-12",
+      "region": "日本",
+      "authority": "日本国会（JFTC 为指定监管机构）",
+      "title": "日本《智能手机软件竞争促进法》施行",
+      "note": "全球首部专门针对 app store 商业模式的竞争法：要求移动 OS 提供商允许第三方应用商店与外链支付，违规可处日本国内销售额 20% 罚款（连续违规 30%）。2025 年 JFTC 已指定 Apple 与 Google 为适用对象。",
+      "url": "https://www.jftc.go.jp/en/legislation/smartphone.html",
+      "tags": ["佣金", "App Store", "立法"]
+    },
+    {
+      "id": "kr-kftc-app-pg-2024",
+      "category": "fees",
+      "date": "2024-03-11",
+      "region": "韩国",
+      "authority": "韩国公平交易委员会（KFTC）",
+      "title": "KFTC 对 Google Play 与 One Store 应用内购买佣金行为罚款",
+      "note": "KFTC 认定 Google 与 One Store 强制开发者使用自家支付系统、禁止外链支付，构成滥用市场支配地位，合计罚款约 1185 亿韩元（Google 约 475 亿、One Store 约 710 亿）。全球最早对 app store 抽成结构执法的案例之一。",
+      "url": "https://koreabizwire.com/s-korea-seeks-68-bln-won-of-fines-on-google-apple-for-in-app-billing-irregularities",
+      "tags": ["佣金", "App Store", "韩国"]
+    },
+    {
+      "id": "eu-dma-apple-meta-noncompliance-2025",
+      "category": "fees",
+      "date": "2025-04-23",
+      "region": "欧盟",
+      "authority": "欧盟委员会",
+      "title": "欧盟对 Apple 与 Meta 违反 DMA 处以首批罚款",
+      "note": "Apple 的 App Store 反引导规则违反 DMA 第5(4)条（罚 5 亿欧元），Meta 的「付费或同意」模式违反第5(2)条（罚 2 亿欧元）。直接针对收费结构与用户选择强制，是 DMA 首批不合规处罚。",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_25_1168",
+      "tags": ["DMA", "佣金", "反引导", "App Store"]
+    },
+    {
+      "id": "us-epic-v-apple-contempt-2025",
+      "category": "fees",
+      "date": "2025-04-30",
+      "region": "美国",
+      "authority": "加州北区联邦地区法院",
+      "title": "Epic v. Apple：法院认定 Apple 藐视法庭，反引导禁令全国生效",
+      "note": "Yvonne Gonzalez Rogers 法官认定 Apple 在 2021 年禁令执行中违反禁令构成藐视法庭：全国性反引导条款即日失效，Apple 不得对引导性购买收取任何费用，并承担 Epic 律师费。Apple 已上诉，最高法院 2025 年拒绝暂停执行。",
+      "url": "https://www.courtlistener.com/docket/57605521/epic-games-inc-v-apple-inc/",
+      "tags": ["反引导", "佣金", "App Store", "诉讼"]
+    },
+    {
+      "id": "us-nyc-delivery-fee-cap-2020",
+      "category": "fees",
+      "date": "2020-05-13",
+      "region": "美国·纽约市",
+      "authority": "纽约市议会",
+      "title": "纽约市外卖配送费上限（及后续演变）",
+      "note": "疫情期间纽约市立法限制外卖平台对商户的收费（佣金上限 20%、刷卡费等），多城市跟进。2025 年市议会转而投票取消配送费上限，转向透明度监管；DoorDash/Grubhub/Uber Eats 与市府和解。费率上限路线的完整兴衰样本。",
+      "url": "https://www.nyc.gov/site/dca/about/delivery-fee-caps.page",
+      "tags": ["佣金", "外卖", "立法"]
+    },
+    {
+      "id": "kr-platform-fairness-act-2024",
+      "category": "fees",
+      "date": "2024-12-26",
+      "region": "韩国",
+      "authority": "韩国国会",
+      "title": "韩国《平台公平化法》通过",
+      "note": "将具有市场支配地位的平台认定为「平台主导企业」，施加不公平行为禁止、争议调解等义务，首批覆盖外卖与应用商店。与「外卖十条」可比性最强的域外专门平台立法。",
+      "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%ED%94%8C%EB%9E%AB%ED%8F%BC%EA%B3%B5%EC%A0%95%ED%99%94%EB%B2%95",
+      "tags": ["平台立法", "佣金", "外卖", "韩国"]
+    },
+    {
+      "id": "eu-p2b-italy-amazon-2021",
+      "category": "business",
+      "date": "2021-11-23",
+      "region": "意大利 / 欧盟",
+      "authority": "意大利竞争监管局（AGCM）",
+      "title": "意大利对 Amazon 自我优待与物流捆绑罚款 11.28 亿欧元",
+      "note": "AGCM 认定 Amazon 只向使用其 FBA 物流的卖家提供 Buy Box 展示，损害其他卖家与物流竞争者。P2B 时代平台与商户关系执法的标杆案件。",
+      "url": "https://en.agcm.it/en/media/press-releases/2021/12/A528",
+      "tags": ["P2B", "Buy Box", "自我优待", "平台与商户"]
+    },
+    {
+      "id": "eu-booking-parity-2024",
+      "category": "business",
+      "date": "2024-05-24",
+      "region": "欧盟",
+      "authority": "欧盟委员会",
+      "title": "欧盟将 Booking 的平价条款整改承诺变为有法律约束力",
+      "note": "Booking 承诺在 EEA 范围内去除宽窄两类 MFN 平价条款对酒店定价自由的限制，为期五年，欧盟委员会作出决定使其具法律约束力。同期 ECJ 在 C-264/23 案判决平价条款不构成附属性限制。",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/booking-must-now-comply-digital-markets-act",
+      "tags": ["MFN", "平价条款", "OTA", "平台与商户"]
+    },
+    {
+      "id": "in-cci-zomato-swiggy-2022",
+      "category": "business",
+      "date": "2022-06-30",
+      "region": "印度",
+      "authority": "印度竞争委员会（CCI）",
+      "title": "CCI 对 Zomato/Swiggy 发起正式调查",
+      "note": "CCI 依第26(1)条指令调查两平台对餐厅的排他性条款、高佣金与配送优先级问题（ NRAI 投诉），涉及平台与商户关系的核心争议。后续 2025 年 1 月提交调查报告。",
+      "url": "https://www.azbpartners.com/bank/orders-under-section-261-of-the-act-cci-directs-investigation-against-zomato-and-swiggy/",
+      "tags": ["佣金", "排他", "外卖", "平台与商户"]
+    },
+    {
+      "id": "id-permendag-31-2023",
+      "category": "pricing",
+      "date": "2023-09-26",
+      "region": "印尼",
+      "authority": "印尼贸易部",
+      "title": "印尼 Permendag 31/2023：社媒电商禁令与低价限制",
+      "note": "禁止社媒平台从事电商交易（TikTok Shop 被迫关闭后借 Tokopedia 牌照回归），并要求进口商品最低定价 100 美元以限制低价倾销。低价限制思路在 2024 新规中延续。",
+      "url": "https://www.toutiao.com/article/7512240443191558683/",
+      "tags": ["低价限制", "社媒电商", "补贴"]
+    },
+    {
+      "id": "eu-google-shopping-2017",
+      "category": "selfpref",
+      "date": "2017-05-27",
+      "region": "欧盟",
+      "authority": "欧盟委员会",
+      "title": "Google Shopping 案：自我优待执法的开端",
+      "note": "认定 Google 在搜索结果中优待自家比价服务，罚款 24.2 亿欧元。开创「自我优待」执法先例，后成为 DMA 第6(5)条禁令的判例基础。",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_17_1784",
+      "tags": ["自我优待", "搜索引擎", "执法"]
+    },
+    {
+      "id": "uk-cma-sms-2025",
+      "category": "selfpref",
+      "date": "2025-10-22",
+      "region": "英国",
+      "authority": "英国竞争与市场管理局（CMA）",
+      "title": "CMA 指定 Google/Apple 为移动平台战略市场地位（SMS）",
+      "note": "依《数字市场、竞争与消费者法》（DMCC）作出首批 SMS 指定，将施加公平交易、互操作等定制行为义务。指定后 CMA 随即提出移动市场竞争整改方案。",
+      "url": "https://www.gov.uk/government/news/cma-confirms-apple-and-google-have-strategic-market-status-in-mobile-platforms",
+      "tags": ["DMCC", "战略市场地位", "英国"]
+    }
+  ]
+}

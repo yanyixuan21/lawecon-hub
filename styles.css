@@ -298,3 +298,11 @@ nav.tabs .tab-btn:hover { border-color: var(--primary); }
 nav.tabs .tab-btn.active {
   background: var(--primary); color: #fff; border-color: var(--primary);
 }
+
+M_SPANID='0.45.2' /* 平台治理子分类条 */
+M_SPANID='0.45.3' .sub-cats { padding: 10px 0 0; margin: 0; }
+M_SPANID='0.45.4' CSSEOF
+echo "css appended"
+
+/* 平台治理子分类条 */
+.sub-cats { padding: 10px 0 0; margin: 0; }
