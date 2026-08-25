@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-25 13:14",
+ "updated_at": "2026-08-25 13:18",
  "doc_count": 389,
  "heat": [
   {
@@ -57,10 +57,6 @@
   {
    "term": "judges",
    "count": 12
-  },
-  {
-   "term": "editorial board",
-   "count": 11
   },
   {
    "term": "judicial",
@@ -281,6 +277,10 @@
   {
    "term": "design",
    "count": 6
+  },
+  {
+   "term": "input",
+   "count": 6
   }
  ],
  "profiles": {
@@ -288,10 +288,6 @@
    "count": 101,
    "avg_authors": 2.5,
    "terms": [
-    {
-     "term": "editorial board",
-     "count": 7
-    },
     {
      "term": "market definition",
      "count": 3
@@ -321,6 +317,10 @@
      "count": 2
     },
     {
+     "term": "information disclosure",
+     "count": 2
+    },
+    {
      "term": "market",
      "count": 15
     },
@@ -334,10 +334,6 @@
    "count": 49,
    "avg_authors": 2.3,
    "terms": [
-    {
-     "term": "editorial board",
-     "count": 4
-    },
     {
      "term": "williamson legacy",
      "count": 2
@@ -371,8 +367,12 @@
      "count": 4
     },
     {
-     "term": "editorial",
-     "count": 4
+     "term": "firms",
+     "count": 3
+    },
+    {
+     "term": "rules",
+     "count": 3
     }
    ]
   },
@@ -538,19 +538,7 @@
    "avg_authors": 2.7,
    "terms": [
     {
-     "term": "front matter",
-     "count": 3
-    },
-    {
-     "term": "matter",
-     "count": 4
-    },
-    {
      "term": "act",
-     "count": 3
-    },
-    {
-     "term": "front",
      "count": 3
     }
    ]
@@ -559,10 +547,6 @@
    "count": 22,
    "avg_authors": 1.9,
    "terms": [
-    {
-     "term": "frontmatter",
-     "count": 3
-    },
     {
      "term": "punishment",
      "count": 3
@@ -577,12 +561,7 @@
   "jls": {
    "count": 18,
    "avg_authors": 2.2,
-   "terms": [
-    {
-     "term": "front matter",
-     "count": 2
-    }
-   ]
+   "terms": []
   },
   "hlr": {
    "count": 1,

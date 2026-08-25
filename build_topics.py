@@ -35,6 +35,7 @@ find show shows found evidence effect effects impact results result
 argue argues argued suggest suggests provides provide examines
 has have had also using used use toward however whether
 model models legal policy court courts case cases study studies
+front frontmatter matter editorial board mastcard table contents
 article paper research empirical analysis
 """.split())
 
