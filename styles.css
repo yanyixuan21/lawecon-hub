@@ -73,7 +73,7 @@ header {
 
 /* Hero */
 .hero { background: linear-gradient(135deg, #eef3fa 0%, #e0e7f2 100%); border-bottom: 1px solid var(--border); }
-.hero-inner { max-width: 1080px; margin: 0 auto; padding: 22px 20px 18px; position: relative; }
+.hero-inner { max-width: 1080px; margin: 0 auto; padding: 26px 20px 22px; position: relative; }
 .hero p { margin: 0 0 6px; font-size: 14px; color: #3b4a5e; line-height: 1.55; }
 .hero p strong { color: var(--primary); }
 .hero p a { color: var(--primary); text-decoration: none; }
@@ -85,12 +85,12 @@ header {
 main { max-width: 1080px; margin: 0 auto; padding: 18px 20px 40px; }
 .status-bar {
   display: flex; justify-content: space-between; align-items: baseline;
-  font-size: 13px; color: var(--muted); margin-bottom: 14px;
+  font-size: 13px; color: var(--muted); margin-bottom: 20px;
 }
 #loading, #empty { text-align: center; color: var(--muted); padding: 48px 0; font-size: 14px; }
 .hidden { display: none !important; }
 
-.grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+.grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; align-items: stretch; }
 @media (max-width: 720px) { .grid { grid-template-columns: 1fr; } }
 
 .card {
@@ -197,6 +197,10 @@ footer {
 .footer-inner { max-width: 1080px; margin: 0 auto; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px; }
 .footer-inner a { color: var(--muted); text-decoration: none; }
 .footer-inner a:hover { text-decoration: underline; }
+/* 分类筛选与内容区间距 */
+#policy-cats { margin-bottom: 24px; }
+#event-cats { margin-bottom: 24px; }
+#interview-cats { margin-bottom: 24px; }
 
 /* ===================== 期刊动态板块 ===================== */
 #pub-list { max-width: 1080px; margin: 0 auto; padding: 0 20px 40px; }
