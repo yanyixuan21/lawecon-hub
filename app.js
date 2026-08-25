@@ -86,8 +86,10 @@
   var typeNames = {
     interview: "访谈",
     conversation: "对话",
+    dialogue: "对谈",
     lecture: "演讲/讲座",
     memorial: "纪念文章",
+    classic: "经典对谈",
     podcast: "播客",
   };
   var catNames = {
