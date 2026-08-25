@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-08-25 13:18",
- "doc_count": 389,
+ "updated_at": "2026-08-25 08:24",
+ "doc_count": 390,
  "heat": [
   {
    "term": "human rights",
@@ -8,7 +8,7 @@
   },
   {
    "term": "pricing",
-   "count": 23
+   "count": 24
   },
   {
    "term": "innovation",
@@ -55,6 +55,10 @@
    "count": 13
   },
   {
+   "term": "incentives",
+   "count": 12
+  },
+  {
    "term": "judges",
    "count": 12
   },
@@ -64,10 +68,6 @@
   },
   {
    "term": "state",
-   "count": 11
-  },
-  {
-   "term": "incentives",
    "count": 11
   },
   {
@@ -100,6 +100,10 @@
   },
   {
    "term": "economics",
+   "count": 9
+  },
+  {
+   "term": "collusion",
    "count": 9
   },
   {
@@ -163,10 +167,6 @@
    "count": 8
   },
   {
-   "term": "collusion",
-   "count": 8
-  },
-  {
    "term": "investment",
    "count": 8
   },
@@ -193,6 +193,22 @@
   {
    "term": "crime",
    "count": 8
+  },
+  {
+   "term": "after",
+   "count": 7
+  },
+  {
+   "term": "major",
+   "count": 7
+  },
+  {
+   "term": "decisions",
+   "count": 7
+  },
+  {
+   "term": "due",
+   "count": 7
   },
   {
    "term": "propose",
@@ -264,22 +280,6 @@
   },
   {
    "term": "european convention",
-   "count": 6
-  },
-  {
-   "term": "convention human",
-   "count": 6
-  },
-  {
-   "term": "legitimate aims",
-   "count": 6
-  },
-  {
-   "term": "design",
-   "count": 6
-  },
-  {
-   "term": "input",
    "count": 6
   }
  ],
@@ -376,13 +376,8 @@
     }
    ]
   },
-  "jeclap": {
-   "count": 2,
-   "avg_authors": 1.5,
-   "terms": []
-  },
   "jie": {
-   "count": 37,
+   "count": 38,
    "avg_authors": 2.0,
    "terms": [
     {
@@ -402,6 +397,11 @@
      "count": 3
     }
    ]
+  },
+  "jeclap": {
+   "count": 2,
+   "avg_authors": 1.5,
+   "terms": []
   },
   "jcle": {
    "count": 3,

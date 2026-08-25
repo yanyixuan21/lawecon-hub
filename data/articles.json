@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-08-25",
- "count": 389,
+ "updated_at": "2026-08-25 08:23",
+ "count": 390,
  "articles": [
   {
    "doi": "10.1016/j.ijindorg.2026.103320",
@@ -225,6 +225,19 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.irle.2026.106348"
+  },
+  {
+   "doi": "10.1111/joie.70042",
+   "title": "Coordinated Effects in the American Airlines‐US Airways Merger",
+   "authors": [
+    "C. Turner D"
+   ],
+   "journal": "The Journal of Industrial Economics",
+   "journal_id": "jie",
+   "date": "2026-08-24",
+   "abstract": "ABSTRACT I study the potential for collusion before and after the American Airlines‐US Airways merger. Results suggest the merger increased major airlines' incentives to coordinate their pricing decisions. US Airways was disinclined to collude prior to the merger due to its unique route structure which was highly dependent on connecting products. The merger, by combining the networks of US Airways and American Airlines, reduced US Airways' dependence on connecting products and enhanced its incentives to collude. Absent US Airways' unique premerger network structure, the merger would not have substantially increased major airlines' incentives to collude.",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1111/joie.70042"
   },
   {
    "doi": "10.1093/jeclap/jvab077",
