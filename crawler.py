@@ -143,6 +143,16 @@ def crawl(days=365, fixture=False):
             title = (item.get("title") or [""])[0]
             if not doi or not title:
                 continue
+            actual_journal = (item.get("container-title") or [""])[0]
+            # ISSN 配置错误防护：Crossref 返回的实际刊名与配置刊名明显不一致时拒收并报错
+            if actual_journal and actual_journal.strip().lower() != j["name"].strip().lower():
+                log_error(
+                    "ISSN mismatch for %s (config ISSN %s): got '%s' — check journals.json"
+                    % (j["name"], issn, actual_journal)
+                )
+                fail += 1
+                items = []  # 丢弃该期刊本轮全部条目
+                break
             d = parse_date(item.get("published")) or parse_date(item.get("published-online"))
             if d is None or d < cutoff:
                 continue

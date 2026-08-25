@@ -14,7 +14,7 @@
       "id": "ecj",
       "name": "European Competition Journal",
       "name_cn": "欧洲竞争杂志",
-      "issn": "1744-1021",
+      "issn": "1744-1056",
       "category": "competition",
       "enabled": true,
       "issn_verify": true
@@ -198,6 +198,42 @@
       "category": "law-review",
       "enabled": true,
       "issn_verify": false
+    },
+    {
+      "id": "clsr",
+      "name": "Computer Law & Security Review",
+      "name_cn": "计算机法律与安全评论",
+      "issn": "0267-3649",
+      "category": "competition",
+      "enabled": true,
+      "issn_verify": true
+    },
+    {
+      "id": "ejle",
+      "name": "European Journal of Law and Economics",
+      "name_cn": "欧洲法与经济学杂志",
+      "issn": "0929-1261",
+      "category": "law-econ",
+      "enabled": true,
+      "issn_verify": true
+    },
+    {
+      "id": "elj",
+      "name": "European Law Journal",
+      "name_cn": "欧洲法杂志",
+      "issn": "1358-1877",
+      "category": "competition",
+      "enabled": true,
+      "issn_verify": true
+    },
+    {
+      "id": "rand",
+      "name": "RAND Journal of Economics",
+      "name_cn": "兰德经济学杂志",
+      "issn": "0741-6261",
+      "category": "io",
+      "enabled": true,
+      "issn_verify": true
     }
   ]
 }
