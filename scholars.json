@@ -199,6 +199,14 @@
       "focus": "反垄断法与平台经济、数字市场",
       "tier": "B",
       "openalex_id": null
+    },
+    {
+      "id": "herbert-hovenkamp",
+      "name": "Herbert Hovenkamp",
+      "institution": "University of Pennsylvania Carey Law School",
+      "focus": "反垄断法、创新与竞争政策",
+      "tier": "A",
+      "openalex_id": null
     }
   ]
 }
