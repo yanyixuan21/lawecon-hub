@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-08-24 19:49",
- "count": 50,
+ "updated_at": "2026-08-25 03:28",
+ "count": 51,
  "articles": [
   {
    "doi": "10.1016/j.clsr.2026.106389",
@@ -944,6 +944,22 @@
    "scholar_id": "frank-pasquale",
    "scholar_name": "Frank Pasquale",
    "scholar_institution": "University of Maryland"
+  },
+  {
+   "doi": "10.18800/themis.202501.019",
+   "title": "Entrevista: inteligencia artificial, Big Tech y Regulación: entre la innovación y el control del Gobierno",
+   "authors": [
+    "Randal C. Picker"
+   ],
+   "journal": "THEMIS Revista de Derecho",
+   "journal_id": "",
+   "date": "2025-08-27",
+   "abstract": "Este artículo explora las tensiones entre la innovación y el poder de los gobiernos en la regulación de la inteligencia artificial y las Big Tech. Mientras Europa adopta marcos regulatorios proactivos como la Ley de Mercados Digitales, aprovechando su tradición jurídica sofisticada, Estados Unidos mantiene un enfoque reactivo, basado en principios generales y litigios antimonopolio. China, por su parte, representa un modelo distinto de gobernanza centralizada. El texto analiza los límites de herramientas jurídicas tradicionales –como el derecho de autor, el derecho de la competencia y la actuación de las agencias– y cuestiona si sus justificaciones siguen siendo válidas en la era digital. Asimismo, examina los factores ideológicos y políticos detrás de las tendencias regulatorias actuales y plantea el reto de medir el poder de las Big Tech más allá de las métricas de mercado.",
+   "type": "editorial",
+   "url": "https://doi.org/10.18800/themis.202501.019",
+   "scholar_id": "randal-picker",
+   "scholar_name": "Randal C. Picker",
+   "scholar_institution": "University of Chicago Law School"
   },
   {
    "doi": "10.1086/738343",
