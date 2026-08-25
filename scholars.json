@@ -1,28 +1,204 @@
 {
   "scholars": [
-    {"id": "jacques-cremer", "name": "Jacques Crémer", "institution": "Toulouse School of Economics", "focus": "数字市场竞争政策", "tier": "A", "openalex_id": null},
-    {"id": "heike-schweitzer", "name": "Heike Schweitzer", "institution": "Humboldt University Berlin", "focus": "DMA立法设计", "tier": "A", "openalex_id": null},
-    {"id": "frederic-jenny", "name": "Frédéric Jenny", "institution": "ESSEC Business School", "focus": "竞争政策全球协调", "tier": "A", "openalex_id": null},
-    {"id": "nicolas-petit", "name": "Nicolas Petit", "institution": "University of Liège", "focus": "自我优待理论", "tier": "A", "openalex_id": null},
-    {"id": "pinar-akman", "name": "Pinar Akman", "institution": "University of Leeds", "focus": "平台中立义务", "tier": "A", "openalex_id": null},
-    {"id": "lina-khan", "name": "Lina Khan", "institution": "Columbia Law School", "focus": "平台反垄断", "tier": "A", "openalex_id": null},
-    {"id": "tommaso-valletti", "name": "Tommaso Valletti", "institution": "Imperial College London", "focus": "数字市场经济学", "tier": "A", "openalex_id": null},
-    {"id": "daniel-condorelli", "name": "Daniel Condorelli", "institution": "University of Warwick", "focus": "自我优待经济模型", "tier": "A", "openalex_id": null},
-    {"id": "jorge-padilla", "name": "Jorge Padilla", "institution": "Compass Lexecon", "focus": "垂直整合经济学", "tier": "A", "openalex_id": null},
-    {"id": "cristina-caffarra", "name": "Cristina Caffarra", "institution": "CEPR", "focus": "数字市场实证分析", "tier": "A", "openalex_id": null},
-    {"id": "fiona-scott-morton", "name": "Fiona Scott Morton", "institution": "Yale University", "focus": "数字平台经济学", "tier": "B", "openalex_id": null},
-    {"id": "jean-tirole", "name": "Jean Tirole", "institution": "Toulouse School of Economics", "focus": "双边市场理论", "tier": "B", "openalex_id": null},
-    {"id": "carl-shapiro", "name": "Carl Shapiro", "institution": "UC Berkeley", "focus": "并购分析", "tier": "B", "openalex_id": null},
-    {"id": "tim-wu", "name": "Tim Wu", "institution": "Columbia Law School", "focus": "注意力经济与互联网治理", "tier": "B", "openalex_id": null},
-    {"id": "ariel-ezrachi", "name": "Ariel Ezrachi", "institution": "University of Oxford", "focus": "算法共谋", "tier": "B", "openalex_id": null},
-    {"id": "konstantinos-stylianou", "name": "Konstantinos Stylianou", "institution": "University of Leeds", "focus": "平台互操作性", "tier": "B", "openalex_id": null},
-    {"id": "gregory-crawford", "name": "Gregory Crawford", "institution": "University of Zurich", "focus": "媒体市场竞争", "tier": "B", "openalex_id": null},
-    {"id": "daniel-solove", "name": "Daniel Solove", "institution": "George Washington University", "focus": "信息隐私法", "tier": "D", "openalex_id": null},
-    {"id": "woodrow-hartzog", "name": "Woodrow Hartzog", "institution": "Boston University", "focus": "隐私与数据保护", "tier": "D", "openalex_id": null},
-    {"id": "neil-richards", "name": "Neil Richards", "institution": "Washington University in St. Louis", "focus": "信息法与言论自由", "tier": "D", "openalex_id": null},
-    {"id": "orla-lynskey", "name": "Orla Lynskey", "institution": "University of Cambridge", "focus": "数字权利与数据保护法", "tier": "D", "openalex_id": null},
-    {"id": "inge-graef", "name": "Inge Graef", "institution": "Tilburg University", "focus": "数据竞争与平台监管", "tier": "D", "openalex_id": null},
-    {"id": "frank-pasquale", "name": "Frank Pasquale", "institution": "University of Maryland", "focus": "算法治理与黑箱社会", "tier": "D", "openalex_id": null},
-    {"id": "salome-viljoen", "name": "Salomé Viljoen", "institution": "University of Michigan", "focus": "数据治理与算法经济", "tier": "D", "openalex_id": null}
+    {
+      "id": "jacques-cremer",
+      "name": "Jacques Crémer",
+      "institution": "Toulouse School of Economics",
+      "focus": "数字市场竞争政策",
+      "tier": "A",
+      "openalex_id": null
+    },
+    {
+      "id": "heike-schweitzer",
+      "name": "Heike Schweitzer",
+      "institution": "Humboldt University Berlin",
+      "focus": "DMA立法设计",
+      "tier": "A",
+      "openalex_id": null
+    },
+    {
+      "id": "frederic-jenny",
+      "name": "Frédéric Jenny",
+      "institution": "ESSEC Business School",
+      "focus": "竞争政策全球协调",
+      "tier": "A",
+      "openalex_id": null
+    },
+    {
+      "id": "nicolas-petit",
+      "name": "Nicolas Petit",
+      "institution": "University of Liège",
+      "focus": "自我优待理论",
+      "tier": "A",
+      "openalex_id": null
+    },
+    {
+      "id": "pinar-akman",
+      "name": "Pinar Akman",
+      "institution": "University of Leeds",
+      "focus": "平台中立义务",
+      "tier": "A",
+      "openalex_id": null
+    },
+    {
+      "id": "lina-khan",
+      "name": "Lina Khan",
+      "institution": "Columbia Law School",
+      "focus": "平台反垄断",
+      "tier": "A",
+      "openalex_id": null
+    },
+    {
+      "id": "tommaso-valletti",
+      "name": "Tommaso Valletti",
+      "institution": "Imperial College London",
+      "focus": "数字市场经济学",
+      "tier": "A",
+      "openalex_id": null
+    },
+    {
+      "id": "daniel-condorelli",
+      "name": "Daniel Condorelli",
+      "institution": "University of Warwick",
+      "focus": "自我优待经济模型",
+      "tier": "A",
+      "openalex_id": null
+    },
+    {
+      "id": "jorge-padilla",
+      "name": "Jorge Padilla",
+      "institution": "Compass Lexecon",
+      "focus": "垂直整合经济学",
+      "tier": "A",
+      "openalex_id": null
+    },
+    {
+      "id": "cristina-caffarra",
+      "name": "Cristina Caffarra",
+      "institution": "CEPR",
+      "focus": "数字市场实证分析",
+      "tier": "A",
+      "openalex_id": null
+    },
+    {
+      "id": "fiona-scott-morton",
+      "name": "Fiona Scott Morton",
+      "institution": "Yale University",
+      "focus": "数字平台经济学",
+      "tier": "B",
+      "openalex_id": null
+    },
+    {
+      "id": "jean-tirole",
+      "name": "Jean Tirole",
+      "institution": "Toulouse School of Economics",
+      "focus": "双边市场理论",
+      "tier": "B",
+      "openalex_id": null
+    },
+    {
+      "id": "carl-shapiro",
+      "name": "Carl Shapiro",
+      "institution": "UC Berkeley",
+      "focus": "并购分析",
+      "tier": "B",
+      "openalex_id": null
+    },
+    {
+      "id": "tim-wu",
+      "name": "Tim Wu",
+      "institution": "Columbia Law School",
+      "focus": "注意力经济与互联网治理",
+      "tier": "B",
+      "openalex_id": null
+    },
+    {
+      "id": "ariel-ezrachi",
+      "name": "Ariel Ezrachi",
+      "institution": "University of Oxford",
+      "focus": "算法共谋",
+      "tier": "B",
+      "openalex_id": null
+    },
+    {
+      "id": "konstantinos-stylianou",
+      "name": "Konstantinos Stylianou",
+      "institution": "University of Leeds",
+      "focus": "平台互操作性",
+      "tier": "B",
+      "openalex_id": null
+    },
+    {
+      "id": "gregory-crawford",
+      "name": "Gregory Crawford",
+      "institution": "University of Zurich",
+      "focus": "媒体市场竞争",
+      "tier": "B",
+      "openalex_id": null
+    },
+    {
+      "id": "daniel-solove",
+      "name": "Daniel Solove",
+      "institution": "George Washington University",
+      "focus": "信息隐私法",
+      "tier": "D",
+      "openalex_id": null
+    },
+    {
+      "id": "woodrow-hartzog",
+      "name": "Woodrow Hartzog",
+      "institution": "Boston University",
+      "focus": "隐私与数据保护",
+      "tier": "D",
+      "openalex_id": null
+    },
+    {
+      "id": "neil-richards",
+      "name": "Neil Richards",
+      "institution": "Washington University in St. Louis",
+      "focus": "信息法与言论自由",
+      "tier": "D",
+      "openalex_id": null
+    },
+    {
+      "id": "orla-lynskey",
+      "name": "Orla Lynskey",
+      "institution": "University of Cambridge",
+      "focus": "数字权利与数据保护法",
+      "tier": "D",
+      "openalex_id": null
+    },
+    {
+      "id": "inge-graef",
+      "name": "Inge Graef",
+      "institution": "Tilburg University",
+      "focus": "数据竞争与平台监管",
+      "tier": "D",
+      "openalex_id": null
+    },
+    {
+      "id": "frank-pasquale",
+      "name": "Frank Pasquale",
+      "institution": "University of Maryland",
+      "focus": "算法治理与黑箱社会",
+      "tier": "D",
+      "openalex_id": null
+    },
+    {
+      "id": "salome-viljoen",
+      "name": "Salomé Viljoen",
+      "institution": "University of Michigan",
+      "focus": "数据治理与算法经济",
+      "tier": "D",
+      "openalex_id": null
+    },
+    {
+      "id": "randal-picker",
+      "name": "Randal C. Picker",
+      "institution": "University of Chicago Law School",
+      "focus": "反垄断法与平台经济、数字市场",
+      "tier": "B",
+      "openalex_id": null
+    }
   ]
 }
