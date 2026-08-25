@@ -146,6 +146,10 @@ def crawl(days=365, fixture=False):
             d = parse_date(item.get("published")) or parse_date(item.get("published-online"))
             if d is None or d < cutoff:
                 continue
+            # Crossref 的 published 可能是纸质刊期未来日期（early access），clamp 到今天
+            today = datetime.date.today()
+            if d > today:
+                d = today
             existing[doi] = {
                 "doi": item["DOI"],
                 "title": title,
