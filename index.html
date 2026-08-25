@@ -36,6 +36,7 @@
     <button class="tab-btn" id="tab-scholars" type="button">学者名录</button>
     <button class="tab-btn" id="tab-pubs" type="button">期刊动态</button>
     <button class="tab-btn" id="tab-events" type="button">会议与征稿</button>
+    <button class="tab-btn" id="tab-interviews" type="button">访谈与对话</button>
   </nav>
 </header>
 
@@ -100,11 +101,21 @@
     <div id="scholar-list" class="grid"></div>
     <button id="scholar-load-more" class="hidden">加载更多</button>
   </section>
+
+  <!-- 访谈与对话板块 -->
+  <section id="view-interviews" class="hidden">
+    <div class="status-bar">
+      <span id="interview-count"></span>
+      <span class="muted">访谈、对话、演讲与学者纪念文章，人工整理收录</span>
+    </div>
+    <div id="interview-empty" class="hidden">暂无访谈内容</div>
+    <div id="interview-list" class="event-grid"></div>
+  </section>
 </main>
 
 <footer>
   <div class="footer-inner">
-    <span>数据来自 <a href="https://www.crossref.org" target="_blank" rel="noopener">Crossref</a> · <a href="https://openalex.org" target="_blank" rel="noopener">OpenAlex</a> · 会议信息人工整理</span>
+    <span>数据来自 <a href="https://www.crossref.org" target="_blank" rel="noopener">Crossref</a> · <a href="https://openalex.org" target="_blank" rel="noopener">OpenAlex</a> · 会议与访谈信息人工整理</span>
     <span class="footer-right">构建于 <a href="https://pages.github.com" target="_blank" rel="noopener">GitHub Pages</a></span>
   </div>
 </footer>

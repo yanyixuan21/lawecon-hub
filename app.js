@@ -4,7 +4,7 @@
 
   var PAGE_SIZE = 200;
   var state = {
-    tab: "journals",       // journals | scholars | pubs | events
+    tab: "journals",       // journals | scholars | pubs | events | interviews
     q: "",
     cat: "",
     journal: "",
@@ -33,6 +33,11 @@
     tabScholars: document.getElementById("tab-scholars"),
     tabPubs: document.getElementById("tab-pubs"),
     tabEvents: document.getElementById("tab-events"),
+    tabInterviews: document.getElementById("tab-interviews"),
+    viewInterviews: document.getElementById("view-interviews"),
+    interviewCount: document.getElementById("interview-count"),
+    interviewList: document.getElementById("interview-list"),
+    interviewEmpty: document.getElementById("interview-empty"),
     viewJournals: document.getElementById("view-journals"),
     viewScholars: document.getElementById("view-scholars"),
     viewPubs: document.getElementById("view-pubs"),
@@ -62,6 +67,14 @@
   var articles = [];
   var scholarArticles = [];
   var events = [];
+  var interviews = [];
+  var typeNames = {
+    interview: "访谈",
+    conversation: "对话",
+    lecture: "演讲/讲座",
+    memorial: "纪念文章",
+    podcast: "播客",
+  };
   var catNames = {
     competition: "竞争法",
     "law-econ": "法经济学",
@@ -507,6 +520,50 @@
     el.eventEmpty.classList.toggle("hidden", list.length !== 0);
   }
 
+  /* ---------- 访谈与对话板块 ---------- */
+
+  function interviewCardHTML(it) {
+    var t = it.type || "interview";
+    var topics = (it.topics || []).map(function (t2) {
+      return '<span class="ev-field">' + esc(t2) + "</span>";
+    }).join("");
+    var scholarLink = "";
+    if (it.scholar) {
+      scholarLink = '<div class="ev-meta"><span>学者</span>' + esc(it.scholar) +
+        (it.scholar_id && scholarMap[it.scholar_id] ? '（已收录于学者名录）' : '') + "</div>";
+    }
+    return (
+      '<article class="ev-card ev-open">' +
+      '<div class="ev-top">' +
+      '<span class="ev-type">' + esc(typeNames[t] || t) + "</span>" +
+      '<span class="ev-status">' + esc(it.lang === "zh" ? "中文" : it.lang === "en" ? "英文" : (it.lang || "")) + "</span>" +
+      '<span class="ev-region">' + esc(it.date || "") + "</span>" +
+      "</div>" +
+      '<h3 class="ev-name">' + esc(it.title) + "</h3>" +
+      (it.scholar ? '<div class="ev-meta"><span>人物</span>' + esc(it.scholar) + (it.institution ? ' · ' + esc(it.institution) : "") + "</div>" : "") +
+      '<div class="ev-meta"><span>来源</span>' + esc(it.source || "—") + "</div>" +
+      (topics ? '<div class="ev-fields">' + topics + "</div>" : "") +
+      (it.note ? '<p class="ev-note">' + esc(it.note) + "</p>" : "") +
+      '<a class="ev-link" href="' + esc(it.url) + '" target="_blank" rel="noopener">阅读全文 →</a>' +
+      "</article>"
+    );
+  }
+
+  function renderInterviews() {
+    var qs = state.q.trim().toLowerCase();
+    var list = interviews.filter(function (it) {
+      if (qs) {
+        var hay = (it.title + " " + (it.scholar || "") + " " + (it.institution || "") + " " + (it.source || "") + " " + (it.topics || []).join(" ") + " " + (it.note || "")).toLowerCase();
+        if (hay.indexOf(qs) === -1) return false;
+      }
+      return true;
+    });
+    list.sort(function (x, y) { return (y.date || "").localeCompare(x.date || ""); });
+    el.interviewCount.textContent = list.length ? "共 " + list.length + " 篇" : "";
+    el.interviewList.innerHTML = list.map(interviewCardHTML).join("");
+    el.interviewEmpty.classList.toggle("hidden", list.length !== 0);
+  }
+
   /* ---------- 页签切换 ---------- */
 
   function switchTab(tab) {
@@ -524,6 +581,9 @@
     el.tabScholars.classList.toggle("active", tab === "scholars");
     el.tabPubs.classList.toggle("active", tab === "pubs");
     el.tabEvents.classList.toggle("active", tab === "events");
+    el.tabInterviews.classList.toggle("active", tab === "interviews");
+    el.viewEvents.classList.toggle("hidden", tab !== "events");
+    el.viewInterviews.classList.toggle("hidden", tab !== "interviews");
     el.viewJournals.classList.toggle("hidden", tab !== "journals");
     el.viewScholars.classList.toggle("hidden", tab !== "scholars");
     el.viewPubs.classList.toggle("hidden", tab !== "pubs");
@@ -539,6 +599,7 @@
     if (state.tab === "journals") renderJournals();
     else if (state.tab === "scholars") renderScholars();
     else if (state.tab === "pubs") renderPubs();
+    else if (state.tab === "interviews") renderInterviews();
     else renderEvents();
   }
 
@@ -594,6 +655,7 @@
   el.tabScholars.addEventListener("click", function () { switchTab("scholars"); });
   el.tabPubs.addEventListener("click", function () { switchTab("pubs"); });
   el.tabEvents.addEventListener("click", function () { switchTab("events"); });
+  el.tabInterviews.addEventListener("click", function () { switchTab("interviews"); });
 
   el.favToggle.addEventListener("click", function () {
     state.favOnly = !state.favOnly;
@@ -620,6 +682,7 @@
     fetch("scholars.json").then(function (r) { return r.json(); }),
     fetch("data/scholar_articles.json").then(function (r) { return r.json(); }).catch(function () { return null; }),
     fetch("events.json").then(function (r) { return r.json(); }).catch(function () { return null; }),
+    fetch("interviews.json").then(function (r) { return r.json(); }).catch(function () { return null; }),
   ]).then(function (res) {
     res[0].journals.forEach(function (j) { journals[j.id] = j; });
     articles = res[1].articles || [];
@@ -633,6 +696,7 @@
       scholarArticles = [];
     }
     events = (res[4] && res[4].events) || [];
+    interviews = (res[5] && res[5].items) || [];
     el.loading.classList.add("hidden");
     if (el.journalCount) el.journalCount.textContent = Object.keys(journals).filter(function (k) { return journals[k].enabled; }).length;
     if (el.scholarCount) el.scholarCount.textContent = scholars.length;
@@ -645,6 +709,7 @@
     renderScholars();
     renderPubs();
     renderEvents();
+    renderInterviews();
     if (!scholarArticles.length) {
       el.scholarEmpty.textContent = "学者数据生成中，请稍后再来。";
       el.scholarEmpty.classList.remove("hidden");
