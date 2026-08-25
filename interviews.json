@@ -20,6 +20,24 @@
       "note": "围绕 Picker 的反垄断课程讲义展开，梳理反垄断法在计算机与芯片领域竞争与创新塑造中的角色。"
     },
     {
+      "id": "caffarra-escape-forward-2026",
+      "title": "Talking Tech Sovereignty with an AI Optimist（Caffarra 对话前 Google AI 负责人）",
+      "scholar": "Cristina Caffarra / Yariv Adan",
+      "scholar_id": "cristina-caffarra",
+      "institution": "CEPR / ellipsis Ventures",
+      "type": "dialogue",
+      "source": "Escape Forward",
+      "date": "2026-07-08",
+      "lang": "en",
+      "topics": [
+        "技术主权",
+        "AI",
+        "欧盟产业政策"
+      ],
+      "url": "https://escape-forward.com/2026/07/08/talking-tech-sovereignty-with-an-ai-optimist",
+      "note": "Caffarra 与前 Google AI 负责人 Yariv Adan 对谈欧洲 AI 能力建设与竞争政策。"
+    },
+    {
       "id": "cooter-gilbert-unlsiloed-2026",
       "title": "透过经济学视角审视法律｜Robert Cooter 与 Michael Gilbert 对谈《公共法律经济学》",
       "scholar": "Robert Cooter / Michael Gilbert",
@@ -37,100 +55,6 @@
       ],
       "url": "https://mp.weixin.qq.com/s/IzUsLGG0ss8TCUL7-oiqSw",
       "note": "《Law and Economics》教科书作者 Cooter 与 Gilbert 合著《Public Law and Economics》后的长篇访谈，讨论经济学如何渗入政府组织、选举制度与公法设计。原文为 unSILOed Podcast。"
-    },
-    {
-      "id": "hayek-bork-dialogue-2026",
-      "title": "哈耶克与 Bork 的对谈——围绕《法律、立法与自由》的讨论",
-      "scholar": "F. A. Hayek / Robert Bork",
-      "scholar_id": "",
-      "institution": "—",
-      "type": "classic",
-      "source": "Law and Economics 公众号编译",
-      "date": "2026-03-27",
-      "lang": "zh",
-      "topics": [
-        "法律经济学",
-        "奥地利学派",
-        "法与自由",
-        "演化秩序"
-      ],
-      "url": "https://mp.weixin.qq.com/s/e1rjb12vXv5HGHIQRM2bhw",
-      "note": "1980 年代初 Robert Bork 与哈耶克围绕《法律、立法与自由》的对谈编译，涉及法官造法、演化秩序与反垄断思想史。"
-    },
-    {
-      "id": "wu-promarket-conversation-2023",
-      "title": "A Conversation with Tim Wu",
-      "scholar": "Tim Wu",
-      "scholar_id": "tim-wu",
-      "institution": "Columbia Law School",
-      "type": "interview",
-      "source": "ProMarket（Stigler Center, University of Chicago）",
-      "date": "2023-07-15",
-      "lang": "en",
-      "topics": [
-        "反垄断",
-        "新布兰代斯运动",
-        "大科技",
-        "竞争政策"
-      ],
-      "url": "https://www.promarket.org/2023/07/15/a-conversation-with-tim-wu/",
-      "note": "吴修铭离开 FTC/NEC 后与 Stigler Center 的长篇对话，回顾其在拜登政府推动反垄断执法的 22 个月。"
-    },
-    {
-      "id": "fsm-platform-law-interview-2024",
-      "title": "Interview of Fiona Scott Morton",
-      "scholar": "Fiona Scott Morton",
-      "scholar_id": "fiona-scott-morton",
-      "institution": "Yale School of Management",
-      "type": "interview",
-      "source": "The Platform Law",
-      "date": "2024-02-08",
-      "lang": "en",
-      "topics": [
-        "数字市场",
-        "DMA",
-        "平台规制",
-        "反垄断经济学"
-      ],
-      "url": "https://the-platform-law.com/2024/02/08/interview-of-fiona-scott-morton/",
-      "note": "耶鲁 Scott Morton 谈欧盟 DMA、美国平台立法路径与竞争政策中的经济学工具。"
-    },
-    {
-      "id": "ezrachi-unctad-qa",
-      "title": "Q&A with Ariel Ezrachi, Professor of Competition Law, Oxford",
-      "scholar": "Ariel Ezrachi",
-      "scholar_id": "ariel-ezrachi",
-      "institution": "University of Oxford Faculty of Law",
-      "type": "interview",
-      "source": "UNCTAD",
-      "date": "2017-05-01",
-      "lang": "en",
-      "topics": [
-        "算法合谋",
-        "数字竞争",
-        "《虚拟竞争》"
-      ],
-      "url": "https://unctad.org/en/pages/newsdetails.aspx?OriginalVersionID=1362",
-      "note": "《Virtual Competition》（与 Stucke 合著）出版之际 Ezrachi 接受 UNCTAD 专访，谈算法驱动的经济中合谋与竞争的幻象。"
-    },
-    {
-      "id": "padilla-platform-law-2020",
-      "title": "Interview with Jorge Padilla on his “platform envelopment” theory through privacy policy tying",
-      "scholar": "Jorge Padilla",
-      "scholar_id": "jorge-padilla",
-      "institution": "Compass Lexecon /欧洲经济学会",
-      "type": "interview",
-      "source": "The Platform Law",
-      "date": "2020-05-28",
-      "lang": "en",
-      "topics": [
-        "平台包络",
-        "隐私政策",
-        "捆绑",
-        "竞争经济学"
-      ],
-      "url": "https://the-platform-law.com/2020/05/28/interview-with-jorge-padilla-on-his-platform-envelopment-theory-through-privacy-policy-tying/",
-      "note": "Padilla 阐释其「平台包络」（platform envelopment）理论：支配性平台如何借隐私政策捆绑扩张边界。"
     },
     {
       "id": "caffarra-pathfounders-2026",
@@ -152,94 +76,81 @@
       "url": "https://pathfounders.com/p/cristina-caffarra-europe-cannot-regulate"
     },
     {
-      "id": "caffarra-escape-forward-2026",
-      "title": "Talking Tech Sovereignty with an AI Optimist（Caffarra 对话前 Google AI 负责人）",
-      "scholar": "Cristina Caffarra / Yariv Adan",
-      "scholar_id": "cristina-caffarra",
-      "institution": "CEPR / ellipsis Ventures",
-      "type": "dialogue",
-      "source": "Escape Forward",
-      "date": "2026-07-08",
-      "lang": "en",
+      "id": "padilla-capitol-forum-2026",
+      "title": "反垄断的十字路口：地缘政治、并购审查与人工智能执法——对话 Jorge Padilla",
+      "scholar": "Jorge Padilla",
+      "scholar_id": "jorge-padilla",
+      "institution": "Compass Lexecon 主席",
+      "type": "interview",
+      "source": "Law and Economics 公众号编译（Capitol Forum 对话）",
+      "date": "2026-05-03",
+      "lang": "zh",
       "topics": [
-        "技术主权",
-        "AI",
-        "欧盟产业政策"
+        "地缘政治与反垄断",
+        "DMA",
+        "并购审查",
+        "人工智能"
       ],
-      "url": "https://escape-forward.com/2026/07/08/talking-tech-sovereignty-with-an-ai-optimist",
-      "note": "Caffarra 与前 Google AI 负责人 Yariv Adan 对谈欧洲 AI 能力建设与竞争政策。"
+      "url": "https://mp.weixin.qq.com/s/FKxyGhzqoax2Yxcpw8H-jg",
+      "note": "Capitol Forum 欧洲执行主编 Espinoza 与 Padilla 对谈 2025 年地缘动荡下的反垄断格局：从事后执法转向 DMA 式事前监管、并购活动萎缩与 AI 执法新题。"
     },
     {
-      "id": "richards-teachprivacy-2022",
-      "title": "Why Privacy Matters: An Interview with Neil Richards",
-      "scholar": "Neil Richards",
-      "scholar_id": "neil-richards",
-      "institution": "Washington University in St. Louis School of Law",
-      "type": "interview",
-      "source": "TeachPrivacy",
-      "date": "2022-01-01",
-      "lang": "en",
+      "id": "hayek-bork-dialogue-2026",
+      "title": "哈耶克与 Bork 的对谈——围绕《法律、立法与自由》的讨论",
+      "scholar": "F. A. Hayek / Robert Bork",
+      "scholar_id": "",
+      "institution": "—",
+      "type": "classic",
+      "source": "Law and Economics 公众号编译",
+      "date": "2026-03-27",
+      "lang": "zh",
       "topics": [
-        "隐私权",
-        "《为什么隐私重要》",
-        "信息治理"
+        "法律经济学",
+        "奥地利学派",
+        "法与自由",
+        "演化秩序"
       ],
-      "url": "https://teachprivacy.com/why-privacy-matters-an-interview-with-neil-richards/",
-      "note": "《Why Privacy Matters》出版之际的访谈，Richards 主张将隐私理解为关乎权力与自由的规则体系。年份待核实。"
+      "url": "https://mp.weixin.qq.com/s/e1rjb12vXv5HGHIQRM2bhw",
+      "note": "1980 年代初 Robert Bork 与哈耶克围绕《法律、立法与自由》的对谈编译，涉及法官造法、演化秩序与反垄断思想史。"
     },
     {
-      "id": "viljoen-ideaspace-2022",
-      "title": "Creating the positive conditions of freedom with legal scholar Salomé Viljoen",
-      "scholar": "Salomé Viljoen",
-      "scholar_id": "salome-viljoen",
-      "institution": "University of Michigan Law School",
+      "id": "may-oecd-ai-competition-2026",
+      "title": "人工智能、数据与竞争政策：与 OECD 竞争专家 Richard May 的对话",
+      "scholar": "Richard May",
+      "scholar_id": "",
+      "institution": "OECD 竞争司",
       "type": "interview",
-      "source": "The Ideaspace (ystrickler.com)",
-      "date": "2022-01-01",
-      "lang": "en",
+      "source": "Law and Economics 公众号编译（纽约州律师协会反垄断法分会访谈）",
+      "date": "2026-03-22",
+      "lang": "zh",
       "topics": [
-        "数据治理",
-        "民主",
-        "数字经济中的自由"
+        "人工智能",
+        "数据与算力",
+        "生成式AI市场结构",
+        "并购审查"
       ],
-      "url": "https://ystrickler.com/2022-creating-the-positive-conditions-of-freedom-with-legal-scholar-salome-viljoen/",
-      "note": "Viljoen 谈「作为自由之积极条件的数据治理」：数据关系如何重塑民主社会的制度设计。年份待核实。"
+      "url": "https://mp.weixin.qq.com/s/G8lJjyT_7U3rwxs1X5l2-g",
+      "note": "围绕 May 2024 年 OECD 工作论文《Artificial Intelligence, Data and Competition》的访谈：生成式 AI 产业市场结构、数据与算力作为关键投入、生态系统竞争风险。Richard May 暂未收录学者名录。"
     },
     {
-      "id": "shapiro-aai-conversation",
-      "title": "Invigorating Antitrust Enforcement: A Conversation With Carl Shapiro",
-      "scholar": "Carl Shapiro",
-      "scholar_id": "carl-shapiro",
-      "institution": "UC Berkeley Haas School of Business",
+      "id": "khan-harvard-dialogue-2026",
+      "title": "反垄断与法治：哈佛法学院与前 FTC 主席 Lina Khan 的对话",
+      "scholar": "Lina Khan",
+      "scholar_id": "lina-khan",
+      "institution": "Harvard Law School（前 FTC 主席）",
       "type": "interview",
-      "source": "American Antitrust Institute",
-      "date": "2019-01-01",
-      "lang": "en",
+      "source": "Law and Economics 公众号编译（NYSBA 反垄断法分会访谈）",
+      "date": "2026-03-21",
+      "lang": "zh",
       "topics": [
         "反垄断执法",
-        "兼并指南",
-        "竞争经济学"
+        "FTC",
+        "行政国家",
+        "劳动者保护",
+        "竞业限制"
       ],
-      "url": "https://www.antitrustinstitute.org/work-product/invigorating-antitrust-enforcement-a-conversation-with-carl-shapiro",
-      "note": "AAI 与 Shapiro 的长篇对话，兼并指南改革与反垄断执法经济学。年份待核实。"
-    },
-    {
-      "id": "picker-tpi-podcast-2019",
-      "title": "Big Tech and Antitrust: A Discussion With Randal Picker（Two Think Minimum 播客）",
-      "scholar": "Randal C. Picker",
-      "scholar_id": "randal-picker",
-      "institution": "University of Chicago Law School",
-      "type": "interview",
-      "source": "Tech Policy Institute",
-      "date": "2019-07-19",
-      "lang": "en",
-      "topics": [
-        "大科技",
-        "反垄断",
-        "平台经济"
-      ],
-      "url": "https://techpolicyinstitute.org/2019/07/19/big-tech-and-antitrust-a-discussion-with-randal-picker-two-think-minimum/",
-      "note": "Picker 在 TPI 播客谈大科技反垄断，与纪念文互为补充，可对照阅读。"
+      "url": "https://mp.weixin.qq.com/s/EGVM8kvYiO4k_cBX9LT-bQ",
+      "note": "Khan 卸任 FTC 主席后回哈佛法学院的长篇对话，谈 FTC 执政四年经验：法定授权的完整运用、跨部门联盟、竞业限制规则与行政机构的未来。"
     },
     {
       "id": "hovenkamp-itif-2026",
@@ -296,6 +207,153 @@
       ],
       "url": "https://english.news.cn/20250715/675d1f7c9bd94508b0e06daf01427c05/c.html",
       "note": "Tirole 访华期间接受新华社专访，谈数字生态系统的公平守门与中欧数字经济合作。"
+    },
+    {
+      "id": "fsm-platform-law-interview-2024",
+      "title": "Interview of Fiona Scott Morton",
+      "scholar": "Fiona Scott Morton",
+      "scholar_id": "fiona-scott-morton",
+      "institution": "Yale School of Management",
+      "type": "interview",
+      "source": "The Platform Law",
+      "date": "2024-02-08",
+      "lang": "en",
+      "topics": [
+        "数字市场",
+        "DMA",
+        "平台规制",
+        "反垄断经济学"
+      ],
+      "url": "https://the-platform-law.com/2024/02/08/interview-of-fiona-scott-morton/",
+      "note": "耶鲁 Scott Morton 谈欧盟 DMA、美国平台立法路径与竞争政策中的经济学工具。"
+    },
+    {
+      "id": "wu-promarket-conversation-2023",
+      "title": "A Conversation with Tim Wu",
+      "scholar": "Tim Wu",
+      "scholar_id": "tim-wu",
+      "institution": "Columbia Law School",
+      "type": "interview",
+      "source": "ProMarket（Stigler Center, University of Chicago）",
+      "date": "2023-07-15",
+      "lang": "en",
+      "topics": [
+        "反垄断",
+        "新布兰代斯运动",
+        "大科技",
+        "竞争政策"
+      ],
+      "url": "https://www.promarket.org/2023/07/15/a-conversation-with-tim-wu/",
+      "note": "吴修铭离开 FTC/NEC 后与 Stigler Center 的长篇对话，回顾其在拜登政府推动反垄断执法的 22 个月。"
+    },
+    {
+      "id": "richards-teachprivacy-2022",
+      "title": "Why Privacy Matters: An Interview with Neil Richards",
+      "scholar": "Neil Richards",
+      "scholar_id": "neil-richards",
+      "institution": "Washington University in St. Louis School of Law",
+      "type": "interview",
+      "source": "TeachPrivacy",
+      "date": "2022-01-01",
+      "lang": "en",
+      "topics": [
+        "隐私权",
+        "《为什么隐私重要》",
+        "信息治理"
+      ],
+      "url": "https://teachprivacy.com/why-privacy-matters-an-interview-with-neil-richards/",
+      "note": "《Why Privacy Matters》出版之际的访谈，Richards 主张将隐私理解为关乎权力与自由的规则体系。年份待核实。"
+    },
+    {
+      "id": "viljoen-ideaspace-2022",
+      "title": "Creating the positive conditions of freedom with legal scholar Salomé Viljoen",
+      "scholar": "Salomé Viljoen",
+      "scholar_id": "salome-viljoen",
+      "institution": "University of Michigan Law School",
+      "type": "interview",
+      "source": "The Ideaspace (ystrickler.com)",
+      "date": "2022-01-01",
+      "lang": "en",
+      "topics": [
+        "数据治理",
+        "民主",
+        "数字经济中的自由"
+      ],
+      "url": "https://ystrickler.com/2022-creating-the-positive-conditions-of-freedom-with-legal-scholar-salome-viljoen/",
+      "note": "Viljoen 谈「作为自由之积极条件的数据治理」：数据关系如何重塑民主社会的制度设计。年份待核实。"
+    },
+    {
+      "id": "padilla-platform-law-2020",
+      "title": "Interview with Jorge Padilla on his “platform envelopment” theory through privacy policy tying",
+      "scholar": "Jorge Padilla",
+      "scholar_id": "jorge-padilla",
+      "institution": "Compass Lexecon /欧洲经济学会",
+      "type": "interview",
+      "source": "The Platform Law",
+      "date": "2020-05-28",
+      "lang": "en",
+      "topics": [
+        "平台包络",
+        "隐私政策",
+        "捆绑",
+        "竞争经济学"
+      ],
+      "url": "https://the-platform-law.com/2020/05/28/interview-with-jorge-padilla-on-his-platform-envelopment-theory-through-privacy-policy-tying/",
+      "note": "Padilla 阐释其「平台包络」（platform envelopment）理论：支配性平台如何借隐私政策捆绑扩张边界。"
+    },
+    {
+      "id": "picker-tpi-podcast-2019",
+      "title": "Big Tech and Antitrust: A Discussion With Randal Picker（Two Think Minimum 播客）",
+      "scholar": "Randal C. Picker",
+      "scholar_id": "randal-picker",
+      "institution": "University of Chicago Law School",
+      "type": "interview",
+      "source": "Tech Policy Institute",
+      "date": "2019-07-19",
+      "lang": "en",
+      "topics": [
+        "大科技",
+        "反垄断",
+        "平台经济"
+      ],
+      "url": "https://techpolicyinstitute.org/2019/07/19/big-tech-and-antitrust-a-discussion-with-randal-picker-two-think-minimum/",
+      "note": "Picker 在 TPI 播客谈大科技反垄断，与纪念文互为补充，可对照阅读。"
+    },
+    {
+      "id": "shapiro-aai-conversation",
+      "title": "Invigorating Antitrust Enforcement: A Conversation With Carl Shapiro",
+      "scholar": "Carl Shapiro",
+      "scholar_id": "carl-shapiro",
+      "institution": "UC Berkeley Haas School of Business",
+      "type": "interview",
+      "source": "American Antitrust Institute",
+      "date": "2019-01-01",
+      "lang": "en",
+      "topics": [
+        "反垄断执法",
+        "兼并指南",
+        "竞争经济学"
+      ],
+      "url": "https://www.antitrustinstitute.org/work-product/invigorating-antitrust-enforcement-a-conversation-with-carl-shapiro",
+      "note": "AAI 与 Shapiro 的长篇对话，兼并指南改革与反垄断执法经济学。年份待核实。"
+    },
+    {
+      "id": "ezrachi-unctad-qa",
+      "title": "Q&A with Ariel Ezrachi, Professor of Competition Law, Oxford",
+      "scholar": "Ariel Ezrachi",
+      "scholar_id": "ariel-ezrachi",
+      "institution": "University of Oxford Faculty of Law",
+      "type": "interview",
+      "source": "UNCTAD",
+      "date": "2017-05-01",
+      "lang": "en",
+      "topics": [
+        "算法合谋",
+        "数字竞争",
+        "《虚拟竞争》"
+      ],
+      "url": "https://unctad.org/en/pages/newsdetails.aspx?OriginalVersionID=1362",
+      "note": "《Virtual Competition》（与 Stucke 合著）出版之际 Ezrachi 接受 UNCTAD 专访，谈算法驱动的经济中合谋与竞争的幻象。"
     }
   ]
 }
