@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-26 08:24",
+ "updated_at": "2026-08-26 14:30",
  "count": 389,
  "articles": [
   {
@@ -264,6 +264,19 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103324"
+  },
+  {
+   "doi": "10.1016/j.irle.2026.106347",
+   "title": "Legal institutions and economic growth: A meta-analytic perspective",
+   "authors": [
+    "Iwasaki I"
+   ],
+   "journal": "International Review of Law and Economics",
+   "journal_id": "irle",
+   "date": "2026-08-26",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.irle.2026.106347"
   },
   {
    "doi": "10.1111/joie.70042",
@@ -684,19 +697,6 @@
    "abstract": "We estimate how punitive damage caps alter settlement timing and class certification outcomes using state-level variation.",
    "type": "journal-article",
    "url": "https://doi.org/10.1086/721455"
-  },
-  {
-   "doi": "10.1016/j.irle.2026.106347",
-   "title": "Legal Institutions and Economic Growth: A Meta-Analytic Perspective",
-   "authors": [
-    "Iwasaki I"
-   ],
-   "journal": "International Review of Law and Economics",
-   "journal_id": "irle",
-   "date": "2026-08-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.irle.2026.106347"
   },
   {
    "doi": "10.1016/j.ijindorg.2026.103306",
