@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-26 03:38",
+ "updated_at": "2026-08-26 08:24",
  "count": 389,
  "articles": [
   {
@@ -250,6 +250,20 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.irle.2026.106349"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103324",
+   "title": "Netflix and chilling effect? The impact of streaming video licenses on paid digital downloads",
+   "authors": [
+    "Danaher B",
+    "Doosti S"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-08-26",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103324"
   },
   {
    "doi": "10.1111/joie.70042",
@@ -853,20 +867,6 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103292"
-  },
-  {
-   "doi": "10.1016/j.ijindorg.2026.103324",
-   "title": "Netflix and Chilling Effect? The Impact of Streaming Video Licenses on Paid Digital Downloads",
-   "authors": [
-    "Danaher B",
-    "Doosti S"
-   ],
-   "journal": "International Journal of Industrial Organization",
-   "journal_id": "ijio",
-   "date": "2026-08-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.ijindorg.2026.103324"
   },
   {
    "doi": "10.1007/s10657-026-09885-z",
