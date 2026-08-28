@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-08-28 01:47",
- "doc_count": 389,
+ "updated_at": "2026-08-28 21:57",
+ "doc_count": 390,
  "heat": [
   {
    "term": "innovation",
@@ -231,6 +231,10 @@
    "count": 6
   },
   {
+   "term": "dynamic",
+   "count": 6
+  },
+  {
    "term": "increased",
    "count": 6
   },
@@ -277,10 +281,6 @@
   {
    "term": "framework",
    "count": 6
-  },
-  {
-   "term": "insights",
-   "count": 6
   }
  ],
  "profiles": {
@@ -305,11 +305,11 @@
      "count": 2
     },
     {
-     "term": "manufacturing firms",
+     "term": "state-owned enterprises",
      "count": 2
     },
     {
-     "term": "state-owned enterprises",
+     "term": "manufacturing firms",
      "count": 2
     },
     {
@@ -372,6 +372,36 @@
     },
     {
      "term": "rules",
+     "count": 3
+    }
+   ]
+  },
+  "ecj": {
+   "count": 15,
+   "avg_authors": 1.8,
+   "terms": [
+    {
+     "term": "european commission",
+     "count": 2
+    },
+    {
+     "term": "merger control",
+     "count": 2
+    },
+    {
+     "term": "merger",
+     "count": 4
+    },
+    {
+     "term": "competition",
+     "count": 3
+    },
+    {
+     "term": "markets",
+     "count": 3
+    },
+    {
+     "term": "antitrust",
      "count": 3
     }
    ]
@@ -506,28 +536,6 @@
     },
     {
      "term": "judicial",
-     "count": 3
-    }
-   ]
-  },
-  "ecj": {
-   "count": 14,
-   "avg_authors": 1.7,
-   "terms": [
-    {
-     "term": "european commission",
-     "count": 2
-    },
-    {
-     "term": "merger control",
-     "count": 2
-    },
-    {
-     "term": "merger",
-     "count": 4
-    },
-    {
-     "term": "antitrust",
      "count": 3
     }
    ]

@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-08-28 01:47",
- "count": 389,
+ "updated_at": "2026-08-28 21:56",
+ "count": 390,
  "articles": [
   {
    "doi": "10.1016/j.ijindorg.2026.103320",
@@ -277,6 +277,37 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.irle.2026.106347"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103323",
+   "title": "Impacts of privatization on state-owned enterprises: A tale of zombie versus healthy firms",
+   "authors": [
+    "Xu G",
+    "Wang R",
+    "Wang X",
+    "Zha T"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-08-28",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103323"
+  },
+  {
+   "doi": "10.1080/17441056.2026.2719262",
+   "title": "Competition law enforcement in dynamic markets: proposing a flexible trade-off between fines and behavioural injunctions",
+   "authors": [
+    "Bougette P",
+    "Marty F",
+    "Vannuccini S"
+   ],
+   "journal": "European Competition Journal",
+   "journal_id": "ecj",
+   "date": "2026-08-28",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1080/17441056.2026.2719262"
   },
   {
    "doi": "10.1111/joie.70042",
@@ -741,22 +772,6 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103309"
-  },
-  {
-   "doi": "10.1016/j.ijindorg.2026.103323",
-   "title": "Impacts of Privatization on State-Owned Enterprises: A Tale of Zombie versus Healthy Firms",
-   "authors": [
-    "Xu G",
-    "Wang R",
-    "Wang X",
-    "Zha T"
-   ],
-   "journal": "International Journal of Industrial Organization",
-   "journal_id": "ijio",
-   "date": "2026-08-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.ijindorg.2026.103323"
   },
   {
    "doi": "10.1016/j.ijindorg.2026.103301",

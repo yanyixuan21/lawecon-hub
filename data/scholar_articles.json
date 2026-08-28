@@ -1,7 +1,26 @@
 {
- "updated_at": "2026-08-28 01:47",
- "count": 52,
+ "updated_at": "2026-08-28 21:57",
+ "count": 53,
  "articles": [
+  {
+   "doi": "10.1007/s12061-026-09988-9",
+   "title": "Building a Digital Smart City Index System for Urban Planning and Governance",
+   "authors": [
+    "Zhichang Cai",
+    "Tim Wu",
+    "Ying Li",
+    "ChengHe Guan"
+   ],
+   "journal": "Applied Spatial Analysis and Policy",
+   "journal_id": "",
+   "date": "2026-08-27",
+   "abstract": "",
+   "type": "article",
+   "url": "https://doi.org/10.1007/s12061-026-09988-9",
+   "scholar_id": "tim-wu",
+   "scholar_name": "Tim Wu",
+   "scholar_institution": "Columbia Law School"
+  },
   {
    "doi": "10.1016/j.clsr.2026.106389",
    "title": "A fairness standard in EU platform regulation: Moving beyond fragmented protections for consumers, business users, and workers",
