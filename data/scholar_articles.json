@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-08-26 14:31",
- "count": 51,
+ "updated_at": "2026-08-28 01:47",
+ "count": 52,
  "articles": [
   {
    "doi": "10.1016/j.clsr.2026.106389",
@@ -17,6 +17,30 @@
    "scholar_id": "inge-graef",
    "scholar_name": "Inge Graef",
    "scholar_institution": "Tilburg University"
+  },
+  {
+   "doi": "10.1016/j.ymgme.2026.110237",
+   "title": "Functional characterization of 42 GAA missense variants using a validated in vitro cellular functional assay",
+   "authors": [
+    "Shelly Goomber",
+    "Erin Huggins",
+    "Catherine W. Rehder",
+    "Gregory E. Crawford",
+    "Seung‐Hye Jung",
+    "Jessica Doxey",
+    "Apoorva K. Iyengar",
+    "Erica B. Nading",
+    "等"
+   ],
+   "journal": "Molecular Genetics and Metabolism",
+   "journal_id": "",
+   "date": "2026-08-01",
+   "abstract": "",
+   "type": "article",
+   "url": "https://doi.org/10.1016/j.ymgme.2026.110237",
+   "scholar_id": "gregory-crawford",
+   "scholar_name": "Gregory Crawford",
+   "scholar_institution": "University of Zurich"
   },
   {
    "doi": "10.1086/743388",
