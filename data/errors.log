@@ -252,3 +252,16 @@
 [2026-08-30 00:21:52] HTTP 404: New York University Law Review (0028-7881)
 [2026-08-30 00:21:53] HTTP 404: European Law Journal (1358-1877)
 [2026-08-30 00:21:53] ISSN mismatch for RAND Journal of Economics (config ISSN 0741-6261): got 'The RAND Journal of Economics' — check journals.json
+[2026-08-30 06:21:58] HTTP 404: Journal of Competition Law & Economics (1741-2009)
+[2026-08-30 06:21:59] HTTP 404: Antitrust Law Journal (0003-5383)
+[2026-08-30 06:21:59] HTTP 404: World Competition (1011-6558)
+[2026-08-30 06:21:59] HTTP 404: Journal of European Competition Law & Practice (2043-4754)
+[2026-08-30 06:21:59] ISSN mismatch for Journal of Law and Economics (config ISSN 0022-2186): got 'The Journal of Law and Economics' — check journals.json
+[2026-08-30 06:21:59] ISSN mismatch for Journal of Legal Studies (config ISSN 0047-2530): got 'The Journal of Legal Studies' — check journals.json
+[2026-08-30 06:22:00] HTTP 404: Journal of Legal Analysis (1946-5734)
+[2026-08-30 06:22:01] ISSN mismatch for Review of Law & Economics (config ISSN 1555-5879): got 'Review of Law &amp; Economics' — check journals.json
+[2026-08-30 06:22:01] HTTP 404: Research in Law and Economics (0193-5895)
+[2026-08-30 06:22:02] ISSN mismatch for Journal of Industrial Economics (config ISSN 0022-1821): got 'The Journal of Industrial Economics' — check journals.json
+[2026-08-30 06:22:04] HTTP 404: New York University Law Review (0028-7881)
+[2026-08-30 06:22:05] HTTP 404: European Law Journal (1358-1877)
+[2026-08-30 06:22:06] ISSN mismatch for RAND Journal of Economics (config ISSN 0741-6261): got 'The RAND Journal of Economics' — check journals.json
