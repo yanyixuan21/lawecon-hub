@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-08-31 06:22",
- "doc_count": 390,
+ "updated_at": "2026-08-31 12:22",
+ "doc_count": 391,
  "heat": [
   {
    "term": "innovation",
@@ -376,6 +376,44 @@
     }
    ]
   },
+  "ejle": {
+   "count": 34,
+   "avg_authors": 2.2,
+   "terms": [
+    {
+     "term": "european economics",
+     "count": 3
+    },
+    {
+     "term": "public procurement",
+     "count": 2
+    },
+    {
+     "term": "cartel fines",
+     "count": 2
+    },
+    {
+     "term": "economics",
+     "count": 8
+    },
+    {
+     "term": "italian",
+     "count": 3
+    },
+    {
+     "term": "european",
+     "count": 3
+    },
+    {
+     "term": "cartel",
+     "count": 3
+    },
+    {
+     "term": "market",
+     "count": 3
+    }
+   ]
+  },
   "ecj": {
    "count": 15,
    "avg_authors": 1.8,
@@ -481,44 +519,6 @@
     {
      "term": "merger",
      "count": 6
-    }
-   ]
-  },
-  "ejle": {
-   "count": 33,
-   "avg_authors": 2.2,
-   "terms": [
-    {
-     "term": "european economics",
-     "count": 3
-    },
-    {
-     "term": "public procurement",
-     "count": 2
-    },
-    {
-     "term": "cartel fines",
-     "count": 2
-    },
-    {
-     "term": "economics",
-     "count": 8
-    },
-    {
-     "term": "italian",
-     "count": 3
-    },
-    {
-     "term": "european",
-     "count": 3
-    },
-    {
-     "term": "cartel",
-     "count": 3
-    },
-    {
-     "term": "market",
-     "count": 3
     }
    ]
   },
