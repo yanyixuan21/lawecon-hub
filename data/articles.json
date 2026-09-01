@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-01 00:37",
- "count": 391,
+ "updated_at": "2026-09-01 06:34",
+ "count": 392,
  "articles": [
   {
    "doi": "10.1016/j.ijindorg.2026.103320",
@@ -309,6 +309,19 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1007/s10657-026-09886-y"
+  },
+  {
+   "doi": "10.1080/17441056.2026.2716463",
+   "title": "Non-economic goals of competition law in the light of the European Union's economic constitution: in search for the axiological framework",
+   "authors": [
+    "Oliński P"
+   ],
+   "journal": "European Competition Journal",
+   "journal_id": "ecj",
+   "date": "2026-08-31",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1080/17441056.2026.2716463"
   },
   {
    "doi": "10.1080/17441056.2026.2719262",

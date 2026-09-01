@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-01 00:37",
- "doc_count": 391,
+ "updated_at": "2026-09-01 06:34",
+ "doc_count": 392,
  "heat": [
   {
    "term": "innovation",
@@ -183,6 +183,10 @@
    "count": 7
   },
   {
+   "term": "framework",
+   "count": 7
+  },
+  {
    "term": "after",
    "count": 7
   },
@@ -276,10 +280,6 @@
   },
   {
    "term": "act",
-   "count": 6
-  },
-  {
-   "term": "framework",
    "count": 6
   }
  ],
@@ -415,7 +415,7 @@
    ]
   },
   "ecj": {
-   "count": 15,
+   "count": 16,
    "avg_authors": 1.8,
    "terms": [
     {
@@ -427,11 +427,15 @@
      "count": 2
     },
     {
+     "term": "competition",
+     "count": 4
+    },
+    {
      "term": "merger",
      "count": 4
     },
     {
-     "term": "competition",
+     "term": "european",
      "count": 3
     },
     {
