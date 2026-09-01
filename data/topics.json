@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-01 12:33",
- "doc_count": 392,
+ "updated_at": "2026-09-01 18:31",
+ "doc_count": 393,
  "heat": [
   {
    "term": "innovation",
@@ -183,6 +183,10 @@
    "count": 7
   },
   {
+   "term": "dynamic",
+   "count": 7
+  },
+  {
    "term": "framework",
    "count": 7
   },
@@ -235,7 +239,7 @@
    "count": 6
   },
   {
-   "term": "dynamic",
+   "term": "behavior",
    "count": 6
   },
   {
@@ -277,15 +281,11 @@
   {
    "term": "settlement",
    "count": 6
-  },
-  {
-   "term": "act",
-   "count": 6
   }
  ],
  "profiles": {
   "ijio": {
-   "count": 102,
+   "count": 103,
    "avg_authors": 2.5,
    "terms": [
     {
@@ -309,6 +309,10 @@
      "count": 2
     },
     {
+     "term": "price competition",
+     "count": 2
+    },
+    {
      "term": "manufacturing firms",
      "count": 2
     },
@@ -317,16 +321,12 @@
      "count": 2
     },
     {
-     "term": "information disclosure",
-     "count": 2
-    },
-    {
      "term": "market",
      "count": 15
     },
     {
      "term": "price",
-     "count": 9
+     "count": 10
     }
    ]
   },

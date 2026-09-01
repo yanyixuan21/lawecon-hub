@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-01 12:33",
- "count": 392,
+ "updated_at": "2026-09-01 18:30",
+ "count": 393,
  "articles": [
   {
    "doi": "10.1016/j.ijindorg.2026.103320",
@@ -293,6 +293,20 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103323"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103337",
+   "title": "Dynamic Price Competition and Evolutionary Behavior with Search",
+   "authors": [
+    "Allison B",
+    "Sacks M"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-09-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103337"
   },
   {
    "doi": "10.1007/s10657-026-09886-y",
