@@ -1,14 +1,22 @@
 {
- "updated_at": "2026-09-01 18:31",
- "doc_count": 393,
+ "updated_at": "2026-09-02 00:36",
+ "doc_count": 379,
  "heat": [
   {
-   "term": "innovation",
+   "term": "antitrust",
    "count": 24
   },
   {
-   "term": "platform",
+   "term": "innovation",
    "count": 23
+  },
+  {
+   "term": "enforcement",
+   "count": 23
+  },
+  {
+   "term": "platform",
+   "count": 21
   },
   {
    "term": "firms",
@@ -27,15 +35,11 @@
    "count": 14
   },
   {
-   "term": "firm",
-   "count": 14
-  },
-  {
    "term": "private",
    "count": 14
   },
   {
-   "term": "judicial",
+   "term": "firm",
    "count": 13
   },
   {
@@ -47,7 +51,7 @@
    "count": 13
   },
   {
-   "term": "role",
+   "term": "judicial",
    "count": 12
   },
   {
@@ -55,11 +59,7 @@
    "count": 12
   },
   {
-   "term": "value",
-   "count": 11
-  },
-  {
-   "term": "efficiency",
+   "term": "role",
    "count": 11
   },
   {
@@ -67,11 +67,11 @@
    "count": 11
   },
   {
-   "term": "strategic",
+   "term": "value",
    "count": 10
   },
   {
-   "term": "liability",
+   "term": "strategic",
    "count": 10
   },
   {
@@ -80,6 +80,10 @@
   },
   {
    "term": "cartel",
+   "count": 10
+  },
+  {
+   "term": "efficiency",
    "count": 10
   },
   {
@@ -95,14 +99,6 @@
    "count": 10
   },
   {
-   "term": "rules",
-   "count": 10
-  },
-  {
-   "term": "industrial",
-   "count": 10
-  },
-  {
    "term": "products",
    "count": 9
   },
@@ -115,11 +111,11 @@
    "count": 9
   },
   {
-   "term": "industry",
+   "term": "liability",
    "count": 9
   },
   {
-   "term": "china",
+   "term": "industry",
    "count": 9
   },
   {
@@ -128,6 +124,14 @@
   },
   {
    "term": "gender",
+   "count": 9
+  },
+  {
+   "term": "rules",
+   "count": 9
+  },
+  {
+   "term": "industrial",
    "count": 9
   },
   {
@@ -151,11 +155,7 @@
    "count": 8
   },
   {
-   "term": "interoperability",
-   "count": 8
-  },
-  {
-   "term": "rule",
+   "term": "china",
    "count": 8
   },
   {
@@ -187,10 +187,6 @@
    "count": 7
   },
   {
-   "term": "framework",
-   "count": 7
-  },
-  {
    "term": "after",
    "count": 7
   },
@@ -215,11 +211,15 @@
    "count": 7
   },
   {
-   "term": "experiment",
+   "term": "interoperability",
    "count": 7
   },
   {
-   "term": "regulatory",
+   "term": "rule",
+   "count": 7
+  },
+  {
+   "term": "experiment",
    "count": 7
   },
   {
@@ -240,6 +240,10 @@
   },
   {
    "term": "behavior",
+   "count": 6
+  },
+  {
+   "term": "framework",
    "count": 6
   },
   {
@@ -277,15 +281,11 @@
   {
    "term": "scale",
    "count": 6
-  },
-  {
-   "term": "settlement",
-   "count": 6
   }
  ],
  "profiles": {
   "ijio": {
-   "count": 103,
+   "count": 102,
    "avg_authors": 2.5,
    "terms": [
     {
@@ -331,15 +331,11 @@
    ]
   },
   "irle": {
-   "count": 50,
-   "avg_authors": 2.3,
+   "count": 38,
+   "avg_authors": 2.4,
    "terms": [
     {
      "term": "williamson legacy",
-     "count": 2
-    },
-    {
-     "term": "antitrust enforcement",
      "count": 2
     },
     {
@@ -352,26 +348,22 @@
     },
     {
      "term": "enforcement",
-     "count": 6
+     "count": 5
     },
     {
      "term": "judicial",
-     "count": 5
-    },
-    {
-     "term": "liability",
-     "count": 5
-    },
-    {
-     "term": "costs",
      "count": 4
     },
     {
-     "term": "firms",
+     "term": "liability",
+     "count": 4
+    },
+    {
+     "term": "costs",
      "count": 3
     },
     {
-     "term": "rules",
+     "term": "firms",
      "count": 3
     }
    ]
@@ -449,7 +441,7 @@
    ]
   },
   "jie": {
-   "count": 38,
+   "count": 37,
    "avg_authors": 2.0,
    "terms": [
     {
@@ -458,7 +450,7 @@
     },
     {
      "term": "information",
-     "count": 5
+     "count": 4
     },
     {
      "term": "innovation",

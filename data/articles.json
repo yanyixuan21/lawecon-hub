@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-01 18:30",
- "count": 393,
+ "updated_at": "2026-09-02 00:35",
+ "count": 379,
  "articles": [
   {
    "doi": "10.1016/j.ijindorg.2026.103320",
@@ -11,7 +11,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-09-01",
+   "date": "2026-09-02",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103320"
@@ -27,7 +27,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-09-01",
+   "date": "2026-09-02",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103322"
@@ -41,7 +41,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-09-01",
+   "date": "2026-09-02",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103321"
@@ -59,7 +59,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-09-01",
+   "date": "2026-09-02",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103304"
@@ -75,7 +75,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-09-01",
+   "date": "2026-09-02",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103291"
@@ -91,7 +91,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-09-01",
+   "date": "2026-09-02",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103282"
@@ -105,7 +105,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-09-01",
+   "date": "2026-09-02",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103311"
@@ -119,7 +119,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-09-01",
+   "date": "2026-09-02",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103283"
@@ -133,7 +133,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-09-01",
+   "date": "2026-09-02",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103310"
@@ -144,10 +144,67 @@
    "authors": [],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-09-01",
+   "date": "2026-09-02",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/s0167-7187(26)00080-9"
+  },
+  {
+   "doi": "10.1016/j.irle.2026.106349",
+   "title": "A new case for a higher standard of care: The uncompensated tertiary and third-party costs",
+   "authors": [
+    "Schäfer H",
+    "Singh R"
+   ],
+   "journal": "International Review of Law and Economics",
+   "journal_id": "irle",
+   "date": "2026-09-02",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.irle.2026.106349"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103324",
+   "title": "Netflix and chilling effect? The impact of streaming video licenses on paid digital downloads",
+   "authors": [
+    "Danaher B",
+    "Doosti S"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-09-02",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103324"
+  },
+  {
+   "doi": "10.1016/j.irle.2026.106347",
+   "title": "Legal institutions and economic growth: A meta-analytic perspective",
+   "authors": [
+    "Iwasaki I"
+   ],
+   "journal": "International Review of Law and Economics",
+   "journal_id": "irle",
+   "date": "2026-09-02",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.irle.2026.106347"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103323",
+   "title": "Impacts of privatization on state-owned enterprises: A tale of zombie versus healthy firms",
+   "authors": [
+    "Xu G",
+    "Wang R",
+    "Wang X",
+    "Zha T"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-09-02",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103323"
   },
   {
    "doi": "10.1016/j.irle.2026.106342",
@@ -238,63 +295,6 @@
    "url": "https://doi.org/10.1016/s0144-8188(26)00033-5"
   },
   {
-   "doi": "10.1016/j.irle.2026.106349",
-   "title": "A new case for a higher standard of care: The uncompensated tertiary and third-party costs",
-   "authors": [
-    "Schäfer H",
-    "Singh R"
-   ],
-   "journal": "International Review of Law and Economics",
-   "journal_id": "irle",
-   "date": "2026-09-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.irle.2026.106349"
-  },
-  {
-   "doi": "10.1016/j.ijindorg.2026.103324",
-   "title": "Netflix and chilling effect? The impact of streaming video licenses on paid digital downloads",
-   "authors": [
-    "Danaher B",
-    "Doosti S"
-   ],
-   "journal": "International Journal of Industrial Organization",
-   "journal_id": "ijio",
-   "date": "2026-09-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.ijindorg.2026.103324"
-  },
-  {
-   "doi": "10.1016/j.irle.2026.106347",
-   "title": "Legal institutions and economic growth: A meta-analytic perspective",
-   "authors": [
-    "Iwasaki I"
-   ],
-   "journal": "International Review of Law and Economics",
-   "journal_id": "irle",
-   "date": "2026-09-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.irle.2026.106347"
-  },
-  {
-   "doi": "10.1016/j.ijindorg.2026.103323",
-   "title": "Impacts of privatization on state-owned enterprises: A tale of zombie versus healthy firms",
-   "authors": [
-    "Xu G",
-    "Wang R",
-    "Wang X",
-    "Zha T"
-   ],
-   "journal": "International Journal of Industrial Organization",
-   "journal_id": "ijio",
-   "date": "2026-09-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.ijindorg.2026.103323"
-  },
-  {
    "doi": "10.1016/j.ijindorg.2026.103337",
    "title": "Dynamic Price Competition and Evolutionary Behavior with Search",
    "authors": [
@@ -307,6 +307,22 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103337"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103335",
+   "title": "Evaluating Substitutes for Federal Antitrust: The Case of COPAs",
+   "authors": [
+    "Chun S",
+    "Duarte M",
+    "McNamara C",
+    "Lindo J"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-09-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103335"
   },
   {
    "doi": "10.1007/s10657-026-09886-y",
@@ -5316,212 +5332,6 @@
    "abstract": "ABSTRACT Cournot duopolists choose between sharing their technologies, for example, through scientific publications, or keeping them secret. The disadvantage of sharing efficient technologies is that a less efficient competitor imitates and becomes tougher. The advantage is that the competitor learns that the sharing firm is tougher than expected. Limited technology diffusion occurs in equilibrium, with at most one firm sharing. Unilateral sharing incentives are strongest for intermediate technologies. For identical distributions skewed towards efficient technologies, this yields equilibria where one firm shares all or only intermediate technologies, besides an equilibrium without sharing. Further, I consider profit implications, non‐identical distributions, and several extensions.",
    "type": "journal-article",
    "url": "https://doi.org/10.1111/joie.70008"
-  },
-  {
-   "doi": "10.1016/j.irle.2025.106269",
-   "title": "Has the European Takeover Bids Directive reached its objectives? The cases of Finland, Germany and Spain",
-   "authors": [
-    "Alcalde-Fradejas N",
-    "Pérez-Soba I"
-   ],
-   "journal": "International Review of Law and Economics",
-   "journal_id": "irle",
-   "date": "2025-09-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.irle.2025.106269"
-  },
-  {
-   "doi": "10.1016/j.irle.2025.106262",
-   "title": "Competition and the two margins of privacy",
-   "authors": [
-    "Bounie D",
-    "Dubus A",
-    "Waelbroeck P"
-   ],
-   "journal": "International Review of Law and Economics",
-   "journal_id": "irle",
-   "date": "2025-09-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.irle.2025.106262"
-  },
-  {
-   "doi": "10.1016/j.irle.2025.106283",
-   "title": "Clearance rates and disposition times: Not the whole story of judicial efficiency",
-   "authors": [
-    "Pereira M A"
-   ],
-   "journal": "International Review of Law and Economics",
-   "journal_id": "irle",
-   "date": "2025-09-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.irle.2025.106283"
-  },
-  {
-   "doi": "10.1016/s0144-8188(25)00053-5",
-   "title": "Editorial Board",
-   "authors": [],
-   "journal": "International Review of Law and Economics",
-   "journal_id": "irle",
-   "date": "2025-09-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/s0144-8188(25)00053-5"
-  },
-  {
-   "doi": "10.1016/j.irle.2025.106282",
-   "title": "And the law relaxed the rules – A quasi-experimental study of fatal police shootings in Europe",
-   "authors": [
-    "Roché S",
-    "Varaine S",
-    "Le Derff P"
-   ],
-   "journal": "International Review of Law and Economics",
-   "journal_id": "irle",
-   "date": "2025-09-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.irle.2025.106282"
-  },
-  {
-   "doi": "10.1111/joie.12398",
-   "title": "Issue Information",
-   "authors": [],
-   "journal": "The Journal of Industrial Economics",
-   "journal_id": "jie",
-   "date": "2025-09-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1111/joie.12398"
-  },
-  {
-   "doi": "10.1016/j.irle.2025.106267",
-   "title": "Vertical interoperability in mobile ecosystems: Will the DMA deliver (what competition law could not)?",
-   "authors": [
-    "Colangelo G",
-    "Martínez A R"
-   ],
-   "journal": "International Review of Law and Economics",
-   "journal_id": "irle",
-   "date": "2025-09-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.irle.2025.106267"
-  },
-  {
-   "doi": "10.1016/j.irle.2025.106281",
-   "title": "Notice-and-takedown as dispute resolution: An empirical analysis of GitHub notices",
-   "authors": [
-    "Zhang P",
-    "Li J"
-   ],
-   "journal": "International Review of Law and Economics",
-   "journal_id": "irle",
-   "date": "2025-09-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.irle.2025.106281"
-  },
-  {
-   "doi": "10.1016/j.irle.2025.106263",
-   "title": "The role of the regulatory framework in enhancing SMEs’ digital transformation",
-   "authors": [
-    "Succurro M",
-    "Donati C"
-   ],
-   "journal": "International Review of Law and Economics",
-   "journal_id": "irle",
-   "date": "2025-09-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.irle.2025.106263"
-  },
-  {
-   "doi": "10.1016/j.irle.2025.106268",
-   "title": "The impact of antitrust enforcement on China’s digital platforms: Evidence from SAMR v. Alibaba",
-   "authors": [
-    "Khoo K",
-    "Lai S",
-    "Tian C"
-   ],
-   "journal": "International Review of Law and Economics",
-   "journal_id": "irle",
-   "date": "2025-09-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.irle.2025.106268"
-  },
-  {
-   "doi": "10.1016/j.irle.2025.106266",
-   "title": "“Platform Holdup” and Platform Regulation",
-   "authors": [
-    "Huang J",
-    "Xie D"
-   ],
-   "journal": "International Review of Law and Economics",
-   "journal_id": "irle",
-   "date": "2025-09-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.irle.2025.106266"
-  },
-  {
-   "doi": "10.1016/j.irle.2025.106279",
-   "title": "Do Chinese courts apply the “Hand Formula”: Empirical evidence from cases related to the duty of safety protection",
-   "authors": [
-    "Zhang H"
-   ],
-   "journal": "International Review of Law and Economics",
-   "journal_id": "irle",
-   "date": "2025-09-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.irle.2025.106279"
-  },
-  {
-   "doi": "10.1016/j.irle.2025.106280",
-   "title": "Conflict and property law: The hidden costs of takings and of liability rule protection",
-   "authors": [
-    "Mittlaender S"
-   ],
-   "journal": "International Review of Law and Economics",
-   "journal_id": "irle",
-   "date": "2025-09-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.irle.2025.106280"
-  },
-  {
-   "doi": "10.1016/j.ijindorg.2025.103186",
-   "title": "Firm markups and the economic value of innovation",
-   "authors": [
-    "Martin R",
-    "Solorzano Mosquera J",
-    "Thomas C",
-    "Verhoeven D"
-   ],
-   "journal": "International Journal of Industrial Organization",
-   "journal_id": "ijio",
-   "date": "2025-09-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.ijindorg.2025.103186"
-  },
-  {
-   "doi": "10.1016/j.ijindorg.2025.103170",
-   "title": "Shaping preferences through industrial policy: The Canary Islands in autarkic Spain",
-   "authors": [
-    "Miravete E J",
-    "Moral M J"
-   ],
-   "journal": "International Journal of Industrial Organization",
-   "journal_id": "ijio",
-   "date": "2025-09-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.ijindorg.2025.103170"
   }
  ]
 }
