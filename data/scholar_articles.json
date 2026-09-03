@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-02 18:31",
- "count": 53,
+ "updated_at": "2026-09-03 00:37",
+ "count": 54,
  "articles": [
   {
    "doi": "10.1007/s12061-026-09988-9",
@@ -22,22 +22,6 @@
    "scholar_institution": "Columbia Law School"
   },
   {
-   "doi": "10.1016/j.clsr.2026.106389",
-   "title": "A fairness standard in EU platform regulation: Moving beyond fragmented protections for consumers, business users, and workers",
-   "authors": [
-    "Inge Graef"
-   ],
-   "journal": "Computer law & security review",
-   "journal_id": "",
-   "date": "2026-08-20",
-   "abstract": "Digital platforms generate significant benefits for consumers, business users, and workers through new forms of interaction and services, yet their superior bargaining power gives rise to fairness concerns. The EU has responded with a range of legislative instruments, including the Platform-to-Business Regulation, the Digital Markets Act, the Digital Services Act, and the Platform Work Directive. This has produced a fragmented regulatory landscape with each instrument targeting specific stakeholders or issues. The paper argues that establishing an overarching fairness standard would not only simplify and consolidate EU platform regulation, but also shift the focus from merely prohibiting unfair practices to prescribing how platforms should operate fairly. Relying on a legal doctrinal analysis of existing EU consumer law, sector-specific instruments and former EU initiatives to extend contractual protections to businesses, the paper proposes to ground such a standard in the concept of good commercial practice interpreted in light of the autonomy of platform users. This notion provides a flexible yet principled standard for assessing through a proportionality test whether a term or practice is reasonably necessary or proportionate to protect the platform’s interests. The paper tailors the proposed standard to the distinct position of consumers, business users, and workers – applying it most strictly to consumers, more leniently to business users, and intermediately to workers. By articulating a general fairness standard, the paper contributes to the European Commission’s ongoing efforts, including those under the Digital Fitness Check, to streamline and enhance regulatory coherence in the platform economy.",
-   "type": "article",
-   "url": "https://doi.org/10.1016/j.clsr.2026.106389",
-   "scholar_id": "inge-graef",
-   "scholar_name": "Inge Graef",
-   "scholar_institution": "Tilburg University"
-  },
-  {
    "doi": "10.1016/j.ymgme.2026.110237",
    "title": "Functional characterization of 42 GAA missense variants using a validated in vitro cellular functional assay",
    "authors": [
@@ -53,13 +37,29 @@
    ],
    "journal": "Molecular Genetics and Metabolism",
    "journal_id": "",
-   "date": "2026-08-01",
+   "date": "2026-08-26",
    "abstract": "",
    "type": "article",
    "url": "https://doi.org/10.1016/j.ymgme.2026.110237",
    "scholar_id": "gregory-crawford",
    "scholar_name": "Gregory Crawford",
    "scholar_institution": "University of Zurich"
+  },
+  {
+   "doi": "10.1016/j.clsr.2026.106389",
+   "title": "A fairness standard in EU platform regulation: Moving beyond fragmented protections for consumers, business users, and workers",
+   "authors": [
+    "Inge Graef"
+   ],
+   "journal": "Computer law & security review",
+   "journal_id": "",
+   "date": "2026-08-20",
+   "abstract": "Digital platforms generate significant benefits for consumers, business users, and workers through new forms of interaction and services, yet their superior bargaining power gives rise to fairness concerns. The EU has responded with a range of legislative instruments, including the Platform-to-Business Regulation, the Digital Markets Act, the Digital Services Act, and the Platform Work Directive. This has produced a fragmented regulatory landscape with each instrument targeting specific stakeholders or issues. The paper argues that establishing an overarching fairness standard would not only simplify and consolidate EU platform regulation, but also shift the focus from merely prohibiting unfair practices to prescribing how platforms should operate fairly. Relying on a legal doctrinal analysis of existing EU consumer law, sector-specific instruments and former EU initiatives to extend contractual protections to businesses, the paper proposes to ground such a standard in the concept of good commercial practice interpreted in light of the autonomy of platform users. This notion provides a flexible yet principled standard for assessing through a proportionality test whether a term or practice is reasonably necessary or proportionate to protect the platform’s interests. The paper tailors the proposed standard to the distinct position of consumers, business users, and workers – applying it most strictly to consumers, more leniently to business users, and intermediately to workers. By articulating a general fairness standard, the paper contributes to the European Commission’s ongoing efforts, including those under the Digital Fitness Check, to streamline and enhance regulatory coherence in the platform economy.",
+   "type": "article",
+   "url": "https://doi.org/10.1016/j.clsr.2026.106389",
+   "scholar_id": "inge-graef",
+   "scholar_name": "Inge Graef",
+   "scholar_institution": "Tilburg University"
   },
   {
    "doi": "10.1086/743388",
@@ -696,6 +696,22 @@
    "scholar_id": "frank-pasquale",
    "scholar_name": "Frank Pasquale",
    "scholar_institution": "University of Maryland"
+  },
+  {
+   "doi": "10.2139/ssrn.7381342",
+   "title": "Dynamic Merger Control after Draghi: A Critical Appreciation of the Oxera Study on the Dynamic Effects of Mergers",
+   "authors": [
+    "Jorge Padilla"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.7381342",
+   "scholar_id": "jorge-padilla",
+   "scholar_name": "Jorge Padilla",
+   "scholar_institution": "Compass Lexecon"
   },
   {
    "doi": "10.21203/rs.3.rs-8197218/v1",

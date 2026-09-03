@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-02 18:31",
+ "updated_at": "2026-09-03 00:37",
  "doc_count": 379,
  "heat": [
   {
@@ -55,12 +55,12 @@
    "count": 12
   },
   {
-   "term": "incentives",
+   "term": "role",
    "count": 12
   },
   {
-   "term": "role",
-   "count": 11
+   "term": "incentives",
+   "count": 12
   },
   {
    "term": "tax",
@@ -163,10 +163,6 @@
    "count": 8
   },
   {
-   "term": "advantage",
-   "count": 8
-  },
-  {
    "term": "size",
    "count": 8
   },
@@ -220,6 +216,10 @@
   },
   {
    "term": "experiment",
+   "count": 7
+  },
+  {
+   "term": "advantage",
    "count": 7
   },
   {
@@ -285,7 +285,7 @@
  ],
  "profiles": {
   "ijio": {
-   "count": 102,
+   "count": 103,
    "avg_authors": 2.5,
    "terms": [
     {
@@ -441,7 +441,7 @@
    ]
   },
   "jie": {
-   "count": 37,
+   "count": 36,
    "avg_authors": 2.0,
    "terms": [
     {
