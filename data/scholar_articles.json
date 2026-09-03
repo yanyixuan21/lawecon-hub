@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-03 12:34",
+ "updated_at": "2026-09-03 18:31",
  "count": 54,
  "articles": [
   {
@@ -160,7 +160,7 @@
     "Alexandre de Cornière",
     "Andrea Mantovani"
    ],
-   "journal": "Toulouse 1 Capitole Publications (Université Toulouse I Capitole)",
+   "journal": "Toulouse Capitole Publications (University Toulouse 1 Capitole)",
    "journal_id": "",
    "date": "2026-06-01",
    "abstract": "As cloud computing continues to expand, it has drawn significant attention from policymakers due to concerns over market concentration and potentially controversial practices employed by dominant providers. In this paper, we examine the impact of egress fees, which are imposed on users when switching providers. Using a two-period horizontal differentiated duopoly model, we analyze their effects on firms and society. Our findings reveal that cloud providers have strong incentives to implement egress fees, yet these fees harm users. Regulating egress fees has often been evoked as a solution, ranging from banning them to capping them at the cost of transfer. We find that regulation improves user surplus, but excessive regulation, such as banning such fees, may harm total welfare when providers’ data-transfer costs or users’ operational switching costs are high. We also find that regulation can have opposing effects on societal outcomes: while it may incentivize cloud providers to increase switching costs for users, thereby harming society, it may also stimulate cloud usage, a consideration that may matter in policy environments where increasing cloud adoption is itself an objective.",
