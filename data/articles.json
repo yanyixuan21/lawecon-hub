@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-04 00:34",
+ "updated_at": "2026-09-04 06:32",
  "count": 380,
  "articles": [
   {
@@ -491,19 +491,6 @@
    "abstract": "Abstract In 1984 the UK embarked on a new approach to economic regulation, which influenced the design of regulation in many countries. While it has largely stood the test of time, the UK model of economic regulation is perceived by some to be costly, complex, and divorced from some of its original aims. This paper describes the UK model, identifies common trends in its evolution, and critically evaluates possible adaptations to address the problems identified. Given the significant influence of the UK model internationally, the analysis offers insights for other jurisdictions on issues such as regulatory independence, institutional design, and how to deal with multiple policy agendas, accountability, appeals, and governance structures. It also highlights how the institutional context affects the outcomes of key industrial organization ideas -- such as privatization, incentive regulation, and structural separation.",
    "type": "journal-article",
    "url": "https://doi.org/10.1007/s11151-026-10064-2"
-  },
-  {
-   "doi": "10.1007/s11151-026-10058-0",
-   "title": "Cartels Without Barriers: Quantifying the Cost of Free Entry for the Chilean Nitrate Cartels",
-   "authors": [
-    "Carrera F"
-   ],
-   "journal": "Review of Industrial Organization",
-   "journal_id": "rio",
-   "date": "2026-08-20",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1007/s11151-026-10058-0"
   },
   {
    "doi": "10.1007/s10657-026-09884-0",
@@ -1528,6 +1515,19 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1080/17441056.2026.2675832"
+  },
+  {
+   "doi": "10.1007/s11151-026-10058-0",
+   "title": "Cartels Without Barriers: Quantifying the Cost of Free Entry for the Chilean Nitrate Cartels",
+   "authors": [
+    "Carrera F"
+   ],
+   "journal": "Review of Industrial Organization",
+   "journal_id": "rio",
+   "date": "2026-06-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s11151-026-10058-0"
   },
   {
    "doi": "10.1086/741728",
