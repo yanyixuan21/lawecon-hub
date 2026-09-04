@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-03 18:31",
- "doc_count": 379,
+ "updated_at": "2026-09-04 00:34",
+ "doc_count": 380,
  "heat": [
   {
    "term": "antitrust",
@@ -243,6 +243,10 @@
    "count": 6
   },
   {
+   "term": "costly",
+   "count": 6
+  },
+  {
    "term": "framework",
    "count": 6
   },
@@ -276,10 +280,6 @@
   },
   {
    "term": "structural",
-   "count": 6
-  },
-  {
-   "term": "scale",
    "count": 6
   }
  ],
@@ -331,8 +331,8 @@
    ]
   },
   "irle": {
-   "count": 38,
-   "avg_authors": 2.4,
+   "count": 39,
+   "avg_authors": 2.3,
    "terms": [
     {
      "term": "williamson legacy",
