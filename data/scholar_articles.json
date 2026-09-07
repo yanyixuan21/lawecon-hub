@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-07 12:35",
- "count": 54,
+ "updated_at": "2026-09-07 18:31",
+ "count": 55,
  "articles": [
   {
    "doi": "10.1007/s12061-026-09988-9",
@@ -709,6 +709,24 @@
    "abstract": "",
    "type": "preprint",
    "url": "https://doi.org/10.2139/ssrn.7381342",
+   "scholar_id": "jorge-padilla",
+   "scholar_name": "Jorge Padilla",
+   "scholar_institution": "Compass Lexecon"
+  },
+  {
+   "doi": "10.2139/ssrn.7402218",
+   "title": "Could is not Would: Restoring the Proper Counterfactual for Merger Efficiencies",
+   "authors": [
+    "Jorge Padilla",
+    "Román Fischer",
+    "Cecilia Nardini"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.7402218",
    "scholar_id": "jorge-padilla",
    "scholar_name": "Jorge Padilla",
    "scholar_institution": "Compass Lexecon"
