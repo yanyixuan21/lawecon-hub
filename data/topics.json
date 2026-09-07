@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-06 18:28",
- "doc_count": 380,
+ "updated_at": "2026-09-07 00:39",
+ "doc_count": 379,
  "heat": [
   {
    "term": "antitrust",
@@ -215,10 +215,6 @@
    "count": 7
   },
   {
-   "term": "experiment",
-   "count": 7
-  },
-  {
    "term": "advantage",
    "count": 7
   },
@@ -280,6 +276,10 @@
   },
   {
    "term": "structural",
+   "count": 6
+  },
+  {
+   "term": "scale",
    "count": 6
   }
  ],
@@ -369,7 +369,7 @@
    ]
   },
   "ejle": {
-   "count": 34,
+   "count": 33,
    "avg_authors": 2.2,
    "terms": [
     {
