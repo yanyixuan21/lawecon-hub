@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-08 00:38",
+ "updated_at": "2026-09-08 06:33",
  "count": 379,
  "articles": [
   {
@@ -223,6 +223,19 @@
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103334"
   },
   {
+   "doi": "10.1016/j.ijindorg.2026.103336",
+   "title": "Product variety, alcohol purchases, and the role of excise taxes",
+   "authors": [
+    "Janssen A"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-09-08",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103336"
+  },
+  {
    "doi": "10.1016/j.irle.2026.106342",
    "title": "Judicial panel selection and strategic behaviour in the Indian Supreme Court: Measuring the performance of Chief Justices",
    "authors": [
@@ -339,19 +352,6 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103335"
-  },
-  {
-   "doi": "10.1016/j.ijindorg.2026.103336",
-   "title": "Product Variety, Alcohol Purchases, and the Role of Excise Taxes",
-   "authors": [
-    "Janssen A"
-   ],
-   "journal": "International Journal of Industrial Organization",
-   "journal_id": "ijio",
-   "date": "2026-09-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.ijindorg.2026.103336"
   },
   {
    "doi": "10.1016/j.irle.2026.106360",
