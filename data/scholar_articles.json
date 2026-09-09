@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-09 12:35",
+ "updated_at": "2026-09-09 18:32",
  "count": 55,
  "articles": [
   {
@@ -325,7 +325,7 @@
     "Michel Guillaume Nivard",
     "等"
    ],
-   "journal": "UNC Libraries",
+   "journal": "Carolina Digital Repository (University of North Carolina at Chapel Hill)",
    "journal_id": "",
    "date": "2026-02-10",
    "abstract": "",
@@ -349,7 +349,7 @@
     "Hyejung Won",
     "等"
    ],
-   "journal": "UNC Libraries",
+   "journal": "Carolina Digital Repository (University of North Carolina at Chapel Hill)",
    "journal_id": "",
    "date": "2026-02-10",
    "abstract": "",
@@ -868,7 +868,7 @@
     "Futao Zhang",
     "等"
    ],
-   "journal": "UNC Libraries",
+   "journal": "Carolina Digital Repository (University of North Carolina at Chapel Hill)",
    "journal_id": "",
    "date": "2025-10-17",
    "abstract": "Major depressive disorder (MDD) is a common illness accompanied by considerable morbidity, mortality, costs, and heightened risk of suicide. We conducted a genome-wide association meta-analysis based in 135,458 cases and 344,901 controls and identified 44 independent and significant loci. The genetic findings were associated with clinical features of major depression and implicated brain regions exhibiting anatomical differences in cases. Targets of antidepressant medications and genes involved in gene splicing were enriched for smaller association signal. We found important relationships of genetic risk for major depression with educational attainment, body mass, and schizophrenia: lower educational attainment and higher body mass were putatively causal, whereas major depression and schizophrenia reflected a partly shared biological etiology. All humans carry lesser or greater numbers of genetic risk factors for major depression. These findings help refine the basis of major depression and imply that a continuous measure of risk underlies the clinical phenotype.",
@@ -940,7 +940,7 @@
     "Alejandro Barrera",
     "等"
    ],
-   "journal": "UNC Libraries",
+   "journal": "Carolina Digital Repository (University of North Carolina at Chapel Hill)",
    "journal_id": "",
    "date": "2025-10-05",
    "abstract": "Variation in the non-coding genome represents an understudied mechanism of disease and it remains challenging to predict if single nucleotide variants, small insertions and deletions, or structural variants in non-coding genomic regions will be detrimental. Our approach using complementary RNA-seq and targeted long-read DNA sequencing can prioritize identification of non-coding variants that lead to disease via alteration of gene splicing or expression. We have identified a patient with primary ciliary dyskinesia with a pathogenic coding variant on one allele of the SPAG1 gene, while the second allele appears normal by whole exome sequencing despite an autosomal recessive inheritance pattern. RNA sequencing revealed reduced SPAG1 transcript levels and exclusive allele specific expression of the known pathogenic allele, suggesting the presence of a non-coding variant on the second allele that impacts transcription. Targeted long-read DNA sequencing identified a heterozygous 3 kilobase deletion of the 5' untranslated region of SPAG1, overlapping the promoter and first non-coding exon. This non-coding deletion was missed by whole exome sequencing and gene-specific deletion/duplication analysis, highlighting the importance of investigating the non-coding genome in patients with \"missing\" disease-causing variation. This paradigm demonstrates the utility of both RNA and long-read DNA sequencing in identifying pathogenic non-coding variants in patients with unexplained genetic disease.",
