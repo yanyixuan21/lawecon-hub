@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-12 06:31",
- "count": 378,
+ "updated_at": "2026-09-12 12:30",
+ "count": 379,
  "articles": [
   {
    "doi": "10.1016/j.ijindorg.2026.103320",
@@ -266,6 +266,19 @@
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103335"
   },
   {
+   "doi": "10.1016/j.irle.2026.106360",
+   "title": "Policing or penalties? Deterrence in a model of plea bargaining with costly juror effort",
+   "authors": [
+    "Guha B"
+   ],
+   "journal": "International Review of Law and Economics",
+   "journal_id": "irle",
+   "date": "2026-09-12",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.irle.2026.106360"
+  },
+  {
    "doi": "10.1016/j.irle.2026.106342",
    "title": "Judicial panel selection and strategic behaviour in the Indian Supreme Court: Measuring the performance of Chief Justices",
    "authors": [
@@ -354,17 +367,17 @@
    "url": "https://doi.org/10.1016/s0144-8188(26)00033-5"
   },
   {
-   "doi": "10.1016/j.irle.2026.106360",
-   "title": "Policing or Penalties? Deterrence in A Model of Plea Bargaining with Costly Juror Effort",
+   "doi": "10.1016/j.irle.2026.106359",
+   "title": "Settlement of Litigation May Increase or Decrease Deterrence and Social Welfare",
    "authors": [
-    "Guha B"
+    "Shavell S"
    ],
    "journal": "International Review of Law and Economics",
    "journal_id": "irle",
    "date": "2026-09-01",
    "abstract": "",
    "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.irle.2026.106360"
+   "url": "https://doi.org/10.1016/j.irle.2026.106359"
   },
   {
    "doi": "10.1007/s10657-026-09886-y",

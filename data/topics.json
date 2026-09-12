@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-12 06:31",
- "doc_count": 378,
+ "updated_at": "2026-09-12 12:31",
+ "doc_count": 379,
  "heat": [
   {
    "term": "antitrust",
@@ -23,15 +23,15 @@
    "count": 20
   },
   {
+   "term": "litigation",
+   "count": 15
+  },
+  {
    "term": "cost",
    "count": 15
   },
   {
    "term": "consumers",
-   "count": 14
-  },
-  {
-   "term": "litigation",
    "count": 14
   },
   {
@@ -183,6 +183,10 @@
    "count": 7
   },
   {
+   "term": "settlement",
+   "count": 7
+  },
+  {
    "term": "after",
    "count": 7
   },
@@ -239,6 +243,10 @@
    "count": 6
   },
   {
+   "term": "deterrence",
+   "count": 6
+  },
+  {
    "term": "costly",
    "count": 6
   },
@@ -259,10 +267,6 @@
    "count": 6
   },
   {
-   "term": "welfare",
-   "count": 6
-  },
-  {
    "term": "choice",
    "count": 6
   },
@@ -276,10 +280,6 @@
   },
   {
    "term": "structural",
-   "count": 6
-  },
-  {
-   "term": "scale",
    "count": 6
   }
  ],
@@ -331,7 +331,7 @@
    ]
   },
   "irle": {
-   "count": 39,
+   "count": 40,
    "avg_authors": 2.3,
    "terms": [
     {
