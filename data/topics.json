@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-12 18:28",
- "doc_count": 379,
+ "updated_at": "2026-09-13 00:35",
+ "doc_count": 378,
  "heat": [
   {
    "term": "antitrust",
@@ -123,10 +123,6 @@
    "count": 9
   },
   {
-   "term": "gender",
-   "count": 9
-  },
-  {
    "term": "rules",
    "count": 9
   },
@@ -147,10 +143,6 @@
    "count": 8
   },
   {
-   "term": "online",
-   "count": 8
-  },
-  {
    "term": "state",
    "count": 8
   },
@@ -164,10 +156,6 @@
   },
   {
    "term": "size",
-   "count": 8
-  },
-  {
-   "term": "often",
    "count": 8
   },
   {
@@ -211,6 +199,10 @@
    "count": 7
   },
   {
+   "term": "online",
+   "count": 7
+  },
+  {
    "term": "interoperability",
    "count": 7
   },
@@ -220,6 +212,14 @@
   },
   {
    "term": "advantage",
+   "count": 7
+  },
+  {
+   "term": "gender",
+   "count": 7
+  },
+  {
+   "term": "often",
    "count": 7
   },
   {
@@ -558,7 +558,7 @@
    ]
   },
   "rle": {
-   "count": 22,
+   "count": 21,
    "avg_authors": 1.9,
    "terms": [
     {
