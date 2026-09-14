@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-13 18:29",
- "doc_count": 378,
+ "updated_at": "2026-09-14 00:36",
+ "doc_count": 376,
  "heat": [
   {
    "term": "antitrust",
@@ -12,7 +12,7 @@
   },
   {
    "term": "enforcement",
-   "count": 23
+   "count": 22
   },
   {
    "term": "platform",
@@ -469,8 +469,8 @@
    "terms": []
   },
   "rio": {
-   "count": 42,
-   "avg_authors": 2.3,
+   "count": 40,
+   "avg_authors": 2.4,
    "terms": [
     {
      "term": "optimal disclosure",
@@ -493,16 +493,8 @@
      "count": 2
     },
     {
-     "term": "introduction special",
-     "count": 2
-    },
-    {
      "term": "recent developments",
      "count": 2
-    },
-    {
-     "term": "competition",
-     "count": 8
     },
     {
      "term": "pricing",
@@ -511,6 +503,14 @@
     {
      "term": "merger",
      "count": 6
+    },
+    {
+     "term": "competition",
+     "count": 6
+    },
+    {
+     "term": "antitrust",
+     "count": 4
     }
    ]
   },
