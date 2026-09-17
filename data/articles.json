@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-17 06:35",
+ "updated_at": "2026-09-17 12:33",
  "count": 375,
  "articles": [
   {
@@ -603,21 +603,6 @@
    "url": "https://doi.org/10.1093/jla/lqad021"
   },
   {
-   "doi": "10.1007/s11151-026-10061-5",
-   "title": "Correction: Optimal Disclosure on Crowdfunding Platforms",
-   "authors": [
-    "Avoyan A",
-    "Khubulashvili R",
-    "Mekerishvili G"
-   ],
-   "journal": "Review of Industrial Organization",
-   "journal_id": "rio",
-   "date": "2026-08-14",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1007/s11151-026-10061-5"
-  },
-  {
    "doi": "2308.11945",
    "title": "Antitrust Federalism: State Attorneys General as Second Enforcers",
    "authors": [
@@ -815,6 +800,21 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1080/17441056.2026.2706894"
+  },
+  {
+   "doi": "10.1007/s11151-026-10061-5",
+   "title": "Correction: Optimal Disclosure on Crowdfunding Platforms",
+   "authors": [
+    "Avoyan A",
+    "Khubulashvili R",
+    "Mekerishvili G"
+   ],
+   "journal": "Review of Industrial Organization",
+   "journal_id": "rio",
+   "date": "2026-08-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s11151-026-10061-5"
   },
   {
    "doi": "10.1086/721455",
