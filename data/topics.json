@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-19 18:28",
- "doc_count": 375,
+ "updated_at": "2026-09-20 00:35",
+ "doc_count": 374,
  "heat": [
   {
    "term": "antitrust",
@@ -75,10 +75,6 @@
    "count": 10
   },
   {
-   "term": "across",
-   "count": 10
-  },
-  {
    "term": "cartel",
    "count": 10
   },
@@ -112,6 +108,10 @@
   },
   {
    "term": "liability",
+   "count": 9
+  },
+  {
+   "term": "across",
    "count": 9
   },
   {
@@ -157,10 +157,6 @@
   {
    "term": "rules",
    "count": 8
-  },
-  {
-   "term": "power",
-   "count": 7
   },
   {
    "term": "higher",
@@ -219,10 +215,6 @@
    "count": 7
   },
   {
-   "term": "often",
-   "count": 7
-  },
-  {
    "term": "punishment",
    "count": 7
   },
@@ -232,6 +224,10 @@
   },
   {
    "term": "digital markets",
+   "count": 6
+  },
+  {
+   "term": "power",
    "count": 6
   },
   {
@@ -280,6 +276,10 @@
   },
   {
    "term": "act",
+   "count": 6
+  },
+  {
+   "term": "insights",
    "count": 6
   }
  ],
@@ -369,7 +369,7 @@
    ]
   },
   "ejle": {
-   "count": 32,
+   "count": 31,
    "avg_authors": 2.2,
    "terms": [
     {
