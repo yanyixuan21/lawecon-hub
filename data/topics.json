@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-20 18:29",
- "doc_count": 374,
+ "updated_at": "2026-09-21 00:35",
+ "doc_count": 373,
  "heat": [
   {
    "term": "antitrust",
@@ -39,10 +39,6 @@
    "count": 13
   },
   {
-   "term": "private",
-   "count": 13
-  },
-  {
    "term": "demand",
    "count": 13
   },
@@ -60,6 +56,10 @@
   },
   {
    "term": "incentives",
+   "count": 12
+  },
+  {
+   "term": "private",
    "count": 12
   },
   {
@@ -143,10 +143,6 @@
    "count": 8
   },
   {
-   "term": "china",
-   "count": 8
-  },
-  {
    "term": "justice",
    "count": 8
   },
@@ -204,6 +200,10 @@
   },
   {
    "term": "rule",
+   "count": 7
+  },
+  {
+   "term": "china",
    "count": 7
   },
   {
@@ -469,8 +469,8 @@
    "terms": []
   },
   "rio": {
-   "count": 40,
-   "avg_authors": 2.4,
+   "count": 39,
+   "avg_authors": 2.3,
    "terms": [
     {
      "term": "optimal disclosure",
