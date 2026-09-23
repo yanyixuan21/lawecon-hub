@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-23 06:35",
- "count": 55,
+ "updated_at": "2026-09-23 12:34",
+ "count": 57,
  "articles": [
   {
    "doi": "10.1007/s12061-026-09988-9",
@@ -730,6 +730,41 @@
    "scholar_id": "jorge-padilla",
    "scholar_name": "Jorge Padilla",
    "scholar_institution": "Compass Lexecon"
+  },
+  {
+   "doi": "10.3386/w34643",
+   "title": "Ruling for the Rich: the Supreme Court over Time",
+   "authors": [
+    "Andrea Prat",
+    "Fiona Scott Morton",
+    "Jacob Spitz"
+   ],
+   "journal": "National Bureau of Economic Research",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "To investigate the emergence of a pro-wealthy bias in the US Supreme Court, we develop a protocol to identify and analyze all cases involving economic issues from 1953 to the present.We categorize the parties in these cases as \"rich\" or \"poor\" according to their likelihood of being wealthy.A vote is pro-rich if that outcome would directly shift resources to the party that is more likely to be wealthy.Using this dataset, we estimate case-specific intercepts, justice-specific latent ideal points, and party-level time trends using the Bayesian methods pioneered by Martin and Quinn (2002).In the 1950s, justices appointed by the two parties appear similar in their propensity to cast pro-rich votes.Over the sample period, we estimate a steady increase in polarization, culminating in an implied party gap of 47 percentage points by 2022.The magnitude of the gap suggests the usefulness of an economic metric for prediction relative to ideologies such as originalism or textualism.",
+   "type": "report",
+   "url": "https://doi.org/10.3386/w34643",
+   "scholar_id": "fiona-scott-morton",
+   "scholar_name": "Fiona Scott Morton",
+   "scholar_institution": "Yale University"
+  },
+  {
+   "doi": "10.1093/joclec/nhaf035",
+   "title": "Monopolization in Europe: Understanding Dominance as an Ability",
+   "authors": [
+    "Rupprecht Podszun",
+    "Fiona Scott Morton"
+   ],
+   "journal": "Journal of Competition Law & Economics",
+   "journal_id": "",
+   "date": "2025-12-12",
+   "abstract": "ABSTRACT Over the past two decades, the European Commission’s enforcement activities against abusive practices often came too late. Investigations only started when companies had already acquired a strong dominant position. It proved difficult to restore competition. In this paper, we advocate an earlier intervention, namely when undertakings start to monopolize markets. This is possible under Article 102 of the Treaty on the Functioning of the European Union without legislative amendment by returning to the original definition of dominance and placing less emphasis on market shares. In line with cases like Hoffmann-LaRoche, dominance must be defined as the ability to steer the market into a direction that is detrimental to competition and trading partners. This will allow authorities to investigate the behaviour of firms at an earlier point of time, which is particularly valuable in markets prone to tipping.",
+   "type": "article",
+   "url": "https://doi.org/10.1093/joclec/nhaf035",
+   "scholar_id": "fiona-scott-morton",
+   "scholar_name": "Fiona Scott Morton",
+   "scholar_institution": "Yale University"
   },
   {
    "doi": "10.21203/rs.3.rs-8197218/v1",
