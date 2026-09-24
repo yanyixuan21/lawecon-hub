@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-24 04:53",
- "doc_count": 373,
+ "updated_at": "2026-09-24 11:48",
+ "doc_count": 374,
  "heat": [
   {
    "term": "antitrust",
@@ -239,6 +239,10 @@
    "count": 6
   },
   {
+   "term": "idea",
+   "count": 6
+  },
+  {
    "term": "framework",
    "count": 6
   },
@@ -277,15 +281,11 @@
   {
    "term": "act",
    "count": 6
-  },
-  {
-   "term": "insights",
-   "count": 6
   }
  ],
  "profiles": {
   "ijio": {
-   "count": 103,
+   "count": 104,
    "avg_authors": 2.5,
    "terms": [
     {

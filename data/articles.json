@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-24 04:53",
- "count": 373,
+ "updated_at": "2026-09-24 11:48",
+ "count": 374,
  "articles": [
   {
    "doi": "10.1016/j.ijindorg.2026.103320",
@@ -378,6 +378,22 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.irle.2026.106359"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103338",
+   "title": "An Experimental Study on the Effect of Knowledge on Idea Generation and Idea Selection",
+   "authors": [
+    "Irlenbusch B",
+    "Laske K",
+    "Schröder M",
+    "Stoczek R"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-09-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103338"
   },
   {
    "doi": "10.1007/s10657-026-09886-y",

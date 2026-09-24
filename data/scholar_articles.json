@@ -1,7 +1,31 @@
 {
- "updated_at": "2026-09-24 04:53",
- "count": 57,
+ "updated_at": "2026-09-24 11:48",
+ "count": 66,
  "articles": [
+  {
+   "doi": "10.1038/s41593-026-02454-2",
+   "title": "Massively parallel assessment of gene regulatory activity at human cortical-structure-associated variants",
+   "authors": [
+    "Nana Matoba",
+    "Jessica C. McAfee",
+    "Oleh Krupa",
+    "Alvaro A. Beltran",
+    "Jessica Bell",
+    "Brandon D. Le",
+    "Jordan M. Valone",
+    "Hyung-Gyu Min",
+    "等"
+   ],
+   "journal": "Nature Neuroscience",
+   "journal_id": "",
+   "date": "2026-09-23",
+   "abstract": "A large-scale functional screen identified noncoding variants that regulate gene activity during human brain development, providing insights into the molecular mechanisms that shape differences in human cortical structure.",
+   "type": "article",
+   "url": "https://doi.org/10.1038/s41593-026-02454-2",
+   "scholar_id": "gregory-crawford",
+   "scholar_name": "Gregory Crawford",
+   "scholar_institution": "University of Zurich"
+  },
   {
    "doi": "10.1007/s12061-026-09988-9",
    "title": "Building a Digital Smart City Index System for Urban Planning and Governance",
@@ -155,7 +179,7 @@
    "doi": "",
    "title": "Dynamic Competition in the Cloud : The Regulation of Egress Fees",
    "authors": [
-    "Gary Biglaiser",
+    "Gary BIGLAISER",
     "Jacques Crémer",
     "Alexandre de Cornière",
     "Andrea Mantovani"
@@ -317,7 +341,7 @@
    "authors": [
     "Ole Mors",
     "Jakob Grove",
-    "Pamela A.F. Madden",
+    "Pamela Madden",
     "Thorgeir Elís Thorgeirsson",
     "Futao Zhang",
     "Enrique Castelao",
@@ -390,7 +414,7 @@
     "Daniele Cretella",
     "Silvia La Monica",
     "Mara A. Bonelli",
-    "Roberta Alfieri",
+    "Roberta R. Alfieri",
     "Cristina Caffarra",
     "Federico Quaini",
     "Denise Madeddu",
@@ -748,6 +772,138 @@
    "scholar_id": "fiona-scott-morton",
    "scholar_name": "Fiona Scott Morton",
    "scholar_institution": "Yale University"
+  },
+  {
+   "doi": "10.2139/ssrn.6003016",
+   "title": "Reinvigorating The \"Failing\" Failing Firm Defence in Eu Merger Control",
+   "authors": [
+    "Jorge Padilla"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.6003016",
+   "scholar_id": "jorge-padilla",
+   "scholar_name": "Jorge Padilla",
+   "scholar_institution": "Compass Lexecon"
+  },
+  {
+   "doi": "10.2139/ssrn.6217838",
+   "title": "When and How To Rescue Efficiencies From Oblivion in Horizontal Merger Control?",
+   "authors": [
+    "Jorge Padilla"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.6217838",
+   "scholar_id": "jorge-padilla",
+   "scholar_name": "Jorge Padilla",
+   "scholar_institution": "Compass Lexecon"
+  },
+  {
+   "doi": "10.2139/ssrn.6370298",
+   "title": "Antitrust’s Culture Wars",
+   "authors": [
+    "Jorge Padilla"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.6370298",
+   "scholar_id": "jorge-padilla",
+   "scholar_name": "Jorge Padilla",
+   "scholar_institution": "Compass Lexecon"
+  },
+  {
+   "doi": "10.64153/qhxp9557",
+   "title": "Europeans should be allowed to trade personal data",
+   "authors": [
+    "Paul Heidhues",
+    "Nick Jacobson",
+    "Giorgio Monti",
+    "Fiona Scott Morton"
+   ],
+   "journal": "",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "The European debate over personal data trading has become trapped between two unworkable extremes: the status quo of allowing platforms unfettered access to user data, or making data sharing so difficult it is effectively banned. Neither position serves consumers’ interests. Personal data sharing can create substantial value – enabling relevant advertising and powering digital services – but currently this value is captured almost entirely by gatekeepers, while users surrender control of their commercial, location, social network and even sensitive medical data without meaningful consent or compensation. The critical policy challenge is to enable beneficial data sharing while protecting users’ fundamental privacy rights and ensuring they are fairly compensated for data they choose to share. The solution lies in creating well-regulated data markets. European Union regulators should establish a system that prohibits trading of personal data that is sensitive, sets a default that is both safe and gives users bargaining leverage, and mandates transparent and effective choice architectures to ensure users are informed. When a default allows users to access a platform’s free service in a more private way, the platform will have a financial incentive to encourage more data sharing. Platforms will need to compensate users to make active and informed choices to share more data. Platforms may also offer paid options to users who want to opt out of data sharing and to see no ads. This menu of three options – free, subsidised and costly – will allow users to make individual choices about sharing personal data in a safe and regulated environment. Such regulation would allow platforms to continue advertising-supported business models, while giving consumers genuine control and economic benefit from their data. Without functioning data markets, Europe faces two poor outcomes: either personalised advertising collapses and valuable digital content disappears, or courts permit platforms to continue exploiting users without consent, delegitimising privacy law. Well-designed data markets would enable fairness and contestability by allowing smaller digital competitors to obtain data on the same terms as big ones, and by sharing with users some of the hundreds of billions earned annually by platforms such as Google.",
+   "type": "article",
+   "url": "https://doi.org/10.64153/qhxp9557",
+   "scholar_id": "fiona-scott-morton",
+   "scholar_name": "Fiona Scott Morton",
+   "scholar_institution": "Yale University"
+  },
+  {
+   "doi": "10.2139/ssrn.6243659",
+   "title": "Antitrust Law's Breakup Obsession",
+   "authors": [
+    "Herbert Hovenkamp"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.6243659",
+   "scholar_id": "herbert-hovenkamp",
+   "scholar_name": "Herbert Hovenkamp",
+   "scholar_institution": "University of Pennsylvania Carey Law School"
+  },
+  {
+   "doi": "10.2139/ssrn.6318841",
+   "title": "Cartel Management Services",
+   "authors": [
+    "Herbert Hovenkamp",
+    "Thibault Schrepel"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.6318841",
+   "scholar_id": "herbert-hovenkamp",
+   "scholar_name": "Herbert Hovenkamp",
+   "scholar_institution": "University of Pennsylvania Carey Law School"
+  },
+  {
+   "doi": "10.2139/ssrn.6934218",
+   "title": "Antitrust's Controversy with Disruption",
+   "authors": [
+    "Herbert Hovenkamp"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.6934218",
+   "scholar_id": "herbert-hovenkamp",
+   "scholar_name": "Herbert Hovenkamp",
+   "scholar_institution": "University of Pennsylvania Carey Law School"
+  },
+  {
+   "doi": "10.2139/ssrn.7383098",
+   "title": "Antitrust Remedies for Tech Monopoly",
+   "authors": [
+    "Herbert Hovenkamp"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.7383098",
+   "scholar_id": "herbert-hovenkamp",
+   "scholar_name": "Herbert Hovenkamp",
+   "scholar_institution": "University of Pennsylvania Carey Law School"
   },
   {
    "doi": "10.1093/joclec/nhaf035",
