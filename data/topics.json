@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-24 21:32",
- "doc_count": 374,
+ "updated_at": "2026-09-25 04:59",
+ "doc_count": 373,
  "heat": [
   {
    "term": "antitrust",
@@ -8,7 +8,7 @@
   },
   {
    "term": "innovation",
-   "count": 23
+   "count": 21
   },
   {
    "term": "platform",
@@ -55,12 +55,12 @@
    "count": 12
   },
   {
-   "term": "incentives",
+   "term": "private",
    "count": 12
   },
   {
-   "term": "private",
-   "count": 12
+   "term": "incentives",
+   "count": 11
   },
   {
    "term": "tax",
@@ -93,10 +93,6 @@
   {
    "term": "italian",
    "count": 10
-  },
-  {
-   "term": "products",
-   "count": 9
   },
   {
    "term": "collusion",
@@ -132,6 +128,10 @@
   },
   {
    "term": "design",
+   "count": 8
+  },
+  {
+   "term": "products",
    "count": 8
   },
   {
@@ -172,10 +172,6 @@
   },
   {
    "term": "major",
-   "count": 7
-  },
-  {
-   "term": "services",
    "count": 7
   },
   {
@@ -239,10 +235,6 @@
    "count": 6
   },
   {
-   "term": "idea",
-   "count": 6
-  },
-  {
    "term": "framework",
    "count": 6
   },
@@ -256,6 +248,10 @@
   },
   {
    "term": "input",
+   "count": 6
+  },
+  {
+   "term": "services",
    "count": 6
   },
   {
@@ -280,6 +276,10 @@
   },
   {
    "term": "act",
+   "count": 6
+  },
+  {
+   "term": "insights",
    "count": 6
   }
  ],
@@ -437,7 +437,7 @@
    ]
   },
   "jie": {
-   "count": 36,
+   "count": 35,
    "avg_authors": 2.0,
    "terms": [
     {
@@ -447,10 +447,6 @@
     {
      "term": "information",
      "count": 4
-    },
-    {
-     "term": "innovation",
-     "count": 3
     },
     {
      "term": "demand",
