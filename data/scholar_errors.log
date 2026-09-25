@@ -411,3 +411,53 @@
 [2026-09-25 17:13:11] resolve miss: Pinar Akman (University of Leeds)
 [2026-09-25 17:13:13] resolve miss: Daniel Condorelli (University of Warwick)
 [2026-09-25 17:13:16] resolve miss: Carl Shapiro (UC Berkeley)
+[2026-09-25 21:36:20] resolve error Heike Schweitzer: HTTP Error 429: Too Many Requests
+[2026-09-25 21:36:20] resolve miss: Heike Schweitzer (Humboldt University Berlin)
+[2026-09-25 21:36:20] resolve error Frédéric Jenny: HTTP Error 429: Too Many Requests
+[2026-09-25 21:36:20] resolve miss: Frédéric Jenny (ESSEC Business School)
+[2026-09-25 21:36:20] resolve error Nicolas Petit: HTTP Error 429: Too Many Requests
+[2026-09-25 21:36:20] resolve miss: Nicolas Petit (University of Liège)
+[2026-09-25 21:36:20] resolve error Pinar Akman: HTTP Error 429: Too Many Requests
+[2026-09-25 21:36:20] resolve miss: Pinar Akman (University of Leeds)
+[2026-09-25 21:36:20] resolve error Lina Khan: HTTP Error 429: Too Many Requests
+[2026-09-25 21:36:20] resolve miss: Lina Khan (Columbia Law School)
+[2026-09-25 21:36:20] resolve error Tommaso Valletti: HTTP Error 429: Too Many Requests
+[2026-09-25 21:36:20] resolve miss: Tommaso Valletti (Imperial College London)
+[2026-09-25 21:36:20] resolve error Daniel Condorelli: HTTP Error 429: Too Many Requests
+[2026-09-25 21:36:20] resolve miss: Daniel Condorelli (University of Warwick)
+[2026-09-25 21:36:20] resolve error Jorge Padilla: HTTP Error 429: Too Many Requests
+[2026-09-25 21:36:20] resolve miss: Jorge Padilla (Compass Lexecon)
+[2026-09-25 21:36:21] resolve error Cristina Caffarra: HTTP Error 429: Too Many Requests
+[2026-09-25 21:36:21] resolve miss: Cristina Caffarra (CEPR)
+[2026-09-25 21:36:21] resolve error Fiona Scott Morton: HTTP Error 429: Too Many Requests
+[2026-09-25 21:36:21] resolve miss: Fiona Scott Morton (Yale University)
+[2026-09-25 21:36:21] resolve error Jean Tirole: HTTP Error 429: Too Many Requests
+[2026-09-25 21:36:21] resolve miss: Jean Tirole (Toulouse School of Economics)
+[2026-09-25 21:36:21] resolve error Carl Shapiro: HTTP Error 429: Too Many Requests
+[2026-09-25 21:36:21] resolve miss: Carl Shapiro (UC Berkeley)
+[2026-09-25 21:36:21] resolve error Tim Wu: HTTP Error 429: Too Many Requests
+[2026-09-25 21:36:21] resolve miss: Tim Wu (Columbia Law School)
+[2026-09-25 21:36:21] resolve error Ariel Ezrachi: HTTP Error 429: Too Many Requests
+[2026-09-25 21:36:21] resolve miss: Ariel Ezrachi (University of Oxford)
+[2026-09-25 21:36:21] resolve error Konstantinos Stylianou: HTTP Error 429: Too Many Requests
+[2026-09-25 21:36:21] resolve miss: Konstantinos Stylianou (University of Leeds)
+[2026-09-25 21:36:21] resolve error Gregory Crawford: HTTP Error 429: Too Many Requests
+[2026-09-25 21:36:21] resolve miss: Gregory Crawford (University of Zurich)
+[2026-09-25 21:36:21] resolve error Daniel Solove: HTTP Error 429: Too Many Requests
+[2026-09-25 21:36:21] resolve miss: Daniel Solove (George Washington University)
+[2026-09-25 21:36:21] resolve error Woodrow Hartzog: HTTP Error 429: Too Many Requests
+[2026-09-25 21:36:21] resolve miss: Woodrow Hartzog (Boston University)
+[2026-09-25 21:36:21] resolve error Neil Richards: HTTP Error 429: Too Many Requests
+[2026-09-25 21:36:21] resolve miss: Neil Richards (Washington University in St. Louis)
+[2026-09-25 21:36:21] resolve error Orla Lynskey: HTTP Error 429: Too Many Requests
+[2026-09-25 21:36:21] resolve miss: Orla Lynskey (University of Cambridge)
+[2026-09-25 21:36:21] resolve error Inge Graef: HTTP Error 429: Too Many Requests
+[2026-09-25 21:36:21] resolve miss: Inge Graef (Tilburg University)
+[2026-09-25 21:36:22] resolve error Frank Pasquale: HTTP Error 429: Too Many Requests
+[2026-09-25 21:36:22] resolve miss: Frank Pasquale (University of Maryland)
+[2026-09-25 21:36:22] resolve error Salomé Viljoen: HTTP Error 429: Too Many Requests
+[2026-09-25 21:36:22] resolve miss: Salomé Viljoen (University of Michigan)
+[2026-09-25 21:36:22] resolve error Randal C. Picker: HTTP Error 429: Too Many Requests
+[2026-09-25 21:36:22] resolve miss: Randal C. Picker (University of Chicago Law School)
+[2026-09-25 21:36:22] resolve error Herbert Hovenkamp: HTTP Error 429: Too Many Requests
+[2026-09-25 21:36:22] resolve miss: Herbert Hovenkamp (University of Pennsylvania Carey Law School)
