@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-25 04:59",
- "count": 66,
+ "updated_at": "2026-09-25 11:53",
+ "count": 72,
  "articles": [
   {
    "doi": "10.1038/s41593-026-02454-2",
@@ -19,7 +19,7 @@
    "journal": "Nature Neuroscience",
    "journal_id": "",
    "date": "2026-09-23",
-   "abstract": "A large-scale functional screen identified noncoding variants that regulate gene activity during human brain development, providing insights into the molecular mechanisms that shape differences in human cortical structure.",
+   "abstract": "Genetic association studies have identified hundreds of largely noncoding loci associated with interindividual differences in the structure of the human cortex, although the specific functional variants contributing to these phenotypes are unknown. Here we implemented a massively parallel reporter assay to measure the regulatory activity of 9,092 cortical-structure-associated variants in human neural progenitor cells at baseline and during Wnt stimulation. We identified 918 variants with regulatory potential from 150 cortical-structure-associated loci (76% of loci studied), of which more than 50% showed allelic effects. Wnt stimulation modified regulatory activity at a subset of loci, revealing condition-dependent enhancers. Massively parallel reporter assay activity was largely induced by Alu elements, suggesting that they contribute to cortical expansion. The region-specific impact of motif-disrupting variants is probably mediated by spatially localized transcription factor expression during development. Together, these results provide a genome-scale functional framework for understanding how noncoding variation influences cortical structure.",
    "type": "article",
    "url": "https://doi.org/10.1038/s41593-026-02454-2",
    "scholar_id": "gregory-crawford",
@@ -56,7 +56,7 @@
     "Seung‐Hye Jung",
     "Jessica Doxey",
     "Apoorva K. Iyengar",
-    "Erica B. Nading",
+    "Erica Burner Nading",
     "等"
    ],
    "journal": "Molecular Genetics and Metabolism",
@@ -143,6 +143,26 @@
    "scholar_institution": "University of Zurich"
   },
   {
+   "doi": "",
+   "title": "Fixed-Time Compensation of Input-Dependent Hydraulic Input Delay For a Model of a Microfluidic Process Under Zweifach-Fung Effect",
+   "authors": [
+    "Salim Zekraoui",
+    "Delphine Bresch‐Pietri",
+    "Nicolás Espitia",
+    "Nikolaos K. Bekiaris-Liberis",
+    "Nicolas Petit"
+   ],
+   "journal": "HAL (Le Centre pour la Communication Scientifique Directe)",
+   "journal_id": "",
+   "date": "2026-07-07",
+   "abstract": "International audience",
+   "type": "conference-paper",
+   "url": "https://openalex.org/works/W7155750669",
+   "scholar_id": "nicolas-petit",
+   "scholar_name": "Nicolas Petit",
+   "scholar_institution": "University of Liège"
+  },
+  {
    "doi": "10.1093/9780198969815.003.0017",
    "title": "Digital and Data Regulation",
    "authors": [
@@ -179,7 +199,7 @@
    "doi": "",
    "title": "Dynamic Competition in the Cloud : The Regulation of Egress Fees",
    "authors": [
-    "Gary BIGLAISER",
+    "Gary Biglaiser",
     "Jacques Crémer",
     "Alexandre de Cornière",
     "Andrea Mantovani"
@@ -253,6 +273,24 @@
    "scholar_institution": "University of Leeds"
   },
   {
+   "doi": "10.48102/ji.20.324",
+   "title": "Presentación",
+   "authors": [
+    "Jorge Padilla",
+    "Andrea Mariana Domínguez Noriega",
+    "María Zorrilla Ramos"
+   ],
+   "journal": "Jurídica Ibero Revista Semestral del Departamento de Derecho de la Universidad Iberoamericana",
+   "journal_id": "",
+   "date": "2026-04-27",
+   "abstract": "Vivimos al borde del abismo.En el contexto actual de triple crisis planetaria (cambio climático, pérdida de biodiversidad y contaminación) 1 resulta urgente para el trabajo académico acercarnos a estas problemáticas y a las distintas maneras a través de las cuales, desde las universidades y desde un enfoque interdisciplinario que ponga en el centro la comprensión del campo jurídico, abordamos y actuamos en el marco de esta crisis.Este número congrega diversos artículos que se suman a este esfuerzo de comprensión y de acción.En la Universidad Iberoamericana estamos comprometidos en construir y fortalecer un modelo de universidad generativa y vinculada, donde se articulen de manera virtuosa la generación de conocimiento, la formación integral de estudiantes y la vinculación con la sociedad.El lugar que ocupa hoy la enseñanza clínica dentro del plan de estudios de la Licenciatura en Derecho responde de manera precisa a este modelo.Las clínicas jurídicas son un espacio interdisciplinario donde se forman estudiantes; se acompañan casos y procesos de personas y colectividades en vinculación con el sector público, organizaciones internacionales, sociedad civil y fundaciones; se genera conocimiento de alto nivel.",
+   "type": "editorial",
+   "url": "https://doi.org/10.48102/ji.20.324",
+   "scholar_id": "jorge-padilla",
+   "scholar_name": "Jorge Padilla",
+   "scholar_institution": "Compass Lexecon"
+  },
+  {
    "doi": "10.64898/2026.04.02.715458",
    "title": "Multi-enhancer regulatory hubs control Th17 cell identity",
    "authors": [
@@ -294,6 +332,50 @@
    "scholar_id": "konstantinos-stylianou",
    "scholar_name": "Konstantinos Stylianou",
    "scholar_institution": "University of Leeds"
+  },
+  {
+   "doi": "10.5281/zenodo.19235205",
+   "title": "Guiding platform governance through codes of conduct",
+   "authors": [
+    "Verna Alcalde-González",
+    "Fabiola Mancinelli",
+    "Tiago Santos",
+    "Maurilio Pirone",
+    "Alina Kontateva",
+    "Inge Graef",
+    "Martin Mölder"
+   ],
+   "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+   "journal_id": "",
+   "date": "2026-03-26",
+   "abstract": "This dataset comprises internal materials produced across earlier work packages of the INCA project, including reports and deliverables submitted throughout the project lifecycle. The data is sourced through partner collaboration and from official project deliverables. Its primary purpose is to inform the development of general recommendations for platform governance. This collection serves as a foundational input for subsequent tasks (8.2 and 8.3) and will be updated following their completion. As an internal compilation of project materials, the dataset will not be made publicly available.",
+   "type": "dataset",
+   "url": "https://doi.org/10.5281/zenodo.19235205",
+   "scholar_id": "inge-graef",
+   "scholar_name": "Inge Graef",
+   "scholar_institution": "Tilburg University"
+  },
+  {
+   "doi": "10.5281/zenodo.19235206",
+   "title": "Guiding platform governance through codes of conduct",
+   "authors": [
+    "Verna Alcalde-González",
+    "Fabiola Mancinelli",
+    "Tiago Santos",
+    "Maurilio Pirone",
+    "Alina Kontateva",
+    "Inge Graef",
+    "Martin Mölder"
+   ],
+   "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+   "journal_id": "",
+   "date": "2026-03-26",
+   "abstract": "This dataset comprises internal materials produced across earlier work packages of the INCA project, including reports and deliverables submitted throughout the project lifecycle. The data is sourced through partner collaboration and from official project deliverables. Its primary purpose is to inform the development of general recommendations for platform governance. This collection serves as a foundational input for subsequent tasks (8.2 and 8.3) and will be updated following their completion. As an internal compilation of project materials, the dataset will not be made publicly available.",
+   "type": "dataset",
+   "url": "https://doi.org/10.5281/zenodo.19235206",
+   "scholar_id": "inge-graef",
+   "scholar_name": "Inge Graef",
+   "scholar_institution": "Tilburg University"
   },
   {
    "doi": "10.64898/2026.03.07.710282",
@@ -339,14 +421,14 @@
    "doi": "10.17615/me8c-0d64",
    "title": "Does Childhood Trauma Moderate Polygenic Risk for Depression? A Meta-analysis of 5765 Subjects From the Psychiatric Genomics Consortium",
    "authors": [
-    "Ole Mors",
+    "Ole N Mors",
     "Jakob Grove",
     "Pamela Madden",
     "Thorgeir Elís Thorgeirsson",
     "Futao Zhang",
     "Enrique Castelao",
     "Preben Bo Mortensen",
-    "Michel Guillaume Nivard",
+    "Michel G. Nivard",
     "等"
    ],
    "journal": "Carolina Digital Repository (University of North Carolina at Chapel Hill)",
@@ -906,6 +988,42 @@
    "scholar_institution": "University of Pennsylvania Carey Law School"
   },
   {
+   "doi": "10.5040/9781509983759.ch-011",
+   "title": "Beyond Digital Pessimism: How a Focus on Trust Can Enhance EU Digital Law",
+   "authors": [
+    "Neil Richards",
+    "Woodrow Hartzog",
+    "Claire C. Boine",
+    "Lea Despotis"
+   ],
+   "journal": "",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "other",
+   "url": "https://doi.org/10.5040/9781509983759.ch-011",
+   "scholar_id": "neil-richards",
+   "scholar_name": "Neil Richards",
+   "scholar_institution": "Washington University in St. Louis"
+  },
+  {
+   "doi": "10.5040/9781509987511.ch-005",
+   "title": "Regulatory Sandboxes in Finance and Energy",
+   "authors": [
+    "Inge Graef",
+    "Din Buljević"
+   ],
+   "journal": "",
+   "journal_id": "",
+   "date": "2025-12-16",
+   "abstract": "",
+   "type": "other",
+   "url": "https://doi.org/10.5040/9781509987511.ch-005",
+   "scholar_id": "inge-graef",
+   "scholar_name": "Inge Graef",
+   "scholar_institution": "Tilburg University"
+  },
+  {
    "doi": "10.1093/joclec/nhaf035",
    "title": "Monopolization in Europe: Understanding Dominance as an Ability",
    "authors": [
@@ -1054,7 +1172,7 @@
     "Isaac S. Kohane",
     "Christine Søholm Hansen",
     "Susanne Lucae",
-    "Hans J. Grabe",
+    "Hans Joergen Grabe",
     "Cheynna Crowley",
     "Futao Zhang",
     "等"
