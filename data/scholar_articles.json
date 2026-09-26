@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-26 11:27",
- "count": 72,
+ "updated_at": "2026-09-26 16:25",
+ "count": 95,
  "articles": [
   {
    "doi": "10.1038/s41593-026-02454-2",
@@ -25,6 +25,66 @@
    "scholar_id": "gregory-crawford",
    "scholar_name": "Gregory Crawford",
    "scholar_institution": "University of Zurich"
+  },
+  {
+   "doi": "10.1016/j.geb.2026.104044",
+   "title": "Eliciting moral preferences under image concerns: Theory and experiment",
+   "authors": [
+    "Roland Bénabou",
+    "Armin Falk",
+    "Luca Henkel",
+    "Jean Tirole"
+   ],
+   "journal": "Games and Economic Behavior",
+   "journal_id": "",
+   "date": "2026-09-17",
+   "abstract": "We analyze how the impact of image motives on behavior varies with two key features of the choice mechanism: single versus multiple decisions, and certainty versus uncertainty of consequences. Using direct elicitation (DE) versus multiple-price-list (MPL) or equivalently Becker-DeGroot-Marschak (BDM) schemes as exemplars, we develop a game-theoretic model to characterize how image-seeking inflates prosocial giving. The signaling bias (relative to true preferences) is shown to depend on the interaction between elicitation method and visibility level: it is greater under DE for low image concerns, and greater under MPL/BDM for high ones. We experimentally test the model’s predictions and find the predicted crossing effect. Keywords Moral behavior; Social image; Self-image; Preference elicitation; Multiple price list; Experiments",
+   "type": "article",
+   "url": "https://doi.org/10.1016/j.geb.2026.104044",
+   "scholar_id": "jean-tirole",
+   "scholar_name": "Jean Tirole",
+   "scholar_institution": "Toulouse School of Economics"
+  },
+  {
+   "doi": "10.64898/2026.09.03.749158",
+   "title": "Interrogation of noncoding schizophrenia risk variants using CRISPR-based functional genomics",
+   "authors": [
+    "Marisa C. Hamilton",
+    "Julia W. Riley",
+    "Alexander C. Nelson",
+    "B. Li",
+    "Sophie F. Dornbaum",
+    "Alexias Safi",
+    "Xiekui Cui",
+    "Ian Richard Jones",
+    "等"
+   ],
+   "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+   "journal_id": "",
+   "date": "2026-09-17",
+   "abstract": "Abstract Schizophrenia (SCZ) is a highly heritable complex disorder influenced by coding and noncoding genetic variation. Its genetic causes, particularly those involving noncoding variation, are largely unknown. High-throughput CRISPR screens enable dissection of disease-associated loci and identification of noncoding regulatory elements and variants that modulate gene expression. We screened SCZ GWAS loci linked to genes that are also associated in whole-exome sequencing studies to identify regulatory elements and variants impacting expression of disease-relevant genes. We used CRISPRi paired with HCR-FlowFISH to epigenetically silence 333 putative regulatory elements and measure the downstream effects on gene expression of causal SCZ genes, FAM120A , SV2A , and STAG1 , in iPSCs and iPSC-derived neurons (iNeurons). We identified 78 regulatory elements that significantly alter expression of a SCZ gene, including noncoding enhancers/silencers as well as promoters of genes and lncRNAs. Pooled prime editing screens interrogated noncoding variant influence on gene expression for SCZ-associated variants and uncharacterized common variants from diverse population studies. We find that a common variant in the promoter of SV2A , rs112851681:A>G (MAF = 3.56%, 1000 Genomes) enhances transcriptional activity in iPSCs and iNeurons. These findings show distinct noncoding mechanisms that map within GWAS signals, and provide a path forward for interrogating noncoding regulatory elements and variants in disease loci.",
+   "type": "preprint",
+   "url": "https://doi.org/10.64898/2026.09.03.749158",
+   "scholar_id": "gregory-crawford",
+   "scholar_name": "Gregory Crawford",
+   "scholar_institution": "University of Zurich"
+  },
+  {
+   "doi": "",
+   "title": "Économie du désordre mondial",
+   "authors": [
+    "Jean Tirole",
+    "Karine Van der Straeten"
+   ],
+   "journal": "Toulouse Capitole Publications (University Toulouse 1 Capitole)",
+   "journal_id": "",
+   "date": "2026-09-10",
+   "abstract": "En quelques années, le monde a connu une mutation profonde, qu’incarne aujourd’hui la politique de Donald Trump. La brutalisation diplomatique, l’insécurité géopolitique et les attaques contre le libre-échange ont rebattu les cartes d’un ordre anciennement fondé sur la coopération entre les pays. L’économie est désormais mobilisée comme un instrument de puissance, dans un contexte où domine la loi du plus fort. Face à ces bouleversements, la France et l’Europe, qui accusent des retards stratégiques importants, courent le risque d’un déclassement technologique, économique et d’une dépendance accrue. Comment l’éviter ? Comment empêcher qu’elles deviennent de simples variables d’ajustement dans la rivalité entre les États-Unis et la Chine ? Dans cet essai, le prix Nobel d’économie Jean Tirole et Karine Van der Straeten livrent leur analyse de la situation et les solutions pour en sortir. Selon eux, la France et l’Europe ne sont pas condamnées au déclin, mais elles sont condamnées à faire des choix forts. C’est à ce prix qu’elles pourront préserver leur modèle économique, social et démocratique.",
+   "type": "book",
+   "url": "https://openalex.org/works/W7214414438",
+   "scholar_id": "jean-tirole",
+   "scholar_name": "Jean Tirole",
+   "scholar_institution": "Toulouse School of Economics"
   },
   {
    "doi": "10.1007/s12061-026-09988-9",
@@ -70,6 +130,49 @@
    "scholar_institution": "University of Zurich"
   },
   {
+   "doi": "10.1016/j.ijindorg.2026.103334",
+   "title": "The strategic value of platform encroachment: Seller entry and network effects",
+   "authors": [
+    "Salvatore Piccolo",
+    "Shiva Shekhar",
+    "Jorge Padilla",
+    "Marco Pagnozzi"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "",
+   "date": "2026-08-25",
+   "abstract": "",
+   "type": "article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103334",
+   "scholar_id": "jorge-padilla",
+   "scholar_name": "Jorge Padilla",
+   "scholar_institution": "Compass Lexecon"
+  },
+  {
+   "doi": "10.64898/2026.08.20.746014",
+   "title": "Lifecourse sex-specific molecular response to early-life exposures of toxic substances",
+   "authors": [
+    "Shuhua Fu",
+    "Benpeng Miao",
+    "Wanqing Shao",
+    "CRISTIAN COARFA",
+    "Ravindra Kumar",
+    "Prashant Kumar Kuntala",
+    "Bongsoo Park",
+    "Sandra L. Grimm",
+    "等"
+   ],
+   "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+   "journal_id": "",
+   "date": "2026-08-25",
+   "abstract": "Abstract Toxicants in the environment can significantly impact physiology. Environmental chemical exposures during early developmental stages disturb normal embryonic development and programming, and dramatically impact long-term health as individuals age. Female and male animals show distinct phenotypes when responding to a given chemical exposure. Here, through the TaRGET II (Toxicant Exposures and Responses by Genomic and Epigenomic Regulators of Transcription) consortium, we systematically explored sex-specific transcriptomic and epigenomic alterations in response to various toxicants, including arsenic (As), lead (Pb), tributyltin (TBT), bisphenol A (BPA), di(2-ethylhexyl) phthalate (DEHP), dioxin (TCDD), and fine particulate matter (PM2.5), across three time points in mice exposed two weeks prior to conception through gestation and lactation. After being exposed to toxicants during the embryonic and early postnatal developmental stages, 1,025 omics datasets were generated from the liver and analyzed across three mouse life stages. We discovered a significant sex-biased molecular response to distinct exposures in the liver at both the transcriptomic and epigenetic levels, showing dynamic changes across mouse development and aging. The perturbed pathways and transcription factors in response to different chemical exposures in both sexes were further evaluated to measure the sex-specific impact of each toxic exposure in the liver. Overall, this study presents the most detailed investigation of sex-specific molecular signatures under the influence of developmental exposures to toxic substances.",
+   "type": "preprint",
+   "url": "https://doi.org/10.64898/2026.08.20.746014",
+   "scholar_id": "gregory-crawford",
+   "scholar_name": "Gregory Crawford",
+   "scholar_institution": "University of Zurich"
+  },
+  {
    "doi": "10.1016/j.clsr.2026.106389",
    "title": "A fairness standard in EU platform regulation: Moving beyond fragmented protections for consumers, business users, and workers",
    "authors": [
@@ -84,6 +187,48 @@
    "scholar_id": "inge-graef",
    "scholar_name": "Inge Graef",
    "scholar_institution": "Tilburg University"
+  },
+  {
+   "doi": "",
+   "title": "Analyse économique de l’organisation du marché de l’électricité",
+   "authors": [
+    "Stefan Ambec",
+    "Claude Crampes",
+    "Jean Tirole"
+   ],
+   "journal": "HAL (Le Centre pour la Communication Scientifique Directe)",
+   "journal_id": "",
+   "date": "2026-08-18",
+   "abstract": "National audience",
+   "type": "preprint",
+   "url": "https://openalex.org/works/W7203961167",
+   "scholar_id": "jean-tirole",
+   "scholar_name": "Jean Tirole",
+   "scholar_institution": "Toulouse School of Economics"
+  },
+  {
+   "doi": "10.64898/2026.08.10.743836",
+   "title": "Quantitative profiling of intrinsic dCas9-DNA recognition reveals key determinants of guide RNA performance",
+   "authors": [
+    "Wei Zhu",
+    "Michael Tian",
+    "Yuncheng Duan",
+    "Samuel J. Reisman",
+    "Samantha E Miller",
+    "Evan Corden",
+    "Maria ter Weele",
+    "Lingyun Song",
+    "等"
+   ],
+   "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
+   "journal_id": "",
+   "date": "2026-08-10",
+   "abstract": "ABSTRACT CRISPR technologies based on nuclease-deactivated Cas9 (dCas9) rely on programmable DNA binding rather than DNA cleavage, yet the intrinsic DNA-recognition properties that govern optimal guide RNA (gRNA) performance remain poorly understood. Existing approaches either measure genomic occupancy in cells or infer dCas9 behavior from cleavage-based Cas9 datasets, despite DNA binding being substantially more permissive than DNA cleavage. Here we introduce TANGO (Targeted Array-based Nucleic acid-Guided Occupancy), a high-density DNA-array platform that quantitatively profiles intrinsic dCas9:gRNA binding across tens of thousands of DNA targets in a cell-free system. TANGO captures established features of dCas9 target recognition, while providing substantially greater sensitivity than prior assays. Comparison with ChIP-seq data demonstrates that intrinsic DNA-binding specificity is a major driver of genomic occupancy and reveals that chromatin accessibility modulates the intrinsic binding affinity required for dCas9 recruitment. Across CRISPRi/a guides, TANGO identifies multiple independent biochemical determinants of guide performance—including on-target affinity, mismatch tolerance, and ribonucleoprotein assembly—and flags problematic and highly promiscuous guides overlooked by current specificity metrics. Unexpectedly, some guides retain substantial guide-directed DNA binding even in the absence of a protospacer-adjacent motif (PAM), revealing an additional dimension of dCas9 specificity. Together, these results establish intrinsic DNA recognition as a quantitative and experimentally accessible determinant of dCas9 function, providing a framework for improving guide selection and enhancing the precision of CRISPR technologies.",
+   "type": "preprint",
+   "url": "https://doi.org/10.64898/2026.08.10.743836",
+   "scholar_id": "gregory-crawford",
+   "scholar_name": "Gregory Crawford",
+   "scholar_institution": "University of Zurich"
   },
   {
    "doi": "10.1086/743388",
@@ -102,6 +247,24 @@
    "scholar_institution": "Toulouse School of Economics"
   },
   {
+   "doi": "10.1007/s00712-026-00924-6",
+   "title": "Defensive vertical merger waves",
+   "authors": [
+    "Salvatore Piccolo",
+    "Jorge Padilla",
+    "Shiva Shekhar"
+   ],
+   "journal": "Journal of Economics",
+   "journal_id": "",
+   "date": "2026-07-23",
+   "abstract": "Abstract This paper examines the competitive and welfare effects of a wave of vertical mergers in a supply chain model where two upstream suppliers, with different marginal costs of production, provide a homogeneous input to three horizontally differentiated retailers. We identify conditions under which a wave of vertical mergers unambiguously improves consumer welfare. Specifically, when the most efficient supplier is the first to integrate and the market is fully covered, the subsequent integration by the less efficient supplier unambiguously benefit consumers irrespective of whether the independent retailer is foreclosed or not. The intuition is that the second merger helps the less efficient supplier establish a protected position in the downstream market, preventing the more efficient competitor from leveraging its cost advantage to create contractual barriers to entry in the upstream market and monopolize the downstream market. If the order of mergers changes, a merger wave may or may not benefit consumers depending on the degree of cost heterogeneity and the degree of product differentiation. Interestingly, when comparing consumer welfare across different market structures — namely, no integration at all, single integration, and a wave of vertical mergers — we show that when a merger wave maximizes consumer welfare, it requires the independent retailer to be foreclosed.",
+   "type": "article",
+   "url": "https://doi.org/10.1007/s00712-026-00924-6",
+   "scholar_id": "jorge-padilla",
+   "scholar_name": "Jorge Padilla",
+   "scholar_institution": "Compass Lexecon"
+  },
+  {
    "doi": "10.1093/antitrust/atx001",
    "title": "Self-Preferencing in Digital Markets",
    "authors": [
@@ -117,6 +280,23 @@
    "scholar_id": "jacques-cremer",
    "scholar_name": "Jacques Crémer",
    "scholar_institution": "Toulouse School of Economics"
+  },
+  {
+   "doi": "10.1093/jeclap/lpag048",
+   "title": "When iRobot met Amazon",
+   "authors": [
+    "Gabriel Baron",
+    "Jorge Padilla"
+   ],
+   "journal": "Journal of European Competition Law & Practice",
+   "journal_id": "",
+   "date": "2026-07-11",
+   "abstract": "Abstract Amazon/iRobot is a warning whereby ex-post shocks can expose the limits of current merger-control framework in assessing dynamic efficiencies. In innovation-intensive markets merger control can generate costly prediction errors when it undervalues acquisitions as routes to scale, investment, and exit, since blocking deals may also weaken entry incentives and operate in practice as a form of exit policy. Merger control should become more contestable, reflexive, and reversible, with dynamic efficiencies and incentive effects assessed as rigorously as foreclosure risks, and with remedies designed as adaptable when predictions prove wrong.",
+   "type": "article",
+   "url": "https://doi.org/10.1093/jeclap/lpag048",
+   "scholar_id": "jorge-padilla",
+   "scholar_name": "Jorge Padilla",
+   "scholar_institution": "Compass Lexecon"
   },
   {
    "doi": "10.1038/s41467-026-75115-4",
@@ -196,6 +376,24 @@
    "scholar_institution": "University of Leeds"
   },
   {
+   "doi": "10.1111/ecno.70021",
+   "title": "Stepping Stones or Stumbling Blocks? Domestic Mergers and Cross‐Border Consolidation",
+   "authors": [
+    "Salvatore Piccolo",
+    "Gabriel Baron",
+    "Jorge Padilla"
+   ],
+   "journal": "Economic Notes",
+   "journal_id": "",
+   "date": "2026-06-16",
+   "abstract": "ABSTRACT We build on empirical evidence showing that international acquisitions exhibit path dependence and often unfold as sequences of deals, and argue that domestic and cross‐border mergers are not necessarily isolated events. Specifically, we ask whether blocking a domestic merger that reduces consumer surplus in the short run could inadvertently preclude a subsequent cross‐border acquisition (by the same parties) that would raise consumer surplus in both the home and foreign markets. To address this question, we develop a Cournot model with increasing marginal costs and show that moderate, complementary synergies can make hybrid mergers—those combining domestic and cross‐border elements—both profitable and beneficial for consumer surplus, even when each merger on its own would not be viable and/or would harm consumers. Our analysis suggests that, in settings where such complementarities are plausible, the interaction and sequencing of domestic and cross‐border mergers may be relevant for assessing their long‐run welfare implications.",
+   "type": "article",
+   "url": "https://doi.org/10.1111/ecno.70021",
+   "scholar_id": "jorge-padilla",
+   "scholar_name": "Jorge Padilla",
+   "scholar_institution": "Compass Lexecon"
+  },
+  {
    "doi": "",
    "title": "Dynamic Competition in the Cloud : The Regulation of Egress Fees",
    "authors": [
@@ -215,6 +413,22 @@
    "scholar_institution": "Toulouse School of Economics"
   },
   {
+   "doi": "10.1093/jaenfo/jnag012",
+   "title": "When and how to rescue efficiencies from oblivion in horizontal merger control?",
+   "authors": [
+    "Jorge Padilla"
+   ],
+   "journal": "Journal of Antitrust Enforcement",
+   "journal_id": "",
+   "date": "2026-05-22",
+   "abstract": "Abstract This article revisits merger efficiencies through six propositions. First, while many transactions fail to deliver, some mergers do generate cost, quality, and scope efficiencies. Secondly, mergers may raise or reduce innovation: theory identifies separating conditions—appropriability, complementarities, and competitive pressure—while the empirical literature increasingly documents both outcomes. Thirdly, mergers can act as an orderly exit mechanism, accelerating the redeployment of capital and assets away from ‘zombie’ firms when standalone restructuring is implausible. Fourthly, predictable acquisition paths can strengthen start-up entry by improving expected returns to innovation and venture finance. Fifthly, integration can unlock network, data, or capacity-coordination benefits that contracting cannot reliably replicate, especially under uncertainty and multi-year investment. Sixthly, merger policy should recognize these channels with a disciplined evidentiary framework that screens implausible claims yet avoids systematic under-crediting of verifiable efficiencies and dynamic gains. These propositions provide a guide pragmatic, welfare-oriented enforcement. Its adoption implies taking merger efficiencies seriously, not as advocacy, but as economics",
+   "type": "article",
+   "url": "https://doi.org/10.1093/jaenfo/jnag012",
+   "scholar_id": "jorge-padilla",
+   "scholar_name": "Jorge Padilla",
+   "scholar_institution": "Compass Lexecon"
+  },
+  {
    "doi": "10.1093/joclec/nhag019",
    "title": "BEYOND INTERCHANGE FEE CAPS: RETHINKING MERCHANT CHOICE AND COMPETITION IN EUROPEAN PAYMENTS",
    "authors": [
@@ -231,6 +445,24 @@
    "scholar_id": "tommaso-valletti",
    "scholar_name": "Tommaso Valletti",
    "scholar_institution": "Imperial College London"
+  },
+  {
+   "doi": "10.1177/0003603x261443672",
+   "title": "Damage Quantification in Exclusionary Abuse Cases",
+   "authors": [
+    "Peter L. Ormosi",
+    "Jorge Padilla",
+    "Joe Perkins"
+   ],
+   "journal": "The Antitrust Bulletin",
+   "journal_id": "",
+   "date": "2026-05-11",
+   "abstract": "The last decade has witnessed a changing scene of exclusionary abuse cases. As a result, competition authorities around the globe are now investigating new forms of exclusionary abuse in fast-evolving markets. These changes inevitably affect our understanding of the harm caused by exclusionary conduct and how redress is sought. Although there are many academic and practitioner papers on estimating damages in cartel and excessive pricing cases, they have limited applicability to exclusionary cases. This paper provides an overview of the main considerations that should apply in damage quantification in exclusionary abuse cases. We do this by giving a detailed account of the main characteristics of damage claims in these cases, reviewing the theories of harm and, building on these theories, discussing possible counterfactuals and methods for estimating the magnitude of harm.",
+   "type": "article",
+   "url": "https://doi.org/10.1177/0003603x261443672",
+   "scholar_id": "jorge-padilla",
+   "scholar_name": "Jorge Padilla",
+   "scholar_institution": "Compass Lexecon"
   },
   {
    "doi": "10.1093/antitrust/atx002",
@@ -489,6 +721,40 @@
    "scholar_institution": "University of Zurich"
   },
   {
+   "doi": "",
+   "title": "Contracts in the reform of the EU electricity market",
+   "authors": [
+    "Stefan Ambec",
+    "Claude Crampes",
+    "Jean Tirole"
+   ],
+   "journal": "HAL (Le Centre pour la Communication Scientifique Directe)",
+   "journal_id": "",
+   "date": "2026-01-30",
+   "abstract": "CEPR POLICY INSIGHT No. 139",
+   "type": "preprint",
+   "url": "https://openalex.org/works/W7127062306",
+   "scholar_id": "jean-tirole",
+   "scholar_name": "Jean Tirole",
+   "scholar_institution": "Toulouse School of Economics"
+  },
+  {
+   "doi": "10.70167/zcsi2691",
+   "title": "Privacy in Authoritarian Times: Surveillance Capitalism and Government Surveillance",
+   "authors": [
+    "Daniel J. Solove"
+   ],
+   "journal": "Boston College Law Review",
+   "journal_id": "",
+   "date": "2026-01-29",
+   "abstract": "As the United States and much of the world face a resurgence of authoritarianism, the critical importance of privacy cannot be overstated. Privacy serves as a fundamental safeguard against the overreach of authoritarian governments. Authoritarian power is greatly enhanced in today’s era of pervasive surveillance and relentless data collection. We are living in the age of “surveillance capitalism.” There are vast digital dossiers about every person assembled by thousands of corporations and readily available for the government to access. The federal government and some state governments are intensifying surveillance and data collection efforts, targeting immigrants, punishing those involved in seeking or providing abortion services, and cracking down on gender-affirming healthcare. Personal data is being weaponized against critics and others who resist these efforts. In this Article, I contend that privacy protections must be significantly heightened to respond to growing threats of authoritarianism. Major regulatory interventions are necessary to prevent government surveillance from being used in inimical ways. But reforming Fourth Amendment jurisprudence and government surveillance alone will not protect against many authoritarian invasions of privacy, especially given the oligarchical character of the current strain of authoritarianism. To adequately regulate government surveillance, it is essential to also regulate surveillance capitalism. Government surveillance and surveillance capitalism are two sides of the same coin. It is impossible to protect privacy from authoritarianism without addressing consumer privacy. This Article proposes regulatory measures that should be taken to address government surveillance and surveillance capitalism—on both sides of the coin—to guard against authoritarianism.",
+   "type": "article",
+   "url": "https://doi.org/10.70167/zcsi2691",
+   "scholar_id": "daniel-solove",
+   "scholar_name": "Daniel Solove",
+   "scholar_institution": "George Washington University"
+  },
+  {
    "doi": "10.18632/oncotarget.28844",
    "title": "Correction: Enhancement of the anti-tumor activity of FGFR1 inhibition in squamous cell lung cancer by targeting downstream signaling involved in glucose metabolism",
    "authors": [
@@ -496,7 +762,7 @@
     "Daniele Cretella",
     "Silvia La Monica",
     "Mara A. Bonelli",
-    "Roberta R. Alfieri",
+    "Roberta R Alfieri",
     "Cristina Caffarra",
     "Federico Quaini",
     "Denise Madeddu",
@@ -689,7 +955,7 @@
     "Cristina Caffarra",
     "Silvia La Monica",
     "Maricla Galetti",
-    "Roberta R. Alfieri",
+    "Roberta R Alfieri",
     "Andrea Cavazzoni",
     "Elena Galvani",
     "Daniele Generali",
@@ -726,7 +992,7 @@
    "title": "On the Right to Obscurity",
    "authors": [
     "Woodrow Hartzog",
-    "Evan Selinger"
+    "Evan M. Selinger"
    ],
    "journal": "SSRN Electronic Journal",
    "journal_id": "",
@@ -1007,6 +1273,142 @@
    "scholar_institution": "Washington University in St. Louis"
   },
   {
+   "doi": "",
+   "title": "Europe's payments bottleneck: Merchant choice as a competition remedy",
+   "authors": [
+    "Roman Inderst",
+    "Tommaso Valletti",
+    "Christoph Wentzien"
+   ],
+   "journal": "Econstor (Econstor)",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "A decade after the EU Interchange Fee Regulation, the central competition problem in European card payments has not disappeared. Fee caps regulate one important price component, but they do not by themselves create a credible merchant-side outside option at the point of sale. Merchants remain exposed to payment methods that are, in practice, difficult to refuse and difficult to steer away from. This Policy Letter argues that the next step in European payments policy should therefore be structural rather than merely pricebased. Building on the German experience with electronic direct debit and its migration into the SEPA direct debit framework, we propose a European right for merchants to initiate direct debit transactions from debit-card credentials. Such a right would discipline card-scheme fees, reduce dependence on non-European payment infrastructures, and strengthen contestability in European retail payments.",
+   "type": "report",
+   "url": "https://openalex.org/works/W7168443996",
+   "scholar_id": "tommaso-valletti",
+   "scholar_name": "Tommaso Valletti",
+   "scholar_institution": "Imperial College London"
+  },
+  {
+   "doi": "10.2139/ssrn.6019722",
+   "title": "Ruling for the Rich: the Supreme Court over Time",
+   "authors": [
+    "Andrea Prat",
+    "Fiona Scott Morton",
+    "Jacob Spitz"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.6019722",
+   "scholar_id": "fiona-scott-morton",
+   "scholar_name": "Fiona Scott Morton",
+   "scholar_institution": "Yale University"
+  },
+  {
+   "doi": "10.2139/ssrn.6303280",
+   "title": "A Roadmap for a Monopolization Case Against Google: Monopsony Power and AI Overviews",
+   "authors": [
+    "Madhavi Singh",
+    "Fiona Scott Morton"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.6303280",
+   "scholar_id": "fiona-scott-morton",
+   "scholar_name": "Fiona Scott Morton",
+   "scholar_institution": "Yale University"
+  },
+  {
+   "doi": "10.2139/ssrn.6520818",
+   "title": "State-Action Immunity for Climate Collaborations",
+   "authors": [
+    "Fiona Scott Morton",
+    "Noah Hoffman"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.6520818",
+   "scholar_id": "fiona-scott-morton",
+   "scholar_name": "Fiona Scott Morton",
+   "scholar_institution": "Yale University"
+  },
+  {
+   "doi": "10.64153/ebuy1299",
+   "title": "How to secure the benefits of an EU-wide incorporation regime",
+   "authors": [
+    "Fiona Scott Morton",
+    "Reinhilde Veugelers"
+   ],
+   "journal": "",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "An EU Inc. plan for a common company regime should become more targeted and be underpinned by better system infrastructure.",
+   "type": "article",
+   "url": "https://doi.org/10.64153/ebuy1299",
+   "scholar_id": "fiona-scott-morton",
+   "scholar_name": "Fiona Scott Morton",
+   "scholar_institution": "Yale University"
+  },
+  {
+   "doi": "10.64153/uwqf5070",
+   "title": "Artificial-intelligence competition in Europe: the role of DMA Article 6(7)",
+   "authors": [
+    "Fiona Scott Morton"
+   ],
+   "journal": "",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "The European Commission’s first Digital Markets Act Article 6(7) specification, issued in draft form in April 2026, is a substantive and well-targeted intervention. It identifies the access points that determine whether an artificial-intelligence assistant can function effectively on a Google Android device (through invocation surfaces, contextual data, on-device actions and system-level model resources) and it requires Google to share those access points with qualifying rival providers on terms equivalent to those Google’s own services receive. If the specification is finalised and enforced as drafted, it will prevent monopolisation of AI services and shortcut the need for a long and ineffective antitrust case. The specification may also create a valuable side effect: a material increase in AI innovation in Europe. European AI entrants and non-European AI providers serving European consumers will see that Europe is a level playing field on which innovators can compete. The merits of an AI service, rather than whether it already owns a distribution channel, will determine its commercial success. The expected return from founding an AI company in Europe would rise accordingly, as would the expected return from investing in one. The remaining gap is on the iOS side. It seems likely that Apple will not want to wait too long before selling Siri-enabled handsets to 500 million European citizens. Apple’s compliance with the DMA will determine if the Apple-Google Gemini partnership needs to be investigated to ensure it does not lessen competition in AI services in Europe.",
+   "type": "article",
+   "url": "https://doi.org/10.64153/uwqf5070",
+   "scholar_id": "fiona-scott-morton",
+   "scholar_name": "Fiona Scott Morton",
+   "scholar_institution": "Yale University"
+  },
+  {
+   "doi": "10.2139/ssrn.6083968",
+   "title": "Enforcing Privacy Law: Why Private Litigation Is Essential",
+   "authors": [
+    "Daniel J. Solove"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.6083968",
+   "scholar_id": "daniel-solove",
+   "scholar_name": "Daniel Solove",
+   "scholar_institution": "George Washington University"
+  },
+  {
+   "doi": "10.2139/ssrn.6081773",
+   "title": "Privacy as Contract?",
+   "authors": [
+    "Woodrow Hartzog",
+    "Daniel J. Solove"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.6081773",
+   "scholar_id": "daniel-solove",
+   "scholar_name": "Daniel Solove",
+   "scholar_institution": "George Washington University"
+  },
+  {
    "doi": "10.5040/9781509987511.ch-005",
    "title": "Regulatory Sandboxes in Finance and Energy",
    "authors": [
@@ -1105,6 +1507,23 @@
    "scholar_id": "gregory-crawford",
    "scholar_name": "Gregory Crawford",
    "scholar_institution": "University of Zurich"
+  },
+  {
+   "doi": "10.1093/jeclap/lpag027",
+   "title": "Taking Article 6(12) DMA seriously: FRAND access prices for app stores",
+   "authors": [
+    "Jorge Padilla",
+    "Kadambari Prasad"
+   ],
+   "journal": "Journal of European Competition Law & Practice",
+   "journal_id": "",
+   "date": "2025-12-01",
+   "abstract": "... The past 10 years have seen many disputes in a number of jurisdictions relating to competition concerns in app stores. Two issues lie at the heart of these disputes. First, whether consumers and app developers are de facto forced to rely upon the app stores of Google (Google Play Store) and Apple (Apple’s AppStore). Second, and relatedly, whether these app stores charge app developers unfair and unreasonably high fees for access, which at the moment can be as high as 30 per cent. The EU has attempted to address these issues through the Digital Markets Act (DMA),1 Article 6(12) of which requires designated gatekeepers (i.e., Apple and Google) to, inter alia, unlock alternative distribution channels for app developers, and provide access on terms that are fair, reasonable, and nondiscriminatory (FRAND). The focus of the gatekeepers’ compliance efforts and the Commission’s investigations is only the former; the latter, at least according to the gatekeepers, is assumed to hold already. Apple and Google have proposed changes to the access terms for their app stores pursuant to the DMA. Yet Google has not lowered its ad valorem commissions, which have been mandatory since 2022,2 and Apple has lowered its ad valorem commissions, but at the same time it has added a per-unit technology fee.3 It is unclear whether the effective commission paid by app developers to Apple is greater or lower than before and, if the latter, how much lower. Apple’s nonconfidential summary of the compliance report does not address its compliance with 6(12). Google’s nonconfidential summary of the compliance report asserts that its fees are already FRAND, because they are (i) proportional to the value of its intermediation service, (ii) consistent with FRAND benchmarks, in particular the fees charged by nongatekeepers today (ie the ‘competitor benchmark’), and the fees charged prior to gatekeeping status (ie the ‘ex-ante benchmark’), and (iii) treat similarly situated developers in the same way.4",
+   "type": "article",
+   "url": "https://doi.org/10.1093/jeclap/lpag027",
+   "scholar_id": "jorge-padilla",
+   "scholar_name": "Jorge Padilla",
+   "scholar_institution": "Compass Lexecon"
   },
   {
    "doi": "10.1016/j.gimo.2025.103474",

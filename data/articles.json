@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-26 11:27",
- "count": 373,
+ "updated_at": "2026-09-26 16:25",
+ "count": 374,
  "articles": [
   {
    "doi": "10.1016/j.ijindorg.2026.103320",
@@ -277,6 +277,20 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.irle.2026.106360"
+  },
+  {
+   "doi": "10.1093/aler/ahaf020",
+   "title": "The Value of Citations in the Labor Market for Legal Academics",
+   "authors": [
+    "Fischman J B",
+    "Livermore M A"
+   ],
+   "journal": "American Law And Economics Review",
+   "journal_id": "aler",
+   "date": "2026-09-26",
+   "abstract": "Abstract We examine how well citation metrics correspond to a market valuation of legal scholars in lateral hiring. We find that professors’ citation counts are significantly correlated with lateral moves. Among those who made lateral moves, there is also a significant positive relationship between citation counts and the rank of the hiring law school. However, the correlation between citation counts and lateral outcomes is relatively weak, suggesting that scholarly rankings based on citation counts would deviate substantially from market valuations. Relative to the market valuation, citation counts undervalue junior scholars and research published in books, top law reviews, and prestigious peer-reviewed journals. An index based on citation counts, seniority, and prestigious publications aligns more closely with market outcomes. Our findings raise questions about the use of law school citation rankings, especially given their potential to distort publication and hiring decisions in the legal academy.",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1093/aler/ahaf020"
   },
   {
    "doi": "10.1016/j.irle.2026.106342",

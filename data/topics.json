@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-26 11:27",
- "doc_count": 373,
+ "updated_at": "2026-09-26 16:25",
+ "doc_count": 374,
  "heat": [
   {
    "term": "antitrust",
@@ -59,16 +59,16 @@
    "count": 12
   },
   {
+   "term": "value",
+   "count": 11
+  },
+  {
    "term": "incentives",
    "count": 11
   },
   {
    "term": "tax",
    "count": 11
-  },
-  {
-   "term": "value",
-   "count": 10
   },
   {
    "term": "strategic",
@@ -163,6 +163,10 @@
    "count": 7
   },
   {
+   "term": "relationship",
+   "count": 7
+  },
+  {
    "term": "settlement",
    "count": 7
   },
@@ -235,6 +239,10 @@
    "count": 6
   },
   {
+   "term": "significant",
+   "count": 6
+  },
+  {
    "term": "framework",
    "count": 6
   },
@@ -272,14 +280,6 @@
   },
   {
    "term": "scale",
-   "count": 6
-  },
-  {
-   "term": "act",
-   "count": 6
-  },
-  {
-   "term": "insights",
    "count": 6
   }
  ],
@@ -364,6 +364,32 @@
     },
     {
      "term": "firms",
+     "count": 3
+    }
+   ]
+  },
+  "aler": {
+   "count": 29,
+   "avg_authors": 2.1,
+   "terms": [
+    {
+     "term": "labor market",
+     "count": 2
+    },
+    {
+     "term": "medicaid expansion",
+     "count": 2
+    },
+    {
+     "term": "labor",
+     "count": 3
+    },
+    {
+     "term": "disclosure",
+     "count": 3
+    },
+    {
+     "term": "judicial",
      "count": 3
     }
    ]
@@ -507,24 +533,6 @@
     {
      "term": "antitrust",
      "count": 4
-    }
-   ]
-  },
-  "aler": {
-   "count": 28,
-   "avg_authors": 2.1,
-   "terms": [
-    {
-     "term": "medicaid expansion",
-     "count": 2
-    },
-    {
-     "term": "disclosure",
-     "count": 3
-    },
-    {
-     "term": "judicial",
-     "count": 3
     }
    ]
   },
