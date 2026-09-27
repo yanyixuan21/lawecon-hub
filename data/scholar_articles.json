@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-27 05:20",
- "count": 95,
+ "updated_at": "2026-09-27 12:04",
+ "count": 96,
  "articles": [
   {
    "doi": "10.1038/s41593-026-02454-2",
@@ -660,7 +660,7 @@
     "Futao Zhang",
     "Enrique Castelao",
     "Preben Bo Mortensen",
-    "Michel G. Nivard",
+    "Michel Guillaume Nivard",
     "等"
    ],
    "journal": "Carolina Digital Repository (University of North Carolina at Chapel Hill)",
@@ -900,7 +900,7 @@
    "title": "Resilience and Restructuring Merger Efficiencies in Declining Industries",
    "authors": [
     "Jorge Padilla",
-    "Román Fischer",
+    "Roman Fischer",
     "Kadambari Prasad"
    ],
    "journal": "SSRN Electronic Journal",
@@ -1090,7 +1090,7 @@
    "title": "Could is not Would: Restoring the Proper Counterfactual for Merger Efficiencies",
    "authors": [
     "Jorge Padilla",
-    "Román Fischer",
+    "Roman Fischer",
     "Cecilia Nardini"
    ],
    "journal": "SSRN Electronic Journal",
@@ -1407,6 +1407,22 @@
    "scholar_id": "daniel-solove",
    "scholar_name": "Daniel Solove",
    "scholar_institution": "George Washington University"
+  },
+  {
+   "doi": "10.2139/ssrn.7519659",
+   "title": "Path Dependency and Devil's Advocacy in Antitrust Enforcement",
+   "authors": [
+    "Jorge Padilla"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.7519659",
+   "scholar_id": "jorge-padilla",
+   "scholar_name": "Jorge Padilla",
+   "scholar_institution": "Compass Lexecon"
   },
   {
    "doi": "10.5040/9781509987511.ch-005",
