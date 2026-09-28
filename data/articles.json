@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-28 13:57",
+ "updated_at": "2026-09-28 23:17",
  "count": 373,
  "articles": [
   {
@@ -279,6 +279,22 @@
    "url": "https://doi.org/10.1016/j.irle.2026.106360"
   },
   {
+   "doi": "10.1016/j.ijindorg.2026.103338",
+   "title": "An experimental study on the effect of knowledge on idea generation and idea selection",
+   "authors": [
+    "Irlenbusch B",
+    "Laske K",
+    "Schröder M",
+    "Stoczek R"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-09-28",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103338"
+  },
+  {
    "doi": "10.1093/aler/ahaf020",
    "title": "The Value of Citations in the Labor Market for Legal Academics",
    "authors": [
@@ -392,22 +408,6 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.irle.2026.106359"
-  },
-  {
-   "doi": "10.1016/j.ijindorg.2026.103338",
-   "title": "An Experimental Study on the Effect of Knowledge on Idea Generation and Idea Selection",
-   "authors": [
-    "Irlenbusch B",
-    "Laske K",
-    "Schröder M",
-    "Stoczek R"
-   ],
-   "journal": "International Journal of Industrial Organization",
-   "journal_id": "ijio",
-   "date": "2026-09-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.ijindorg.2026.103338"
   },
   {
    "doi": "10.1007/s10657-026-09886-y",
