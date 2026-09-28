@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-27 21:22",
- "doc_count": 374,
+ "updated_at": "2026-09-28 05:26",
+ "doc_count": 373,
  "heat": [
   {
    "term": "antitrust",
@@ -11,16 +11,16 @@
    "count": 21
   },
   {
-   "term": "platform",
-   "count": 21
-  },
-  {
    "term": "enforcement",
    "count": 21
   },
   {
    "term": "firms",
    "count": 20
+  },
+  {
+   "term": "platform",
+   "count": 19
   },
   {
    "term": "litigation",
@@ -59,19 +59,19 @@
    "count": 12
   },
   {
-   "term": "value",
-   "count": 11
-  },
-  {
-   "term": "incentives",
-   "count": 11
-  },
-  {
    "term": "tax",
    "count": 11
   },
   {
+   "term": "value",
+   "count": 10
+  },
+  {
    "term": "strategic",
+   "count": 10
+  },
+  {
+   "term": "incentives",
    "count": 10
   },
   {
@@ -463,7 +463,7 @@
    ]
   },
   "jie": {
-   "count": 35,
+   "count": 34,
    "avg_authors": 2.0,
    "terms": [
     {
