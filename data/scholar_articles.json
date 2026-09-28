@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-28 05:26",
- "count": 96,
+ "updated_at": "2026-09-28 13:58",
+ "count": 100,
  "articles": [
   {
    "doi": "10.1038/s41593-026-02454-2",
@@ -52,7 +52,7 @@
     "Marisa C. Hamilton",
     "Julia W. Riley",
     "Alexander C. Nelson",
-    "B. Li",
+    "Boxun Li",
     "Sophie F. Dornbaum",
     "Alexias Safi",
     "Xiekui Cui",
@@ -192,7 +192,7 @@
    "doi": "",
    "title": "Analyse économique de l’organisation du marché de l’électricité",
    "authors": [
-    "Stefan Ambec",
+    "Stéfan Ambec",
     "Claude Crampes",
     "Jean Tirole"
    ],
@@ -347,7 +347,7 @@
    "title": "Digital and Data Regulation",
    "authors": [
     "Orla Lynskey",
-    "Katherine Nolan"
+    "Katherine A. Nolan"
    ],
    "journal": "",
    "journal_id": "",
@@ -613,7 +613,7 @@
    "doi": "10.64898/2026.03.07.710282",
    "title": "Reprogramming of neuronal genome function and phenotype by astrocytes",
    "authors": [
-    "B. Li",
+    "Boxun Li",
     "Kevin T. Hagy",
     "Alexias Safi",
     "M Beer",
@@ -680,7 +680,7 @@
     "Benjamin M. Neale",
     "Yakir Reshef",
     "Roel A. Ophoff",
-    "Bogdan Pasaniuc",
+    "Bogdan Paşaniuc",
     "Alkes L. Price",
     "Alexias Safi",
     "Patrick F. Sullivan",
@@ -724,7 +724,7 @@
    "doi": "",
    "title": "Contracts in the reform of the EU electricity market",
    "authors": [
-    "Stefan Ambec",
+    "Stéfan Ambec",
     "Claude Crampes",
     "Jean Tirole"
    ],
@@ -1404,9 +1404,9 @@
    "abstract": "",
    "type": "preprint",
    "url": "https://doi.org/10.2139/ssrn.6081773",
-   "scholar_id": "daniel-solove",
-   "scholar_name": "Daniel Solove",
-   "scholar_institution": "George Washington University"
+   "scholar_id": "woodrow-hartzog",
+   "scholar_name": "Woodrow Hartzog",
+   "scholar_institution": "Boston University"
   },
   {
    "doi": "10.2139/ssrn.7519659",
@@ -1423,6 +1423,55 @@
    "scholar_id": "jorge-padilla",
    "scholar_name": "Jorge Padilla",
    "scholar_institution": "Compass Lexecon"
+  },
+  {
+   "doi": "",
+   "title": "How AI Destroys Institutions",
+   "authors": [
+    "Woodrow Hartzog",
+    "Jessica Silbey"
+   ],
+   "journal": "bepress Legal Repository",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "Civic institutions—the rule of law, universities, and a free press—are the backbone of democratic life. They are the mechanisms through which complex societies encourage cooperation and stability, while also adapting to changing circumstances. The real superpower of institutions is their ability to evolve and adapt within a hierarchy of authority and a framework for roles and rules, while maintaining legitimacy for the knowledge produced and the actions taken. Purpose-driven institutions built around transparency, cooperation, and accountability empower individuals to take intellectual risks and challenge the status quo. This happens through the machinations of interpersonal relationships within those institutions, which broaden perspectives and strengthen shared commitment to civic goals. Unfortunately, the affordances of AI systems extinguish these institutional features at every turn. In this essay, we make one simple point: AI systems are built to function in ways that degrade and are likely to destroy our crucial civic institutions. The affordances of AI systems erode expertise, short-circuit decision-making, and isolate people from each other. They are anathema to the kind of evolution, transparency, cooperation, and accountability that give vital institutions their purpose and sustainability. In short, current AI systems are a death sentence for civic institutions, and we should treat them as such.",
+   "type": "article",
+   "url": "https://openalex.org/works/W7125625169",
+   "scholar_id": "woodrow-hartzog",
+   "scholar_name": "Woodrow Hartzog",
+   "scholar_institution": "Boston University"
+  },
+  {
+   "doi": "10.5040/9781509983759.ch-014",
+   "title": "Obscurity and the Fallacy of No Privacy in Public Information",
+   "authors": [
+    "Woodrow Hartzog"
+   ],
+   "journal": "",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "The main thesis of this chapter is that because there are so many different possible interpretations of ‘public information’, the concept cannot be used to justify data practices and surveillance without first articulating a more precise meaning that recognises what is at stake. By disposing of the myth that there is an objective and dispassionate concept of public information, judges and lawmakers can clear the way for information rules based on overt value choices. In short, if the concept of ‘public’ is going to shape people’s social and legal obligations, its meaning and neutrality should not be assumed. My argument is based on a fundamental ambiguity: courts and lawmakers have failed to clarify the concept of public information. This ambiguity has resulted in a confused body of doctrine and frustrated attempts at clear, cogent policy surrounding the collection, use, and disclosure of information. The time has come to end this confusion. My argument proceeds in two parts. First, I survey the law and literature to propose three different ways in which ‘public information’ is currently conceptualised: as a description, as a designation, or as the inverse of ‘private information’. These three notions all work differently, serve different values, and cause different problems. Second, I make the case for clarity. Law and society should treat the notion of ‘public information’ as a value-laden construct that is not self-defining. Thus, whenever the concept of ‘public information’ is invoked to justify surveillance and data practices, it should be scrutinised and clarified. Regardless of whether policymakers and society think of public as a description, designation, or the inverse of privacy, our analytical frameworks for making that determination are out of whack. There must be some workable way to determine what information should be broadly available to all in the data commons and what sorts of practices are generally acceptable. If everything is private, then nothing is. And if nothing is private, we all suffer. To that end, I propose that two concepts should be incorporated into the calculus that determines whether information is public: obscurity and trust. These two concepts play a key role in shaping people’s decisions about when, where, how, and with whom to share information or interact with others.",
+   "type": "other",
+   "url": "https://doi.org/10.5040/9781509983759.ch-014",
+   "scholar_id": "woodrow-hartzog",
+   "scholar_name": "Woodrow Hartzog",
+   "scholar_institution": "Boston University"
+  },
+  {
+   "doi": "10.15779/z38hq3s216",
+   "title": "On the Right to Obscurity",
+   "authors": [
+    "Woodrow Hartzog"
+   ],
+   "journal": "UC Berkeley",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "article",
+   "url": "https://doi.org/10.15779/z38hq3s216",
+   "scholar_id": "woodrow-hartzog",
+   "scholar_name": "Woodrow Hartzog",
+   "scholar_institution": "Boston University"
   },
   {
    "doi": "10.5040/9781509987511.ch-005",
@@ -1564,6 +1613,22 @@
    "scholar_id": "gregory-crawford",
    "scholar_name": "Gregory Crawford",
    "scholar_institution": "University of Zurich"
+  },
+  {
+   "doi": "10.4337/9781802202335.00024",
+   "title": "Shaping remedies at the interface of EU competition and data protection law: Synergies, tensions and gaps",
+   "authors": [
+    "Inge Graef"
+   ],
+   "journal": "Edward Elgar Publishing eBooks",
+   "journal_id": "",
+   "date": "2025-11-13",
+   "abstract": "To move forward our understanding of the interaction between competition and data protection law, this chapter focuses on how to shape remedies in situations where competition and data protection concerns coincide. Three types of interactions are distinguished from the perspective of how the remedy contributes to achieving the objective of the relevant regime. Remedies can create synergies when they reinforce the complementary objectives of the two regimes. Tensions occur when a remedy undermines the objective of the other regime. A 'gap' is considered present when a case raises both competition and data protection concerns, but the remedy adopted only addresses the concerns of one regime. Reference is made to concrete examples and cases to illustrate these three types of interaction and how competition and data protection authorities can address them. The chapter also points to the need for restorative remedies and discusses ‘machine unlearning’ as a relevant emerging technique.",
+   "type": "book-chapter",
+   "url": "https://doi.org/10.4337/9781802202335.00024",
+   "scholar_id": "inge-graef",
+   "scholar_name": "Inge Graef",
+   "scholar_institution": "Tilburg University"
   },
   {
    "doi": "10.1017/9781009383851.005",
