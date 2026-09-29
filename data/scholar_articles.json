@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-29 12:56",
- "count": 100,
+ "updated_at": "2026-09-29 22:17",
+ "count": 101,
  "articles": [
   {
    "doi": "10.1038/s41593-026-02454-2",
@@ -1472,6 +1472,25 @@
    "scholar_id": "woodrow-hartzog",
    "scholar_name": "Woodrow Hartzog",
    "scholar_institution": "Boston University"
+  },
+  {
+   "doi": "10.2139/ssrn.6304079",
+   "title": "General Rulemaking Grants and the Federal Trade Commission",
+   "authors": [
+    "Tamar Katz",
+    "Alex Lloyd George",
+    "Lev Menand",
+    "Tim Wu"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.6304079",
+   "scholar_id": "tim-wu",
+   "scholar_name": "Tim Wu",
+   "scholar_institution": "Columbia Law School"
   },
   {
    "doi": "10.5040/9781509987511.ch-005",
