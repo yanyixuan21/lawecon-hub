@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-09-29 22:17",
- "doc_count": 373,
+ "updated_at": "2026-09-30 05:34",
+ "doc_count": 371,
  "heat": [
   {
    "term": "antitrust",
-   "count": 24
+   "count": 23
   },
   {
    "term": "innovation",
@@ -27,11 +27,11 @@
    "count": 15
   },
   {
-   "term": "cost",
-   "count": 15
+   "term": "consumers",
+   "count": 14
   },
   {
-   "term": "consumers",
+   "term": "cost",
    "count": 14
   },
   {
@@ -83,10 +83,6 @@
    "count": 10
   },
   {
-   "term": "remedies",
-   "count": 10
-  },
-  {
    "term": "contract",
    "count": 10
   },
@@ -111,7 +107,7 @@
    "count": 9
   },
   {
-   "term": "industry",
+   "term": "remedies",
    "count": 9
   },
   {
@@ -140,6 +136,10 @@
   },
   {
    "term": "state",
+   "count": 8
+  },
+  {
+   "term": "industry",
    "count": 8
   },
   {
@@ -207,10 +207,6 @@
    "count": 7
   },
   {
-   "term": "advantage",
-   "count": 7
-  },
-  {
    "term": "gender",
    "count": 7
   },
@@ -251,15 +247,7 @@
    "count": 6
   },
   {
-   "term": "propose",
-   "count": 6
-  },
-  {
    "term": "input",
-   "count": 6
-  },
-  {
-   "term": "services",
    "count": 6
   },
   {
@@ -280,6 +268,18 @@
   },
   {
    "term": "scale",
+   "count": 6
+  },
+  {
+   "term": "act",
+   "count": 6
+  },
+  {
+   "term": "insights",
+   "count": 6
+  },
+  {
+   "term": "downstream",
    "count": 6
   }
  ],
@@ -491,8 +491,8 @@
    "terms": []
   },
   "rio": {
-   "count": 39,
-   "avg_authors": 2.3,
+   "count": 37,
+   "avg_authors": 2.4,
    "terms": [
     {
      "term": "optimal disclosure",
@@ -519,16 +519,16 @@
      "count": 2
     },
     {
-     "term": "pricing",
+     "term": "competition",
      "count": 6
+    },
+    {
+     "term": "pricing",
+     "count": 5
     },
     {
      "term": "merger",
-     "count": 6
-    },
-    {
-     "term": "competition",
-     "count": 6
+     "count": 5
     },
     {
      "term": "antitrust",
