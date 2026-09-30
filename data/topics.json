@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-30 05:34",
- "doc_count": 371,
+ "updated_at": "2026-09-30 12:38",
+ "doc_count": 372,
  "heat": [
   {
    "term": "antitrust",
@@ -285,7 +285,7 @@
  ],
  "profiles": {
   "ijio": {
-   "count": 104,
+   "count": 105,
    "avg_authors": 2.5,
    "terms": [
     {
@@ -313,11 +313,11 @@
      "count": 2
     },
     {
-     "term": "manufacturing firms",
+     "term": "machine learning",
      "count": 2
     },
     {
-     "term": "competition market",
+     "term": "manufacturing firms",
      "count": 2
     },
     {
