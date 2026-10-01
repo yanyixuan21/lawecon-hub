@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-30 22:17",
- "doc_count": 372,
+ "updated_at": "2026-10-01 05:57",
+ "doc_count": 373,
  "heat": [
   {
    "term": "antitrust",
@@ -71,6 +71,10 @@
    "count": 10
   },
   {
+   "term": "collusion",
+   "count": 10
+  },
+  {
    "term": "incentives",
    "count": 10
   },
@@ -89,10 +93,6 @@
   {
    "term": "italian",
    "count": 10
-  },
-  {
-   "term": "collusion",
-   "count": 9
   },
   {
    "term": "decisions",
@@ -285,8 +285,8 @@
  ],
  "profiles": {
   "ijio": {
-   "count": 105,
-   "avg_authors": 2.5,
+   "count": 106,
+   "avg_authors": 2.4,
    "terms": [
     {
      "term": "market definition",
