@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-01 22:42",
- "count": 373,
+ "updated_at": "2026-10-02 05:39",
+ "count": 368,
  "articles": [
   {
    "doi": "10.1016/j.ijindorg.2026.103320",
@@ -11,7 +11,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-10-01",
+   "date": "2026-10-02",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103320"
@@ -27,7 +27,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-10-01",
+   "date": "2026-10-02",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103322"
@@ -41,10 +41,155 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-10-01",
+   "date": "2026-10-02",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103321"
+  },
+  {
+   "doi": "10.1016/j.irle.2026.106349",
+   "title": "A new case for a higher standard of care: The uncompensated tertiary and third-party costs",
+   "authors": [
+    "Schäfer H",
+    "Singh R"
+   ],
+   "journal": "International Review of Law and Economics",
+   "journal_id": "irle",
+   "date": "2026-10-02",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.irle.2026.106349"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103324",
+   "title": "Netflix and chilling effect? The impact of streaming video licenses on paid digital downloads",
+   "authors": [
+    "Danaher B",
+    "Doosti S"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-10-02",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103324"
+  },
+  {
+   "doi": "10.1016/j.irle.2026.106347",
+   "title": "Legal institutions and economic growth: A meta-analytic perspective",
+   "authors": [
+    "Iwasaki I"
+   ],
+   "journal": "International Review of Law and Economics",
+   "journal_id": "irle",
+   "date": "2026-10-02",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.irle.2026.106347"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103323",
+   "title": "Impacts of privatization on state-owned enterprises: A tale of zombie versus healthy firms",
+   "authors": [
+    "Xu G",
+    "Wang R",
+    "Wang X",
+    "Zha T"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-10-02",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103323"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103334",
+   "title": "The strategic value of platform encroachment: Seller entry and network effects",
+   "authors": [
+    "Piccolo S",
+    "Shekhar S",
+    "Padilla J",
+    "Pagnozzi M"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-10-02",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103334"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103336",
+   "title": "Product variety, alcohol purchases, and the role of excise taxes",
+   "authors": [
+    "Janssen A"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-10-02",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103336"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103337",
+   "title": "Dynamic price competition and evolutionary behavior with search",
+   "authors": [
+    "Allison B",
+    "Sacks M"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-10-02",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103337"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103335",
+   "title": "Evaluating substitutes for federal antitrust: The case of COPAs",
+   "authors": [
+    "Chun S",
+    "Duarte M",
+    "McNamara C",
+    "Lindo J M"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-10-02",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103335"
+  },
+  {
+   "doi": "10.1016/j.irle.2026.106360",
+   "title": "Policing or penalties? Deterrence in a model of plea bargaining with costly juror effort",
+   "authors": [
+    "Guha B"
+   ],
+   "journal": "International Review of Law and Economics",
+   "journal_id": "irle",
+   "date": "2026-10-02",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.irle.2026.106360"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103338",
+   "title": "An experimental study on the effect of knowledge on idea generation and idea selection",
+   "authors": [
+    "Irlenbusch B",
+    "Laske K",
+    "Schröder M",
+    "Stoczek R"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-10-02",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103338"
   },
   {
    "doi": "10.1016/j.ijindorg.2026.103304",
@@ -148,151 +293,6 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/s0167-7187(26)00080-9"
-  },
-  {
-   "doi": "10.1016/j.irle.2026.106349",
-   "title": "A new case for a higher standard of care: The uncompensated tertiary and third-party costs",
-   "authors": [
-    "Schäfer H",
-    "Singh R"
-   ],
-   "journal": "International Review of Law and Economics",
-   "journal_id": "irle",
-   "date": "2026-10-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.irle.2026.106349"
-  },
-  {
-   "doi": "10.1016/j.ijindorg.2026.103324",
-   "title": "Netflix and chilling effect? The impact of streaming video licenses on paid digital downloads",
-   "authors": [
-    "Danaher B",
-    "Doosti S"
-   ],
-   "journal": "International Journal of Industrial Organization",
-   "journal_id": "ijio",
-   "date": "2026-10-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.ijindorg.2026.103324"
-  },
-  {
-   "doi": "10.1016/j.irle.2026.106347",
-   "title": "Legal institutions and economic growth: A meta-analytic perspective",
-   "authors": [
-    "Iwasaki I"
-   ],
-   "journal": "International Review of Law and Economics",
-   "journal_id": "irle",
-   "date": "2026-10-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.irle.2026.106347"
-  },
-  {
-   "doi": "10.1016/j.ijindorg.2026.103323",
-   "title": "Impacts of privatization on state-owned enterprises: A tale of zombie versus healthy firms",
-   "authors": [
-    "Xu G",
-    "Wang R",
-    "Wang X",
-    "Zha T"
-   ],
-   "journal": "International Journal of Industrial Organization",
-   "journal_id": "ijio",
-   "date": "2026-10-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.ijindorg.2026.103323"
-  },
-  {
-   "doi": "10.1016/j.ijindorg.2026.103334",
-   "title": "The strategic value of platform encroachment: Seller entry and network effects",
-   "authors": [
-    "Piccolo S",
-    "Shekhar S",
-    "Padilla J",
-    "Pagnozzi M"
-   ],
-   "journal": "International Journal of Industrial Organization",
-   "journal_id": "ijio",
-   "date": "2026-10-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.ijindorg.2026.103334"
-  },
-  {
-   "doi": "10.1016/j.ijindorg.2026.103336",
-   "title": "Product variety, alcohol purchases, and the role of excise taxes",
-   "authors": [
-    "Janssen A"
-   ],
-   "journal": "International Journal of Industrial Organization",
-   "journal_id": "ijio",
-   "date": "2026-10-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.ijindorg.2026.103336"
-  },
-  {
-   "doi": "10.1016/j.ijindorg.2026.103337",
-   "title": "Dynamic price competition and evolutionary behavior with search",
-   "authors": [
-    "Allison B",
-    "Sacks M"
-   ],
-   "journal": "International Journal of Industrial Organization",
-   "journal_id": "ijio",
-   "date": "2026-10-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.ijindorg.2026.103337"
-  },
-  {
-   "doi": "10.1016/j.ijindorg.2026.103335",
-   "title": "Evaluating substitutes for federal antitrust: The case of COPAs",
-   "authors": [
-    "Chun S",
-    "Duarte M",
-    "McNamara C",
-    "Lindo J M"
-   ],
-   "journal": "International Journal of Industrial Organization",
-   "journal_id": "ijio",
-   "date": "2026-10-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.ijindorg.2026.103335"
-  },
-  {
-   "doi": "10.1016/j.irle.2026.106360",
-   "title": "Policing or penalties? Deterrence in a model of plea bargaining with costly juror effort",
-   "authors": [
-    "Guha B"
-   ],
-   "journal": "International Review of Law and Economics",
-   "journal_id": "irle",
-   "date": "2026-10-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.irle.2026.106360"
-  },
-  {
-   "doi": "10.1016/j.ijindorg.2026.103338",
-   "title": "An experimental study on the effect of knowledge on idea generation and idea selection",
-   "authors": [
-    "Irlenbusch B",
-    "Laske K",
-    "Schröder M",
-    "Stoczek R"
-   ],
-   "journal": "International Journal of Industrial Organization",
-   "journal_id": "ijio",
-   "date": "2026-10-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.ijindorg.2026.103338"
   },
   {
    "doi": "10.1093/aler/ahaf020",
@@ -5178,76 +5178,6 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1007/s11151-025-10032-2"
-  },
-  {
-   "doi": "10.1007/s11151-025-10036-y",
-   "title": "20 Years of Merger Control in Brazil: What do the Big Numbers Tell us?",
-   "authors": [
-    "Salgado L H"
-   ],
-   "journal": "Review of Industrial Organization",
-   "journal_id": "rio",
-   "date": "2025-10-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1007/s11151-025-10036-y"
-  },
-  {
-   "doi": "10.1007/s11151-025-10022-4",
-   "title": "Implementation of Merger Remedies in Indian Competition/Antitrust Law– Jurisprudential Journey of the Competition Commission of India in the Last Decade",
-   "authors": [
-    "Gupta D",
-    "Chhabra S"
-   ],
-   "journal": "Review of Industrial Organization",
-   "journal_id": "rio",
-   "date": "2025-10-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1007/s11151-025-10022-4"
-  },
-  {
-   "doi": "10.1007/s11151-025-10035-z",
-   "title": "Impact of Antitrust Events on Firm Market Value: Evidence from Chinese and U.S. Internet Platforms",
-   "authors": [
-    "Huang Y",
-    "Yin N",
-    "Zhang V Y",
-    "Zhao S"
-   ],
-   "journal": "Review of Industrial Organization",
-   "journal_id": "rio",
-   "date": "2025-10-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1007/s11151-025-10035-z"
-  },
-  {
-   "doi": "10.1007/s10657-025-09857-9",
-   "title": "Judicial enforcement as a worker discipline device",
-   "authors": [
-    "Dughera S",
-    "Melcarne A"
-   ],
-   "journal": "European Journal of Law and Economics",
-   "journal_id": "ejle",
-   "date": "2025-10-01",
-   "abstract": "Abstract We develop an efficiency-wage model with firing costs, judicial delay, and judges’ pro-labor bias. When workers dismissed for personal reasons are not entitled to severance pay, a double moral hazard emerges: firms may disguise redundancies as disciplinary dismissals, and caught shirkers may litigate for wrongful termination. The impact of employment protection legislation—and its imperfect enforcement—on the efficiency wage depends on how the institutional environment shapes these strategic behaviors. In one of five possible settings, the efficiency wage decreases with pro-labor bias and increases with judicial delay. Using data on French labor courts and hourly wages, we find correlational evidence consistent with this prediction: wages correlate negatively with judicial delay and positively with pro-labor bias.",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1007/s10657-025-09857-9"
-  },
-  {
-   "doi": "10.1007/s10657-025-09856-w",
-   "title": "Law and economics, and the labour market: a comprehensive research agenda",
-   "authors": [
-    "Malo M Á"
-   ],
-   "journal": "European Journal of Law and Economics",
-   "journal_id": "ejle",
-   "date": "2025-10-01",
-   "abstract": "Abstract This article reviews the evolution of law and economics as applied to the study of labour law and labour market issues, as an introduction to the articles included in this special issue. This evolution can be divided into three main stages. Initially, the focus was on the negative effects of labour law on efficiency. This was followed by a stage devoted to examining the role of labour law in addressing market failures. The third stage is marked by the expansion of empirical analysis, driven by the development of causal inference techniques. Throughout this evolution, labour economics has been a key partner in this subfield, with a fruitful exchange of concepts. The result of this interaction between disciplines is a kind of comprehensive research agenda, where law and economics related to the labour market retain the typical characteristics of detailed and nuanced analyses of institutions, legal practice, and the enforcement of legal regulations. The articles in this special issue illustrate this comprehensive perspective. They cover labour tribunals, severance pay, and worker representation at the firm level.",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1007/s10657-025-09856-w"
   }
  ]
 }
