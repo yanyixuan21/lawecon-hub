@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-03 21:17",
- "doc_count": 368,
+ "updated_at": "2026-10-04 05:55",
+ "doc_count": 367,
  "heat": [
   {
    "term": "antitrust",
@@ -151,10 +151,6 @@
    "count": 8
   },
   {
-   "term": "higher",
-   "count": 7
-  },
-  {
    "term": "dynamic",
    "count": 7
   },
@@ -216,6 +212,10 @@
   },
   {
    "term": "digital markets",
+   "count": 6
+  },
+  {
+   "term": "higher",
    "count": 6
   },
   {
@@ -491,7 +491,7 @@
    "terms": []
   },
   "rio": {
-   "count": 34,
+   "count": 33,
    "avg_authors": 2.4,
    "terms": [
     {
