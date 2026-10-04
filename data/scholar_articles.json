@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-04 05:55",
- "count": 101,
+ "updated_at": "2026-10-04 12:24",
+ "count": 102,
  "articles": [
   {
    "doi": "10.1038/s41593-026-02454-2",
@@ -800,7 +800,7 @@
    "authors": [
     "Nicolas Petit"
    ],
-   "journal": "",
+   "journal": "Springer eBooks",
    "journal_id": "",
    "date": "2026-01-01",
    "abstract": "",
@@ -885,7 +885,7 @@
    "authors": [
     "Jorge Padilla"
    ],
-   "journal": "",
+   "journal": "Springer eBooks",
    "journal_id": "",
    "date": "2026-01-01",
    "abstract": "",
@@ -1491,6 +1491,22 @@
    "scholar_id": "tim-wu",
    "scholar_name": "Tim Wu",
    "scholar_institution": "Columbia Law School"
+  },
+  {
+   "doi": "10.2139/ssrn.7553818",
+   "title": "On Why Agencies Should Measure Anticompetitive Effects in Merger Control",
+   "authors": [
+    "Jorge Padilla"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.7553818",
+   "scholar_id": "jorge-padilla",
+   "scholar_name": "Jorge Padilla",
+   "scholar_institution": "Compass Lexecon"
   },
   {
    "doi": "10.5040/9781509987511.ch-005",
