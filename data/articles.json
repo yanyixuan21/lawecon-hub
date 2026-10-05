@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-04 21:27",
- "count": 367,
+ "updated_at": "2026-10-05 05:42",
+ "count": 365,
  "articles": [
   {
    "doi": "10.1016/j.ijindorg.2026.103320",
@@ -11,7 +11,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103320"
@@ -27,7 +27,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103322"
@@ -41,7 +41,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103321"
@@ -55,7 +55,7 @@
    ],
    "journal": "International Review of Law and Economics",
    "journal_id": "irle",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.irle.2026.106349"
@@ -69,7 +69,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103324"
@@ -82,7 +82,7 @@
    ],
    "journal": "International Review of Law and Economics",
    "journal_id": "irle",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.irle.2026.106347"
@@ -98,7 +98,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103323"
@@ -114,7 +114,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103334"
@@ -127,7 +127,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103336"
@@ -141,7 +141,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103337"
@@ -157,7 +157,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103335"
@@ -170,7 +170,7 @@
    ],
    "journal": "International Review of Law and Economics",
    "journal_id": "irle",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.irle.2026.106360"
@@ -186,7 +186,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-10-04",
+   "date": "2026-10-05",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103338"
@@ -5136,34 +5136,6 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1007/s11151-025-10038-w"
-  },
-  {
-   "doi": "10.1007/s11151-025-10034-0",
-   "title": "Asymmetric Compatibility Between Open-Source Software and Proprietary Software",
-   "authors": [
-    "Chou C"
-   ],
-   "journal": "Review of Industrial Organization",
-   "journal_id": "rio",
-   "date": "2025-10-04",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1007/s11151-025-10034-0"
-  },
-  {
-   "doi": "10.1007/s11151-025-10030-4",
-   "title": "Decentralized Versus Centralized Competitive Pricing When Size Matters",
-   "authors": [
-    "Arve M",
-    "Foros Ø",
-    "Kind H J"
-   ],
-   "journal": "Review of Industrial Organization",
-   "journal_id": "rio",
-   "date": "2025-10-04",
-   "abstract": "Abstract In several markets, retailers consider volume (size) as a crucial factor for competitiveness; this is driven, for example, by volume rebates from suppliers or technological economies of scale. This indicates that the retailers face decreasing marginal costs. We show that such economies of scale may imply that prices become strategic substitutes and that this has profound effects on firms’ behavior. A retail chain that controls several stores in the same market may prefer decentralized pricing rather than centralized pricing. This preference arises because a multi-store chain that employs centralized pricing essentially commits to setting higher prices than it otherwise would. If prices are strategic substitutes, the rivals of a multi-store chain would then, to the detriment of the chain stores, respond by reducing their prices. If this effect is sufficiently strong, centralized pricing will be unprofitable for a multi-store chain.",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1007/s11151-025-10030-4"
   }
  ]
 }

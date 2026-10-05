@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-04 21:27",
- "doc_count": 367,
+ "updated_at": "2026-10-05 05:43",
+ "doc_count": 365,
  "heat": [
   {
    "term": "antitrust",
@@ -143,10 +143,6 @@
    "count": 8
   },
   {
-   "term": "size",
-   "count": 8
-  },
-  {
    "term": "rules",
    "count": 8
   },
@@ -255,10 +251,6 @@
    "count": 6
   },
   {
-   "term": "consider",
-   "count": 6
-  },
-  {
    "term": "only",
    "count": 6
   },
@@ -271,15 +263,23 @@
    "count": 6
   },
   {
-   "term": "scale",
-   "count": 6
-  },
-  {
    "term": "act",
    "count": 6
   },
   {
+   "term": "marginal",
+   "count": 6
+  },
+  {
    "term": "insights",
+   "count": 6
+  },
+  {
+   "term": "downstream",
+   "count": 6
+  },
+  {
+   "term": "investment",
    "count": 6
   }
  ],
@@ -491,7 +491,7 @@
    "terms": []
   },
   "rio": {
-   "count": 33,
+   "count": 31,
    "avg_authors": 2.4,
    "terms": [
     {
@@ -520,7 +520,7 @@
     },
     {
      "term": "pricing",
-     "count": 5
+     "count": 4
     },
     {
      "term": "competition",
