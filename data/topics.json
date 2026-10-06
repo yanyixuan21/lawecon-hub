@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06 00:04",
+ "updated_at": "2026-10-06 06:23",
  "doc_count": 365,
  "heat": [
   {
@@ -305,15 +305,15 @@
      "count": 2
     },
     {
+     "term": "machine learning",
+     "count": 2
+    },
+    {
      "term": "mergers investments",
      "count": 2
     },
     {
      "term": "consumer search",
-     "count": 2
-    },
-    {
-     "term": "machine learning",
      "count": 2
     },
     {

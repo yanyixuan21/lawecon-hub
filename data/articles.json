@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06 00:04",
+ "updated_at": "2026-10-06 06:22",
  "count": 365,
  "articles": [
   {
@@ -203,6 +203,19 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103339"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103340",
+   "title": "Dynamics and determinants of exporter survival: A machine learning approach",
+   "authors": [
+    "Neopane A"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-10-06",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103340"
   },
   {
    "doi": "10.1016/j.ijindorg.2026.103304",
@@ -421,19 +434,6 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.irle.2026.106359"
-  },
-  {
-   "doi": "10.1016/j.ijindorg.2026.103340",
-   "title": "Dynamics and determinants of exporter survival: A machine learning approach",
-   "authors": [
-    "Neopane A"
-   ],
-   "journal": "International Journal of Industrial Organization",
-   "journal_id": "ijio",
-   "date": "2026-09-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.ijindorg.2026.103340"
   },
   {
    "doi": "10.1007/s10657-026-09886-y",
