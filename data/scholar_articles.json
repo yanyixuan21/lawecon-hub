@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-06 06:23",
- "count": 102,
+ "updated_at": "2026-10-06 18:24",
+ "count": 103,
  "articles": [
   {
    "doi": "10.1038/s41593-026-02454-2",
@@ -1507,6 +1507,23 @@
    "scholar_id": "jorge-padilla",
    "scholar_name": "Jorge Padilla",
    "scholar_institution": "Compass Lexecon"
+  },
+  {
+   "doi": "10.2139/ssrn.7558300",
+   "title": "Meaningful Data Minimization",
+   "authors": [
+    "Daniel J. Solove",
+    "Woodrow Hartzog"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.7558300",
+   "scholar_id": "woodrow-hartzog",
+   "scholar_name": "Woodrow Hartzog",
+   "scholar_institution": "Boston University"
   },
   {
    "doi": "10.5040/9781509987511.ch-005",
