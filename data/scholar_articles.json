@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-07 13:27",
- "count": 103,
+ "updated_at": "2026-10-07 23:06",
+ "count": 104,
  "articles": [
   {
    "doi": "10.1038/s41593-026-02454-2",
@@ -85,6 +85,27 @@
    "scholar_id": "jean-tirole",
    "scholar_name": "Jean Tirole",
    "scholar_institution": "Toulouse School of Economics"
+  },
+  {
+   "doi": "10.1109/mis.2026.3698336",
+   "title": "Digital Distortions: Auditing Bias in Large Language Model-Based Career Recommendations",
+   "authors": [
+    "Junyi Li",
+    "Baoshen Guo",
+    "Qishen Zhou",
+    "Shenhao Wang",
+    "Frank Pasquale",
+    "Jinhua Zhao"
+   ],
+   "journal": "IEEE Intelligent Systems",
+   "journal_id": "",
+   "date": "2026-09-01",
+   "abstract": "",
+   "type": "article",
+   "url": "https://doi.org/10.1109/mis.2026.3698336",
+   "scholar_id": "frank-pasquale",
+   "scholar_name": "Frank Pasquale",
+   "scholar_institution": "University of Maryland"
   },
   {
    "doi": "10.1007/s12061-026-09988-9",
