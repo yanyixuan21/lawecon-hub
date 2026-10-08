@@ -1,7 +1,30 @@
 {
- "updated_at": "2026-10-08 13:32",
- "count": 104,
+ "updated_at": "2026-10-08 23:22",
+ "count": 106,
  "articles": [
+  {
+   "doi": "10.1038/s44284-026-00536-7",
+   "title": "Robotic urbanization and embodied intelligence for cities",
+   "authors": [
+    "Ying Li",
+    "Tim Wu",
+    "Jian Zhou",
+    "Bicheng Han",
+    "Jiawei Yang",
+    "Michael Keith",
+    "Bo Zhang",
+    "ChengHe Guan"
+   ],
+   "journal": "Nature Cities",
+   "journal_id": "",
+   "date": "2026-10-07",
+   "abstract": "",
+   "type": "article",
+   "url": "https://doi.org/10.1038/s44284-026-00536-7",
+   "scholar_id": "tim-wu",
+   "scholar_name": "Tim Wu",
+   "scholar_institution": "Columbia Law School"
+  },
   {
    "doi": "10.1038/s41593-026-02454-2",
    "title": "Massively parallel assessment of gene regulatory activity at human cortical-structure-associated variants",
@@ -336,7 +359,7 @@
    "journal": "Nature Communications",
    "journal_id": "",
    "date": "2026-07-10",
-   "abstract": "Genomic studies revealed elevated DNA damage and mutation rates at transcription factor (TF) binding sites in UV-linked cancers. While TFs can promote UV-induced mutagenesis by altering both damage formation and repair, these mechanisms have not been systematically characterized across TFs at high resolution. Using genome-wide UV damage maps from skin fibroblasts, we develop a scalable statistical framework to analyze TF-mediated mutagenic mechanisms across hundreds of TFs. We identify numerous previously unreported TFs that significantly enhance or suppress UV damage formation within their binding sites. A systematic survey of TF-DNA complexes reveals that damage modulation often coincides with TF-induced DNA distortions that either protect against or promote photodimer formation. Additionally, we analyze repair efficiency in TF binding sites at high resolution, identifying TFs likely to compete with repair. Comparisons with skin cancer mutations distinguish mutation enrichment driven by increased damageability versus attenuated repair, revealing the highly contextual nature of TF-mediated mutagenesis.",
+   "abstract": "Genomic studies have revealed elevated damage and mutation rates in active transcription factor (TF) binding sites in UV-linked cancers. Previous investigations into the relationship between TF activity and UV DNA damage have primarily focused on select TFs or been done in aggregate across large cohorts of TFs at kilobase resolution. While collectively, there is evidence that TFs contribute to UV-induced mutagenesis by both enhancing initial damage formation and attenuating repair, there has yet to be a comprehensive characterization of these mechanisms on a per-TF basis. Using genome-wide maps of UV damage from human skin fibroblasts, we developed a scalable statistical framework to analyze TF-mediated mutagenic mechanisms across hundreds of TFs. We identify numerous previously unreported TFs that significantly enhance and / or inhibit damage formation in their binding sites. A systematic survey of TF-DNA complexes further revealed that positions of UV damage modulation coincide with TF-induced structural distortions that either protect or predispose DNA to photodimer formation. Additionally, we analyzed repair efficiency in TF binding sites with unprecedented resolution, identifying specific TFs and binding site positions likely to compete with repair factors. By comparing these results with skin cancer mutations, we distinguish mutation peaks driven by increased damage susceptibility versus attenuated repair, illustrating that TF-mediated mutagenesis is highly contextual and dependent on the TF, binding site position, and sequence context of the damaged locus. Our approach provides a robust statistical framework for elucidating mechanisms of mutagenic TF-binding and offers novel insights into the complex interplay between protein interactions, DNA damage, and repair.",
    "type": "article",
    "url": "https://doi.org/10.1038/s41467-026-75115-4",
    "scholar_id": "gregory-crawford",
@@ -1547,6 +1570,22 @@
    "scholar_institution": "Boston University"
   },
   {
+   "doi": "10.2139/ssrn.7573498",
+   "title": "Rethinking Privacy of the Mind: Why Protecting Neural Data Is Insufficient",
+   "authors": [
+    "Daniel J. Solove"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.7573498",
+   "scholar_id": "daniel-solove",
+   "scholar_name": "Daniel Solove",
+   "scholar_institution": "George Washington University"
+  },
+  {
    "doi": "10.5040/9781509987511.ch-005",
    "title": "Regulatory Sandboxes in Finance and Energy",
    "authors": [
@@ -1680,7 +1719,7 @@
    "journal": "Genetics in Medicine Open",
    "journal_id": "",
    "date": "2025-11-20",
-   "abstract": "Purpose Delayed diagnosis of Mendelian disease prevents early therapeutic intervention that could improve symptoms and prognosis. One major contributing challenge is functional interpretation of noncoding variants that alter splicing. Here, we aimed to better understand both how splice altering variants contribute to Mendelian disease and how to identify such mechanisms via an instrumental case study of 2 siblings with glycogen storage disease (GSD) IX γ2. Methods The siblings had a classic clinical presentation, enzyme deficiency, and a known pathogenic splice variant on 1 allele of PHKG2 (HGNC:8931). Despite the autosomal recessive nature of the disease, no coding variant on the second allele was identified by targeted sequencing. We evaluated potential noncoding pathogenic variants using genome sequencing and RNA sequencing and created an isogenic model of the candidate variant using CRISPR/Cas9 genome editing. Results In both siblings, we identified a second variant (NC_000016.10:g.30754626T>G [GRCh38]): a deep intronic variant that caused a 76-bp pseudoexon inclusion in PHKG2 . In a HEK293T cell model in which we installed that variant, we confirmed its effects on splicing in addition to multiple biochemical and cellular phenotypes consistent with GSD IX. We then reversed aberrant splicing using antisense oligonucleotide technology. Conclusion As evidenced by RNA sequencing, population and allelic segregation data, and phenotyping of an isogenic cell culture model of the variant, we concluded that PHKG2 c.556+1069T>G causes GSD IX γ2 and can be targeted using antisense oligonucleotides. This demonstrates a novel and robust pathway for detecting, validating, and reversing the impacts of noncoding causes of rare disease.",
+   "abstract": "Abstract Delayed diagnosis of Mendelian disease substantially prevents early therapeutic intervention that could improve symptoms and prognosis. One major contributing challenge is the functional interpretation of non-coding variants that cause disease by altering splicing and/or gene expression. We identified two siblings with glycogen storage disease (GSD) type IX γ2, both of whom had a classic clinical presentation, enzyme deficiency, and a known pathogenic splice acceptor variant on one allele of PHKG2 . Despite the autosomal recessive nature of the disease, no variant on the second allele was identified by gene panel sequencing. To identify a potential missing second pathogenic variant, we completed whole genome sequencing (WGS) and detected putative deep intronic splicing variant in PHKG2 in both siblings. We confirmed the functional splicing effects of this variant using short-read and long-read RNA-seq on patient blood and a HEK293T cell model in which we installed the variant using CRISPR editing. Using the cell model, we demonstrated multiple biochemical and cellular impacts that are consistent with GSD IX γ2, and a reversal of aberrant splicing using antisense splice-switching oligonucleotides. In doing so, we demonstrate a novel and robust pathway for detecting, validating, and reversing the impacts of novel non-coding causes of rare disease.",
    "type": "article",
    "url": "https://doi.org/10.1016/j.gimo.2025.103474",
    "scholar_id": "gregory-crawford",
