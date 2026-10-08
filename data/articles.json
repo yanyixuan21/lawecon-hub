@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-08 06:07",
- "count": 365,
+ "updated_at": "2026-10-08 13:32",
+ "count": 366,
  "articles": [
   {
    "doi": "10.1016/j.ijindorg.2026.103320",
@@ -319,6 +319,21 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/s0167-7187(26)00080-9"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103341",
+   "title": "Order of Entry and Market Performance in the Global Smartphone Industry",
+   "authors": [
+    "Lu W",
+    "Lu C",
+    "Xie X"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-10-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103341"
   },
   {
    "doi": "10.1093/aler/ahaf020",

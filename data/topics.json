@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-08 06:07",
- "doc_count": 365,
+ "updated_at": "2026-10-08 13:32",
+ "doc_count": 366,
  "heat": [
   {
    "term": "antitrust",
@@ -95,6 +95,10 @@
    "count": 9
   },
   {
+   "term": "industry",
+   "count": 9
+  },
+  {
    "term": "decisions",
    "count": 9
   },
@@ -128,10 +132,6 @@
   },
   {
    "term": "state",
-   "count": 8
-  },
-  {
-   "term": "industry",
    "count": 8
   },
   {
@@ -285,8 +285,8 @@
  ],
  "profiles": {
   "ijio": {
-   "count": 106,
-   "avg_authors": 2.4,
+   "count": 107,
+   "avg_authors": 2.5,
    "terms": [
     {
      "term": "market definition",
@@ -322,7 +322,7 @@
     },
     {
      "term": "market",
-     "count": 15
+     "count": 16
     },
     {
      "term": "price",
