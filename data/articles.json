@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-10 12:34",
- "count": 366,
+ "updated_at": "2026-10-10 21:46",
+ "count": 367,
  "articles": [
   {
    "doi": "10.1016/j.ijindorg.2026.103320",
@@ -216,6 +216,19 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103340"
+  },
+  {
+   "doi": "10.1080/17441056.2026.2744855",
+   "title": "Local markets, unilateral effects &amp; dominance theories of harm: the Q-Park/Tazbell off-street parking merger",
+   "authors": [
+    "Gorecki P K"
+   ],
+   "journal": "European Competition Journal",
+   "journal_id": "ecj",
+   "date": "2026-10-10",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1080/17441056.2026.2744855"
   },
   {
    "doi": "10.1016/j.ijindorg.2026.103304",

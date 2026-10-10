@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-10 12:34",
- "doc_count": 366,
+ "updated_at": "2026-10-10 21:46",
+ "doc_count": 367,
  "heat": [
   {
    "term": "antitrust",
@@ -368,6 +368,40 @@
     }
    ]
   },
+  "ecj": {
+   "count": 17,
+   "avg_authors": 1.7,
+   "terms": [
+    {
+     "term": "european commission",
+     "count": 2
+    },
+    {
+     "term": "merger control",
+     "count": 2
+    },
+    {
+     "term": "merger",
+     "count": 5
+    },
+    {
+     "term": "markets",
+     "count": 4
+    },
+    {
+     "term": "competition",
+     "count": 4
+    },
+    {
+     "term": "european",
+     "count": 3
+    },
+    {
+     "term": "antitrust",
+     "count": 3
+    }
+   ]
+  },
   "aler": {
    "count": 29,
    "avg_authors": 2.1,
@@ -424,40 +458,6 @@
     },
     {
      "term": "cartel",
-     "count": 3
-    }
-   ]
-  },
-  "ecj": {
-   "count": 16,
-   "avg_authors": 1.8,
-   "terms": [
-    {
-     "term": "european commission",
-     "count": 2
-    },
-    {
-     "term": "merger control",
-     "count": 2
-    },
-    {
-     "term": "competition",
-     "count": 4
-    },
-    {
-     "term": "merger",
-     "count": 4
-    },
-    {
-     "term": "european",
-     "count": 3
-    },
-    {
-     "term": "markets",
-     "count": 3
-    },
-    {
-     "term": "antitrust",
      "count": 3
     }
    ]
