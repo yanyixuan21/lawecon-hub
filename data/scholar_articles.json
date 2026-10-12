@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-12 06:00",
- "count": 106,
+ "updated_at": "2026-10-12 15:28",
+ "count": 121,
  "articles": [
   {
    "doi": "10.1038/s44284-026-00536-7",
@@ -155,7 +155,7 @@
    "authors": [
     "Shelly Goomber",
     "Erin Huggins",
-    "Catherine W. Rehder",
+    "Catherine Weaver Rehder",
     "Gregory E. Crawford",
     "Seung‐Hye Jung",
     "Jessica Doxey",
@@ -199,7 +199,7 @@
     "Shuhua Fu",
     "Benpeng Miao",
     "Wanqing Shao",
-    "CRISTIAN COARFA",
+    "Cristian Coarfa",
     "Ravindra Kumar",
     "Prashant Kumar Kuntala",
     "Bongsoo Park",
@@ -251,6 +251,23 @@
    "scholar_institution": "Toulouse School of Economics"
   },
   {
+   "doi": "",
+   "title": "A theory of political acquisitions",
+   "authors": [
+    "Matteo Broso",
+    "Tommaso Valletti"
+   ],
+   "journal": "Spiral (Imperial College London)",
+   "journal_id": "",
+   "date": "2026-08-17",
+   "abstract": "We study a dynamic model where a firm can grow in size by acquiring competitors and lobby office-seeking politicians. When the firm is distressed, the incumbent politician loses the office with some probability. Larger firms are less likely to experience distress but their distress has more severe political consequences. To prevent these, politicians can offer political support to the firm. We show that, in equilibrium: (i) the level of political support is non-monotone in the firm’s size; (ii) the firm can complete acquisitions just to extract political support; and (iii) the number of these “Political Acquisitions” is non-monotone in the strength of politicians’ re-election incentives.",
+   "type": "article",
+   "url": "https://openalex.org/works/W7204219262",
+   "scholar_id": "tommaso-valletti",
+   "scholar_name": "Tommaso Valletti",
+   "scholar_institution": "Imperial College London"
+  },
+  {
    "doi": "10.64898/2026.08.10.743836",
    "title": "Quantitative profiling of intrinsic dCas9-DNA recognition reveals key determinants of guide RNA performance",
    "authors": [
@@ -260,7 +277,7 @@
     "Samuel J. Reisman",
     "Samantha E Miller",
     "Evan Corden",
-    "Maria ter Weele",
+    "Maria A. ter Weele",
     "Lingyun Song",
     "等"
    ],
@@ -368,6 +385,25 @@
   },
   {
    "doi": "",
+   "title": "Strategies for Addressing Big Tech Dominance: Regulation, Reform, or Revolution?",
+   "authors": [
+    "Rodolph Durand",
+    "Anne Jacqueminet",
+    "Dovev Lavie",
+    "Tommaso Valletti"
+   ],
+   "journal": "Spiral (Imperial College London)",
+   "journal_id": "",
+   "date": "2026-07-08",
+   "abstract": "The Big Tech firms have captured substantial economic value with their dominant digital platforms, while raising major concerns for stakeholders and society. However, the field of strategy remains largely focused on examining their value creation, leaving remedies to other disciplines. In this essay, we examine three approaches to addressing the consequences of Big Tech platform dominance, highlighting their merits and limitations: regulation through the judicial system, voluntary reform of corporate purpose, and revolution through the design of alternative platforms that prioritize societal values. We discuss how these approaches can be complementary and encourage strategy scholars to actively engage in this conversation by revisiting core assumptions, theorizing, and testing new business models for digital platforms that can challenge the Big Tech firms’ hegemony.",
+   "type": "article",
+   "url": "https://openalex.org/works/W7171339422",
+   "scholar_id": "tommaso-valletti",
+   "scholar_name": "Tommaso Valletti",
+   "scholar_institution": "Imperial College London"
+  },
+  {
+   "doi": "",
    "title": "Fixed-Time Compensation of Input-Dependent Hydraulic Input Delay For a Model of a Microfluidic Process Under Zweifach-Fung Effect",
    "authors": [
     "Salim Zekraoui",
@@ -385,6 +421,24 @@
    "scholar_id": "nicolas-petit",
    "scholar_name": "Nicolas Petit",
    "scholar_institution": "University of Liège"
+  },
+  {
+   "doi": "10.5465/amproc.2026.10691abstract",
+   "title": "Strategies for Coping with Big Tech Dominance: Regulation, Reform, or Revolution?",
+   "authors": [
+    "Anne Jacqueminet",
+    "Dovev Lavie",
+    "Tommaso Valletti"
+   ],
+   "journal": "Academy of Management Proceedings",
+   "journal_id": "",
+   "date": "2026-07-01",
+   "abstract": "The Big Tech firms have captured substantial economic value through their dominant digital platforms, often at the expense of stakeholders and society. However, the field of strategy remains largely focused on studying their value creation, leaving remedies to other disciplines. In this study, we examine three approaches to addressing the consequences of Big Tech dominance, highlighting their merits and limitations: regulation through the judicial system, voluntary reform of corporate purpose, and revolution through the design of alternative platforms that prioritize societal values. We discuss how these approaches can be complementary and encourage strategy scholars to actively engage in this debate by revisiting core assumptions, theorizing, and testing new business models for digital platforms that can challenge the Big Tech firms’ hegemony.",
+   "type": "conference-abstract",
+   "url": "https://doi.org/10.5465/amproc.2026.10691abstract",
+   "scholar_id": "tommaso-valletti",
+   "scholar_name": "Tommaso Valletti",
+   "scholar_institution": "Imperial College London"
   },
   {
    "doi": "10.1093/9780198969815.003.0017",
@@ -531,6 +585,22 @@
    "scholar_id": "jacques-cremer",
    "scholar_name": "Jacques Crémer",
    "scholar_institution": "Toulouse School of Economics"
+  },
+  {
+   "doi": "10.1017/9781009744225.006",
+   "title": "Judging and Limits on Legal Automation",
+   "authors": [
+    "Frank Pasquale"
+   ],
+   "journal": "Cambridge University Press eBooks",
+   "journal_id": "",
+   "date": "2026-04-30",
+   "abstract": "",
+   "type": "book-chapter",
+   "url": "https://doi.org/10.1017/9781009744225.006",
+   "scholar_id": "frank-pasquale",
+   "scholar_name": "Frank Pasquale",
+   "scholar_institution": "University of Maryland"
   },
   {
    "doi": "10.1093/jaenfo/jnag007",
@@ -751,7 +821,7 @@
     "Dahlia Halabi",
     "Nicholas Sangvai",
     "Gregory E. Crawford",
-    "Raluca Gordan",
+    "Raluca Gordân",
     "Charles A. Gersbach"
    ],
    "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
@@ -791,7 +861,7 @@
    "journal": "Boston College Law Review",
    "journal_id": "",
    "date": "2026-01-29",
-   "abstract": "As the United States and much of the world face a resurgence of authoritarianism, the critical importance of privacy cannot be overstated. Privacy serves as a fundamental safeguard against the overreach of authoritarian governments. Authoritarian power is greatly enhanced in today’s era of pervasive surveillance and relentless data collection. We are living in the age of “surveillance capitalism.” There are vast digital dossiers about every person assembled by thousands of corporations and readily available for the government to access. The federal government and some state governments are intensifying surveillance and data collection efforts, targeting immigrants, punishing those involved in seeking or providing abortion services, and cracking down on gender-affirming healthcare. Personal data is being weaponized against critics and others who resist these efforts. In this Article, I contend that privacy protections must be significantly heightened to respond to growing threats of authoritarianism. Major regulatory interventions are necessary to prevent government surveillance from being used in inimical ways. But reforming Fourth Amendment jurisprudence and government surveillance alone will not protect against many authoritarian invasions of privacy, especially given the oligarchical character of the current strain of authoritarianism. To adequately regulate government surveillance, it is essential to also regulate surveillance capitalism. Government surveillance and surveillance capitalism are two sides of the same coin. It is impossible to protect privacy from authoritarianism without addressing consumer privacy. This Article proposes regulatory measures that should be taken to address government surveillance and surveillance capitalism—on both sides of the coin—to guard against authoritarianism.",
+   "abstract": "As the United States and much of the world face a resurgence of authoritarianism, the critical importance of privacy cannot be overstated. Privacy serves as a fundamental safeguard against the overreach of authoritarian governments. Authoritarian power is greatly enhanced in today’s era of pervasive surveillance and relentless data collection. We are living in the age of “surveillance capitalism.” There are vast digital dossiers about every person assembled by thousands of corporations and readily available for the government to access. The federal government and some state governments are intensifying surveillance and data collection efforts, targeting immigrants, punishing those involved in seeking or providing abortion services, and cracking down on gender-affirming healthcare. Personal data is being weaponized against critics and others who resist these efforts. In this Article, I contend that privacy protections must be significantly heightened to respond to growing threats of authoritarianism. Major regulatory interventions are necessary to prevent government surveillance from being used in inimical ways. But reforming Fourth Amendment jurisprudence and government surveillance alone will not protect against many authoritarian invasions of privacy, especially given the oligarchical character of the current strain of authoritarianism. To adequately regulate government surveillance, it is essential to also regulate surveillance capitalism. Government surveillance and surveillance capitalism are two sides of the same coin. It is impossible to protect privacy from authoritarianism without addressing consumer privacy. This Article proposes regulatory measures that should be taken to address government surveillance and surveillance capitalism—on both sides of the coin—to guard against authoritarianism. Federal lower court judges have some leeway to strengthen Fourth Amendment and other Constitutional protections as well as consumer privacy protections. State court judges can interpret their state’s constitutions in ways that diverge from U.S. Supreme Court interpretations. State legislators can enact a wide array of measures to limit government surveillance by their states and others as well as to reign in surveillance capitalism, minimize the data available to authoritarian regimes, regulate data brokers, incentivize the creation of less privacy-invasive surveillance technologies, and curtail the increasing government-industrial collusion. There is no silver bullet, but these measures across the entire landscape of privacy law can make a meaningful difference.",
    "type": "article",
    "url": "https://doi.org/10.70167/zcsi2691",
    "scholar_id": "daniel-solove",
@@ -1036,7 +1106,7 @@
    "title": "On the Right to Obscurity",
    "authors": [
     "Woodrow Hartzog",
-    "Evan M. Selinger"
+    "Evan Selinger"
    ],
    "journal": "SSRN Electronic Journal",
    "journal_id": "",
@@ -1473,7 +1543,7 @@
    "title": "How AI Destroys Institutions",
    "authors": [
     "Woodrow Hartzog",
-    "Jessica Silbey"
+    "Jessica M. Silbey"
    ],
    "journal": "bepress Legal Repository",
    "journal_id": "",
@@ -1584,6 +1654,159 @@
    "scholar_id": "daniel-solove",
    "scholar_name": "Daniel Solove",
    "scholar_institution": "George Washington University"
+  },
+  {
+   "doi": "10.1093/jeclap/lpag031",
+   "title": "Invisible deterrence in merger policy: why the prohibition rate says little",
+   "authors": [
+    "Selçukhan Ünekbaş",
+    "Bowman Heiden",
+    "Frédéric Jenny",
+    "Nicolas Petit",
+    "David Bosco"
+   ],
+   "journal": "Journal of European Competition Law & Practice",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "Merger control is a hot topic. The hot policy question these days is whether merger law is too permissive or too strict. One powerful statistical argument often advanced by the ‘too permissive’ view is this: most reviewed transactions are cleared, and only a small number give rise to remedies or a prohibition.1 In the USA, between 2001 and 2020, antitrust authorities received roughly 31,500 merger notifications, scrutinized around 970 in detail, and blocked approximately 300. This represents 0.28 per cent of all USA transactions in the period, and intervention in fewer than one in a thousand. Figures for the European Union (EU) tell a similar story.2 The implication drawn from these numbers is straightforward: if so few mergers are stopped, enforcement is too permissive. That line of reasoning conflates merger prohibition rates with the overall deterrence effect of merger policy. But the deterrent effects of merger policy extend well beyond the small set of deals that are formally challenged.3 To see why, consider a simple framework of two variables. One is the enforcer’s decision: clear or intervene. The other is the firms’ action: propose a merger or refrain. From their interaction, four scenarios emerge4: (i) Firm proposes, enforcer clears. This is the majority of notified transactions. (ii) Firm refrains, enforcer would have blocked. The parties correctly anticipated that the deal would be blocked and chose not to proceed. This is successful deterrence. (iii) Firm proposes, enforcer intervenes. The firms believed their deal would be cleared, but the enforcer disagreed. This is the scenario covered by the oft-cited low intervention rates. From a legal perspective, that represents insufficient deterrence. (iv) Firm refrains, enforcer would have cleared. The firms do not file a deal because they wrongly believe the enforcer would block it. From a legal perspective, that represents excessive deterrence. The critical point is this: the prohibition rates cited as evidence of insufficient deterrence comprise only Scenario 3 (the firm’s self-assessment error). We cannot infer anything relevant to deterrence from current prohibition rates unless we include Scenario 4 in the picture. Put differently, it is crucial to consider the rate of excessive deterrence in any discussion on whether merger enforcement is too lax or too strict.5 Now, this framework operates under simplified assumptions. The real world is uncertain. But the core insight survives, and may actually intensify, under uncertainty. Merger agencies make decisions on a balance-of-probabilities standard. Firms know this. Risk-averse firms may rationally forgo a pro-competitive merger not because they misread the enforcer’s likely decision, but because the costs of an uncertain review process (litigating a potential challenge, management distraction, reputational risk) exceed expected gains from the transaction. This is not a self-assessment error. It is a rational response to uncertainty. Yet, the social cost of excessive deterrence remains. This reading is reinforced under a bargaining lens. Most merger enforcement does not involve outright prohibition. Deals are often cleared after parties negotiate with enforcers over remedies. In a perfect enforcement scenario, the prohibition rate would be close to zero, and the number of conditional clearances would be substantial. This is because firms would correctly anticipate the enforcer’s position and propose only (conditionally/unconditionally) clearable deals. By contrast, observing a high level of prohibitions would reflect bargaining error: parties that file overestimate their bargaining power in the sense that they underestimate the enforcer’s ‘price’ for clearance.6 In other words, a low prohibition rate may reflect a market that has already internalized strict enforcement norms. An analogy captures the point: saying that merger enforcement is too lax because few mergers get blocked is akin to saying that having few open protests in a country must mean it ranks high in the Freedom Index. This may or may not be the case: few protests happen both in Switzerland and Russia, for example. A small but established empirical literature actually documents how deterrence materializes in practice through two channels. The first is frequency effects. Stricter merger enforcement reduces the overall volume of deal activity. Increasing the challenge rate, defined as the conditional probability of a remedy or prohibition given an investigation, produces significant and robust deterrence of future horizontal merger activity.7 Similarly, stricter merger policy induces some firms to drop from, or not participate in, ongoing merger waves.8 The second is composition effects. Firms do not simply abandon deals; they restructure them. A merger may transform into a partial asset acquisition, and a horizontal deal may become a vertical or conglomerate transaction.9 Firms may opt for alternative arrangements, such as acquihires, to reduce regulatory exposure as well.10 The composition channel is particularly relevant today: the outsized attention given to technology mergers may partially be the reason why firms structure their AI-related deals as acquihires and licensing arrangements rather than outright acquisitions. Both frequency and composition effects point in the same direction. Enforcement decisions today shape the self-assessment of prospective merging parties tomorrow. Evidence shows that some jurisdictions’ merger law has grown stricter over time.11 And as the OECD documents, the number of merger interventions has been increasing.12 Each intervention sends a signal that recalibrates the expectations of future deal-makers, sometimes usefully, sometimes excessively.13 If the argument that observed prohibition rates say little is correct, three implications follow: one on policy, one on law, and another on methodology. Low prohibition rates cannot, and should not, on their own, be an argument in support of stricter merger review. The claim that ‘ten thousand mergers were filed, and only 39 were blocked’ is a rhetorical device that cannot support the view that merger review is too permissive.14 For indeed, a low intervention rate may already denote strict merger review that over-deters deals. The limited intervention rate of EU merger agencies is not a good justification for adopting ‘call-in powers’ by national competition authorities, devising structural presumptions, or shifting burdens of proof against merging parties. These proposals may actually induce merging firms to further internalize the risk of merger challenge, and deter more M&A transactions. Merger policy’s deterrent effect materializes partly through abandoned or restructured deals. This has been notoriously difficult to measure, as many authorities have also acknowledged.15 Tackling this data problem head-on, through systematic surveys of deal advisors or analysis of withdrawn filings, would go a long way in completing the picture of how merger enforcement actually operates. The claim that ‘few mergers are blocked, therefore enforcement is too lax’ has an intuitive ring that has allowed it to travel far. But it rests on a logical error: it treats the observable output of the merger review system in the form of explicit prohibitions as the whole of the system’s effect. It is not. The evidence used to support the proposition that enforcement is too lax is equally supportive of the proposition that enforcement is too strict, because deterrence is imperfectly observable. The deals that were never proposed, the mergers that were restructured beyond recognition, the acquisitions that became acquihires do not show up in the prohibition rate. But they may represent the most consequential impact of merger policy. A more satisfactory evaluation of merger policy requires considering the full extent of deterrence, not just the part that happens to be observable. Until we do, the debate over whether merger policy is ‘too permissive’ or ‘too strict’ risks being driven by numbers that say nothing.",
+   "type": "article",
+   "url": "https://doi.org/10.1093/jeclap/lpag031",
+   "scholar_id": "frederic-jenny",
+   "scholar_name": "Frédéric Jenny",
+   "scholar_institution": "ESSEC Business School"
+  },
+  {
+   "doi": "10.2139/ssrn.7033699",
+   "title": "Innovation in EU Merger Control: True Paradigm Shift or Just New Labels? The EC's Draft Guidelines Under the Microscope",
+   "authors": [
+    "Frédéric Jenny"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.7033699",
+   "scholar_id": "frederic-jenny",
+   "scholar_name": "Frédéric Jenny",
+   "scholar_institution": "ESSEC Business School"
+  },
+  {
+   "doi": "10.2139/ssrn.7372939",
+   "title": "Lessons from a Computational Audit of the European Commission’s Draft Merger Guidelines",
+   "authors": [
+    "Thibault Schrepel",
+    "Frédéric Jenny"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.7372939",
+   "scholar_id": "frederic-jenny",
+   "scholar_name": "Frédéric Jenny",
+   "scholar_institution": "ESSEC Business School"
+  },
+  {
+   "doi": "10.2139/ssrn.6539099",
+   "title": "The Rising Instrumentalisation of Competition and Antitrust Enforcement",
+   "authors": [
+    "Ariel Ezrachi",
+    "Maciej Bernatt"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.6539099",
+   "scholar_id": "ariel-ezrachi",
+   "scholar_name": "Ariel Ezrachi",
+   "scholar_institution": "University of Oxford"
+  },
+  {
+   "doi": "10.2139/ssrn.6841798",
+   "title": "AI Ecosystems, Power Shifts, and EU Competition Law Enforcement",
+   "authors": [
+    "Giuseppe Colangelo",
+    "Ariel Ezrachi"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.6841798",
+   "scholar_id": "ariel-ezrachi",
+   "scholar_name": "Ariel Ezrachi",
+   "scholar_institution": "University of Oxford"
+  },
+  {
+   "doi": "10.1353/nib.2026.a1002102",
+   "title": "Sharing Health Stories in a World of Privacy Risk",
+   "authors": [
+    "Neil Richards",
+    "Megumi Suzuki"
+   ],
+   "journal": "Narrative Inquiry in Bioethics",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "This commentary examines a collection of narratives published in Narrative Inquiry in Bioethics by individuals who chose to \"go public\" with sensitive health experiences on social media. The authors' stories offer rich qualitative insights into the benefits and harms of online self-disclosure. In the stories, three themes emerge. First, the desire to share is not opposed to privacy; rather, privacy makes meaningful sharing possible. Second, social media platforms' promises of user control largely fail in practice, leaving people who share personal information online vulnerable to algorithmic amplification, contextual collapse, and unintended consequences. Third, social media platform design powerfully shapes behavior, often in ways that serve corporate interests, rather than users' well-being. Drawing these narratives into conversation with privacy theory and empirical research, this commentary argues that current privacy protections are inadequate in an environment defined by limited choice and abundant risk. It concludes by suggesting that health-related social media use calls for stronger legal and design-based reforms, including duties that better protect vulnerable users.",
+   "type": "article",
+   "url": "https://doi.org/10.1353/nib.2026.a1002102",
+   "scholar_id": "neil-richards",
+   "scholar_name": "Neil Richards",
+   "scholar_institution": "Washington University in St. Louis"
+  },
+  {
+   "doi": "10.2139/ssrn.6879602",
+   "title": "Agentizing Privacy Preferences Without Privatizing Data Protection Policy",
+   "authors": [
+    "Frank Pasquale",
+    "Vanna Carter"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.6879602",
+   "scholar_id": "frank-pasquale",
+   "scholar_name": "Frank Pasquale",
+   "scholar_institution": "University of Maryland"
+  },
+  {
+   "doi": "10.2139/ssrn.6676318",
+   "title": "Discerning Artificial and Authentic Intelligence: Profundity as Depth in Antiqua et Nova",
+   "authors": [
+    "Frank Pasquale"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.6676318",
+   "scholar_id": "frank-pasquale",
+   "scholar_name": "Frank Pasquale",
+   "scholar_institution": "University of Maryland"
+  },
+  {
+   "doi": "10.2139/ssrn.6977058",
+   "title": "HSR and the Quality of Merger Policy",
+   "authors": [
+    "Herbert Hovenkamp"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.6977058",
+   "scholar_id": "herbert-hovenkamp",
+   "scholar_name": "Herbert Hovenkamp",
+   "scholar_institution": "University of Pennsylvania Carey Law School"
   },
   {
    "doi": "10.5040/9781509987511.ch-005",
@@ -1743,6 +1966,23 @@
    "scholar_institution": "Tilburg University"
   },
   {
+   "doi": "10.4337/9781802202335.00020",
+   "title": "Data-driven conglomerate mergers",
+   "authors": [
+    "Daniele Condorelli",
+    "Jorge Padilla"
+   ],
+   "journal": "Edward Elgar Publishing eBooks",
+   "journal_id": "",
+   "date": "2025-11-13",
+   "abstract": "",
+   "type": "book-chapter",
+   "url": "https://doi.org/10.4337/9781802202335.00020",
+   "scholar_id": "jorge-padilla",
+   "scholar_name": "Jorge Padilla",
+   "scholar_institution": "Compass Lexecon"
+  },
+  {
    "doi": "10.1017/9781009383851.005",
    "title": "Cultural Foundations for Conserving Human Capacities in an Era of Generative Artificial Intelligence",
    "authors": [
@@ -1757,6 +1997,22 @@
    "scholar_id": "frank-pasquale",
    "scholar_name": "Frank Pasquale",
    "scholar_institution": "University of Maryland"
+  },
+  {
+   "doi": "",
+   "title": "Why you should think of the DMA as competition law",
+   "authors": [
+    "Jacques Crémer"
+   ],
+   "journal": "Toulouse Capitole Publications (University Toulouse 1 Capitole)",
+   "journal_id": "",
+   "date": "2025-11-03",
+   "abstract": "National audience",
+   "type": "article",
+   "url": "https://openalex.org/works/W7107999832",
+   "scholar_id": "jacques-cremer",
+   "scholar_name": "Jacques Crémer",
+   "scholar_institution": "Toulouse School of Economics"
   },
   {
    "doi": "10.3386/w34444",
