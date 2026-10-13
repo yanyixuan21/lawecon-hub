@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-13 00:42",
- "doc_count": 367,
+ "updated_at": "2026-10-13 14:14",
+ "doc_count": 369,
  "heat": [
   {
    "term": "antitrust",
@@ -21,6 +21,10 @@
   {
    "term": "platform",
    "count": 19
+  },
+  {
+   "term": "tax",
+   "count": 15
   },
   {
    "term": "litigation",
@@ -55,15 +59,23 @@
    "count": 12
   },
   {
-   "term": "tax",
-   "count": 11
-  },
-  {
    "term": "strategic",
    "count": 10
   },
   {
    "term": "collusion",
+   "count": 10
+  },
+  {
+   "term": "rules",
+   "count": 10
+  },
+  {
+   "term": "liability",
+   "count": 10
+  },
+  {
+   "term": "decisions",
    "count": 10
   },
   {
@@ -96,14 +108,6 @@
   },
   {
    "term": "industry",
-   "count": 9
-  },
-  {
-   "term": "decisions",
-   "count": 9
-  },
-  {
-   "term": "liability",
    "count": 9
   },
   {
@@ -143,11 +147,11 @@
    "count": 8
   },
   {
-   "term": "rules",
-   "count": 8
+   "term": "dynamic",
+   "count": 7
   },
   {
-   "term": "dynamic",
+   "term": "good",
    "count": 7
   },
   {
@@ -223,6 +227,10 @@
    "count": 6
   },
   {
+   "term": "experiment",
+   "count": 6
+  },
+  {
    "term": "power",
    "count": 6
   },
@@ -272,14 +280,6 @@
   },
   {
    "term": "insights",
-   "count": 6
-  },
-  {
-   "term": "downstream",
-   "count": 6
-  },
-  {
-   "term": "investment",
    "count": 6
   }
  ],
@@ -368,6 +368,70 @@
     }
    ]
   },
+  "aler": {
+   "count": 30,
+   "avg_authors": 2.1,
+   "terms": [
+    {
+     "term": "labor market",
+     "count": 2
+    },
+    {
+     "term": "medicaid expansion",
+     "count": 2
+    },
+    {
+     "term": "experiment",
+     "count": 3
+    },
+    {
+     "term": "labor",
+     "count": 3
+    },
+    {
+     "term": "disclosure",
+     "count": 3
+    },
+    {
+     "term": "judicial",
+     "count": 3
+    }
+   ]
+  },
+  "ejle": {
+   "count": 30,
+   "avg_authors": 2.2,
+   "terms": [
+    {
+     "term": "european economics",
+     "count": 3
+    },
+    {
+     "term": "public procurement",
+     "count": 2
+    },
+    {
+     "term": "cartel fines",
+     "count": 2
+    },
+    {
+     "term": "economics",
+     "count": 7
+    },
+    {
+     "term": "italian",
+     "count": 3
+    },
+    {
+     "term": "european",
+     "count": 3
+    },
+    {
+     "term": "cartel",
+     "count": 3
+    }
+   ]
+  },
   "ecj": {
    "count": 17,
    "avg_authors": 1.7,
@@ -398,66 +462,6 @@
     },
     {
      "term": "antitrust",
-     "count": 3
-    }
-   ]
-  },
-  "aler": {
-   "count": 29,
-   "avg_authors": 2.1,
-   "terms": [
-    {
-     "term": "labor market",
-     "count": 2
-    },
-    {
-     "term": "medicaid expansion",
-     "count": 2
-    },
-    {
-     "term": "labor",
-     "count": 3
-    },
-    {
-     "term": "disclosure",
-     "count": 3
-    },
-    {
-     "term": "judicial",
-     "count": 3
-    }
-   ]
-  },
-  "ejle": {
-   "count": 29,
-   "avg_authors": 2.3,
-   "terms": [
-    {
-     "term": "european economics",
-     "count": 3
-    },
-    {
-     "term": "public procurement",
-     "count": 2
-    },
-    {
-     "term": "cartel fines",
-     "count": 2
-    },
-    {
-     "term": "economics",
-     "count": 7
-    },
-    {
-     "term": "italian",
-     "count": 3
-    },
-    {
-     "term": "european",
-     "count": 3
-    },
-    {
-     "term": "cartel",
      "count": 3
     }
    ]
