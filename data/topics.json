@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13 22:47",
+ "updated_at": "2026-10-14 04:55",
  "doc_count": 369,
  "heat": [
   {
@@ -7,12 +7,12 @@
    "count": 21
   },
   {
-   "term": "innovation",
+   "term": "enforcement",
    "count": 21
   },
   {
-   "term": "enforcement",
-   "count": 20
+   "term": "innovation",
+   "count": 21
   },
   {
    "term": "firms",
@@ -147,11 +147,23 @@
    "count": 8
   },
   {
+   "term": "digital markets",
+   "count": 7
+  },
+  {
    "term": "dynamic",
    "count": 7
   },
   {
    "term": "good",
+   "count": 7
+  },
+  {
+   "term": "insights",
+   "count": 7
+  },
+  {
+   "term": "act",
    "count": 7
   },
   {
@@ -211,10 +223,6 @@
    "count": 7
   },
   {
-   "term": "digital markets",
-   "count": 6
-  },
-  {
    "term": "higher",
    "count": 6
   },
@@ -271,15 +279,7 @@
    "count": 6
   },
   {
-   "term": "act",
-   "count": 6
-  },
-  {
    "term": "marginal",
-   "count": 6
-  },
-  {
-   "term": "insights",
    "count": 6
   }
  ],
@@ -433,9 +433,13 @@
    ]
   },
   "ecj": {
-   "count": 17,
+   "count": 18,
    "avg_authors": 1.7,
    "terms": [
+    {
+     "term": "digital markets",
+     "count": 2
+    },
     {
      "term": "european commission",
      "count": 2
@@ -445,16 +449,20 @@
      "count": 2
     },
     {
+     "term": "markets",
+     "count": 5
+    },
+    {
      "term": "merger",
      "count": 5
     },
     {
-     "term": "markets",
+     "term": "competition",
      "count": 4
     },
     {
-     "term": "competition",
-     "count": 4
+     "term": "enforcement",
+     "count": 3
     },
     {
      "term": "european",
@@ -495,8 +503,8 @@
    "terms": []
   },
   "rio": {
-   "count": 31,
-   "avg_authors": 2.4,
+   "count": 30,
+   "avg_authors": 2.3,
    "terms": [
     {
      "term": "optimal disclosure",
