@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-15 11:31",
- "count": 368,
+ "updated_at": "2026-10-15 17:02",
+ "count": 370,
  "articles": [
   {
    "doi": "10.1016/j.ijindorg.2026.103320",
@@ -233,6 +233,20 @@
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103341"
   },
   {
+   "doi": "10.1007/s11151-026-10065-1",
+   "title": "Loyalty Rewards and Redemption Behavior: Identifying Frequent Flyer Tickets in the U.S. Airline Industry",
+   "authors": [
+    "Luttmann A",
+    "Ladd D"
+   ],
+   "journal": "Review of Industrial Organization",
+   "journal_id": "rio",
+   "date": "2026-10-15",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s11151-026-10065-1"
+  },
+  {
    "doi": "10.1093/aler/ahae006",
    "title": "Bounded Cognition and the Taking of Personal Property: An Experiment",
    "authors": [
@@ -387,6 +401,20 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/s0167-7187(26)00080-9"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103342",
+   "title": "Assessing the Common Ownership Hypothesis in the US Banking Industry",
+   "authors": [
+    "Grundl S",
+    "Gramlich J"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-10-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103342"
   },
   {
    "doi": "10.1093/aler/ahaf020",
