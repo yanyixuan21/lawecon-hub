@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-15 04:42",
- "count": 121,
+ "updated_at": "2026-10-15 11:31",
+ "count": 122,
  "articles": [
   {
    "doi": "10.1038/s44284-026-00536-7",
@@ -1807,6 +1807,22 @@
    "scholar_id": "herbert-hovenkamp",
    "scholar_name": "Herbert Hovenkamp",
    "scholar_institution": "University of Pennsylvania Carey Law School"
+  },
+  {
+   "doi": "10.2139/ssrn.7601409",
+   "title": "On Why Agencies Should Measure Anticompetitive Effects in Merger Control",
+   "authors": [
+    "Jorge A. Padilla"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.7601409",
+   "scholar_id": "jorge-padilla",
+   "scholar_name": "Jorge Padilla",
+   "scholar_institution": "Compass Lexecon"
   },
   {
    "doi": "10.5040/9781509987511.ch-005",
