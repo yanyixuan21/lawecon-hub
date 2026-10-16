@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-15 21:24",
- "doc_count": 370,
+ "updated_at": "2026-10-16 04:33",
+ "doc_count": 369,
  "heat": [
   {
    "term": "antitrust",
@@ -15,12 +15,12 @@
    "count": 21
   },
   {
-   "term": "firms",
+   "term": "platform",
    "count": 19
   },
   {
-   "term": "platform",
-   "count": 19
+   "term": "firms",
+   "count": 17
   },
   {
    "term": "tax",
@@ -31,7 +31,7 @@
    "count": 15
   },
   {
-   "term": "consumers",
+   "term": "consumer",
    "count": 14
   },
   {
@@ -39,7 +39,7 @@
    "count": 14
   },
   {
-   "term": "demand",
+   "term": "consumers",
    "count": 13
   },
   {
@@ -103,6 +103,10 @@
    "count": 10
   },
   {
+   "term": "demand",
+   "count": 10
+  },
+  {
    "term": "italian",
    "count": 10
   },
@@ -131,10 +135,6 @@
    "count": 8
   },
   {
-   "term": "products",
-   "count": 8
-  },
-  {
    "term": "state",
    "count": 8
   },
@@ -155,6 +155,10 @@
    "count": 7
   },
   {
+   "term": "search",
+   "count": 7
+  },
+  {
    "term": "good",
    "count": 7
   },
@@ -164,6 +168,10 @@
   },
   {
    "term": "act",
+   "count": 7
+  },
+  {
+   "term": "products",
    "count": 7
   },
   {
@@ -272,14 +280,6 @@
   },
   {
    "term": "control",
-   "count": 6
-  },
-  {
-   "term": "structural",
-   "count": 6
-  },
-  {
-   "term": "marginal",
    "count": 6
   }
  ],
@@ -521,7 +521,7 @@
    ]
   },
   "jie": {
-   "count": 34,
+   "count": 33,
    "avg_authors": 2.0,
    "terms": [
     {
@@ -531,10 +531,6 @@
     {
      "term": "information",
      "count": 4
-    },
-    {
-     "term": "demand",
-     "count": 3
     }
    ]
   },
