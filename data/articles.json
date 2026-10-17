@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-17 04:28",
- "count": 368,
+ "updated_at": "2026-10-17 10:46",
+ "count": 369,
  "articles": [
   {
    "doi": "10.1016/j.ijindorg.2026.103320",
@@ -231,6 +231,20 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103341"
+  },
+  {
+   "doi": "10.1007/s11151-026-10069-x",
+   "title": "On Horizontal Mergers in the Presence of Economies of Scale",
+   "authors": [
+    "Wang X H",
+    "Zhao J"
+   ],
+   "journal": "Review of Industrial Organization",
+   "journal_id": "rio",
+   "date": "2026-10-17",
+   "abstract": "Abstract This paper studies the conditions under which a profitable merger can simultaneously increase consumer surplus and total welfare. In Cournot markets with linear demand and concave-quadratic costs, greater economies of scale or more concave costs are associated with larger increases in both consumer surplus and total welfare.",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s11151-026-10069-x"
   },
   {
    "doi": "10.1007/s11151-026-10065-1",

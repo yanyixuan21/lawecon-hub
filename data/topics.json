@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-17 04:28",
- "doc_count": 368,
+ "updated_at": "2026-10-17 10:46",
+ "doc_count": 369,
  "heat": [
   {
    "term": "antitrust",
@@ -23,16 +23,16 @@
    "count": 17
   },
   {
+   "term": "consumer",
+   "count": 15
+  },
+  {
    "term": "tax",
    "count": 15
   },
   {
    "term": "litigation",
    "count": 15
-  },
-  {
-   "term": "consumer",
-   "count": 14
   },
   {
    "term": "cost",
@@ -60,6 +60,10 @@
   },
   {
    "term": "industry",
+   "count": 11
+  },
+  {
+   "term": "demand",
    "count": 11
   },
   {
@@ -100,10 +104,6 @@
   },
   {
    "term": "contract",
-   "count": 10
-  },
-  {
-   "term": "demand",
    "count": 10
   },
   {
@@ -369,9 +369,13 @@
    ]
   },
   "rio": {
-   "count": 30,
+   "count": 31,
    "avg_authors": 2.2,
    "terms": [
+    {
+     "term": "horizontal mergers",
+     "count": 2
+    },
     {
      "term": "optimal disclosure",
      "count": 2
@@ -393,6 +397,10 @@
      "count": 2
     },
     {
+     "term": "mergers",
+     "count": 4
+    },
+    {
      "term": "pricing",
      "count": 4
     },
@@ -402,14 +410,6 @@
     },
     {
      "term": "after",
-     "count": 3
-    },
-    {
-     "term": "entry",
-     "count": 3
-    },
-    {
-     "term": "optimal",
      "count": 3
     }
    ]
