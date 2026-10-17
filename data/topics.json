@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-16 21:11",
- "doc_count": 369,
+ "updated_at": "2026-10-17 04:28",
+ "doc_count": 368,
  "heat": [
   {
    "term": "antitrust",
@@ -227,10 +227,6 @@
    "count": 7
   },
   {
-   "term": "crime",
-   "count": 7
-  },
-  {
    "term": "higher",
    "count": 6
   },
@@ -259,10 +255,6 @@
    "count": 6
   },
   {
-   "term": "increased",
-   "count": 6
-  },
-  {
    "term": "input",
    "count": 6
   },
@@ -279,7 +271,15 @@
    "count": 6
   },
   {
-   "term": "control",
+   "term": "structural",
+   "count": 6
+  },
+  {
+   "term": "marginal",
+   "count": 6
+  },
+  {
+   "term": "downstream",
    "count": 6
   }
  ],
@@ -415,7 +415,7 @@
    ]
   },
   "aler": {
-   "count": 30,
+   "count": 29,
    "avg_authors": 2.1,
    "terms": [
     {
