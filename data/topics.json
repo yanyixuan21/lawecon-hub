@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-17 20:38",
- "doc_count": 369,
+ "updated_at": "2026-10-18 04:36",
+ "doc_count": 368,
  "heat": [
   {
    "term": "antitrust",
@@ -570,8 +570,8 @@
    ]
   },
   "rle": {
-   "count": 20,
-   "avg_authors": 1.9,
+   "count": 19,
+   "avg_authors": 2.0,
    "terms": [
     {
      "term": "punishment",
