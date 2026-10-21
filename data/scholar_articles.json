@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-21 04:50",
- "count": 122,
+ "updated_at": "2026-10-21 11:51",
+ "count": 123,
  "articles": [
   {
    "doi": "10.1038/s44284-026-00536-7",
@@ -1823,6 +1823,22 @@
    "scholar_id": "jorge-padilla",
    "scholar_name": "Jorge Padilla",
    "scholar_institution": "Compass Lexecon"
+  },
+  {
+   "doi": "10.2139/ssrn.7638879",
+   "title": "The AI Inference Problem in Privacy Law",
+   "authors": [
+    "Daniel J. Solove"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.7638879",
+   "scholar_id": "daniel-solove",
+   "scholar_name": "Daniel Solove",
+   "scholar_institution": "George Washington University"
   },
   {
    "doi": "10.5040/9781509987511.ch-005",

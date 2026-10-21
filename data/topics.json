@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-21 04:50",
- "doc_count": 367,
+ "updated_at": "2026-10-21 11:51",
+ "doc_count": 368,
  "heat": [
   {
    "term": "enforcement",
@@ -79,6 +79,10 @@
    "count": 11
   },
   {
+   "term": "liability",
+   "count": 11
+  },
+  {
    "term": "strategic",
    "count": 10
   },
@@ -88,10 +92,6 @@
   },
   {
    "term": "rules",
-   "count": 10
-  },
-  {
-   "term": "liability",
    "count": 10
   },
   {
@@ -331,7 +331,7 @@
    ]
   },
   "irle": {
-   "count": 40,
+   "count": 41,
    "avg_authors": 2.3,
    "terms": [
     {
@@ -347,15 +347,15 @@
      "count": 2
     },
     {
+     "term": "liability",
+     "count": 5
+    },
+    {
      "term": "enforcement",
      "count": 5
     },
     {
      "term": "judicial",
-     "count": 4
-    },
-    {
-     "term": "liability",
      "count": 4
     },
     {

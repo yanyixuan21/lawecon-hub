@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-21 04:50",
- "count": 367,
+ "updated_at": "2026-10-21 11:51",
+ "count": 368,
  "articles": [
   {
    "doi": "10.1016/j.ijindorg.2026.103320",
@@ -429,6 +429,21 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103342"
+  },
+  {
+   "doi": "10.1016/j.irle.2026.106361",
+   "title": "Strict Liability and Moral Hazard: Evidence from New York’s Scaffold Law",
+   "authors": [
+    "Geddes R R",
+    "Park Y G",
+    "Zhang K"
+   ],
+   "journal": "International Review of Law and Economics",
+   "journal_id": "irle",
+   "date": "2026-10-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.irle.2026.106361"
   },
   {
    "doi": "10.1093/aler/ahaf020",
