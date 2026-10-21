@@ -1,11 +1,7 @@
 {
- "updated_at": "2026-10-20 21:38",
- "doc_count": 368,
+ "updated_at": "2026-10-21 04:50",
+ "doc_count": 367,
  "heat": [
-  {
-   "term": "antitrust",
-   "count": 21
-  },
   {
    "term": "enforcement",
    "count": 21
@@ -15,12 +11,28 @@
    "count": 21
   },
   {
+   "term": "costs",
+   "count": 20
+  },
+  {
+   "term": "antitrust",
+   "count": 20
+  },
+  {
    "term": "platform",
+   "count": 19
+  },
+  {
+   "term": "merger",
    "count": 19
   },
   {
    "term": "firms",
    "count": 17
+  },
+  {
+   "term": "quality",
+   "count": 16
   },
   {
    "term": "consumer",
@@ -43,10 +55,6 @@
    "count": 13
   },
   {
-   "term": "role",
-   "count": 12
-  },
-  {
    "term": "firm",
    "count": 12
   },
@@ -57,6 +65,10 @@
   {
    "term": "judges",
    "count": 12
+  },
+  {
+   "term": "role",
+   "count": 11
   },
   {
    "term": "industry",
@@ -112,6 +124,10 @@
   },
   {
    "term": "value",
+   "count": 9
+  },
+  {
+   "term": "product",
    "count": 9
   },
   {
@@ -264,22 +280,6 @@
   },
   {
    "term": "years",
-   "count": 6
-  },
-  {
-   "term": "only",
-   "count": 6
-  },
-  {
-   "term": "structural",
-   "count": 6
-  },
-  {
-   "term": "marginal",
-   "count": 6
-  },
-  {
-   "term": "downstream",
    "count": 6
   }
  ],
@@ -570,7 +570,7 @@
    ]
   },
   "rle": {
-   "count": 19,
+   "count": 18,
    "avg_authors": 2.0,
    "terms": [
     {
