@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-23 04:52",
- "doc_count": 368,
+ "updated_at": "2026-10-23 11:41",
+ "doc_count": 369,
  "heat": [
   {
    "term": "enforcement",
@@ -131,6 +131,10 @@
    "count": 9
   },
   {
+   "term": "justice",
+   "count": 9
+  },
+  {
    "term": "across",
    "count": 9
   },
@@ -156,10 +160,6 @@
   },
   {
    "term": "remedies",
-   "count": 8
-  },
-  {
-   "term": "justice",
    "count": 8
   },
   {
@@ -368,6 +368,40 @@
     }
    ]
   },
+  "ejle": {
+   "count": 31,
+   "avg_authors": 2.2,
+   "terms": [
+    {
+     "term": "european economics",
+     "count": 3
+    },
+    {
+     "term": "public procurement",
+     "count": 2
+    },
+    {
+     "term": "cartel fines",
+     "count": 2
+    },
+    {
+     "term": "economics",
+     "count": 7
+    },
+    {
+     "term": "italian",
+     "count": 3
+    },
+    {
+     "term": "european",
+     "count": 3
+    },
+    {
+     "term": "cartel",
+     "count": 3
+    }
+   ]
+  },
   "rio": {
    "count": 31,
    "avg_authors": 2.2,
@@ -440,40 +474,6 @@
     },
     {
      "term": "judicial",
-     "count": 3
-    }
-   ]
-  },
-  "ejle": {
-   "count": 30,
-   "avg_authors": 2.2,
-   "terms": [
-    {
-     "term": "european economics",
-     "count": 3
-    },
-    {
-     "term": "public procurement",
-     "count": 2
-    },
-    {
-     "term": "cartel fines",
-     "count": 2
-    },
-    {
-     "term": "economics",
-     "count": 7
-    },
-    {
-     "term": "italian",
-     "count": 3
-    },
-    {
-     "term": "european",
-     "count": 3
-    },
-    {
-     "term": "cartel",
      "count": 3
     }
    ]

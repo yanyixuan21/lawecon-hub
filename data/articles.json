@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-23 04:51",
- "count": 368,
+ "updated_at": "2026-10-23 11:41",
+ "count": 369,
  "articles": [
   {
    "doi": "10.1016/j.ijindorg.2026.103320",
@@ -231,6 +231,20 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103341"
+  },
+  {
+   "doi": "10.1007/s10657-026-09889-9",
+   "title": "Court resolution and predictive justice",
+   "authors": [
+    "Massoni S",
+    "Teixeira V"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2026-10-23",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-026-09889-9"
   },
   {
    "doi": "10.1007/s11151-026-10069-x",
