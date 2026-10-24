@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-23 21:26",
- "doc_count": 369,
+ "updated_at": "2026-10-24 04:39",
+ "doc_count": 368,
  "heat": [
   {
    "term": "enforcement",
@@ -91,10 +91,6 @@
    "count": 10
   },
   {
-   "term": "rules",
-   "count": 10
-  },
-  {
    "term": "decisions",
    "count": 10
   },
@@ -111,14 +107,6 @@
    "count": 10
   },
   {
-   "term": "efficiency",
-   "count": 10
-  },
-  {
-   "term": "contract",
-   "count": 10
-  },
-  {
    "term": "italian",
    "count": 10
   },
@@ -131,11 +119,15 @@
    "count": 9
   },
   {
-   "term": "justice",
+   "term": "rules",
    "count": 9
   },
   {
    "term": "across",
+   "count": 9
+  },
+  {
+   "term": "efficiency",
    "count": 9
   },
   {
@@ -152,6 +144,10 @@
   },
   {
    "term": "design",
+   "count": 8
+  },
+  {
+   "term": "justice",
    "count": 8
   },
   {
@@ -172,6 +168,10 @@
   },
   {
    "term": "search",
+   "count": 7
+  },
+  {
+   "term": "welfare",
    "count": 7
   },
   {
@@ -235,6 +235,10 @@
    "count": 7
   },
   {
+   "term": "contract",
+   "count": 7
+  },
+  {
    "term": "gender",
    "count": 7
   },
@@ -276,10 +280,6 @@
   },
   {
    "term": "choice",
-   "count": 6
-  },
-  {
-   "term": "years",
    "count": 6
   }
  ],
@@ -369,7 +369,7 @@
    ]
   },
   "ejle": {
-   "count": 31,
+   "count": 30,
    "avg_authors": 2.2,
    "terms": [
     {
