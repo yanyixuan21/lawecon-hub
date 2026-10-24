@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-24 04:38",
- "count": 368,
+ "updated_at": "2026-10-24 11:03",
+ "count": 370,
  "articles": [
   {
    "doi": "10.1016/j.ijindorg.2026.103320",
@@ -231,6 +231,40 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103341"
+  },
+  {
+   "doi": "10.1007/s11151-026-10067-z",
+   "title": "Do Airlines Adopt Sustainable Aviation Fuels Under Modal Competition?",
+   "authors": [
+    "Bravo-Melgarejo S",
+    "Malavolti E"
+   ],
+   "journal": "Review of Industrial Organization",
+   "journal_id": "rio",
+   "date": "2026-10-24",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s11151-026-10067-z"
+  },
+  {
+   "doi": "10.1007/s11151-026-10066-0",
+   "title": "Recent Developments at the CMA: 2025–26",
+   "authors": [
+    "Colebrook C",
+    "Ferguson H",
+    "Haydock J",
+    "Kariel J",
+    "Nerino M",
+    "Phillimore A",
+    "Waddington A",
+    "Whitcombe C"
+   ],
+   "journal": "Review of Industrial Organization",
+   "journal_id": "rio",
+   "date": "2026-10-24",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s11151-026-10066-0"
   },
   {
    "doi": "10.1007/s10657-026-09889-9",

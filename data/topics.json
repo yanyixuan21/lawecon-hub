@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-24 04:39",
- "doc_count": 368,
+ "updated_at": "2026-10-24 11:03",
+ "doc_count": 370,
  "heat": [
   {
    "term": "enforcement",
@@ -368,6 +368,52 @@
     }
    ]
   },
+  "rio": {
+   "count": 33,
+   "avg_authors": 2.3,
+   "terms": [
+    {
+     "term": "recent developments",
+     "count": 2
+    },
+    {
+     "term": "horizontal mergers",
+     "count": 2
+    },
+    {
+     "term": "optimal disclosure",
+     "count": 2
+    },
+    {
+     "term": "disclosure crowdfunding",
+     "count": 2
+    },
+    {
+     "term": "crowdfunding platforms",
+     "count": 2
+    },
+    {
+     "term": "pricing after",
+     "count": 2
+    },
+    {
+     "term": "adam smith",
+     "count": 2
+    },
+    {
+     "term": "competition",
+     "count": 5
+    },
+    {
+     "term": "mergers",
+     "count": 4
+    },
+    {
+     "term": "pricing",
+     "count": 4
+    }
+   ]
+  },
   "ejle": {
    "count": 30,
    "avg_authors": 2.2,
@@ -398,52 +444,6 @@
     },
     {
      "term": "cartel",
-     "count": 3
-    }
-   ]
-  },
-  "rio": {
-   "count": 31,
-   "avg_authors": 2.2,
-   "terms": [
-    {
-     "term": "horizontal mergers",
-     "count": 2
-    },
-    {
-     "term": "optimal disclosure",
-     "count": 2
-    },
-    {
-     "term": "disclosure crowdfunding",
-     "count": 2
-    },
-    {
-     "term": "crowdfunding platforms",
-     "count": 2
-    },
-    {
-     "term": "pricing after",
-     "count": 2
-    },
-    {
-     "term": "adam smith",
-     "count": 2
-    },
-    {
-     "term": "mergers",
-     "count": 4
-    },
-    {
-     "term": "pricing",
-     "count": 4
-    },
-    {
-     "term": "competition",
-     "count": 4
-    },
-    {
-     "term": "after",
      "count": 3
     }
    ]
