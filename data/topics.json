@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-24 15:59",
- "doc_count": 370,
+ "updated_at": "2026-10-24 20:51",
+ "doc_count": 371,
  "heat": [
   {
    "term": "enforcement",
@@ -31,12 +31,12 @@
    "count": 17
   },
   {
-   "term": "quality",
+   "term": "consumer",
    "count": 16
   },
   {
-   "term": "consumer",
-   "count": 15
+   "term": "quality",
+   "count": 16
   },
   {
    "term": "tax",
@@ -285,8 +285,8 @@
  ],
  "profiles": {
   "ijio": {
-   "count": 108,
-   "avg_authors": 2.4,
+   "count": 109,
+   "avg_authors": 2.5,
    "terms": [
     {
      "term": "market definition",
