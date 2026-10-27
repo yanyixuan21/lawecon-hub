@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-27 05:07",
- "count": 371,
+ "updated_at": "2026-10-27 12:14",
+ "count": 372,
  "articles": [
   {
    "doi": "10.1016/j.ijindorg.2026.103320",
@@ -231,6 +231,19 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103341"
+  },
+  {
+   "doi": "10.1007/s10657-026-09888-w",
+   "title": "Private Ordering in the Shadow of Public Enforcement: FIFA and the Limits of Autonomous Sports Governance",
+   "authors": [
+    "Xu S"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2026-10-27",
+   "abstract": "Abstract Private rule-making may appear autonomous even when public institutions supply the legal infrastructure through which its rules acquire market effect. Through a doctrinal, conceptual and institutional analysis of the Fédération internationale de football association (FIFA), this article examines when that dependence reflects ordinary public-private complementarity and when a particular rule externalises a foreseeable and partly avoidable enforcement cost. FIFA is characterised as a public-dependent private order, in which hierarchical rule-making and market-access gatekeeping coexist with weak exit, mediated voice and reliance on public legal infrastructure. The diagnosis asks whether a specific design is linked to the downstream cost, whether functionally relevant mechanisms absorb it, and where any residual falls. A positive diagnosis may support conditional autonomy, understood through comparative institutional cost and FIFA’s upstream control over design, evidence, timing and review. Reasonable ex ante legality efforts and effective internalisation may instead preserve ordinary complementarity. Diarra and European Super League identify additional verification burdens, while cost internalisation remains indeterminate. Bosman , International Skating Union and Meca-Medina define the relevant foreseeability and review boundaries. Aggregate magnitude and general distribution require empirical analysis.",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-026-09888-w"
   },
   {
    "doi": "10.1007/s11151-026-10067-z",

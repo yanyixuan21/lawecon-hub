@@ -1,11 +1,7 @@
 {
- "updated_at": "2026-10-27 05:08",
- "doc_count": 371,
+ "updated_at": "2026-10-27 12:14",
+ "doc_count": 372,
  "heat": [
-  {
-   "term": "enforcement",
-   "count": 21
-  },
   {
    "term": "innovation",
    "count": 21
@@ -47,6 +43,10 @@
    "count": 15
   },
   {
+   "term": "private",
+   "count": 14
+  },
+  {
    "term": "cost",
    "count": 14
   },
@@ -56,10 +56,6 @@
   },
   {
    "term": "firm",
-   "count": 12
-  },
-  {
-   "term": "private",
    "count": 12
   },
   {
@@ -91,6 +87,10 @@
    "count": 10
   },
   {
+   "term": "rules",
+   "count": 10
+  },
+  {
    "term": "decisions",
    "count": 10
   },
@@ -116,10 +116,6 @@
   },
   {
    "term": "product",
-   "count": 9
-  },
-  {
-   "term": "rules",
    "count": 9
   },
   {
@@ -255,7 +251,15 @@
    "count": 6
   },
   {
+   "term": "institutions",
+   "count": 6
+  },
+  {
    "term": "deterrence",
+   "count": 6
+  },
+  {
+   "term": "supply",
    "count": 6
   },
   {
@@ -276,10 +280,6 @@
   },
   {
    "term": "input",
-   "count": 6
-  },
-  {
-   "term": "choice",
    "count": 6
   }
  ],
@@ -368,6 +368,44 @@
     }
    ]
   },
+  "ejle": {
+   "count": 31,
+   "avg_authors": 2.2,
+   "terms": [
+    {
+     "term": "european economics",
+     "count": 3
+    },
+    {
+     "term": "public procurement",
+     "count": 2
+    },
+    {
+     "term": "cartel fines",
+     "count": 2
+    },
+    {
+     "term": "economics",
+     "count": 7
+    },
+    {
+     "term": "public",
+     "count": 3
+    },
+    {
+     "term": "italian",
+     "count": 3
+    },
+    {
+     "term": "european",
+     "count": 3
+    },
+    {
+     "term": "cartel",
+     "count": 3
+    }
+   ]
+  },
   "rio": {
    "count": 33,
    "avg_authors": 2.3,
@@ -411,40 +449,6 @@
     {
      "term": "pricing",
      "count": 4
-    }
-   ]
-  },
-  "ejle": {
-   "count": 30,
-   "avg_authors": 2.2,
-   "terms": [
-    {
-     "term": "european economics",
-     "count": 3
-    },
-    {
-     "term": "public procurement",
-     "count": 2
-    },
-    {
-     "term": "cartel fines",
-     "count": 2
-    },
-    {
-     "term": "economics",
-     "count": 7
-    },
-    {
-     "term": "italian",
-     "count": 3
-    },
-    {
-     "term": "european",
-     "count": 3
-    },
-    {
-     "term": "cartel",
-     "count": 3
     }
    ]
   },
