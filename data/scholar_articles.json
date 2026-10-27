@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-27 12:14",
- "count": 123,
+ "updated_at": "2026-10-27 18:03",
+ "count": 124,
  "articles": [
   {
    "doi": "10.1038/s44284-026-00536-7",
@@ -595,9 +595,33 @@
    "journal": "Cambridge University Press eBooks",
    "journal_id": "",
    "date": "2026-04-30",
-   "abstract": "",
+   "abstract": "Legal futurists have urged judiciaries to experiment with automated legal systems. However, for many aspects of legal systems, there is a common sense that their translation into computation would be inappropriate. The simultaneous malleability of legal systems and prevalence of constitutive practices within them, should lead to a two-level consideration of (1) what aspects of a liberal legal order are crucial, and (2) for those that are crucial, what is lost when that aspect is either partially or fully automated. In legal decision-making, some patterns of action are merely instrumental to achieving ends, while others are essential, or constitutive: the activity should no longer even be considered part of a liberal legal order when the practice ceases. Administrative processes that are simply incidental and instrumental to the legitimate resolution of a case are well primed for automation. Other practices are essential and intrinsically important, and properly resist being converted into machine-readable code. Distinctions between incidental and constitutive, or instrumentally and intrinsically important, aspects of law, should both bound and guide legal automation.",
    "type": "book-chapter",
    "url": "https://doi.org/10.1017/9781009744225.006",
+   "scholar_id": "frank-pasquale",
+   "scholar_name": "Frank Pasquale",
+   "scholar_institution": "University of Maryland"
+  },
+  {
+   "doi": "10.1017/9781009744225",
+   "title": "The Cambridge Handbook of AI and Technologies in Courts",
+   "authors": [
+    "Monika Žalnieriūtė",
+    "Agné Limantė",
+    "Tania Sourdin",
+    "Brian Barry",
+    "Giuseppe Contissa",
+    "Federico Galli",
+    "Giovanni Sartor B",
+    "Frank Pasquale",
+    "等"
+   ],
+   "journal": "Cambridge University Press eBooks",
+   "journal_id": "",
+   "date": "2026-04-30",
+   "abstract": "This Handbook is the first global comparative volume that examines the use of AI and digital technologies in courts. With contributions from over seventy academics, judges, and other professionals from over twenty-five countries, it provides an interdisciplinary and cross-jurisdictional perspective on how judicial institutions are responding to the opportunities and risks posed by AI. Covering judicial use of AI across domestic and regional jurisdictions in Europe, North and South America, Asia-Pacific and Africa, this Handbook begins with the premise that introducing AI into courts is not merely a technical upgrade but a constitutional reckoning and fresh call for judicial accountability. Each chapter examines not just what AI can do for courts, but what courts must do to ensure that AI tools enhance, rather than erode judicial values, justice and the rule of law.",
+   "type": "book",
+   "url": "https://doi.org/10.1017/9781009744225",
    "scholar_id": "frank-pasquale",
    "scholar_name": "Frank Pasquale",
    "scholar_institution": "University of Maryland"
@@ -2056,7 +2080,7 @@
    "journal": "National Bureau of Economic Research",
    "journal_id": "",
    "date": "2025-11-01",
-   "abstract": "We study how market power in artificial intelligence (AI) shapes wages and welfare in openeconomy general equilibrium by treating AI as a priced, imported factor.Across three models, we separate technical efficiency from the impact of upstream price setting.In a two-traded-goods benchmark, the incidence of AI price changes depends on how sectoral skill intensity changes with AI prices; non-monotone intensity can generate \"double harm\" for unskilled workers (lower real wage after a large decrease in the price of AI, and real wage decreases further when the AI price rises as a result of market power).With one non-traded sector, we observe that the classic \"Dutch disease\" effect here would arise when one sector gets more productive and draws labor away from other sectors, creating scarcity and raising prices; but this is not what we expect from the introduction of labor-substituting AI.In contrast, our last model considers two non-traded sectors and CES/free entry, and the opportunity for discrete adoption of technology that replaces unskilled labor from the AI-using sector.When AI reduces unit costs and increases variety, it will not pull U from non-tradables, instead it will displace workers from the AI-using sector and lower wage due to diminishing returns in alternative sectors.Strategic upstream pricing of AI then harms welfare through unit-cost (usage fees) and variety (access fees) channels, with income leakage abroad.We derive an adoption frontier tying feasible usage prices to displaced workers' outside options and show a monopolist typically prices on this boundary; capping one instrument shifts rents to the other.Broad gains for the adopting country relies on pressure (or regulation) on both usage and access fees and as well as policy that supports productive absorption of displaced labor.The framework clarifies when AI can lower real wages and aggregate welfare despite efficiency gains.",
+   "abstract": "We propose a policy-relevant research agenda examining how market power in up-stream artificial intelligence (AI) affects downstream prices, industry structure, factor returns, and welfareespecially whether labor-displacing AI leaves workers worse off.In our open-economy general equilibrium model, AI is a priced, imported input.Our main model features two nontraded sectors and firms making discrete adoption decisions about technology.Adoption reduces unit costs, displaces some types of workers, and depresses wages for those workers via diminishing returns elsewhere, while leaking AI fees abroad.We identify conditions under which market power in AI leads to a \"double harm\" for displaced workers, who may experience real wages cuts when AI becomes available at low prices, and then experience further harm from increases in AI prices.Strategic AI pricing reduces welfare by raising downstream marginal costs (via usage fees) and limiting entry and variety (via access fees).We derive an adoption frontier linking feasible usage fees to displaced workers' outside options, showing that a monopolist typically makes use of both types of fees and prices on the frontier; capping one fee shifts rents to the other.Regulating both fees, alongside policies that absorb displaced labor, can raise national welfare.",
    "type": "report",
    "url": "https://doi.org/10.3386/w34444",
    "scholar_id": "fiona-scott-morton",
