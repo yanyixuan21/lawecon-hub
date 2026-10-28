@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28 05:44",
+ "updated_at": "2026-10-28 12:58",
  "count": 124,
  "articles": [
   {
@@ -61,7 +61,7 @@
    "journal": "Games and Economic Behavior",
    "journal_id": "",
    "date": "2026-09-17",
-   "abstract": "We analyze how the impact of image motives on behavior varies with two key features of the choice mechanism: single versus multiple decisions, and certainty versus uncertainty of consequences. Using direct elicitation (DE) versus multiple-price-list (MPL) or equivalently Becker-DeGroot-Marschak (BDM) schemes as exemplars, we develop a game-theoretic model to characterize how image-seeking inflates prosocial giving. The signaling bias (relative to true preferences) is shown to depend on the interaction between elicitation method and visibility level: it is greater under DE for low image concerns, and greater under MPL/BDM for high ones. We experimentally test the model’s predictions and find the predicted crossing effect. Keywords Moral behavior; Social image; Self-image; Preference elicitation; Multiple price list; Experiments",
+   "abstract": "We analyze how the impact of image motives on behavior varies with two key features of the choice mechanism: single versus multiple decisions, and certainty versus uncertainty of consequences. Using direct elicitation (DE) versus multiple-price-list (MPL) or equivalently Becker-DeGroot-Marschak (BDM) schemes as exemplars, we develop a game-theoretic model to characterize how image-seeking inflates prosocial giving. The signaling bias (relative to true preferences) is shown to depend on the interaction between elicitation method and visibility level: it is greater under DE for low image concerns, and greater under MPL/BDM for high ones. We experimentally test the model’s predictions and find the predicted crossing effect.",
    "type": "article",
    "url": "https://doi.org/10.1016/j.geb.2026.104044",
    "scholar_id": "jean-tirole",
@@ -185,7 +185,7 @@
    "journal": "International Journal of Industrial Organization",
    "journal_id": "",
    "date": "2026-08-25",
-   "abstract": "",
+   "abstract": "In a platform market where user participation is endogenous and shaped by direct network effects, we compare the competitive and welfare effects of two alternative business models: pure intermediation and ‘encroachment’ — a hybrid model where the platform competes with third-party sellers by selling its own private-label products. There are two groups of sellers: entrants, who must pay a specialization cost to access the marketplace, and incumbents, who have already paid it. With encroachment, the platform has no incentive to entirely foreclose their downstream rivals if there are positive network effects. Surprisingly, although encroachment restricts entry, it increases consumer surplus, total welfare, and the incumbents’ profit when there is a sufficiently large number of incumbents in the marketplace.",
    "type": "article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103334",
    "scholar_id": "jorge-padilla",
