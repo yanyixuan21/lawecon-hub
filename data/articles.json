@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-29 05:50",
- "count": 372,
+ "updated_at": "2026-10-29 13:03",
+ "count": 373,
  "articles": [
   {
    "doi": "10.1016/j.ijindorg.2026.103320",
@@ -231,6 +231,21 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103341"
+  },
+  {
+   "doi": "10.1007/s11151-026-10071-3",
+   "title": "Economics at the FTC: Deceptive Pricing and Repair Restrictions",
+   "authors": [
+    "Hansen C",
+    "Raval D",
+    "Yu X"
+   ],
+   "journal": "Review of Industrial Organization",
+   "journal_id": "rio",
+   "date": "2026-10-29",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s11151-026-10071-3"
   },
   {
    "doi": "10.1007/s10657-026-09888-w",
