@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-29 13:03",
- "count": 373,
+ "updated_at": "2026-10-29 22:46",
+ "count": 375,
  "articles": [
   {
    "doi": "10.1016/j.ijindorg.2026.103320",
@@ -246,6 +246,33 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1007/s11151-026-10071-3"
+  },
+  {
+   "doi": "10.1007/s11151-026-10072-2",
+   "title": "On the Welfare Effects of Compatibility with Hotelling Competition: The Role of Market Coverage",
+   "authors": [
+    "Bertoletti P"
+   ],
+   "journal": "Review of Industrial Organization",
+   "journal_id": "rio",
+   "date": "2026-10-29",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s11151-026-10072-2"
+  },
+  {
+   "doi": "10.1007/s11151-026-10070-4",
+   "title": "Strategic Commitment and Vertical Contracting in Location Choices",
+   "authors": [
+    "Kourandi F",
+    "Vettas N"
+   ],
+   "journal": "Review of Industrial Organization",
+   "journal_id": "rio",
+   "date": "2026-10-29",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s11151-026-10070-4"
   },
   {
    "doi": "10.1007/s10657-026-09888-w",

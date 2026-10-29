@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-29 13:04",
- "doc_count": 373,
+ "updated_at": "2026-10-29 22:46",
+ "doc_count": 375,
  "heat": [
   {
    "term": "innovation",
@@ -55,6 +55,10 @@
    "count": 13
   },
   {
+   "term": "role",
+   "count": 12
+  },
+  {
    "term": "firm",
    "count": 12
   },
@@ -63,7 +67,7 @@
    "count": 12
   },
   {
-   "term": "role",
+   "term": "strategic",
    "count": 11
   },
   {
@@ -77,10 +81,6 @@
   {
    "term": "liability",
    "count": 11
-  },
-  {
-   "term": "strategic",
-   "count": 10
   },
   {
    "term": "collusion",
@@ -143,6 +143,10 @@
    "count": 8
   },
   {
+   "term": "welfare",
+   "count": 8
+  },
+  {
    "term": "justice",
    "count": 8
   },
@@ -164,10 +168,6 @@
   },
   {
    "term": "search",
-   "count": 7
-  },
-  {
-   "term": "welfare",
    "count": 7
   },
   {
@@ -369,8 +369,8 @@
    ]
   },
   "rio": {
-   "count": 34,
-   "avg_authors": 2.4,
+   "count": 36,
+   "avg_authors": 2.3,
    "terms": [
     {
      "term": "recent developments",
@@ -401,11 +401,11 @@
      "count": 2
     },
     {
-     "term": "pricing",
-     "count": 5
+     "term": "competition",
+     "count": 6
     },
     {
-     "term": "competition",
+     "term": "pricing",
      "count": 5
     },
     {
