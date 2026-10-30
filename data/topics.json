@@ -1,17 +1,17 @@
 {
- "updated_at": "2026-10-29 22:46",
- "doc_count": 375,
+ "updated_at": "2026-10-30 05:51",
+ "doc_count": 376,
  "heat": [
+  {
+   "term": "antitrust",
+   "count": 21
+  },
   {
    "term": "innovation",
    "count": 21
   },
   {
    "term": "costs",
-   "count": 20
-  },
-  {
-   "term": "antitrust",
    "count": 20
   },
   {
@@ -414,6 +414,48 @@
     }
    ]
   },
+  "ecj": {
+   "count": 19,
+   "avg_authors": 1.7,
+   "terms": [
+    {
+     "term": "digital markets",
+     "count": 2
+    },
+    {
+     "term": "european commission",
+     "count": 2
+    },
+    {
+     "term": "merger control",
+     "count": 2
+    },
+    {
+     "term": "markets",
+     "count": 5
+    },
+    {
+     "term": "merger",
+     "count": 5
+    },
+    {
+     "term": "antitrust",
+     "count": 4
+    },
+    {
+     "term": "competition",
+     "count": 4
+    },
+    {
+     "term": "enforcement",
+     "count": 3
+    },
+    {
+     "term": "european",
+     "count": 3
+    }
+   ]
+  },
   "ejle": {
    "count": 31,
    "avg_authors": 2.2,
@@ -478,48 +520,6 @@
     },
     {
      "term": "judicial",
-     "count": 3
-    }
-   ]
-  },
-  "ecj": {
-   "count": 18,
-   "avg_authors": 1.7,
-   "terms": [
-    {
-     "term": "digital markets",
-     "count": 2
-    },
-    {
-     "term": "european commission",
-     "count": 2
-    },
-    {
-     "term": "merger control",
-     "count": 2
-    },
-    {
-     "term": "markets",
-     "count": 5
-    },
-    {
-     "term": "merger",
-     "count": 5
-    },
-    {
-     "term": "competition",
-     "count": 4
-    },
-    {
-     "term": "enforcement",
-     "count": 3
-    },
-    {
-     "term": "european",
-     "count": 3
-    },
-    {
-     "term": "antitrust",
      "count": 3
     }
    ]
