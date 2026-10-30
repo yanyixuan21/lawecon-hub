@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30 05:51",
+ "updated_at": "2026-10-30 12:58",
  "count": 376,
  "articles": [
   {
@@ -231,6 +231,21 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103341"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103343",
+   "title": "Channel coordination on exclusive vs. non-exclusive content under endogenous consumer homing",
+   "authors": [
+    "Arve M",
+    "Dyskeland O K",
+    "Foros Ø"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-10-30",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103343"
   },
   {
    "doi": "10.1007/s11151-026-10071-3",
@@ -561,21 +576,6 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.irle.2026.106361"
-  },
-  {
-   "doi": "10.1016/j.ijindorg.2026.103343",
-   "title": "Channel Coordination on Exclusive vs. Non-Exclusive Content under Endogenous Consumer Homing",
-   "authors": [
-    "Arve M",
-    "Dyskeland O K",
-    "Foros Ø"
-   ],
-   "journal": "International Journal of Industrial Organization",
-   "journal_id": "ijio",
-   "date": "2026-10-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.ijindorg.2026.103343"
   },
   {
    "doi": "10.1093/aler/ahaf020",
