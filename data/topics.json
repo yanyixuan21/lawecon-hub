@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-31 05:44",
- "doc_count": 375,
+ "updated_at": "2026-10-31 12:33",
+ "doc_count": 376,
  "heat": [
   {
    "term": "antitrust",
@@ -163,6 +163,10 @@
    "count": 7
   },
   {
+   "term": "institutions",
+   "count": 7
+  },
+  {
    "term": "dynamic",
    "count": 7
   },
@@ -248,10 +252,6 @@
   },
   {
    "term": "third-party",
-   "count": 6
-  },
-  {
-   "term": "institutions",
    "count": 6
   },
   {
@@ -368,6 +368,44 @@
     }
    ]
   },
+  "ejle": {
+   "count": 32,
+   "avg_authors": 2.2,
+   "terms": [
+    {
+     "term": "european economics",
+     "count": 3
+    },
+    {
+     "term": "public procurement",
+     "count": 2
+    },
+    {
+     "term": "cartel fines",
+     "count": 2
+    },
+    {
+     "term": "economics",
+     "count": 7
+    },
+    {
+     "term": "public",
+     "count": 3
+    },
+    {
+     "term": "italian",
+     "count": 3
+    },
+    {
+     "term": "european",
+     "count": 3
+    },
+    {
+     "term": "cartel",
+     "count": 3
+    }
+   ]
+  },
   "rio": {
    "count": 36,
    "avg_authors": 2.3,
@@ -452,44 +490,6 @@
     },
     {
      "term": "european",
-     "count": 3
-    }
-   ]
-  },
-  "ejle": {
-   "count": 31,
-   "avg_authors": 2.2,
-   "terms": [
-    {
-     "term": "european economics",
-     "count": 3
-    },
-    {
-     "term": "public procurement",
-     "count": 2
-    },
-    {
-     "term": "cartel fines",
-     "count": 2
-    },
-    {
-     "term": "economics",
-     "count": 7
-    },
-    {
-     "term": "public",
-     "count": 3
-    },
-    {
-     "term": "italian",
-     "count": 3
-    },
-    {
-     "term": "european",
-     "count": 3
-    },
-    {
-     "term": "cartel",
      "count": 3
     }
    ]

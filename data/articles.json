@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-31 05:43",
- "count": 375,
+ "updated_at": "2026-10-31 12:33",
+ "count": 376,
  "articles": [
   {
    "doi": "10.1016/j.ijindorg.2026.103320",
@@ -246,6 +246,19 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103343"
+  },
+  {
+   "doi": "10.1007/s10657-026-09890-2",
+   "title": "Debt information and legal institutions in ancient Greece",
+   "authors": [
+    "Gauthier L"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2026-10-31",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-026-09890-2"
   },
   {
    "doi": "10.1007/s11151-026-10071-3",
