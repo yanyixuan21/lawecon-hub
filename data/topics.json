@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-30 22:22",
- "doc_count": 376,
+ "updated_at": "2026-10-31 05:44",
+ "doc_count": 375,
  "heat": [
   {
    "term": "antitrust",
@@ -574,7 +574,7 @@
    ]
   },
   "rle": {
-   "count": 18,
+   "count": 17,
    "avg_authors": 2.0,
    "terms": [
     {
