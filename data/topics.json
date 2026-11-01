@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-31 21:37",
- "doc_count": 376,
+ "updated_at": "2026-11-01 06:08",
+ "doc_count": 375,
  "heat": [
   {
    "term": "antitrust",
@@ -63,10 +63,6 @@
    "count": 12
   },
   {
-   "term": "judges",
-   "count": 12
-  },
-  {
    "term": "strategic",
    "count": 11
   },
@@ -91,10 +87,6 @@
    "count": 10
   },
   {
-   "term": "decisions",
-   "count": 10
-  },
-  {
    "term": "judicial",
    "count": 10
   },
@@ -104,6 +96,10 @@
   },
   {
    "term": "cartel",
+   "count": 10
+  },
+  {
+   "term": "judges",
    "count": 10
   },
   {
@@ -151,7 +147,7 @@
    "count": 8
   },
   {
-   "term": "state",
+   "term": "decisions",
    "count": 8
   },
   {
@@ -223,6 +219,10 @@
    "count": 7
   },
   {
+   "term": "state",
+   "count": 7
+  },
+  {
    "term": "interoperability",
    "count": 7
   },
@@ -236,10 +236,6 @@
   },
   {
    "term": "contract",
-   "count": 7
-  },
-  {
-   "term": "gender",
    "count": 7
   },
   {
@@ -280,6 +276,10 @@
   },
   {
    "term": "input",
+   "count": 6
+  },
+  {
+   "term": "choice",
    "count": 6
   }
  ],
@@ -495,7 +495,7 @@
    ]
   },
   "aler": {
-   "count": 29,
+   "count": 28,
    "avg_authors": 2.1,
    "terms": [
     {
