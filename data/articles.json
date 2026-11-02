@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-01 22:03",
- "count": 375,
+ "updated_at": "2026-11-02 06:07",
+ "count": 366,
  "articles": [
   {
    "doi": "10.1016/j.ijindorg.2026.103320",
@@ -11,7 +11,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-11-01",
+   "date": "2026-11-02",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103320"
@@ -27,7 +27,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-11-01",
+   "date": "2026-11-02",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103322"
@@ -41,10 +41,171 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-11-01",
+   "date": "2026-11-02",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103321"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103324",
+   "title": "Netflix and chilling effect? The impact of streaming video licenses on paid digital downloads",
+   "authors": [
+    "Danaher B",
+    "Doosti S"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-11-02",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103324"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103323",
+   "title": "Impacts of privatization on state-owned enterprises: A tale of zombie versus healthy firms",
+   "authors": [
+    "Xu G",
+    "Wang R",
+    "Wang X",
+    "Zha T"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-11-02",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103323"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103334",
+   "title": "The strategic value of platform encroachment: Seller entry and network effects",
+   "authors": [
+    "Piccolo S",
+    "Shekhar S",
+    "Padilla J",
+    "Pagnozzi M"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-11-02",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103334"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103336",
+   "title": "Product variety, alcohol purchases, and the role of excise taxes",
+   "authors": [
+    "Janssen A"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-11-02",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103336"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103337",
+   "title": "Dynamic price competition and evolutionary behavior with search",
+   "authors": [
+    "Allison B",
+    "Sacks M"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-11-02",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103337"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103335",
+   "title": "Evaluating substitutes for federal antitrust: The case of COPAs",
+   "authors": [
+    "Chun S",
+    "Duarte M",
+    "McNamara C",
+    "Lindo J M"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-11-02",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103335"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103338",
+   "title": "An experimental study on the effect of knowledge on idea generation and idea selection",
+   "authors": [
+    "Irlenbusch B",
+    "Laske K",
+    "Schröder M",
+    "Stoczek R"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-11-02",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103338"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103339",
+   "title": "Convergence to collusion in algorithmic pricing",
+   "authors": [
+    "Frick K M"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-11-02",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103339"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103340",
+   "title": "Dynamics and determinants of exporter survival: A machine learning approach",
+   "authors": [
+    "Neopane A"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-11-02",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103340"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103341",
+   "title": "Order of entry and market performance in the global smartphone industry",
+   "authors": [
+    "Lu W",
+    "Lu C",
+    "Xie X"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-11-02",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103341"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103343",
+   "title": "Channel coordination on exclusive vs. non-exclusive content under endogenous consumer homing",
+   "authors": [
+    "Arve M",
+    "Dyskeland O K",
+    "Foros Ø"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-11-02",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103343"
   },
   {
    "doi": "10.1016/j.irle.2026.106349",
@@ -61,20 +222,6 @@
    "url": "https://doi.org/10.1016/j.irle.2026.106349"
   },
   {
-   "doi": "10.1016/j.ijindorg.2026.103324",
-   "title": "Netflix and chilling effect? The impact of streaming video licenses on paid digital downloads",
-   "authors": [
-    "Danaher B",
-    "Doosti S"
-   ],
-   "journal": "International Journal of Industrial Organization",
-   "journal_id": "ijio",
-   "date": "2026-11-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.ijindorg.2026.103324"
-  },
-  {
    "doi": "10.1016/j.irle.2026.106347",
    "title": "Legal institutions and economic growth: A meta-analytic perspective",
    "authors": [
@@ -88,81 +235,6 @@
    "url": "https://doi.org/10.1016/j.irle.2026.106347"
   },
   {
-   "doi": "10.1016/j.ijindorg.2026.103323",
-   "title": "Impacts of privatization on state-owned enterprises: A tale of zombie versus healthy firms",
-   "authors": [
-    "Xu G",
-    "Wang R",
-    "Wang X",
-    "Zha T"
-   ],
-   "journal": "International Journal of Industrial Organization",
-   "journal_id": "ijio",
-   "date": "2026-11-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.ijindorg.2026.103323"
-  },
-  {
-   "doi": "10.1016/j.ijindorg.2026.103334",
-   "title": "The strategic value of platform encroachment: Seller entry and network effects",
-   "authors": [
-    "Piccolo S",
-    "Shekhar S",
-    "Padilla J",
-    "Pagnozzi M"
-   ],
-   "journal": "International Journal of Industrial Organization",
-   "journal_id": "ijio",
-   "date": "2026-11-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.ijindorg.2026.103334"
-  },
-  {
-   "doi": "10.1016/j.ijindorg.2026.103336",
-   "title": "Product variety, alcohol purchases, and the role of excise taxes",
-   "authors": [
-    "Janssen A"
-   ],
-   "journal": "International Journal of Industrial Organization",
-   "journal_id": "ijio",
-   "date": "2026-11-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.ijindorg.2026.103336"
-  },
-  {
-   "doi": "10.1016/j.ijindorg.2026.103337",
-   "title": "Dynamic price competition and evolutionary behavior with search",
-   "authors": [
-    "Allison B",
-    "Sacks M"
-   ],
-   "journal": "International Journal of Industrial Organization",
-   "journal_id": "ijio",
-   "date": "2026-11-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.ijindorg.2026.103337"
-  },
-  {
-   "doi": "10.1016/j.ijindorg.2026.103335",
-   "title": "Evaluating substitutes for federal antitrust: The case of COPAs",
-   "authors": [
-    "Chun S",
-    "Duarte M",
-    "McNamara C",
-    "Lindo J M"
-   ],
-   "journal": "International Journal of Industrial Organization",
-   "journal_id": "ijio",
-   "date": "2026-11-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.ijindorg.2026.103335"
-  },
-  {
    "doi": "10.1016/j.irle.2026.106360",
    "title": "Policing or penalties? Deterrence in a model of plea bargaining with costly juror effort",
    "authors": [
@@ -174,78 +246,6 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.irle.2026.106360"
-  },
-  {
-   "doi": "10.1016/j.ijindorg.2026.103338",
-   "title": "An experimental study on the effect of knowledge on idea generation and idea selection",
-   "authors": [
-    "Irlenbusch B",
-    "Laske K",
-    "Schröder M",
-    "Stoczek R"
-   ],
-   "journal": "International Journal of Industrial Organization",
-   "journal_id": "ijio",
-   "date": "2026-11-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.ijindorg.2026.103338"
-  },
-  {
-   "doi": "10.1016/j.ijindorg.2026.103339",
-   "title": "Convergence to collusion in algorithmic pricing",
-   "authors": [
-    "Frick K M"
-   ],
-   "journal": "International Journal of Industrial Organization",
-   "journal_id": "ijio",
-   "date": "2026-11-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.ijindorg.2026.103339"
-  },
-  {
-   "doi": "10.1016/j.ijindorg.2026.103340",
-   "title": "Dynamics and determinants of exporter survival: A machine learning approach",
-   "authors": [
-    "Neopane A"
-   ],
-   "journal": "International Journal of Industrial Organization",
-   "journal_id": "ijio",
-   "date": "2026-11-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.ijindorg.2026.103340"
-  },
-  {
-   "doi": "10.1016/j.ijindorg.2026.103341",
-   "title": "Order of entry and market performance in the global smartphone industry",
-   "authors": [
-    "Lu W",
-    "Lu C",
-    "Xie X"
-   ],
-   "journal": "International Journal of Industrial Organization",
-   "journal_id": "ijio",
-   "date": "2026-11-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.ijindorg.2026.103341"
-  },
-  {
-   "doi": "10.1016/j.ijindorg.2026.103343",
-   "title": "Channel coordination on exclusive vs. non-exclusive content under endogenous consumer homing",
-   "authors": [
-    "Arve M",
-    "Dyskeland O K",
-    "Foros Ø"
-   ],
-   "journal": "International Journal of Industrial Organization",
-   "journal_id": "ijio",
-   "date": "2026-11-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.ijindorg.2026.103343"
   },
   {
    "doi": "10.1007/s10657-026-09890-2",
@@ -5149,134 +5149,6 @@
    "abstract": "ABSTRACT In this paper, we empirically study how flagship entry in an online marketplace affects consumers, the platform, and various sellers on the platform. We find flagship entry may benefit consumers by expanding the choice set, by intensifying price competition within the entry brand, and by improving consumer perception for parts of the platform. In the meantime, flagship entry cannibalizes the sales of same‐brand sellers, while other brands may gain as the buyer base expands on the platform. Counterfactual simulation suggests that flagship entry improves the gross merchandise value (GMV) of the platform and overall consumer welfare in most cases.",
    "type": "journal-article",
    "url": "https://doi.org/10.1111/joie.70009"
-  },
-  {
-   "doi": "10.1086/735434",
-   "title": "The Effects of Privatization on Firm Productivity in China",
-   "authors": [
-    "Huang Z",
-    "Liu J",
-    "Ma G",
-    "Xu L C"
-   ],
-   "journal": "The Journal of Law and Economics",
-   "journal_id": "jle",
-   "date": "2025-11-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1086/735434"
-  },
-  {
-   "doi": "10.1086/734014",
-   "title": "Racial Diversity and Affirmative Action in American Law Schools",
-   "authors": [
-    "Brooks R R W",
-    "Rozema K",
-    "Sanga S"
-   ],
-   "journal": "The Journal of Law and Economics",
-   "journal_id": "jle",
-   "date": "2025-11-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1086/734014"
-  },
-  {
-   "doi": "10.1086/735360",
-   "title": "Intimate Partner Violence and Income: Quasi-Experimental Evidence                     from the Earned Income Tax Credit",
-   "authors": [
-    "Cesur R",
-    "Rodríguez-Planas N",
-    "Roff J",
-    "Simon D"
-   ],
-   "journal": "The Journal of Law and Economics",
-   "journal_id": "jle",
-   "date": "2025-11-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1086/735360"
-  },
-  {
-   "doi": "10.1086/735659",
-   "title": "Debt Contract Enforcement and Product Innovation: Evidence from a                     Legal Reform in India",
-   "authors": [
-    "Jain T",
-    "Singh R",
-    "Subramanian C"
-   ],
-   "journal": "The Journal of Law and Economics",
-   "journal_id": "jle",
-   "date": "2025-11-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1086/735659"
-  },
-  {
-   "doi": "10.1086/739390",
-   "title": "Front Matter",
-   "authors": [],
-   "journal": "The Journal of Law and Economics",
-   "journal_id": "jle",
-   "date": "2025-11-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1086/739390"
-  },
-  {
-   "doi": "10.1086/735483",
-   "title": "Impacts of the Jones Act on US Petroleum Markets",
-   "authors": [
-    "Kellogg R",
-    "Sweeney R L"
-   ],
-   "journal": "The Journal of Law and Economics",
-   "journal_id": "jle",
-   "date": "2025-11-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1086/735483"
-  },
-  {
-   "doi": "10.1086/734920",
-   "title": "Workplace Litigiousness and Labor Market Outcomes: Evidence from a                     Workers’ Compensation Reform",
-   "authors": [
-    "Lauletta M",
-    "Vergara D"
-   ],
-   "journal": "The Journal of Law and Economics",
-   "journal_id": "jle",
-   "date": "2025-11-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1086/734920"
-  },
-  {
-   "doi": "10.1086/734321",
-   "title": "The “Blurred Lines” of Copyright Infringement",
-   "authors": [
-    "Galasso A"
-   ],
-   "journal": "The Journal of Law and Economics",
-   "journal_id": "jle",
-   "date": "2025-11-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1086/734321"
-  },
-  {
-   "doi": "10.1086/735423",
-   "title": "Managing the Workload of the Proxy Season",
-   "authors": [
-    "Calluzzo P",
-    "Kedia S"
-   ],
-   "journal": "The Journal of Law and Economics",
-   "journal_id": "jle",
-   "date": "2025-11-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1086/735423"
   }
  ]
 }

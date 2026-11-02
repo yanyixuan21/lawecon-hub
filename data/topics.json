@@ -1,17 +1,17 @@
 {
- "updated_at": "2026-11-01 22:04",
- "doc_count": 375,
+ "updated_at": "2026-11-02 06:07",
+ "doc_count": 366,
  "heat": [
   {
    "term": "antitrust",
    "count": 21
   },
   {
-   "term": "innovation",
-   "count": 21
+   "term": "costs",
+   "count": 20
   },
   {
-   "term": "costs",
+   "term": "innovation",
    "count": 20
   },
   {
@@ -35,15 +35,15 @@
    "count": 16
   },
   {
-   "term": "tax",
-   "count": 15
-  },
-  {
    "term": "litigation",
    "count": 15
   },
   {
    "term": "private",
+   "count": 14
+  },
+  {
+   "term": "tax",
    "count": 14
   },
   {
@@ -56,10 +56,6 @@
   },
   {
    "term": "role",
-   "count": 12
-  },
-  {
-   "term": "firm",
    "count": 12
   },
   {
@@ -76,6 +72,10 @@
   },
   {
    "term": "liability",
+   "count": 11
+  },
+  {
+   "term": "firm",
    "count": 11
   },
   {
@@ -111,10 +111,6 @@
    "count": 9
   },
   {
-   "term": "product",
-   "count": 9
-  },
-  {
    "term": "across",
    "count": 9
   },
@@ -139,6 +135,10 @@
    "count": 8
   },
   {
+   "term": "product",
+   "count": 8
+  },
+  {
    "term": "welfare",
    "count": 8
   },
@@ -159,10 +159,6 @@
    "count": 7
   },
   {
-   "term": "institutions",
-   "count": 7
-  },
-  {
    "term": "dynamic",
    "count": 7
   },
@@ -171,15 +167,15 @@
    "count": 7
   },
   {
+   "term": "institutions",
+   "count": 7
+  },
+  {
    "term": "good",
    "count": 7
   },
   {
    "term": "insights",
-   "count": 7
-  },
-  {
-   "term": "act",
    "count": 7
   },
   {
@@ -211,10 +207,6 @@
    "count": 7
   },
   {
-   "term": "workers",
-   "count": 7
-  },
-  {
    "term": "online",
    "count": 7
   },
@@ -228,14 +220,6 @@
   },
   {
    "term": "rule",
-   "count": 7
-  },
-  {
-   "term": "china",
-   "count": 7
-  },
-  {
-   "term": "contract",
    "count": 7
   },
   {
@@ -263,6 +247,10 @@
    "count": 6
   },
   {
+   "term": "act",
+   "count": 6
+  },
+  {
    "term": "power",
    "count": 6
   },
@@ -280,6 +268,18 @@
   },
   {
    "term": "choice",
+   "count": 6
+  },
+  {
+   "term": "only",
+   "count": 6
+  },
+  {
+   "term": "workers",
+   "count": 6
+  },
+  {
+   "term": "structural",
    "count": 6
   }
  ],
@@ -564,14 +564,9 @@
    "terms": []
   },
   "jle": {
-   "count": 27,
+   "count": 18,
    "avg_authors": 2.7,
-   "terms": [
-    {
-     "term": "act",
-     "count": 3
-    }
-   ]
+   "terms": []
   },
   "rle": {
    "count": 17,
