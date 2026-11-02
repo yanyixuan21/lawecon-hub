@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02 06:07",
+ "updated_at": "2026-11-02 15:57",
  "doc_count": 366,
  "heat": [
   {
@@ -67,11 +67,11 @@
    "count": 11
   },
   {
-   "term": "demand",
+   "term": "liability",
    "count": 11
   },
   {
-   "term": "liability",
+   "term": "demand",
    "count": 11
   },
   {

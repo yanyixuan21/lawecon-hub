@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02 06:07",
+ "updated_at": "2026-11-02 15:56",
  "count": 366,
  "articles": [
   {
@@ -216,7 +216,7 @@
    ],
    "journal": "International Review of Law and Economics",
    "journal_id": "irle",
-   "date": "2026-11-01",
+   "date": "2026-11-02",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.irle.2026.106349"
@@ -229,7 +229,7 @@
    ],
    "journal": "International Review of Law and Economics",
    "journal_id": "irle",
-   "date": "2026-11-01",
+   "date": "2026-11-02",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.irle.2026.106347"
@@ -242,10 +242,25 @@
    ],
    "journal": "International Review of Law and Economics",
    "journal_id": "irle",
-   "date": "2026-11-01",
+   "date": "2026-11-02",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.irle.2026.106360"
+  },
+  {
+   "doi": "10.1016/j.irle.2026.106361",
+   "title": "Strict liability and moral hazard: Evidence from New York’s Scaffold law",
+   "authors": [
+    "Geddes R R",
+    "Park Y G",
+    "Zhang K"
+   ],
+   "journal": "International Review of Law and Economics",
+   "journal_id": "irle",
+   "date": "2026-11-02",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.irle.2026.106361"
   },
   {
    "doi": "10.1007/s10657-026-09890-2",
@@ -574,21 +589,6 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103342"
-  },
-  {
-   "doi": "10.1016/j.irle.2026.106361",
-   "title": "Strict Liability and Moral Hazard: Evidence from New York’s Scaffold Law",
-   "authors": [
-    "Geddes R R",
-    "Park Y G",
-    "Zhang K"
-   ],
-   "journal": "International Review of Law and Economics",
-   "journal_id": "irle",
-   "date": "2026-10-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.irle.2026.106361"
   },
   {
    "doi": "10.1093/aler/ahaf020",
