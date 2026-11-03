@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03 00:59",
+ "updated_at": "2026-11-03 14:17",
  "count": 124,
  "articles": [
   {
@@ -123,7 +123,7 @@
    "journal": "IEEE Intelligent Systems",
    "journal_id": "",
    "date": "2026-09-01",
-   "abstract": "",
+   "abstract": "Large language models (LLMs) are rapidly being adopted in workplace settings. However, through their extensive training on massive and unregulated Internet datasets, LLMs potentially reflect or exaggerate social biases. This study presents a new framework for auditing bias in LLM-based career recommendations. Through our comprehensive evaluation of multiple LLMs, we find the LLM recommendations for majority groups are more closely aligned with both the neutral groups and their corresponding actual occupation distributions. This indicates that existing LLMs risk causing representational harm by reproducing harmful stereotypes, but also allocational harm by providing different levels of service to different users. The direct deployment of such systems in employment processes may exacerbate occupational stereotypes and further entrench invisible social barriers.",
    "type": "article",
    "url": "https://doi.org/10.1109/mis.2026.3698336",
    "scholar_id": "frank-pasquale",
@@ -556,7 +556,7 @@
    "journal_id": "",
    "date": "2026-05-11",
    "abstract": "The last decade has witnessed a changing scene of exclusionary abuse cases. As a result, competition authorities around the globe are now investigating new forms of exclusionary abuse in fast-evolving markets. These changes inevitably affect our understanding of the harm caused by exclusionary conduct and how redress is sought. Although there are many academic and practitioner papers on estimating damages in cartel and excessive pricing cases, they have limited applicability to exclusionary cases. This paper provides an overview of the main considerations that should apply in damage quantification in exclusionary abuse cases. We do this by giving a detailed account of the main characteristics of damage claims in these cases, reviewing the theories of harm and, building on these theories, discussing possible counterfactuals and methods for estimating the magnitude of harm.",
-   "type": "article",
+   "type": "editorial",
    "url": "https://doi.org/10.1177/0003603x261443672",
    "scholar_id": "jorge-padilla",
    "scholar_name": "Jorge Padilla",
