@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-11-02 15:57",
+ "updated_at": "2026-11-03 00:59",
  "doc_count": 366,
  "heat": [
   {
    "term": "antitrust",
-   "count": 21
+   "count": 22
   },
   {
    "term": "costs",
@@ -15,15 +15,19 @@
    "count": 20
   },
   {
-   "term": "platform",
-   "count": 19
-  },
-  {
    "term": "merger",
    "count": 19
   },
   {
    "term": "firms",
+   "count": 17
+  },
+  {
+   "term": "platform",
+   "count": 17
+  },
+  {
+   "term": "entry",
    "count": 17
   },
   {
@@ -51,10 +55,6 @@
    "count": 14
   },
   {
-   "term": "consumers",
-   "count": 13
-  },
-  {
    "term": "role",
    "count": 12
   },
@@ -72,6 +72,10 @@
   },
   {
    "term": "demand",
+   "count": 11
+  },
+  {
+   "term": "consumers",
    "count": 11
   },
   {
@@ -207,10 +211,6 @@
    "count": 7
   },
   {
-   "term": "online",
-   "count": 7
-  },
-  {
    "term": "state",
    "count": 7
   },
@@ -239,6 +239,10 @@
    "count": 6
   },
   {
+   "term": "choice",
+   "count": 6
+  },
+  {
    "term": "supply",
    "count": 6
   },
@@ -264,10 +268,6 @@
   },
   {
    "term": "input",
-   "count": 6
-  },
-  {
-   "term": "choice",
    "count": 6
   },
   {
@@ -331,7 +331,7 @@
    ]
   },
   "irle": {
-   "count": 41,
+   "count": 42,
    "avg_authors": 2.3,
    "terms": [
     {
@@ -525,7 +525,7 @@
    ]
   },
   "jie": {
-   "count": 33,
+   "count": 32,
    "avg_authors": 2.0,
    "terms": [
     {
