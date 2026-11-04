@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-03 23:25",
- "doc_count": 366,
+ "updated_at": "2026-11-04 06:25",
+ "doc_count": 365,
  "heat": [
   {
    "term": "antitrust",
@@ -171,10 +171,6 @@
    "count": 7
   },
   {
-   "term": "institutions",
-   "count": 7
-  },
-  {
    "term": "good",
    "count": 7
   },
@@ -223,15 +219,7 @@
    "count": 7
   },
   {
-   "term": "punishment",
-   "count": 7
-  },
-  {
    "term": "higher",
-   "count": 6
-  },
-  {
-   "term": "third-party",
    "count": 6
   },
   {
@@ -244,10 +232,6 @@
   },
   {
    "term": "supply",
-   "count": 6
-  },
-  {
-   "term": "experiment",
    "count": 6
   },
   {
@@ -280,6 +264,22 @@
   },
   {
    "term": "structural",
+   "count": 6
+  },
+  {
+   "term": "marginal",
+   "count": 6
+  },
+  {
+   "term": "china",
+   "count": 6
+  },
+  {
+   "term": "downstream",
+   "count": 6
+  },
+  {
+   "term": "investment",
    "count": 6
   }
  ],
@@ -569,14 +569,9 @@
    "terms": []
   },
   "rle": {
-   "count": 17,
-   "avg_authors": 2.0,
-   "terms": [
-    {
-     "term": "punishment",
-     "count": 3
-    }
-   ]
+   "count": 16,
+   "avg_authors": 1.9,
+   "terms": []
   },
   "worldcomp": {
    "count": 1,
