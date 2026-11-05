@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-05 06:49",
- "doc_count": 365,
+ "updated_at": "2026-11-05 19:58",
+ "doc_count": 367,
  "heat": [
   {
    "term": "antitrust",
@@ -15,12 +15,8 @@
    "count": 20
   },
   {
-   "term": "merger",
-   "count": 19
-  },
-  {
    "term": "firms",
-   "count": 17
+   "count": 18
   },
   {
    "term": "platform",
@@ -59,6 +55,10 @@
    "count": 12
   },
   {
+   "term": "firm",
+   "count": 12
+  },
+  {
    "term": "strategic",
    "count": 11
   },
@@ -67,19 +67,11 @@
    "count": 11
   },
   {
-   "term": "liability",
-   "count": 11
-  },
-  {
    "term": "demand",
    "count": 11
   },
   {
    "term": "consumers",
-   "count": 11
-  },
-  {
-   "term": "firm",
    "count": 11
   },
   {
@@ -115,6 +107,10 @@
    "count": 9
   },
   {
+   "term": "product",
+   "count": 9
+  },
+  {
    "term": "across",
    "count": 9
   },
@@ -139,11 +135,11 @@
    "count": 8
   },
   {
-   "term": "product",
+   "term": "welfare",
    "count": 8
   },
   {
-   "term": "welfare",
+   "term": "products",
    "count": 8
   },
   {
@@ -171,6 +167,10 @@
    "count": 7
   },
   {
+   "term": "settlement",
+   "count": 7
+  },
+  {
    "term": "good",
    "count": 7
   },
@@ -179,15 +179,7 @@
    "count": 7
   },
   {
-   "term": "products",
-   "count": 7
-  },
-  {
    "term": "relationship",
-   "count": 7
-  },
-  {
-   "term": "settlement",
    "count": 7
   },
   {
@@ -224,6 +216,14 @@
   },
   {
    "term": "deterrence",
+   "count": 6
+  },
+  {
+   "term": "cournot",
+   "count": 6
+  },
+  {
+   "term": "theory",
    "count": 6
   },
   {
@@ -368,6 +368,86 @@
     }
    ]
   },
+  "aler": {
+   "count": 29,
+   "avg_authors": 2.1,
+   "terms": [
+    {
+     "term": "labor market",
+     "count": 2
+    },
+    {
+     "term": "medicaid expansion",
+     "count": 2
+    },
+    {
+     "term": "market",
+     "count": 3
+    },
+    {
+     "term": "experiment",
+     "count": 3
+    },
+    {
+     "term": "labor",
+     "count": 3
+    },
+    {
+     "term": "disclosure",
+     "count": 3
+    },
+    {
+     "term": "judicial",
+     "count": 3
+    }
+   ]
+  },
+  "ecj": {
+   "count": 20,
+   "avg_authors": 1.6,
+   "terms": [
+    {
+     "term": "merger control",
+     "count": 3
+    },
+    {
+     "term": "digital markets",
+     "count": 2
+    },
+    {
+     "term": "european commission",
+     "count": 2
+    },
+    {
+     "term": "merger",
+     "count": 6
+    },
+    {
+     "term": "markets",
+     "count": 5
+    },
+    {
+     "term": "antitrust",
+     "count": 4
+    },
+    {
+     "term": "competition",
+     "count": 4
+    },
+    {
+     "term": "control",
+     "count": 3
+    },
+    {
+     "term": "digital",
+     "count": 3
+    },
+    {
+     "term": "enforcement",
+     "count": 3
+    }
+   ]
+  },
   "ejle": {
    "count": 32,
    "avg_authors": 2.2,
@@ -449,78 +529,6 @@
     {
      "term": "mergers",
      "count": 4
-    }
-   ]
-  },
-  "ecj": {
-   "count": 19,
-   "avg_authors": 1.7,
-   "terms": [
-    {
-     "term": "digital markets",
-     "count": 2
-    },
-    {
-     "term": "european commission",
-     "count": 2
-    },
-    {
-     "term": "merger control",
-     "count": 2
-    },
-    {
-     "term": "markets",
-     "count": 5
-    },
-    {
-     "term": "merger",
-     "count": 5
-    },
-    {
-     "term": "antitrust",
-     "count": 4
-    },
-    {
-     "term": "competition",
-     "count": 4
-    },
-    {
-     "term": "enforcement",
-     "count": 3
-    },
-    {
-     "term": "european",
-     "count": 3
-    }
-   ]
-  },
-  "aler": {
-   "count": 28,
-   "avg_authors": 2.1,
-   "terms": [
-    {
-     "term": "labor market",
-     "count": 2
-    },
-    {
-     "term": "medicaid expansion",
-     "count": 2
-    },
-    {
-     "term": "experiment",
-     "count": 3
-    },
-    {
-     "term": "labor",
-     "count": 3
-    },
-    {
-     "term": "disclosure",
-     "count": 3
-    },
-    {
-     "term": "judicial",
-     "count": 3
     }
    ]
   },

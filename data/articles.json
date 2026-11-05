@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-05 06:48",
- "count": 365,
+ "updated_at": "2026-11-05 19:58",
+ "count": 367,
  "articles": [
   {
    "doi": "10.1016/j.ijindorg.2026.103320",
@@ -275,6 +275,45 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103342"
+  },
+  {
+   "doi": "10.1016/j.irle.2026.106359",
+   "title": "Settlement of litigation may increase or decrease deterrence and social welfare",
+   "authors": [
+    "Shavell S"
+   ],
+   "journal": "International Review of Law and Economics",
+   "journal_id": "irle",
+   "date": "2026-11-05",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.irle.2026.106359"
+  },
+  {
+   "doi": "10.1093/aler/ahag013",
+   "title": "Market Share Liability versus (Random) Strict Liability",
+   "authors": [
+    "Mungan M C"
+   ],
+   "journal": "American Law and Economics Review",
+   "journal_id": "aler",
+   "date": "2026-11-05",
+   "abstract": "Abstract I consider a model in which firms engage in Cournot competition in producing potentially harmful products. In addition to choosing output, they also choose safety precautions, which affect each product’s likelihood of harm to third parties. Under (individual) strict liability (SL), a firm whose product causes harm is found liable only if causation can be established in court. Under market share liability (MSL), all firms are held liable for a fraction of harms equaling their respective market shares. The model shows that, contrary to what many have suggested, proof-of-causation problems alone are insufficient to justify MSL. SL reduces the likelihood of liability, conditional on harm, while increasing the size of damages, relative to MSL. Because MSL ties liability to a firm’s production more closely than SL, it increases firms’ effective marginal cost of production more than SL, and thereby leads to less production than SL. Moreover, SL gives firms no worse incentives to take safety precautions than MSL, as long as the probability of holding the injuring firm liable is not smaller than that firm’s market share. Therefore, under these conditions, MSL leads to less welfare than SL, as long as SL does not lead to over-optimal production. An implication is that implementing SL in a symmetric equilibrium by randomly holding one of the firms in the market liable is superior to MSL when overproduction is not a concern. If overproduction is a concern, randomized SL with supra-compensatory damages, or other, equivalent, randomized SL regimes can be used which ensure greater welfare than MSL. I discuss limitations, extensions, and additional considerations, such as the presence of litigation costs; asymmetric equilibria; and the possibility of implementing nonrandomized SL with weak evidentiary requirements.",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1093/aler/ahag013"
+  },
+  {
+   "doi": "10.1080/17441056.2026.2755178",
+   "title": "Challenging merger control: the gravitational pull of digital ecosystems and the promise of entrenchment theory",
+   "authors": [
+    "Lecchi E"
+   ],
+   "journal": "European Competition Journal",
+   "journal_id": "ecj",
+   "date": "2026-11-04",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1080/17441056.2026.2755178"
   },
   {
    "doi": "10.1016/j.irle.2026.106362",
@@ -706,19 +745,6 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/s0144-8188(26)00033-5"
-  },
-  {
-   "doi": "10.1016/j.irle.2026.106359",
-   "title": "Settlement of Litigation May Increase or Decrease Deterrence and Social Welfare",
-   "authors": [
-    "Shavell S"
-   ],
-   "journal": "International Review of Law and Economics",
-   "journal_id": "irle",
-   "date": "2026-09-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.irle.2026.106359"
   },
   {
    "doi": "10.1007/s10657-026-09886-y",
