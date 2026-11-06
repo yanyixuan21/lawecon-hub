@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-06 06:50",
- "doc_count": 366,
+ "updated_at": "2026-11-06 19:26",
+ "doc_count": 367,
  "heat": [
   {
    "term": "antitrust",
@@ -219,6 +219,10 @@
    "count": 6
   },
   {
+   "term": "damages",
+   "count": 6
+  },
+  {
    "term": "cournot",
    "count": 6
   },
@@ -276,10 +280,6 @@
   },
   {
    "term": "downstream",
-   "count": 6
-  },
-  {
-   "term": "investment",
    "count": 6
   }
  ],
@@ -368,6 +368,44 @@
     }
    ]
   },
+  "ejle": {
+   "count": 33,
+   "avg_authors": 2.2,
+   "terms": [
+    {
+     "term": "european economics",
+     "count": 3
+    },
+    {
+     "term": "public procurement",
+     "count": 2
+    },
+    {
+     "term": "cartel fines",
+     "count": 2
+    },
+    {
+     "term": "economics",
+     "count": 7
+    },
+    {
+     "term": "public",
+     "count": 3
+    },
+    {
+     "term": "italian",
+     "count": 3
+    },
+    {
+     "term": "european",
+     "count": 3
+    },
+    {
+     "term": "cartel",
+     "count": 3
+    }
+   ]
+  },
   "aler": {
    "count": 29,
    "avg_authors": 2.1,
@@ -444,44 +482,6 @@
     },
     {
      "term": "enforcement",
-     "count": 3
-    }
-   ]
-  },
-  "ejle": {
-   "count": 32,
-   "avg_authors": 2.2,
-   "terms": [
-    {
-     "term": "european economics",
-     "count": 3
-    },
-    {
-     "term": "public procurement",
-     "count": 2
-    },
-    {
-     "term": "cartel fines",
-     "count": 2
-    },
-    {
-     "term": "economics",
-     "count": 7
-    },
-    {
-     "term": "public",
-     "count": 3
-    },
-    {
-     "term": "italian",
-     "count": 3
-    },
-    {
-     "term": "european",
-     "count": 3
-    },
-    {
-     "term": "cartel",
      "count": 3
     }
    ]

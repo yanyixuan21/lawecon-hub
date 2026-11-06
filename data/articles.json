@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-06 06:49",
- "count": 366,
+ "updated_at": "2026-11-06 19:25",
+ "count": 367,
  "articles": [
   {
    "doi": "10.1016/j.ijindorg.2026.103320",
@@ -288,6 +288,20 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.irle.2026.106359"
+  },
+  {
+   "doi": "10.1007/s10657-026-09891-1",
+   "title": "Impact assessment of the “Damages Directive”: abuse of dominance cases",
+   "authors": [
+    "Dielen I",
+    "Mouton J"
+   ],
+   "journal": "European Journal of Law and Economics",
+   "journal_id": "ejle",
+   "date": "2026-11-06",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s10657-026-09891-1"
   },
   {
    "doi": "10.1093/aler/ahag013",
