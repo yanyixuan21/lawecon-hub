@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07 06:00",
+ "updated_at": "2026-11-07 13:03",
  "doc_count": 367,
  "heat": [
   {
@@ -219,6 +219,10 @@
    "count": 6
   },
   {
+   "term": "choice",
+   "count": 6
+  },
+  {
    "term": "damages",
    "count": 6
   },
@@ -228,10 +232,6 @@
   },
   {
    "term": "theory",
-   "count": 6
-  },
-  {
-   "term": "choice",
    "count": 6
   },
   {

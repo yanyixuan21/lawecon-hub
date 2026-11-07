@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07 05:59",
+ "updated_at": "2026-11-07 13:03",
  "count": 367,
  "articles": [
   {
@@ -290,6 +290,21 @@
    "url": "https://doi.org/10.1016/j.irle.2026.106359"
   },
   {
+   "doi": "10.1016/j.irle.2026.106362",
+   "title": "From antitrust to digital market governance: Data, access, and the choice of instrument",
+   "authors": [
+    "Carbonara E",
+    "Gianfreda G",
+    "Xu W"
+   ],
+   "journal": "International Review of Law and Economics",
+   "journal_id": "irle",
+   "date": "2026-11-07",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.irle.2026.106362"
+  },
+  {
    "doi": "10.1007/s10657-026-09891-1",
    "title": "Impact assessment of the “Damages Directive”: abuse of dominance cases",
    "authors": [
@@ -328,21 +343,6 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1080/17441056.2026.2755178"
-  },
-  {
-   "doi": "10.1016/j.irle.2026.106362",
-   "title": "From antitrust to digital market governance: data, access, and the choice of instrument",
-   "authors": [
-    "Carbonara E",
-    "Gianfreda G",
-    "Xu W"
-   ],
-   "journal": "International Review of Law and Economics",
-   "journal_id": "irle",
-   "date": "2026-11-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.irle.2026.106362"
   },
   {
    "doi": "10.1007/s10657-026-09890-2",
