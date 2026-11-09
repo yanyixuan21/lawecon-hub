@@ -1,7 +1,31 @@
 {
- "updated_at": "2026-11-09 06:34",
- "count": 125,
+ "updated_at": "2026-11-09 22:23",
+ "count": 126,
  "articles": [
+  {
+   "doi": "10.64898/2026.11.05.26367384",
+   "title": "A multi-scale cell-type resolved map of trans-regulatory architecture in the aging human brain",
+   "authors": [
+    "Xuewei Cao",
+    "Yifei Wang",
+    "Haochen Sun",
+    "Ru Feng",
+    "Haoxuan Zhang",
+    "Yining Li",
+    "Hanbyul Lee",
+    "Berke Karaahmet",
+    "等"
+   ],
+   "journal": "medRxiv",
+   "journal_id": "",
+   "date": "2026-11-08",
+   "abstract": "Mapping genetic effects on distal genes and regulatory programs is essential for understanding how genetic variation influences complex diseases; yet trans-QTL discovery remains limited by weak effect sizes, extensive multiple testing and poor reproducibility. Here, we introduce TransMap, a generalizable computational framework that combines multi-scale trans-QTL mapping with multi-phenotype genetic colocalization to improve the discovery and interpretation of distal regulatory variants. Beyond individual trans-eGenes, TransMap constructs local co-regulatory program phenotypes that account for background expression variation to improve the detection of weak, coordinated distal genetic effects. Across a broad range of simulation settings, TransMap achieved 9.2-36.7% higher trans-QTL discovery power than existing methods while maintaining well-controlled type I error rates. We applied TransMap to bulk and single-nucleus transcriptomic profiles from the aging human brain in the ADSP Functional Genomics Consortium (FunGen-AD), further integrating proteomic, glycoproteomic and metabolomic biomarker measurements (average N=476 donors). Genome-wide fine-mapping of TransMap single-gene and program-level QTL yielded variant annotations with 2.75-2.88x heritability enrichment across 57 complex diseases and traits (average N=307K), with complementary heritability information captured across regulatory scales. Multi-phenotype colocalization identified 49,532 trans-regulatory events supported by shared genetic signals with cis-eQTL or biomarker-QTL, including 1,825 candidate cis-trans-biomarker regulatory configurations. TransMap further revealed an asymmetric cross-cell-type regulatory architecture in which neuronal cis-regulatory signals preferentially associate with coordinated glial trans-regulatory responses, supported by co-culture experiments and spatial transcriptomics. Alzheimer's disease (AD) GWAS-prioritized colocalization identified trans-regulatory associations in 115 AD-associated loci, including a KNOP1 cis-eQTL associated in trans with a microglial regulatory program containing MS4A4E, with additional support from statistical mediation analysis. TransMap provides a multi-scale, cell-type-resolved atlas of trans-regulatory variation and a generalizable framework for elucidating the regulatory architecture of complex diseases.",
+   "type": "preprint",
+   "url": "https://doi.org/10.64898/2026.11.05.26367384",
+   "scholar_id": "gregory-crawford",
+   "scholar_name": "Gregory Crawford",
+   "scholar_institution": "University of Zurich"
+  },
   {
    "doi": "10.7767/9783205225300.171",
    "title": "Pro-Competitive Regulation as a Guarantee of Innovation and Democracy",
