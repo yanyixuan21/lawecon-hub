@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-10 07:23",
- "count": 126,
+ "updated_at": "2026-11-10 19:45",
+ "count": 128,
  "articles": [
   {
    "doi": "10.64898/2026.11.05.26367384",
@@ -1905,6 +1905,39 @@
    "scholar_institution": "George Washington University"
   },
   {
+   "doi": "10.2139/ssrn.7682005",
+   "title": "Regulation and the Science of the Constitution",
+   "authors": [
+    "Herbert Hovenkamp"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.7682005",
+   "scholar_id": "herbert-hovenkamp",
+   "scholar_name": "Herbert Hovenkamp",
+   "scholar_institution": "University of Pennsylvania Carey Law School"
+  },
+  {
+   "doi": "10.2139/ssrn.7681658",
+   "title": "The Antitrust Modernization Commission Report at Twenty Years and the Path Forward",
+   "authors": [
+    "Dennis W. Carlton",
+    "Herbert Hovenkamp"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.7681658",
+   "scholar_id": "herbert-hovenkamp",
+   "scholar_name": "Herbert Hovenkamp",
+   "scholar_institution": "University of Pennsylvania Carey Law School"
+  },
+  {
    "doi": "10.5040/9781509987511.ch-005",
    "title": "Regulatory Sandboxes in Finance and Energy",
    "authors": [
@@ -1989,7 +2022,7 @@
     "Daniel Gingerich",
     "Dellila Hodgson",
     "Zhaohui Man",
-    "Melanie E. Garrett﻿",
+    "Melanie E. Garrett",
     "Gregory E. Crawford",
     "Allison E. Ashley‐Koch",
     "Ornit Chiba‐Falek"
