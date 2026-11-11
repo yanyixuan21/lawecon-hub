@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-10 19:45",
- "doc_count": 368,
+ "updated_at": "2026-11-11 06:25",
+ "doc_count": 369,
  "heat": [
   {
    "term": "antitrust",
@@ -28,10 +28,6 @@
   },
   {
    "term": "consumer",
-   "count": 16
-  },
-  {
-   "term": "quality",
    "count": 16
   },
   {
@@ -281,6 +277,10 @@
   {
    "term": "downstream",
    "count": 6
+  },
+  {
+   "term": "investment",
+   "count": 6
   }
  ],
  "profiles": {
@@ -369,7 +369,7 @@
    ]
   },
   "rio": {
-   "count": 37,
+   "count": 38,
    "avg_authors": 2.3,
    "terms": [
     {
