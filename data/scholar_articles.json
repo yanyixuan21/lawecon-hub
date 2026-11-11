@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-11 06:25",
- "count": 128,
+ "updated_at": "2026-11-11 19:37",
+ "count": 129,
  "articles": [
   {
    "doi": "10.64898/2026.11.05.26367384",
@@ -416,7 +416,7 @@
    "journal": "Nature Communications",
    "journal_id": "",
    "date": "2026-07-10",
-   "abstract": "Genomic studies have revealed elevated damage and mutation rates in active transcription factor (TF) binding sites in UV-linked cancers. Previous investigations into the relationship between TF activity and UV DNA damage have primarily focused on select TFs or been done in aggregate across large cohorts of TFs at kilobase resolution. While collectively, there is evidence that TFs contribute to UV-induced mutagenesis by both enhancing initial damage formation and attenuating repair, there has yet to be a comprehensive characterization of these mechanisms on a per-TF basis. Using genome-wide maps of UV damage from human skin fibroblasts, we developed a scalable statistical framework to analyze TF-mediated mutagenic mechanisms across hundreds of TFs. We identify numerous previously unreported TFs that significantly enhance and / or inhibit damage formation in their binding sites. A systematic survey of TF-DNA complexes further revealed that positions of UV damage modulation coincide with TF-induced structural distortions that either protect or predispose DNA to photodimer formation. Additionally, we analyzed repair efficiency in TF binding sites with unprecedented resolution, identifying specific TFs and binding site positions likely to compete with repair factors. By comparing these results with skin cancer mutations, we distinguish mutation peaks driven by increased damage susceptibility versus attenuated repair, illustrating that TF-mediated mutagenesis is highly contextual and dependent on the TF, binding site position, and sequence context of the damaged locus. Our approach provides a robust statistical framework for elucidating mechanisms of mutagenic TF-binding and offers novel insights into the complex interplay between protein interactions, DNA damage, and repair.",
+   "abstract": "Abstract Genomic studies revealed elevated DNA damage and mutation rates at transcription factor (TF) binding sites in UV-linked cancers. While TFs can promote UV-induced mutagenesis by altering both damage formation and repair, these mechanisms have not been systematically characterized across TFs at high resolution. Using genome-wide UV damage maps from skin fibroblasts, we develop a scalable statistical framework to analyze TF-mediated mutagenic mechanisms across hundreds of TFs. We identify numerous previously unreported TFs that significantly enhance or suppress UV damage formation within their binding sites. A systematic survey of TF-DNA complexes reveals that damage modulation often coincides with TF-induced DNA distortions that either protect against or promote photodimer formation. Additionally, we analyze repair efficiency in TF binding sites at high resolution, identifying TFs likely to compete with repair. Comparisons with skin cancer mutations distinguish mutation enrichment driven by increased damageability versus attenuated repair, revealing the highly contextual nature of TF-mediated mutagenesis.",
    "type": "article",
    "url": "https://doi.org/10.1038/s41467-026-75115-4",
    "scholar_id": "gregory-crawford",
@@ -925,7 +925,7 @@
    "journal": "Boston College Law Review",
    "journal_id": "",
    "date": "2026-01-29",
-   "abstract": "As the United States and much of the world face a resurgence of authoritarianism, the critical importance of privacy cannot be overstated. Privacy serves as a fundamental safeguard against the overreach of authoritarian governments. Authoritarian power is greatly enhanced in today’s era of pervasive surveillance and relentless data collection. We are living in the age of “surveillance capitalism.” There are vast digital dossiers about every person assembled by thousands of corporations and readily available for the government to access. The federal government and some state governments are intensifying surveillance and data collection efforts, targeting immigrants, punishing those involved in seeking or providing abortion services, and cracking down on gender-affirming healthcare. Personal data is being weaponized against critics and others who resist these efforts. In this Article, I contend that privacy protections must be significantly heightened to respond to growing threats of authoritarianism. Major regulatory interventions are necessary to prevent government surveillance from being used in inimical ways. But reforming Fourth Amendment jurisprudence and government surveillance alone will not protect against many authoritarian invasions of privacy, especially given the oligarchical character of the current strain of authoritarianism. To adequately regulate government surveillance, it is essential to also regulate surveillance capitalism. Government surveillance and surveillance capitalism are two sides of the same coin. It is impossible to protect privacy from authoritarianism without addressing consumer privacy. This Article proposes regulatory measures that should be taken to address government surveillance and surveillance capitalism—on both sides of the coin—to guard against authoritarianism. Federal lower court judges have some leeway to strengthen Fourth Amendment and other Constitutional protections as well as consumer privacy protections. State court judges can interpret their state’s constitutions in ways that diverge from U.S. Supreme Court interpretations. State legislators can enact a wide array of measures to limit government surveillance by their states and others as well as to reign in surveillance capitalism, minimize the data available to authoritarian regimes, regulate data brokers, incentivize the creation of less privacy-invasive surveillance technologies, and curtail the increasing government-industrial collusion. There is no silver bullet, but these measures across the entire landscape of privacy law can make a meaningful difference.",
+   "abstract": "As the United States and much of the world face a resurgence of authoritarianism, the critical importance of privacy cannot be overstated. Privacy serves as a fundamental safeguard against the overreach of authoritarian governments. Authoritarian power is greatly enhanced in today’s era of pervasive surveillance and relentless data collection. We are living in the age of “surveillance capitalism.” There are vast digital dossiers about every person assembled by thousands of corporations and readily available for the government to access. The federal government and some state governments are intensifying surveillance and data collection efforts, targeting immigrants, punishing those involved in seeking or providing abortion services, and cracking down on gender-affirming healthcare. Personal data is being weaponized against critics and others who resist these efforts. In this Article, I contend that privacy protections must be significantly heightened to respond to growing threats of authoritarianism. Major regulatory interventions are necessary to prevent government surveillance from being used in inimical ways. But reforming Fourth Amendment jurisprudence and government surveillance alone will not protect against many authoritarian invasions of privacy, especially given the oligarchical character of the current strain of authoritarianism. To adequately regulate government surveillance, it is essential to also regulate surveillance capitalism. Government surveillance and surveillance capitalism are two sides of the same coin. It is impossible to protect privacy from authoritarianism without addressing consumer privacy. This Article proposes regulatory measures that should be taken to address government surveillance and surveillance capitalism—on both sides of the coin—to guard against authoritarianism.",
    "type": "article",
    "url": "https://doi.org/10.70167/zcsi2691",
    "scholar_id": "daniel-solove",
@@ -1938,6 +1938,25 @@
    "scholar_institution": "University of Pennsylvania Carey Law School"
   },
   {
+   "doi": "10.2139/ssrn.7683718",
+   "title": "Algorithmic Transparency and Welfare: The Unintended Consequences of Disclosure Mandates",
+   "authors": [
+    "Jorge Padilla",
+    "Alexander White",
+    "Cecilia Nardini",
+    "Kadambari Prasad"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.7683718",
+   "scholar_id": "jorge-padilla",
+   "scholar_name": "Jorge Padilla",
+   "scholar_institution": "Compass Lexecon"
+  },
+  {
    "doi": "10.5040/9781509987511.ch-005",
    "title": "Regulatory Sandboxes in Finance and Energy",
    "authors": [
@@ -2071,7 +2090,7 @@
    "journal": "Genetics in Medicine Open",
    "journal_id": "",
    "date": "2025-11-20",
-   "abstract": "Abstract Delayed diagnosis of Mendelian disease substantially prevents early therapeutic intervention that could improve symptoms and prognosis. One major contributing challenge is the functional interpretation of non-coding variants that cause disease by altering splicing and/or gene expression. We identified two siblings with glycogen storage disease (GSD) type IX γ2, both of whom had a classic clinical presentation, enzyme deficiency, and a known pathogenic splice acceptor variant on one allele of PHKG2 . Despite the autosomal recessive nature of the disease, no variant on the second allele was identified by gene panel sequencing. To identify a potential missing second pathogenic variant, we completed whole genome sequencing (WGS) and detected putative deep intronic splicing variant in PHKG2 in both siblings. We confirmed the functional splicing effects of this variant using short-read and long-read RNA-seq on patient blood and a HEK293T cell model in which we installed the variant using CRISPR editing. Using the cell model, we demonstrated multiple biochemical and cellular impacts that are consistent with GSD IX γ2, and a reversal of aberrant splicing using antisense splice-switching oligonucleotides. In doing so, we demonstrate a novel and robust pathway for detecting, validating, and reversing the impacts of novel non-coding causes of rare disease.",
+   "abstract": "Purpose Delayed diagnosis of Mendelian disease prevents early therapeutic intervention that could improve symptoms and prognosis. One major contributing challenge is functional interpretation of noncoding variants that alter splicing. Here, we aimed to better understand both how splice altering variants contribute to Mendelian disease and how to identify such mechanisms via an instrumental case study of 2 siblings with glycogen storage disease (GSD) IX γ2. Methods The siblings had a classic clinical presentation, enzyme deficiency, and a known pathogenic splice variant on 1 allele of PHKG2 (HGNC:8931). Despite the autosomal recessive nature of the disease, no coding variant on the second allele was identified by targeted sequencing. We evaluated potential noncoding pathogenic variants using genome sequencing and RNA sequencing and created an isogenic model of the candidate variant using CRISPR/Cas9 genome editing. Results In both siblings, we identified a second variant (NC_000016.10:g.30754626T>G [GRCh38]): a deep intronic variant that caused a 76-bp pseudoexon inclusion in PHKG2 . In a HEK293T cell model in which we installed that variant, we confirmed its effects on splicing in addition to multiple biochemical and cellular phenotypes consistent with GSD IX. We then reversed aberrant splicing using antisense oligonucleotide technology. Conclusion As evidenced by RNA sequencing, population and allelic segregation data, and phenotyping of an isogenic cell culture model of the variant, we concluded that PHKG2 c.556+1069T>G causes GSD IX γ2 and can be targeted using antisense oligonucleotides. This demonstrates a novel and robust pathway for detecting, validating, and reversing the impacts of noncoding causes of rare disease.",
    "type": "article",
    "url": "https://doi.org/10.1016/j.gimo.2025.103474",
    "scholar_id": "gregory-crawford",
