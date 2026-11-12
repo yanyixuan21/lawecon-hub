@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-12 07:13",
- "count": 129,
+ "updated_at": "2026-11-12 19:56",
+ "count": 130,
  "articles": [
   {
    "doi": "10.64898/2026.11.05.26367384",
@@ -1955,6 +1955,24 @@
    "scholar_id": "jorge-padilla",
    "scholar_name": "Jorge Padilla",
    "scholar_institution": "Compass Lexecon"
+  },
+  {
+   "doi": "10.2139/ssrn.7689738",
+   "title": "The Second Bride in the Bath: A Roadmap for a Monopolization Case Against Google in AI",
+   "authors": [
+    "Madhavi Singh",
+    "Fiona Scott Morton",
+    "Nick Jacobson"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.7689738",
+   "scholar_id": "fiona-scott-morton",
+   "scholar_name": "Fiona Scott Morton",
+   "scholar_institution": "Yale University"
   },
   {
    "doi": "10.5040/9781509987511.ch-005",
