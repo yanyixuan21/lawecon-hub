@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-12 19:56",
- "doc_count": 369,
+ "updated_at": "2026-11-13 06:48",
+ "doc_count": 368,
  "heat": [
   {
    "term": "antitrust",
@@ -35,10 +35,6 @@
    "count": 15
   },
   {
-   "term": "private",
-   "count": 14
-  },
-  {
    "term": "tax",
    "count": 14
   },
@@ -52,6 +48,10 @@
   },
   {
    "term": "firm",
+   "count": 12
+  },
+  {
+   "term": "private",
    "count": 12
   },
   {
@@ -95,10 +95,6 @@
    "count": 10
   },
   {
-   "term": "italian",
-   "count": 10
-  },
-  {
    "term": "value",
    "count": 9
   },
@@ -115,7 +111,7 @@
    "count": 9
   },
   {
-   "term": "contracts",
+   "term": "italian",
    "count": 9
   },
   {
@@ -148,6 +144,10 @@
   },
   {
    "term": "remedies",
+   "count": 8
+  },
+  {
+   "term": "contracts",
    "count": 8
   },
   {
@@ -533,7 +533,7 @@
    ]
   },
   "jie": {
-   "count": 32,
+   "count": 31,
    "avg_authors": 2.0,
    "terms": [
     {
