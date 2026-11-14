@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-14 06:25",
- "doc_count": 368,
+ "updated_at": "2026-11-14 18:04",
+ "doc_count": 370,
  "heat": [
   {
    "term": "antitrust",
@@ -167,6 +167,10 @@
    "count": 7
   },
   {
+   "term": "china",
+   "count": 7
+  },
+  {
    "term": "good",
    "count": 7
   },
@@ -271,10 +275,6 @@
    "count": 6
   },
   {
-   "term": "china",
-   "count": 6
-  },
-  {
    "term": "downstream",
    "count": 6
   },
@@ -331,7 +331,7 @@
    ]
   },
   "irle": {
-   "count": 42,
+   "count": 43,
    "avg_authors": 2.3,
    "terms": [
     {
@@ -369,7 +369,7 @@
    ]
   },
   "rio": {
-   "count": 38,
+   "count": 39,
    "avg_authors": 2.3,
    "terms": [
     {

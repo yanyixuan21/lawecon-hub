@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-14 06:25",
- "count": 368,
+ "updated_at": "2026-11-14 18:03",
+ "count": 370,
  "articles": [
   {
    "doi": "10.1016/j.ijindorg.2026.103320",
@@ -305,6 +305,20 @@
    "url": "https://doi.org/10.1016/j.irle.2026.106362"
   },
   {
+   "doi": "10.1007/s11151-026-10073-1",
+   "title": "Improving Section 7 Enforcement: The Hart-Scott-Rodino Amendment",
+   "authors": [
+    "Blair R D",
+    "Rodriguez S I"
+   ],
+   "journal": "Review of Industrial Organization",
+   "journal_id": "rio",
+   "date": "2026-11-14",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s11151-026-10073-1"
+  },
+  {
    "doi": "10.1007/s11151-026-10068-y",
    "title": "Code-sharing and Service Quality in African Aviation Markets",
    "authors": [
@@ -372,6 +386,19 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1080/17441056.2026.2755178"
+  },
+  {
+   "doi": "10.1016/j.irle.2026.106363",
+   "title": "Sentencing under Deadline Pressure: Evidence from Drunk Driving Cases in China",
+   "authors": [
+    "Huang Z"
+   ],
+   "journal": "International Review of Law and Economics",
+   "journal_id": "irle",
+   "date": "2026-11-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.irle.2026.106363"
   },
   {
    "doi": "10.1007/s10657-026-09890-2",
