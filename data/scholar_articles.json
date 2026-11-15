@@ -1,7 +1,31 @@
 {
- "updated_at": "2026-11-15 06:35",
- "count": 130,
+ "updated_at": "2026-11-15 18:53",
+ "count": 131,
  "articles": [
+  {
+   "doi": "10.1038/s41467-026-79602-6",
+   "title": "Enhancer-driven gene regulatory network of human forebrain development provides insights into autism",
+   "authors": [
+    "Alexandre Jourdon",
+    "Jessica Mariani",
+    "Abhiram Natu",
+    "Feinan Wu",
+    "Boxun Li",
+    "Davide Capauto",
+    "Kevin T. Hagy",
+    "Scott Norton",
+    "等"
+   ],
+   "journal": "Nature Communications",
+   "journal_id": "",
+   "date": "2026-11-14",
+   "abstract": "Cell differentiation is orchestrated by transcription factors binding to enhancers, shaping gene regulatory networks that drive neuronal lineage specification. Deciphering these enhancer-driven networks in human forebrain development is essential for understanding the genetic basis of neurodevelopmental disorders. Through integrative epigenomic and transcriptomic analyses of human forebrain organoids derived from 10 male individuals with autism spectrum disorder and their neurotypical fathers, we construct a comprehensive enhancer-driven gene regulatory network of early neurodevelopment. This network reveals hierarchical regulatory layers upstream of neuronal cell fate genes, experimentally validated via CRISPR interference and loss-of-function analyses. A subnetwork links autism-associated transcriptomic alterations to opposite activities of the transcription factors FOXG1, BHLHE22, EOMES, and NEUROD2, driving increased or decreased excitatory neuron specification in (respectively) macrocephalic or normocephalic individuals with autism. These findings support the association of autism with disruption of enhancer-driven regulatory networks altering neuronal cell fate decisions in the developing fetal brain. The authors construct a gene regulatory network showing the potential role of specific enhancer elements in driving lineage imbalance in autism, explaining why forebrain organoids from autism probands show heterogeneity in the generation of excitatory neurons.",
+   "type": "article",
+   "url": "https://doi.org/10.1038/s41467-026-79602-6",
+   "scholar_id": "gregory-crawford",
+   "scholar_name": "Gregory Crawford",
+   "scholar_institution": "University of Zurich"
+  },
   {
    "doi": "10.64898/2026.11.05.26367384",
    "title": "A multi-scale cell-type resolved map of trans-regulatory architecture in the aging human brain",
@@ -725,6 +749,38 @@
    "scholar_institution": "University of Zurich"
   },
   {
+   "doi": "10.1007/978-3-032-13473-8_14",
+   "title": "Thoughtful Competition Law: Power and Reflexivity",
+   "authors": [
+    "Nicolas Petit"
+   ],
+   "journal": "Springer eBooks",
+   "journal_id": "",
+   "date": "2026-04-01",
+   "abstract": "",
+   "type": "book-chapter",
+   "url": "https://doi.org/10.1007/978-3-032-13473-8_14",
+   "scholar_id": "nicolas-petit",
+   "scholar_name": "Nicolas Petit",
+   "scholar_institution": "University of Liège"
+  },
+  {
+   "doi": "10.1007/978-3-032-13473-8_12",
+   "title": "What Is an Exploitative Abuse?",
+   "authors": [
+    "Jorge Padilla"
+   ],
+   "journal": "Springer eBooks",
+   "journal_id": "",
+   "date": "2026-04-01",
+   "abstract": "",
+   "type": "book-chapter",
+   "url": "https://doi.org/10.1007/978-3-032-13473-8_12",
+   "scholar_id": "jorge-padilla",
+   "scholar_name": "Jorge Padilla",
+   "scholar_institution": "Compass Lexecon"
+  },
+  {
    "doi": "10.1016/j.lrp.2026.102636",
    "title": "Strategic responses of platform multinational enterprises: Rethinking competition policy through a comparative institutional perspective",
    "authors": [
@@ -973,22 +1029,6 @@
    "scholar_institution": "ESSEC Business School"
   },
   {
-   "doi": "10.1007/978-3-032-13473-8_14",
-   "title": "Thoughtful Competition Law: Power and Reflexivity",
-   "authors": [
-    "Nicolas Petit"
-   ],
-   "journal": "Springer eBooks",
-   "journal_id": "",
-   "date": "2026-01-01",
-   "abstract": "",
-   "type": "book-chapter",
-   "url": "https://doi.org/10.1007/978-3-032-13473-8_14",
-   "scholar_id": "nicolas-petit",
-   "scholar_name": "Nicolas Petit",
-   "scholar_institution": "University of Liège"
-  },
-  {
    "doi": "10.2139/ssrn.6505945",
    "title": "Cultural Exception? The Impact of Price Regulation on Prices and Variety in the Market for Books 1",
    "authors": [
@@ -1053,22 +1093,6 @@
    "abstract": "",
    "type": "preprint",
    "url": "https://doi.org/10.2139/ssrn.6349278",
-   "scholar_id": "jorge-padilla",
-   "scholar_name": "Jorge Padilla",
-   "scholar_institution": "Compass Lexecon"
-  },
-  {
-   "doi": "10.1007/978-3-032-13473-8_12",
-   "title": "What Is an Exploitative Abuse?",
-   "authors": [
-    "Jorge Padilla"
-   ],
-   "journal": "Springer eBooks",
-   "journal_id": "",
-   "date": "2026-01-01",
-   "abstract": "",
-   "type": "book-chapter",
-   "url": "https://doi.org/10.1007/978-3-032-13473-8_12",
    "scholar_id": "jorge-padilla",
    "scholar_name": "Jorge Padilla",
    "scholar_institution": "Compass Lexecon"

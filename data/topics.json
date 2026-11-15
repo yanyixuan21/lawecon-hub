@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-15 06:35",
- "doc_count": 371,
+ "updated_at": "2026-11-15 18:53",
+ "doc_count": 372,
  "heat": [
   {
    "term": "antitrust",
@@ -285,8 +285,8 @@
  ],
  "profiles": {
   "ijio": {
-   "count": 110,
-   "avg_authors": 2.4,
+   "count": 111,
+   "avg_authors": 2.5,
    "terms": [
     {
      "term": "market definition",
