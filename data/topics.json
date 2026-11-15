@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-14 22:26",
- "doc_count": 370,
+ "updated_at": "2026-11-15 06:35",
+ "doc_count": 371,
  "heat": [
   {
    "term": "antitrust",
@@ -8,7 +8,7 @@
   },
   {
    "term": "costs",
-   "count": 20
+   "count": 21
   },
   {
    "term": "innovation",
@@ -163,6 +163,10 @@
    "count": 7
   },
   {
+   "term": "higher",
+   "count": 7
+  },
+  {
    "term": "settlement",
    "count": 7
   },
@@ -211,7 +215,7 @@
    "count": 7
   },
   {
-   "term": "higher",
+   "term": "endogenous",
    "count": 6
   },
   {
@@ -277,16 +281,12 @@
   {
    "term": "downstream",
    "count": 6
-  },
-  {
-   "term": "investment",
-   "count": 6
   }
  ],
  "profiles": {
   "ijio": {
-   "count": 109,
-   "avg_authors": 2.5,
+   "count": 110,
+   "avg_authors": 2.4,
    "terms": [
     {
      "term": "market definition",
@@ -322,7 +322,7 @@
     },
     {
      "term": "market",
-     "count": 16
+     "count": 17
     },
     {
      "term": "price",
