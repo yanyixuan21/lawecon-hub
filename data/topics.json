@@ -1,11 +1,7 @@
 {
- "updated_at": "2026-11-17 07:58",
- "doc_count": 372,
+ "updated_at": "2026-11-17 20:57",
+ "doc_count": 373,
  "heat": [
-  {
-   "term": "antitrust",
-   "count": 22
-  },
   {
    "term": "costs",
    "count": 21
@@ -175,6 +171,10 @@
    "count": 7
   },
   {
+   "term": "power",
+   "count": 7
+  },
+  {
    "term": "good",
    "count": 7
   },
@@ -247,10 +247,6 @@
    "count": 6
   },
   {
-   "term": "power",
-   "count": 6
-  },
-  {
    "term": "significant",
    "count": 6
   },
@@ -281,11 +277,15 @@
   {
    "term": "downstream",
    "count": 6
+  },
+  {
+   "term": "investment",
+   "count": 6
   }
  ],
  "profiles": {
   "ijio": {
-   "count": 111,
+   "count": 112,
    "avg_authors": 2.5,
    "terms": [
     {
@@ -309,6 +309,10 @@
      "count": 2
     },
     {
+     "term": "market power",
+     "count": 2
+    },
+    {
      "term": "mergers investments",
      "count": 2
     },
@@ -317,12 +321,8 @@
      "count": 2
     },
     {
-     "term": "manufacturing firms",
-     "count": 2
-    },
-    {
      "term": "market",
-     "count": 17
+     "count": 18
     },
     {
      "term": "price",

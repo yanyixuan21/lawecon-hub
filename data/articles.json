@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-17 07:57",
- "count": 372,
+ "updated_at": "2026-11-17 20:56",
+ "count": 373,
  "articles": [
   {
    "doi": "10.1016/j.ijindorg.2026.103320",
@@ -305,6 +305,19 @@
    "url": "https://doi.org/10.1016/j.irle.2026.106362"
   },
   {
+   "doi": "10.1016/j.irle.2026.106363",
+   "title": "Sentencing under deadline pressure: Evidence from drunk driving cases in China",
+   "authors": [
+    "Huang Z"
+   ],
+   "journal": "International Review of Law and Economics",
+   "journal_id": "irle",
+   "date": "2026-11-17",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.irle.2026.106363"
+  },
+  {
    "doi": "10.1007/s11151-026-10073-1",
    "title": "Improving Section 7 Enforcement: The Hart-Scott-Rodino Amendment",
    "authors": [
@@ -388,19 +401,6 @@
    "url": "https://doi.org/10.1080/17441056.2026.2755178"
   },
   {
-   "doi": "10.1016/j.irle.2026.106363",
-   "title": "Sentencing under Deadline Pressure: Evidence from Drunk Driving Cases in China",
-   "authors": [
-    "Huang Z"
-   ],
-   "journal": "International Review of Law and Economics",
-   "journal_id": "irle",
-   "date": "2026-11-01",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.irle.2026.106363"
-  },
-  {
    "doi": "10.1016/j.ijindorg.2026.103344",
    "title": "Endogenous sunk costs and market structure in Vocational Higher Education",
    "authors": [
@@ -430,6 +430,22 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103345"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103347",
+   "title": "Antitrust Enforcement and Market Power: Evidence from DOJ Field-Office Closures",
+   "authors": [
+    "Deng Y",
+    "Wang N",
+    "Dong Y",
+    "Zeng S"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-11-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103347"
   },
   {
    "doi": "10.1007/s10657-026-09890-2",
