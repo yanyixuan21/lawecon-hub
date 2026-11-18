@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-18 07:31",
- "count": 132,
+ "updated_at": "2026-11-18 20:33",
+ "count": 133,
  "articles": [
   {
    "doi": "10.1038/s41467-026-79602-6",
@@ -49,6 +49,23 @@
    "scholar_id": "gregory-crawford",
    "scholar_name": "Gregory Crawford",
    "scholar_institution": "University of Zurich"
+  },
+  {
+   "doi": "10.1093/restud/rdag122",
+   "title": "Meritocracy and Homophily in Collegial Organizations",
+   "authors": [
+    "Paul-Henri Moisson",
+    "Jean Tirole"
+   ],
+   "journal": "The Review of Economic Studies",
+   "journal_id": "",
+   "date": "2026-11-06",
+   "abstract": "Abstract In collegial organizations, homophily jeopardizes the recruitment of the most talented (“meritocracy”). We analyze the dynamics and welfare properties of an organization whose incumbent members coopt new ones in a forward-looking manner. We identify organizations in which meritocracy is likely to give way to favoritism and entrenchment, and investigate policy interventions (such as affirmative action, quality-based or diversity-based funding, discretionary overruling of majority decisions, blind hiring processes) and their unintended consequences.",
+   "type": "article",
+   "url": "https://doi.org/10.1093/restud/rdag122",
+   "scholar_id": "jean-tirole",
+   "scholar_name": "Jean Tirole",
+   "scholar_institution": "Toulouse School of Economics"
   },
   {
    "doi": "10.7767/9783205225300.171",
@@ -120,7 +137,7 @@
     "Roland Bénabou",
     "Armin Falk",
     "Luca Henkel",
-    "Jean Tirole Z"
+    "Jean Tirole"
    ],
    "journal": "Games and Economic Behavior",
    "journal_id": "",
@@ -160,7 +177,7 @@
    "doi": "",
    "title": "Économie du désordre mondial",
    "authors": [
-    "Jean Tirole Z",
+    "Jean Tirole",
     "Karine Van der Straeten"
    ],
    "journal": "Toulouse 1 Capitole Publications (Université Toulouse I Capitole)",
@@ -302,7 +319,7 @@
    "authors": [
     "Stéfan Ambec",
     "Claude Crampes",
-    "Jean Tirole Z"
+    "Jean Tirole"
    ],
    "journal": "HAL",
    "journal_id": "",
@@ -359,7 +376,7 @@
    "doi": "10.1086/743388",
    "title": "Safe Spaces: Shelters or Tribes?",
    "authors": [
-    "Jean Tirole Z"
+    "Jean Tirole"
    ],
    "journal": "Journal of Political Economy",
    "journal_id": "",
@@ -676,7 +693,7 @@
     "Brian Barry",
     "Giuseppe Contissa",
     "Federico Galli",
-    "Giovanni Sartor B",
+    "Giovanni Sartor",
     "Frank Pasquale",
     "等"
    ],
@@ -871,7 +888,7 @@
    "doi": "10.3917/comm.193.0015",
    "title": "Mémoires et identités",
    "authors": [
-    "Jean Tirole Z"
+    "Jean Tirole"
    ],
    "journal": "Commentaire",
    "journal_id": "",
@@ -960,7 +977,7 @@
    "authors": [
     "Stéfan Ambec",
     "Claude Crampes",
-    "Jean Tirole Z"
+    "Jean Tirole"
    ],
    "journal": "HAL",
    "journal_id": "",
@@ -1032,7 +1049,7 @@
    "doi": "10.2139/ssrn.6505945",
    "title": "Cultural Exception? The Impact of Price Regulation on Prices and Variety in the Market for Books 1",
    "authors": [
-    "Christos Genakos B",
+    "Christos Genakos",
     "Lorien Sabatino",
     "Tommaso Valletti"
    ],
