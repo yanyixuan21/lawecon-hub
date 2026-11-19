@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-19 07:28",
- "count": 133,
+ "updated_at": "2026-11-19 20:39",
+ "count": 136,
  "articles": [
   {
    "doi": "10.1038/s41467-026-79602-6",
@@ -296,6 +296,42 @@
    "scholar_id": "gregory-crawford",
    "scholar_name": "Gregory Crawford",
    "scholar_institution": "University of Zurich"
+  },
+  {
+   "doi": "",
+   "title": "Pre-compensation strategies for pressure-driven microfluidic flow in elastic-walled channels",
+   "authors": [
+    "Timo Ströhle",
+    "Nicolas Petit"
+   ],
+   "journal": "HAL",
+   "journal_id": "",
+   "date": "2026-08-23",
+   "abstract": "",
+   "type": "conference-paper",
+   "url": "https://openalex.org/works/W7236509725",
+   "scholar_id": "nicolas-petit",
+   "scholar_name": "Nicolas Petit",
+   "scholar_institution": "University of Liège"
+  },
+  {
+   "doi": "",
+   "title": "Sampled data closed-loop controller of a pressure-driven filtration device with dead volume",
+   "authors": [
+    "Michaël Vincendon",
+    "David Laurin",
+    "Philippe Drillat",
+    "Nicolas Petit"
+   ],
+   "journal": "HAL",
+   "journal_id": "",
+   "date": "2026-08-23",
+   "abstract": "",
+   "type": "conference-paper",
+   "url": "https://openalex.org/works/W7236512996",
+   "scholar_id": "nicolas-petit",
+   "scholar_name": "Nicolas Petit",
+   "scholar_institution": "University of Liège"
   },
   {
    "doi": "10.1016/j.clsr.2026.106389",
@@ -2031,6 +2067,23 @@
    "scholar_id": "woodrow-hartzog",
    "scholar_name": "Woodrow Hartzog",
    "scholar_institution": "Boston University"
+  },
+  {
+   "doi": "",
+   "title": "Control of a two-fluid proportioning system using a pinch valve",
+   "authors": [
+    "Delphine Bresch‐Pietri",
+    "Nicolas Petit"
+   ],
+   "journal": "HAL",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "article",
+   "url": "https://openalex.org/works/W7236543469",
+   "scholar_id": "nicolas-petit",
+   "scholar_name": "Nicolas Petit",
+   "scholar_institution": "University of Liège"
   },
   {
    "doi": "10.5040/9781509987511.ch-005",
