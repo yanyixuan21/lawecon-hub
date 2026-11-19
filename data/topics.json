@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-18 20:33",
- "doc_count": 373,
+ "updated_at": "2026-11-19 07:28",
+ "doc_count": 372,
  "heat": [
   {
    "term": "costs",
@@ -47,10 +47,6 @@
    "count": 12
   },
   {
-   "term": "private",
-   "count": 12
-  },
-  {
    "term": "strategic",
    "count": 11
   },
@@ -63,15 +59,15 @@
    "count": 11
   },
   {
-   "term": "consumers",
-   "count": 11
-  },
-  {
    "term": "collusion",
    "count": 10
   },
   {
    "term": "rules",
+   "count": 10
+  },
+  {
+   "term": "private",
    "count": 10
   },
   {
@@ -95,7 +91,7 @@
    "count": 9
   },
   {
-   "term": "product",
+   "term": "consumers",
    "count": 9
   },
   {
@@ -123,6 +119,10 @@
    "count": 8
   },
   {
+   "term": "product",
+   "count": 8
+  },
+  {
    "term": "welfare",
    "count": 8
   },
@@ -143,10 +143,6 @@
    "count": 8
   },
   {
-   "term": "contracts",
-   "count": 8
-  },
-  {
    "term": "digital markets",
    "count": 7
   },
@@ -156,10 +152,6 @@
   },
   {
    "term": "search",
-   "count": 7
-  },
-  {
-   "term": "higher",
    "count": 7
   },
   {
@@ -216,6 +208,10 @@
   },
   {
    "term": "endogenous",
+   "count": 6
+  },
+  {
+   "term": "higher",
    "count": 6
   },
   {
@@ -280,6 +276,10 @@
   },
   {
    "term": "investment",
+   "count": 6
+  },
+  {
+   "term": "contract",
    "count": 6
   }
  ],
@@ -533,7 +533,7 @@
    ]
   },
   "jie": {
-   "count": 31,
+   "count": 30,
    "avg_authors": 2.0,
    "terms": [
     {
