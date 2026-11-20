@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-19 20:38",
- "count": 372,
+ "updated_at": "2026-11-20 07:20",
+ "count": 373,
  "articles": [
   {
    "doi": "10.1016/j.ijindorg.2026.103320",
@@ -11,7 +11,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103320"
@@ -27,7 +27,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103322"
@@ -41,7 +41,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103321"
@@ -55,7 +55,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103324"
@@ -71,7 +71,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103323"
@@ -87,7 +87,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103334"
@@ -100,7 +100,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103336"
@@ -114,7 +114,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103337"
@@ -130,7 +130,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103335"
@@ -146,7 +146,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103338"
@@ -159,7 +159,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103339"
@@ -172,7 +172,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103340"
@@ -187,7 +187,7 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103341"
@@ -202,10 +202,24 @@
    ],
    "journal": "International Journal of Industrial Organization",
    "journal_id": "ijio",
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103343"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103342",
+   "title": "Assessing the common ownership hypothesis in the US banking industry",
+   "authors": [
+    "Grundl S",
+    "Gramlich J"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-11-20",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103342"
   },
   {
    "doi": "10.1016/j.irle.2026.106349",
@@ -261,20 +275,6 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.irle.2026.106361"
-  },
-  {
-   "doi": "10.1016/j.ijindorg.2026.103342",
-   "title": "Assessing the common ownership hypothesis in the US banking industry",
-   "authors": [
-    "Grundl S",
-    "Gramlich J"
-   ],
-   "journal": "International Journal of Industrial Organization",
-   "journal_id": "ijio",
-   "date": "2026-11-19",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.ijindorg.2026.103342"
   },
   {
    "doi": "10.1016/j.irle.2026.106359",
@@ -446,6 +446,20 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103347"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103348",
+   "title": "Best-Price Provision under Loss Aversion",
+   "authors": [
+    "Altınok A",
+    "Yılmaz M"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-11-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103348"
   },
   {
    "doi": "10.1007/s10657-026-09890-2",
