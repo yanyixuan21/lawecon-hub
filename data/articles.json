@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-20 07:20",
- "count": 373,
+ "updated_at": "2026-11-20 20:22",
+ "count": 374,
  "articles": [
   {
    "doi": "10.1016/j.ijindorg.2026.103320",
@@ -230,7 +230,7 @@
    ],
    "journal": "International Review of Law and Economics",
    "journal_id": "irle",
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.irle.2026.106349"
@@ -243,7 +243,7 @@
    ],
    "journal": "International Review of Law and Economics",
    "journal_id": "irle",
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.irle.2026.106347"
@@ -256,7 +256,7 @@
    ],
    "journal": "International Review of Law and Economics",
    "journal_id": "irle",
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.irle.2026.106360"
@@ -271,7 +271,7 @@
    ],
    "journal": "International Review of Law and Economics",
    "journal_id": "irle",
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.irle.2026.106361"
@@ -284,7 +284,7 @@
    ],
    "journal": "International Review of Law and Economics",
    "journal_id": "irle",
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.irle.2026.106359"
@@ -299,7 +299,7 @@
    ],
    "journal": "International Review of Law and Economics",
    "journal_id": "irle",
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.irle.2026.106362"
@@ -312,7 +312,7 @@
    ],
    "journal": "International Review of Law and Economics",
    "journal_id": "irle",
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.irle.2026.106363"
@@ -330,35 +330,6 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1007/s11151-026-10073-1"
-  },
-  {
-   "doi": "10.1007/s11151-026-10068-y",
-   "title": "Code-sharing and Service Quality in African Aviation Markets",
-   "authors": [
-    "Gualini A",
-    "Martini G",
-    "Ogliari L",
-    "Scotti D"
-   ],
-   "journal": "Review of Industrial Organization",
-   "journal_id": "rio",
-   "date": "2026-11-11",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1007/s11151-026-10068-y"
-  },
-  {
-   "doi": "10.1007/s11151-026-10075-z",
-   "title": "Special Issue on Selected Papers from the 27th ATRS World Conference, Lisbon, 2024 - Introduction",
-   "authors": [
-    "Bontemps C"
-   ],
-   "journal": "Review of Industrial Organization",
-   "journal_id": "rio",
-   "date": "2026-11-10",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1007/s11151-026-10075-z"
   },
   {
    "doi": "10.1007/s10657-026-09891-1",
@@ -399,6 +370,35 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1080/17441056.2026.2755178"
+  },
+  {
+   "doi": "10.1007/s11151-026-10068-y",
+   "title": "Code-sharing and Service Quality in African Aviation Markets",
+   "authors": [
+    "Gualini A",
+    "Martini G",
+    "Ogliari L",
+    "Scotti D"
+   ],
+   "journal": "Review of Industrial Organization",
+   "journal_id": "rio",
+   "date": "2026-11-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s11151-026-10068-y"
+  },
+  {
+   "doi": "10.1007/s11151-026-10075-z",
+   "title": "Special Issue on Selected Papers from the 27th ATRS World Conference, Lisbon, 2024 - Introduction",
+   "authors": [
+    "Bontemps C"
+   ],
+   "journal": "Review of Industrial Organization",
+   "journal_id": "rio",
+   "date": "2026-11-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s11151-026-10075-z"
   },
   {
    "doi": "10.1016/j.ijindorg.2026.103344",
@@ -460,6 +460,23 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103348"
+  },
+  {
+   "doi": "10.1016/j.ijindorg.2026.103346",
+   "title": "Collusion Detection with Graph Neural Networks",
+   "authors": [
+    "Gomes L",
+    "Spindler M",
+    "Kueck J",
+    "Mattes M",
+    "Zaytsev A"
+   ],
+   "journal": "International Journal of Industrial Organization",
+   "journal_id": "ijio",
+   "date": "2026-11-01",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.ijindorg.2026.103346"
   },
   {
    "doi": "10.1007/s10657-026-09890-2",

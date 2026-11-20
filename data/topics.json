@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-20 07:20",
- "doc_count": 373,
+ "updated_at": "2026-11-20 20:23",
+ "doc_count": 374,
  "heat": [
   {
    "term": "costs",
@@ -51,16 +51,16 @@
    "count": 11
   },
   {
+   "term": "collusion",
+   "count": 11
+  },
+  {
    "term": "industry",
    "count": 11
   },
   {
    "term": "demand",
    "count": 11
-  },
-  {
-   "term": "collusion",
-   "count": 10
   },
   {
    "term": "rules",
@@ -285,7 +285,7 @@
  ],
  "profiles": {
   "ijio": {
-   "count": 113,
+   "count": 114,
    "avg_authors": 2.5,
    "terms": [
     {

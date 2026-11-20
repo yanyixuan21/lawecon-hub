@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-11-20 07:20",
- "count": 136,
+ "updated_at": "2026-11-20 20:23",
+ "count": 137,
  "articles": [
+  {
+   "doi": "10.1093/restud/rdag122",
+   "title": "Meritocracy and Homophily in Collegial Organizations",
+   "authors": [
+    "Paul-Henri Moisson",
+    "Jean Tirole"
+   ],
+   "journal": "The Review of Economic Studies",
+   "journal_id": "",
+   "date": "2026-11-17",
+   "abstract": "In collegial organizations, homophily jeopardizes the recruitment of the most talented (“meritocracy”). We analyze the dynamics and welfare properties of an organization whose incumbent members coopt new ones in a forward-looking manner. We identify organizations in which meritocracy is likely to give way to favoritism and entrenchment, and investigate policy interventions (such as affirmative action, quality-based or diversity-based funding, discretionary overruling of majority decisions, blind hiring processes) and their unintended consequences.",
+   "type": "article",
+   "url": "https://doi.org/10.1093/restud/rdag122",
+   "scholar_id": "jean-tirole",
+   "scholar_name": "Jean Tirole",
+   "scholar_institution": "Toulouse School of Economics"
+  },
   {
    "doi": "10.1038/s41467-026-79602-6",
    "title": "Enhancer-driven gene regulatory network of human forebrain development provides insights into autism",
@@ -43,29 +60,12 @@
    "journal": "medRxiv",
    "journal_id": "",
    "date": "2026-11-08",
-   "abstract": "Abstract Mapping genetic effects on distal genes and regulatory programs is essential for understanding how genetic variation influences complex diseases; yet trans -QTL discovery remains limited by weak effect sizes, extensive multiple testing and poor reproducibility. Here, we introduce TransMap , a generalizable computational framework that combines multi-scale trans -QTL mapping with multi-phenotype genetic colocalization to improve the discovery and interpretation of distal regulatory variants. Beyond individual trans -eGenes, TransMap constructs local co-regulatory program phenotypes that account for background expression variation to improve the detection of weak, coordinated distal genetic effects. Across a broad range of simulation settings, TransMap achieved 9.2-36.7% higher trans -QTL discovery power than existing methods while maintaining well-controlled type I error rates. We applied TransMap to bulk and single-nucleus transcriptomic profiles from the aging human brain in the ADSP Functional Genomics Consortium (FunGen-AD), further integrating proteomic, glycoproteomic and metabolomic biomarker measurements (average N= 476 donors). Genome-wide fine-mapping of TransMap single-gene and program-level QTL yielded variant annotations with 2.75-2.88x heritability enrichment across 57 complex diseases and traits (average N= 307K), with complementary heritability information captured across regulatory scales. Multi-phenotype colocalization identified 49,532 trans -regulatory events supported by shared genetic signals with cis -eQTL or biomarker-QTL, including 1,825 candidate cis–trans–biomarker regulatory configurations. TransMap further revealed an asymmetric cross-cell-type regulatory architecture in which neuronal cis -regulatory signals preferentially associate with coordinated glial trans -regulatory responses, supported by co-culture experiments and spatial transcriptomics. Alzheimer’s disease (AD) GWAS-prioritized colocalization identified trans -regulatory associations in 115 AD-associated loci, including a KNOP1 cis -eQTL associated in trans with a microglial regulatory program containing MS4A4E , with additional support from statistical mediation analysis. TransMap provides a multi-scale, cell-type-resolved atlas of trans -regulatory variation and a generalizable framework for elucidating the regulatory architecture of complex diseases.",
+   "abstract": "Mapping genetic effects on distal genes and regulatory programs is essential for understanding how genetic variation influences complex diseases; yet trans -QTL discovery remains limited by weak effect sizes, extensive multiple testing and poor reproducibility. Here, we introduce TransMap , a generalizable computational framework that combines multi-scale trans -QTL mapping with multi-phenotype genetic colocalization to improve the discovery and interpretation of distal regulatory variants. Beyond individual trans -eGenes, TransMap constructs local co-regulatory program phenotypes that account for background expression variation to improve the detection of weak, coordinated distal genetic effects. Across a broad range of simulation settings, TransMap achieved 9.2-36.7% higher trans -QTL discovery power than existing methods while maintaining well-controlled type I error rates. We applied TransMap to bulk and single-nucleus transcriptomic profiles from the aging human brain in the ADSP Functional Genomics Consortium (FunGen-AD), further integrating proteomic, glycoproteomic and metabolomic biomarker measurements (average N= 476 donors). Genome-wide fine-mapping of TransMap single-gene and program-level QTL yielded variant annotations with 2.75-2.88x heritability enrichment across 57 complex diseases and traits (average N= 307K), with complementary heritability information captured across regulatory scales. Multi-phenotype colocalization identified 49,532 trans -regulatory events supported by shared genetic signals with cis -eQTL or biomarker-QTL, including 1,825 candidate cis–trans–biomarker regulatory configurations. TransMap further revealed an asymmetric cross-cell-type regulatory architecture in which neuronal cis -regulatory signals preferentially associate with coordinated glial trans -regulatory responses, supported by co-culture experiments and spatial transcriptomics. Alzheimer’s disease (AD) GWAS-prioritized colocalization identified trans -regulatory associations in 115 AD-associated loci, including a KNOP1 cis -eQTL associated in trans with a microglial regulatory program containing MS4A4E , with additional support from statistical mediation analysis. TransMap provides a multi-scale, cell-type-resolved atlas of trans -regulatory variation and a generalizable framework for elucidating the regulatory architecture of complex diseases.",
    "type": "preprint",
    "url": "https://doi.org/10.64898/2026.11.05.26367384",
    "scholar_id": "gregory-crawford",
    "scholar_name": "Gregory Crawford",
    "scholar_institution": "University of Zurich"
-  },
-  {
-   "doi": "10.1093/restud/rdag122",
-   "title": "Meritocracy and Homophily in Collegial Organizations",
-   "authors": [
-    "Paul-Henri Moisson",
-    "Jean Tirole"
-   ],
-   "journal": "The Review of Economic Studies",
-   "journal_id": "",
-   "date": "2026-11-06",
-   "abstract": "Abstract In collegial organizations, homophily jeopardizes the recruitment of the most talented (“meritocracy”). We analyze the dynamics and welfare properties of an organization whose incumbent members coopt new ones in a forward-looking manner. We identify organizations in which meritocracy is likely to give way to favoritism and entrenchment, and investigate policy interventions (such as affirmative action, quality-based or diversity-based funding, discretionary overruling of majority decisions, blind hiring processes) and their unintended consequences.",
-   "type": "article",
-   "url": "https://doi.org/10.1093/restud/rdag122",
-   "scholar_id": "jean-tirole",
-   "scholar_name": "Jean Tirole",
-   "scholar_institution": "Toulouse School of Economics"
   },
   {
    "doi": "10.7767/9783205225300.171",
@@ -82,6 +82,22 @@
    "scholar_id": "fiona-scott-morton",
    "scholar_name": "Fiona Scott Morton",
    "scholar_institution": "Yale University"
+  },
+  {
+   "doi": "10.1086/743388",
+   "title": "Safe Spaces: Shelters or Tribes?",
+   "authors": [
+    "Jean Tirole"
+   ],
+   "journal": "Journal of Political Economy",
+   "journal_id": "",
+   "date": "2026-10-27",
+   "abstract": "",
+   "type": "article",
+   "url": "https://doi.org/10.1086/743388",
+   "scholar_id": "jean-tirole",
+   "scholar_name": "Jean Tirole",
+   "scholar_institution": "Toulouse School of Economics"
   },
   {
    "doi": "10.1038/s44284-026-00536-7",
@@ -166,7 +182,7 @@
    "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
    "journal_id": "",
    "date": "2026-09-17",
-   "abstract": "Abstract Schizophrenia (SCZ) is a highly heritable complex disorder influenced by coding and noncoding genetic variation. Its genetic causes, particularly those involving noncoding variation, are largely unknown. High-throughput CRISPR screens enable dissection of disease-associated loci and identification of noncoding regulatory elements and variants that modulate gene expression. We screened SCZ GWAS loci linked to genes that are also associated in whole-exome sequencing studies to identify regulatory elements and variants impacting expression of disease-relevant genes. We used CRISPRi paired with HCR-FlowFISH to epigenetically silence 333 putative regulatory elements and measure the downstream effects on gene expression of causal SCZ genes, FAM120A , SV2A , and STAG1 , in iPSCs and iPSC-derived neurons (iNeurons). We identified 78 regulatory elements that significantly alter expression of a SCZ gene, including noncoding enhancers/silencers as well as promoters of genes and lncRNAs. Pooled prime editing screens interrogated noncoding variant influence on gene expression for SCZ-associated variants and uncharacterized common variants from diverse population studies. We find that a common variant in the promoter of SV2A , rs112851681:A>G (MAF = 3.56%, 1000 Genomes) enhances transcriptional activity in iPSCs and iNeurons. These findings show distinct noncoding mechanisms that map within GWAS signals, and provide a path forward for interrogating noncoding regulatory elements and variants in disease loci.",
+   "abstract": "Schizophrenia (SCZ) is a highly heritable complex disorder influenced by coding and noncoding genetic variation. Its genetic causes, particularly those involving noncoding variation, are largely unknown. High-throughput CRISPR screens enable dissection of disease-associated loci and identification of noncoding regulatory elements and variants that modulate gene expression. We screened SCZ GWAS loci linked to genes that are also associated in whole-exome sequencing studies to identify regulatory elements and variants impacting expression of disease-relevant genes. We used CRISPRi paired with HCR-FlowFISH to epigenetically silence 333 putative regulatory elements and measure the downstream effects on gene expression of causal SCZ genes, FAM120A , SV2A , and STAG1 , in iPSCs and iPSC-derived neurons (iNeurons). We identified 78 regulatory elements that significantly alter expression of a SCZ gene, including noncoding enhancers/silencers as well as promoters of genes and lncRNAs. Pooled prime editing screens interrogated noncoding variant influence on gene expression for SCZ-associated variants and uncharacterized common variants from diverse population studies. We find that a common variant in the promoter of SV2A , rs112851681:A>G (MAF = 3.56%, 1000 Genomes) enhances transcriptional activity in iPSCs and iNeurons. These findings show distinct noncoding mechanisms that map within GWAS signals, and provide a path forward for interrogating noncoding regulatory elements and variants in disease loci.",
    "type": "preprint",
    "url": "https://doi.org/10.64898/2026.09.03.749158",
    "scholar_id": "gregory-crawford",
@@ -290,7 +306,7 @@
    "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
    "journal_id": "",
    "date": "2026-08-25",
-   "abstract": "Abstract Toxicants in the environment can significantly impact physiology. Environmental chemical exposures during early developmental stages disturb normal embryonic development and programming, and dramatically impact long-term health as individuals age. Female and male animals show distinct phenotypes when responding to a given chemical exposure. Here, through the TaRGET II (Toxicant Exposures and Responses by Genomic and Epigenomic Regulators of Transcription) consortium, we systematically explored sex-specific transcriptomic and epigenomic alterations in response to various toxicants, including arsenic (As), lead (Pb), tributyltin (TBT), bisphenol A (BPA), di(2-ethylhexyl) phthalate (DEHP), dioxin (TCDD), and fine particulate matter (PM2.5), across three time points in mice exposed two weeks prior to conception through gestation and lactation. After being exposed to toxicants during the embryonic and early postnatal developmental stages, 1,025 omics datasets were generated from the liver and analyzed across three mouse life stages. We discovered a significant sex-biased molecular response to distinct exposures in the liver at both the transcriptomic and epigenetic levels, showing dynamic changes across mouse development and aging. The perturbed pathways and transcription factors in response to different chemical exposures in both sexes were further evaluated to measure the sex-specific impact of each toxic exposure in the liver. Overall, this study presents the most detailed investigation of sex-specific molecular signatures under the influence of developmental exposures to toxic substances.",
+   "abstract": "Toxicants in the environment can significantly impact physiology. Environmental chemical exposures during early developmental stages disturb normal embryonic development and programming, and dramatically impact long-term health as individuals age. Female and male animals show distinct phenotypes when responding to a given chemical exposure. Here, through the TaRGET II (Toxicant Exposures and Responses by Genomic and Epigenomic Regulators of Transcription) consortium, we systematically explored sex-specific transcriptomic and epigenomic alterations in response to various toxicants, including arsenic (As), lead (Pb), tributyltin (TBT), bisphenol A (BPA), di(2-ethylhexyl) phthalate (DEHP), dioxin (TCDD), and fine particulate matter (PM2.5), across three time points in mice exposed two weeks prior to conception through gestation and lactation. After being exposed to toxicants during the embryonic and early postnatal developmental stages, 1,025 omics datasets were generated from the liver and analyzed across three mouse life stages. We discovered a significant sex-biased molecular response to distinct exposures in the liver at both the transcriptomic and epigenetic levels, showing dynamic changes across mouse development and aging. The perturbed pathways and transcription factors in response to different chemical exposures in both sexes were further evaluated to measure the sex-specific impact of each toxic exposure in the liver. Overall, this study presents the most detailed investigation of sex-specific molecular signatures under the influence of developmental exposures to toxic substances.",
    "type": "preprint",
    "url": "https://doi.org/10.64898/2026.08.20.746014",
    "scholar_id": "gregory-crawford",
@@ -409,20 +425,21 @@
    "scholar_institution": "University of Zurich"
   },
   {
-   "doi": "10.1086/743388",
-   "title": "Safe Spaces: Shelters or Tribes?",
+   "doi": "10.1093/jeclap/lpag048",
+   "title": "When iRobot met Amazon",
    "authors": [
-    "Jean Tirole"
+    "Gabriel Baron",
+    "Jorge Padilla"
    ],
-   "journal": "Journal of Political Economy",
+   "journal": "Journal of European Competition Law & Practice",
    "journal_id": "",
-   "date": "2026-07-31",
-   "abstract": "",
+   "date": "2026-08-03",
+   "abstract": "Amazon/iRobot is a warning whereby ex-post shocks can expose the limits of current merger-control framework in assessing dynamic efficiencies. In innovation-intensive markets merger control can generate costly prediction errors when it undervalues acquisitions as routes to scale, investment, and exit, since blocking deals may also weaken entry incentives and operate in practice as a form of exit policy. Merger control should become more contestable, reflexive, and reversible, with dynamic efficiencies and incentive effects assessed as rigorously as foreclosure risks, and with remedies designed as adaptable when predictions prove wrong.",
    "type": "article",
-   "url": "https://doi.org/10.1086/743388",
-   "scholar_id": "jean-tirole",
-   "scholar_name": "Jean Tirole",
-   "scholar_institution": "Toulouse School of Economics"
+   "url": "https://doi.org/10.1093/jeclap/lpag048",
+   "scholar_id": "jorge-padilla",
+   "scholar_name": "Jorge Padilla",
+   "scholar_institution": "Compass Lexecon"
   },
   {
    "doi": "10.1007/s00712-026-00924-6",
@@ -435,7 +452,7 @@
    "journal": "Journal of Economics",
    "journal_id": "",
    "date": "2026-07-23",
-   "abstract": "Abstract This paper examines the competitive and welfare effects of a wave of vertical mergers in a supply chain model where two upstream suppliers, with different marginal costs of production, provide a homogeneous input to three horizontally differentiated retailers. We identify conditions under which a wave of vertical mergers unambiguously improves consumer welfare. Specifically, when the most efficient supplier is the first to integrate and the market is fully covered, the subsequent integration by the less efficient supplier unambiguously benefit consumers irrespective of whether the independent retailer is foreclosed or not. The intuition is that the second merger helps the less efficient supplier establish a protected position in the downstream market, preventing the more efficient competitor from leveraging its cost advantage to create contractual barriers to entry in the upstream market and monopolize the downstream market. If the order of mergers changes, a merger wave may or may not benefit consumers depending on the degree of cost heterogeneity and the degree of product differentiation. Interestingly, when comparing consumer welfare across different market structures — namely, no integration at all, single integration, and a wave of vertical mergers — we show that when a merger wave maximizes consumer welfare, it requires the independent retailer to be foreclosed.",
+   "abstract": "This paper examines the competitive and welfare effects of a wave of vertical mergers in a supply chain model where two upstream suppliers, with different marginal costs of production, provide a homogeneous input to three horizontally differentiated retailers. We identify conditions under which a wave of vertical mergers unambiguously improves consumer welfare. Specifically, when the most efficient supplier is the first to integrate and the market is fully covered, the subsequent integration by the less efficient supplier unambiguously benefit consumers irrespective of whether the independent retailer is foreclosed or not. The intuition is that the second merger helps the less efficient supplier establish a protected position in the downstream market, preventing the more efficient competitor from leveraging its cost advantage to create contractual barriers to entry in the upstream market and monopolize the downstream market. If the order of mergers changes, a merger wave may or may not benefit consumers depending on the degree of cost heterogeneity and the degree of product differentiation. Interestingly, when comparing consumer welfare across different market structures — namely, no integration at all, single integration, and a wave of vertical mergers — we show that when a merger wave maximizes consumer welfare, it requires the independent retailer to be foreclosed.",
    "type": "article",
    "url": "https://doi.org/10.1007/s00712-026-00924-6",
    "scholar_id": "jorge-padilla",
@@ -460,23 +477,6 @@
    "scholar_institution": "Toulouse School of Economics"
   },
   {
-   "doi": "10.1093/jeclap/lpag048",
-   "title": "When iRobot met Amazon",
-   "authors": [
-    "Gabriel Baron",
-    "Jorge Padilla"
-   ],
-   "journal": "Journal of European Competition Law & Practice",
-   "journal_id": "",
-   "date": "2026-07-11",
-   "abstract": "Abstract Amazon/iRobot is a warning whereby ex-post shocks can expose the limits of current merger-control framework in assessing dynamic efficiencies. In innovation-intensive markets merger control can generate costly prediction errors when it undervalues acquisitions as routes to scale, investment, and exit, since blocking deals may also weaken entry incentives and operate in practice as a form of exit policy. Merger control should become more contestable, reflexive, and reversible, with dynamic efficiencies and incentive effects assessed as rigorously as foreclosure risks, and with remedies designed as adaptable when predictions prove wrong.",
-   "type": "article",
-   "url": "https://doi.org/10.1093/jeclap/lpag048",
-   "scholar_id": "jorge-padilla",
-   "scholar_name": "Jorge Padilla",
-   "scholar_institution": "Compass Lexecon"
-  },
-  {
    "doi": "10.1038/s41467-026-75115-4",
    "title": "High-throughput characterization of transcription factors that modulate UV damage formation and repair at single-nucleotide resolution",
    "authors": [
@@ -493,7 +493,7 @@
    "journal": "Nature Communications",
    "journal_id": "",
    "date": "2026-07-10",
-   "abstract": "Abstract Genomic studies revealed elevated DNA damage and mutation rates at transcription factor (TF) binding sites in UV-linked cancers. While TFs can promote UV-induced mutagenesis by altering both damage formation and repair, these mechanisms have not been systematically characterized across TFs at high resolution. Using genome-wide UV damage maps from skin fibroblasts, we develop a scalable statistical framework to analyze TF-mediated mutagenic mechanisms across hundreds of TFs. We identify numerous previously unreported TFs that significantly enhance or suppress UV damage formation within their binding sites. A systematic survey of TF-DNA complexes reveals that damage modulation often coincides with TF-induced DNA distortions that either protect against or promote photodimer formation. Additionally, we analyze repair efficiency in TF binding sites at high resolution, identifying TFs likely to compete with repair. Comparisons with skin cancer mutations distinguish mutation enrichment driven by increased damageability versus attenuated repair, revealing the highly contextual nature of TF-mediated mutagenesis.",
+   "abstract": "Genomic studies revealed elevated DNA damage and mutation rates at transcription factor (TF) binding sites in UV-linked cancers. While TFs can promote UV-induced mutagenesis by altering both damage formation and repair, these mechanisms have not been systematically characterized across TFs at high resolution. Using genome-wide UV damage maps from skin fibroblasts, we develop a scalable statistical framework to analyze TF-mediated mutagenic mechanisms across hundreds of TFs. We identify numerous previously unreported TFs that significantly enhance or suppress UV damage formation within their binding sites. A systematic survey of TF-DNA complexes reveals that damage modulation often coincides with TF-induced DNA distortions that either protect against or promote photodimer formation. Additionally, we analyze repair efficiency in TF binding sites at high resolution, identifying TFs likely to compete with repair. Comparisons with skin cancer mutations distinguish mutation enrichment driven by increased damageability versus attenuated repair, revealing the highly contextual nature of TF-mediated mutagenesis.",
    "type": "article",
    "url": "https://doi.org/10.1038/s41467-026-75115-4",
    "scholar_id": "gregory-crawford",
@@ -540,6 +540,22 @@
    "scholar_institution": "University of Liège"
   },
   {
+   "doi": "10.1093/jaenfo/jnag007",
+   "title": "Platform and infrastructure competition after Android Auto",
+   "authors": [
+    "Konstantinos Stylianou"
+   ],
+   "journal": "Journal of Antitrust Enforcement",
+   "journal_id": "",
+   "date": "2026-07-02",
+   "abstract": "On 25 February 2025, the Grand Chamber of the Court of Justice delivered its judgment in the Android Auto case, remaking the core doctrine around how dominant undertakings relate to their competitors and the extent to which they have an obligation to assist them, namely the refusal to deal doctrine. Despite the good intention to update a notoriously strict doctrine for the digital economy (if not more broadly), the Court may have moved too far too fast. This article critically assesses the new refusal to deal doctrine, its relationship with past caselaw, its tension with platform literature, and its interaction with the Digital Markets Act, with which it overlaps. Crucially, it also proposes simple ways by which the new test could have been better calibrated while at the same time still allowing the Court to achieve its objectives.",
+   "type": "article",
+   "url": "https://doi.org/10.1093/jaenfo/jnag007",
+   "scholar_id": "konstantinos-stylianou",
+   "scholar_name": "Konstantinos Stylianou",
+   "scholar_institution": "University of Leeds"
+  },
+  {
    "doi": "10.5465/amproc.2026.10691abstract",
    "title": "Strategies for Coping with Big Tech Dominance: Regulation, Reform, or Revolution?",
    "authors": [
@@ -567,7 +583,7 @@
    "journal": "Oxford University Press eBooks",
    "journal_id": "",
    "date": "2026-06-22",
-   "abstract": "Abstract The chapter charts the way in which the UK’s departure from the European Union coincided with significant change in EU digital governance. The impetus for this reform of the first generation of EU digital regulation was social and technical. The movement from a unidirectional internet to the platform economy, and now the mainstreaming of so-called artificial intelligence (AI), brought about considerable social and economic change. The optimism associated with earlier technical advances was tempered by challenges, including child safety, misinformation, and the vast power of technology providers. This resulted in a second generation of digital rules that are more interventionist and numerous. The story of digital and data regulation in the EU and the UK post-Brexit is best envisaged in two layers. Above the surface, both jurisdictions introduced reform to the legislative landscape. However, the common ground between them pre-dates Brexit, whereas regulatory responses to societal challenges post-Brexit increasingly diverge.",
+   "abstract": "The chapter charts the way in which the UK’s departure from the European Union coincided with significant change in EU digital governance. The impetus for this reform of the first generation of EU digital regulation was social and technical. The movement from a unidirectional internet to the platform economy, and now the mainstreaming of so-called artificial intelligence (AI), brought about considerable social and economic change. The optimism associated with earlier technical advances was tempered by challenges, including child safety, misinformation, and the vast power of technology providers. This resulted in a second generation of digital rules that are more interventionist and numerous. The story of digital and data regulation in the EU and the UK post-Brexit is best envisaged in two layers. Above the surface, both jurisdictions introduced reform to the legislative landscape. However, the common ground between them pre-dates Brexit, whereas regulatory responses to societal challenges post-Brexit increasingly diverge.",
    "type": "book-chapter",
    "url": "https://doi.org/10.1093/9780198969815.003.0017",
    "scholar_id": "orla-lynskey",
@@ -591,6 +607,24 @@
    "scholar_institution": "University of Leeds"
   },
   {
+   "doi": "10.1093/joclec/nhag019",
+   "title": "BEYOND INTERCHANGE FEE CAPS: RETHINKING MERCHANT CHOICE AND COMPETITION IN EUROPEAN PAYMENTS",
+   "authors": [
+    "Roman Inderst",
+    "Tommaso Valletti",
+    "Christoph Wentzien"
+   ],
+   "journal": "Journal of Competition Law & Economics",
+   "journal_id": "",
+   "date": "2026-06-19",
+   "abstract": "This article examines the persistent challenges in European payment markets a decade after the EU Interchange Fee Regulation. Despite fee caps on debit and credit card transactions, merchants continue to face limited choice and high, often opaque costs, as international card schemes raise nonregulated fees and consumer reliance on cash diminishes. We argue that regulation focused solely on price caps has proven insufficient to address structural imbalances at the point of sale and, possibly to a lesser extent, in e-commerce. Although we also set out proposals for adjusting fee regulation, the core of our analysis is a shift in policy towards strengthening merchants’ effective choice of payment instruments. Two complementary approaches are developed: first, enabling merchants to initiate direct debit transactions directly from payment card data, thus creating a genuine outside option that disciplines card-based fees; second, breaking single-homing of cardholders by requiring banks to issue multiple branded debit cards or by preventing (quasi-)exclusive issuing arrangements. We also explore tentative remedies in e-commerce and mobile payments, where merchants may, on the one hand, enjoy a wider choice, but digital wallets and intermediaries may also create new ‘must-have’ bottlenecks. Overall, the paper advocates structural reforms to restore competition rather than relying exclusively on fee regulation.",
+   "type": "article",
+   "url": "https://doi.org/10.1093/joclec/nhag019",
+   "scholar_id": "tommaso-valletti",
+   "scholar_name": "Tommaso Valletti",
+   "scholar_institution": "Imperial College London"
+  },
+  {
    "doi": "10.1111/ecno.70021",
    "title": "Stepping Stones or Stumbling Blocks? Domestic Mergers and Cross‐Border Consolidation",
    "authors": [
@@ -601,9 +635,25 @@
    "journal": "Economic Notes",
    "journal_id": "",
    "date": "2026-06-16",
-   "abstract": "ABSTRACT We build on empirical evidence showing that international acquisitions exhibit path dependence and often unfold as sequences of deals, and argue that domestic and cross‐border mergers are not necessarily isolated events. Specifically, we ask whether blocking a domestic merger that reduces consumer surplus in the short run could inadvertently preclude a subsequent cross‐border acquisition (by the same parties) that would raise consumer surplus in both the home and foreign markets. To address this question, we develop a Cournot model with increasing marginal costs and show that moderate, complementary synergies can make hybrid mergers—those combining domestic and cross‐border elements—both profitable and beneficial for consumer surplus, even when each merger on its own would not be viable and/or would harm consumers. Our analysis suggests that, in settings where such complementarities are plausible, the interaction and sequencing of domestic and cross‐border mergers may be relevant for assessing their long‐run welfare implications.",
+   "abstract": "We build on empirical evidence showing that international acquisitions exhibit path dependence and often unfold as sequences of deals, and argue that domestic and cross‐border mergers are not necessarily isolated events. Specifically, we ask whether blocking a domestic merger that reduces consumer surplus in the short run could inadvertently preclude a subsequent cross‐border acquisition (by the same parties) that would raise consumer surplus in both the home and foreign markets. To address this question, we develop a Cournot model with increasing marginal costs and show that moderate, complementary synergies can make hybrid mergers—those combining domestic and cross‐border elements—both profitable and beneficial for consumer surplus, even when each merger on its own would not be viable and/or would harm consumers. Our analysis suggests that, in settings where such complementarities are plausible, the interaction and sequencing of domestic and cross‐border mergers may be relevant for assessing their long‐run welfare implications.",
    "type": "article",
    "url": "https://doi.org/10.1111/ecno.70021",
+   "scholar_id": "jorge-padilla",
+   "scholar_name": "Jorge Padilla",
+   "scholar_institution": "Compass Lexecon"
+  },
+  {
+   "doi": "10.1093/jaenfo/jnag012",
+   "title": "When and how to rescue efficiencies from oblivion in horizontal merger control?",
+   "authors": [
+    "Jorge Padilla"
+   ],
+   "journal": "Journal of Antitrust Enforcement",
+   "journal_id": "",
+   "date": "2026-06-12",
+   "abstract": "This article revisits merger efficiencies through six propositions. First, while many transactions fail to deliver, some mergers do generate cost, quality, and scope efficiencies. Secondly, mergers may raise or reduce innovation: theory identifies separating conditions—appropriability, complementarities, and competitive pressure—while the empirical literature increasingly documents both outcomes. Thirdly, mergers can act as an orderly exit mechanism, accelerating the redeployment of capital and assets away from ‘zombie’ firms when standalone restructuring is implausible. Fourthly, predictable acquisition paths can strengthen start-up entry by improving expected returns to innovation and venture finance. Fifthly, integration can unlock network, data, or capacity-coordination benefits that contracting cannot reliably replicate, especially under uncertainty and multi-year investment. Sixthly, merger policy should recognize these channels with a disciplined evidentiary framework that screens implausible claims yet avoids systematic under-crediting of verifiable efficiencies and dynamic gains. These propositions provide a guide pragmatic, welfare-oriented enforcement. Its adoption implies taking merger efficiencies seriously, not as advocacy, but as economics",
+   "type": "article",
+   "url": "https://doi.org/10.1093/jaenfo/jnag012",
    "scholar_id": "jorge-padilla",
    "scholar_name": "Jorge Padilla",
    "scholar_institution": "Compass Lexecon"
@@ -626,40 +676,6 @@
    "scholar_id": "jacques-cremer",
    "scholar_name": "Jacques Crémer",
    "scholar_institution": "Toulouse School of Economics"
-  },
-  {
-   "doi": "10.1093/jaenfo/jnag012",
-   "title": "When and how to rescue efficiencies from oblivion in horizontal merger control?",
-   "authors": [
-    "Jorge Padilla"
-   ],
-   "journal": "Journal of Antitrust Enforcement",
-   "journal_id": "",
-   "date": "2026-05-22",
-   "abstract": "Abstract This article revisits merger efficiencies through six propositions. First, while many transactions fail to deliver, some mergers do generate cost, quality, and scope efficiencies. Secondly, mergers may raise or reduce innovation: theory identifies separating conditions—appropriability, complementarities, and competitive pressure—while the empirical literature increasingly documents both outcomes. Thirdly, mergers can act as an orderly exit mechanism, accelerating the redeployment of capital and assets away from ‘zombie’ firms when standalone restructuring is implausible. Fourthly, predictable acquisition paths can strengthen start-up entry by improving expected returns to innovation and venture finance. Fifthly, integration can unlock network, data, or capacity-coordination benefits that contracting cannot reliably replicate, especially under uncertainty and multi-year investment. Sixthly, merger policy should recognize these channels with a disciplined evidentiary framework that screens implausible claims yet avoids systematic under-crediting of verifiable efficiencies and dynamic gains. These propositions provide a guide pragmatic, welfare-oriented enforcement. Its adoption implies taking merger efficiencies seriously, not as advocacy, but as economics",
-   "type": "article",
-   "url": "https://doi.org/10.1093/jaenfo/jnag012",
-   "scholar_id": "jorge-padilla",
-   "scholar_name": "Jorge Padilla",
-   "scholar_institution": "Compass Lexecon"
-  },
-  {
-   "doi": "10.1093/joclec/nhag019",
-   "title": "BEYOND INTERCHANGE FEE CAPS: RETHINKING MERCHANT CHOICE AND COMPETITION IN EUROPEAN PAYMENTS",
-   "authors": [
-    "Roman Inderst",
-    "Tommaso Valletti",
-    "Christoph Wentzien"
-   ],
-   "journal": "Journal of Competition Law & Economics",
-   "journal_id": "",
-   "date": "2026-05-21",
-   "abstract": "Abstract This article examines the persistent challenges in European payment markets a decade after the EU Interchange Fee Regulation. Despite fee caps on debit and credit card transactions, merchants continue to face limited choice and high, often opaque costs, as international card schemes raise nonregulated fees and consumer reliance on cash diminishes. We argue that regulation focused solely on price caps has proven insufficient to address structural imbalances at the point of sale and, possibly to a lesser extent, in e-commerce. Although we also set out proposals for adjusting fee regulation, the core of our analysis is a shift in policy towards strengthening merchants’ effective choice of payment instruments. Two complementary approaches are developed: first, enabling merchants to initiate direct debit transactions directly from payment card data, thus creating a genuine outside option that disciplines card-based fees; second, breaking single-homing of cardholders by requiring banks to issue multiple branded debit cards or by preventing (quasi-)exclusive issuing arrangements. We also explore tentative remedies in e-commerce and mobile payments, where merchants may, on the one hand, enjoy a wider choice, but digital wallets and intermediaries may also create new ‘must-have’ bottlenecks. Overall, the paper advocates structural reforms to restore competition rather than relying exclusively on fee regulation.",
-   "type": "article",
-   "url": "https://doi.org/10.1093/joclec/nhag019",
-   "scholar_id": "tommaso-valletti",
-   "scholar_name": "Tommaso Valletti",
-   "scholar_institution": "Imperial College London"
   },
   {
    "doi": "10.1177/0003603x261443672",
@@ -744,22 +760,6 @@
    "scholar_institution": "University of Maryland"
   },
   {
-   "doi": "10.1093/jaenfo/jnag007",
-   "title": "Platform and infrastructure competition after Android Auto",
-   "authors": [
-    "Konstantinos Stylianou"
-   ],
-   "journal": "Journal of Antitrust Enforcement",
-   "journal_id": "",
-   "date": "2026-04-27",
-   "abstract": "Abstract On 25 February 2025, the Grand Chamber of the Court of Justice delivered its judgment in the Android Auto case, remaking the core doctrine around how dominant undertakings relate to their competitors and the extent to which they have an obligation to assist them, namely the refusal to deal doctrine. Despite the good intention to update a notoriously strict doctrine for the digital economy (if not more broadly), the Court may have moved too far too fast. This article critically assesses the new refusal to deal doctrine, its relationship with past caselaw, its tension with platform literature, and its interaction with the Digital Markets Act, with which it overlaps. Crucially, it also proposes simple ways by which the new test could have been better calibrated while at the same time still allowing the Court to achieve its objectives.",
-   "type": "article",
-   "url": "https://doi.org/10.1093/jaenfo/jnag007",
-   "scholar_id": "konstantinos-stylianou",
-   "scholar_name": "Konstantinos Stylianou",
-   "scholar_institution": "University of Leeds"
-  },
-  {
    "doi": "10.48102/ji.20.324",
    "title": "Presentación",
    "authors": [
@@ -794,7 +794,7 @@
    "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
    "journal_id": "",
    "date": "2026-04-04",
-   "abstract": "Abstract Between one and two million noncoding regulatory elements have been described across mammalian genomes, but determining their functional role remains a challenge. To address this gap, we measure the regulatory potential of open chromatin regions (OCRs) in five closely related mouse CD4+ T cell subsets with ATAC-STARR-seq, then map endogenous enhancer function and three-dimensional contacts in Th17 cells with pooled CRISPR-based noncoding screens and high-resolution Micro-C. Of all CD4+ T cell OCRs, approximately 25% demonstrate largely subset-shared regulatory activity, though we identify subset-restricted active elements distinguishable by their sequence features. In Th17 cells, we reveal a set of core regulatory OCRs essential for subset polarization at the Batf , Rorc(t) and Il17a/f loci, and confirm their requirement for cell identity in vivo . At these three loci, we resolve nested yet selective enhancer-to-enhancer and enhancer-to-promoter physical interactions that converge into multi-enhancer hubs. Importantly, these hubs contain many of the strongest functional elements. Perturbation of a single enhancer within the Batf locus selectively disrupts hub contacts and Batf expression in Th17 cells, recapitulating the genome-wide transcriptional and chromatin accessibility signatures of a germline knockout. Together, this work assigns regulatory activity to accessible chromatin across CD4+ T cell subsets and couples the function of a set of essential elements to selective three-dimensional contacts in Th17 cells.",
+   "abstract": "Between one and two million noncoding regulatory elements have been described across mammalian genomes, but determining their functional role remains a challenge. To address this gap, we measure the regulatory potential of open chromatin regions (OCRs) in five closely related mouse CD4+ T cell subsets with ATAC-STARR-seq, then map endogenous enhancer function and three-dimensional contacts in Th17 cells with pooled CRISPR-based noncoding screens and high-resolution Micro-C. Of all CD4+ T cell OCRs, approximately 25% demonstrate largely subset-shared regulatory activity, though we identify subset-restricted active elements distinguishable by their sequence features. In Th17 cells, we reveal a set of core regulatory OCRs essential for subset polarization at the Batf , Rorc(t) and Il17a/f loci, and confirm their requirement for cell identity in vivo . At these three loci, we resolve nested yet selective enhancer-to-enhancer and enhancer-to-promoter physical interactions that converge into multi-enhancer hubs. Importantly, these hubs contain many of the strongest functional elements. Perturbation of a single enhancer within the Batf locus selectively disrupts hub contacts and Batf expression in Th17 cells, recapitulating the genome-wide transcriptional and chromatin accessibility signatures of a germline knockout. Together, this work assigns regulatory activity to accessible chromatin across CD4+ T cell subsets and couples the function of a set of essential elements to selective three-dimensional contacts in Th17 cells.",
    "type": "preprint",
    "url": "https://doi.org/10.64898/2026.04.02.715458",
    "scholar_id": "gregory-crawford",
@@ -913,7 +913,7 @@
    "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
    "journal_id": "",
    "date": "2026-03-07",
-   "abstract": "Abstract Heterotypic cell-cell interactions are critical to governing cellular physiology, disease progression, and responses to the environment and pharmacologic interventions. For example, neurons and astrocytes engage in intricate interactions that are essential for brain development and function 1–3 . However, the transformation of these extracellular signals into epigenomic regulation that governs cell function is poorly understood. Here, we report that weeks of co-culture between human induced pluripotent stem cell (hiPSC)-derived neurons and mouse cortical astrocytes extensively reprograms gene expression and the chromatin accessibility landscape in neurons, affecting thousands of genes and putative gene regulatory elements (REs), including many transcription factors (TFs). These genes are enriched for functions implicated in neuronal differentiation and maturation, and tend to be impacted in schizophrenia, and autosomal dominant Alzheimer’s disease. Through complementary CRISPR interference and activation screens, we recapitulated hundreds of astrocyte-induced transcriptional and chromatin remodeling events in mono-cultured neurons at both promoters and distal regulatory elements (REs) of TF genes. We discovered functional REs for ∼50 astrocyte-responsive TF genes, providing a map of gene regulatory network control. Astrocyte-responsive TF genes fall into groups that exert independent or counter-balancing transcriptional effects, highlighting the complex coordination of the neuronal response to astrocytes. Functional effects of specific TFs, including POU3F2 and TFAP2E, on neurite morphology and neuronal electrophysiology are consistent with transcriptional effects, demonstrating the capacity of direct epigenetic control to mimic heterotypic cellular signals. This work illuminates the regulation of neurodevelopment-and disease-relevant gene modules by neuron-astrocyte interactions, and provides a blueprint for applying modern functional genomics to uncover the links between cell microenvironment and epigenomic programming. Highlights Neuronal gene expression and chromatin accessibility landscape are profoundly remodeled by astrocytes over weeks of co-culture Astrocyte-responsive neuronal gene modules and neuron-responsive astrocytic gene modules are enriched for genes associated with schizophrenia and familial Alzheimer’s Disease Single-cell CRISPR interference and activation screens of astrocyte-responsive gene regulatory elements identified dozens of functional regulatory elements of TF genes in neurons Single-cell CRISPR interference and activation screens of >200 astrocyte-responsive TF genes uncovered discrete functional clusters that promote neuronal maturity or stemness Astrocyte-responsive TF genes reprogram neuronal electrophysiology and neurite morphology",
+   "abstract": "Heterotypic cell-cell interactions are critical to governing cellular physiology, disease progression, and responses to the environment and pharmacologic interventions. For example, neurons and astrocytes engage in intricate interactions that are essential for brain development and function 1–3 . However, the transformation of these extracellular signals into epigenomic regulation that governs cell function is poorly understood. Here, we report that weeks of co-culture between human induced pluripotent stem cell (hiPSC)-derived neurons and mouse cortical astrocytes extensively reprograms gene expression and the chromatin accessibility landscape in neurons, affecting thousands of genes and putative gene regulatory elements (REs), including many transcription factors (TFs). These genes are enriched for functions implicated in neuronal differentiation and maturation, and tend to be impacted in schizophrenia, and autosomal dominant Alzheimer’s disease. Through complementary CRISPR interference and activation screens, we recapitulated hundreds of astrocyte-induced transcriptional and chromatin remodeling events in mono-cultured neurons at both promoters and distal regulatory elements (REs) of TF genes. We discovered functional REs for ∼50 astrocyte-responsive TF genes, providing a map of gene regulatory network control. Astrocyte-responsive TF genes fall into groups that exert independent or counter-balancing transcriptional effects, highlighting the complex coordination of the neuronal response to astrocytes. Functional effects of specific TFs, including POU3F2 and TFAP2E, on neurite morphology and neuronal electrophysiology are consistent with transcriptional effects, demonstrating the capacity of direct epigenetic control to mimic heterotypic cellular signals. This work illuminates the regulation of neurodevelopment-and disease-relevant gene modules by neuron-astrocyte interactions, and provides a blueprint for applying modern functional genomics to uncover the links between cell microenvironment and epigenomic programming. Highlights Neuronal gene expression and chromatin accessibility landscape are profoundly remodeled by astrocytes over weeks of co-culture Astrocyte-responsive neuronal gene modules and neuron-responsive astrocytic gene modules are enriched for genes associated with schizophrenia and familial Alzheimer’s Disease Single-cell CRISPR interference and activation screens of astrocyte-responsive gene regulatory elements identified dozens of functional regulatory elements of TF genes in neurons Single-cell CRISPR interference and activation screens of >200 astrocyte-responsive TF genes uncovered discrete functional clusters that promote neuronal maturity or stemness Astrocyte-responsive TF genes reprogram neuronal electrophysiology and neurite morphology",
    "type": "preprint",
    "url": "https://doi.org/10.64898/2026.03.07.710282",
    "scholar_id": "gregory-crawford",
@@ -2086,6 +2086,44 @@
    "scholar_institution": "University of Liège"
   },
   {
+   "doi": "10.2139/ssrn.5207592",
+   "title": "The Conflict-of-Interest Discount in the Marketplace of Ideas",
+   "authors": [
+    "John Manuel Barrios",
+    "Filippo Lancieri",
+    "Joshua Levy",
+    "Shashank Kumar Singh",
+    "Tommaso Valletti",
+    "Luigi Zingales"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.5207592",
+   "scholar_id": "tommaso-valletti",
+   "scholar_name": "Tommaso Valletti",
+   "scholar_institution": "Imperial College London"
+  },
+  {
+   "doi": "10.1093/joclec/nhaf035",
+   "title": "Monopolization in Europe: Understanding Dominance as an Ability",
+   "authors": [
+    "Rupprecht Podszun",
+    "Fiona Scott Morton"
+   ],
+   "journal": "Journal of Competition Law & Economics",
+   "journal_id": "",
+   "date": "2025-12-26",
+   "abstract": "Over the past two decades, the European Commission’s enforcement activities against abusive practices often came too late. Investigations only started when companies had already acquired a strong dominant position. It proved difficult to restore competition. In this paper, we advocate an earlier intervention, namely when undertakings start to monopolize markets. This is possible under Article 102 of the Treaty on the Functioning of the European Union without legislative amendment by returning to the original definition of dominance and placing less emphasis on market shares. In line with cases like Hoffmann-LaRoche, dominance must be defined as the ability to steer the market into a direction that is detrimental to competition and trading partners. This will allow authorities to investigate the behaviour of firms at an earlier point of time, which is particularly valuable in markets prone to tipping.",
+   "type": "article",
+   "url": "https://doi.org/10.1093/joclec/nhaf035",
+   "scholar_id": "fiona-scott-morton",
+   "scholar_name": "Fiona Scott Morton",
+   "scholar_institution": "Yale University"
+  },
+  {
    "doi": "10.5040/9781509987511.ch-005",
    "title": "Regulatory Sandboxes in Finance and Energy",
    "authors": [
@@ -2101,23 +2139,6 @@
    "scholar_id": "inge-graef",
    "scholar_name": "Inge Graef",
    "scholar_institution": "Tilburg University"
-  },
-  {
-   "doi": "10.1093/joclec/nhaf035",
-   "title": "Monopolization in Europe: Understanding Dominance as an Ability",
-   "authors": [
-    "Rupprecht Podszun",
-    "Fiona Scott Morton"
-   ],
-   "journal": "Journal of Competition Law & Economics",
-   "journal_id": "",
-   "date": "2025-12-12",
-   "abstract": "ABSTRACT Over the past two decades, the European Commission’s enforcement activities against abusive practices often came too late. Investigations only started when companies had already acquired a strong dominant position. It proved difficult to restore competition. In this paper, we advocate an earlier intervention, namely when undertakings start to monopolize markets. This is possible under Article 102 of the Treaty on the Functioning of the European Union without legislative amendment by returning to the original definition of dominance and placing less emphasis on market shares. In line with cases like Hoffmann-LaRoche, dominance must be defined as the ability to steer the market into a direction that is detrimental to competition and trading partners. This will allow authorities to investigate the behaviour of firms at an earlier point of time, which is particularly valuable in markets prone to tipping.",
-   "type": "article",
-   "url": "https://doi.org/10.1093/joclec/nhaf035",
-   "scholar_id": "fiona-scott-morton",
-   "scholar_name": "Fiona Scott Morton",
-   "scholar_institution": "Yale University"
   },
   {
    "doi": "10.21203/rs.3.rs-8197218/v1",
