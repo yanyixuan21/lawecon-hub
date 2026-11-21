@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21 07:10",
+ "updated_at": "2026-11-21 19:17",
  "doc_count": 373,
  "heat": [
   {
@@ -115,15 +115,15 @@
    "count": 8
   },
   {
+   "term": "welfare",
+   "count": 8
+  },
+  {
    "term": "design",
    "count": 8
   },
   {
    "term": "product",
-   "count": 8
-  },
-  {
-   "term": "welfare",
    "count": 8
   },
   {
@@ -147,19 +147,19 @@
    "count": 7
   },
   {
-   "term": "dynamic",
-   "count": 7
-  },
-  {
-   "term": "search",
-   "count": 7
-  },
-  {
    "term": "settlement",
    "count": 7
   },
   {
    "term": "china",
+   "count": 7
+  },
+  {
+   "term": "dynamic",
+   "count": 7
+  },
+  {
+   "term": "search",
    "count": 7
   },
   {
@@ -207,15 +207,15 @@
    "count": 7
   },
   {
-   "term": "endogenous",
-   "count": 6
-  },
-  {
    "term": "higher",
    "count": 6
   },
   {
    "term": "deterrence",
+   "count": 6
+  },
+  {
+   "term": "endogenous",
    "count": 6
   },
   {
@@ -284,6 +284,44 @@
   }
  ],
  "profiles": {
+  "irle": {
+   "count": 43,
+   "avg_authors": 2.3,
+   "terms": [
+    {
+     "term": "williamson legacy",
+     "count": 2
+    },
+    {
+     "term": "judicial independence",
+     "count": 2
+    },
+    {
+     "term": "transaction costs",
+     "count": 2
+    },
+    {
+     "term": "liability",
+     "count": 5
+    },
+    {
+     "term": "enforcement",
+     "count": 5
+    },
+    {
+     "term": "judicial",
+     "count": 4
+    },
+    {
+     "term": "costs",
+     "count": 3
+    },
+    {
+     "term": "firms",
+     "count": 3
+    }
+   ]
+  },
   "ijio": {
    "count": 114,
    "avg_authors": 2.5,
@@ -327,44 +365,6 @@
     {
      "term": "price",
      "count": 10
-    }
-   ]
-  },
-  "irle": {
-   "count": 43,
-   "avg_authors": 2.3,
-   "terms": [
-    {
-     "term": "williamson legacy",
-     "count": 2
-    },
-    {
-     "term": "judicial independence",
-     "count": 2
-    },
-    {
-     "term": "transaction costs",
-     "count": 2
-    },
-    {
-     "term": "liability",
-     "count": 5
-    },
-    {
-     "term": "enforcement",
-     "count": 5
-    },
-    {
-     "term": "judicial",
-     "count": 4
-    },
-    {
-     "term": "costs",
-     "count": 3
-    },
-    {
-     "term": "firms",
-     "count": 3
     }
    ]
   },

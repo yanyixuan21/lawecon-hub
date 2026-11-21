@@ -1,7 +1,103 @@
 {
- "updated_at": "2026-11-21 07:10",
+ "updated_at": "2026-11-21 19:17",
  "count": 373,
  "articles": [
+  {
+   "doi": "10.1016/j.irle.2026.106349",
+   "title": "A new case for a higher standard of care: The uncompensated tertiary and third-party costs",
+   "authors": [
+    "Schäfer H",
+    "Singh R"
+   ],
+   "journal": "International Review of Law and Economics",
+   "journal_id": "irle",
+   "date": "2026-11-21",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.irle.2026.106349"
+  },
+  {
+   "doi": "10.1016/j.irle.2026.106347",
+   "title": "Legal institutions and economic growth: A meta-analytic perspective",
+   "authors": [
+    "Iwasaki I"
+   ],
+   "journal": "International Review of Law and Economics",
+   "journal_id": "irle",
+   "date": "2026-11-21",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.irle.2026.106347"
+  },
+  {
+   "doi": "10.1016/j.irle.2026.106360",
+   "title": "Policing or penalties? Deterrence in a model of plea bargaining with costly juror effort",
+   "authors": [
+    "Guha B"
+   ],
+   "journal": "International Review of Law and Economics",
+   "journal_id": "irle",
+   "date": "2026-11-21",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.irle.2026.106360"
+  },
+  {
+   "doi": "10.1016/j.irle.2026.106361",
+   "title": "Strict liability and moral hazard: Evidence from New York’s Scaffold law",
+   "authors": [
+    "Geddes R R",
+    "Park Y G",
+    "Zhang K"
+   ],
+   "journal": "International Review of Law and Economics",
+   "journal_id": "irle",
+   "date": "2026-11-21",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.irle.2026.106361"
+  },
+  {
+   "doi": "10.1016/j.irle.2026.106359",
+   "title": "Settlement of litigation may increase or decrease deterrence and social welfare",
+   "authors": [
+    "Shavell S"
+   ],
+   "journal": "International Review of Law and Economics",
+   "journal_id": "irle",
+   "date": "2026-11-21",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.irle.2026.106359"
+  },
+  {
+   "doi": "10.1016/j.irle.2026.106362",
+   "title": "From antitrust to digital market governance: Data, access, and the choice of instrument",
+   "authors": [
+    "Carbonara E",
+    "Gianfreda G",
+    "Xu W"
+   ],
+   "journal": "International Review of Law and Economics",
+   "journal_id": "irle",
+   "date": "2026-11-21",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.irle.2026.106362"
+  },
+  {
+   "doi": "10.1016/j.irle.2026.106363",
+   "title": "Sentencing under deadline pressure: Evidence from drunk driving cases in China",
+   "authors": [
+    "Huang Z"
+   ],
+   "journal": "International Review of Law and Economics",
+   "journal_id": "irle",
+   "date": "2026-11-21",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1016/j.irle.2026.106363"
+  },
   {
    "doi": "10.1016/j.ijindorg.2026.103320",
    "title": "Gatekeepers and the endogenous design of consumer preferences under personalized pricing",
@@ -220,102 +316,6 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103342"
-  },
-  {
-   "doi": "10.1016/j.irle.2026.106349",
-   "title": "A new case for a higher standard of care: The uncompensated tertiary and third-party costs",
-   "authors": [
-    "Schäfer H",
-    "Singh R"
-   ],
-   "journal": "International Review of Law and Economics",
-   "journal_id": "irle",
-   "date": "2026-11-20",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.irle.2026.106349"
-  },
-  {
-   "doi": "10.1016/j.irle.2026.106347",
-   "title": "Legal institutions and economic growth: A meta-analytic perspective",
-   "authors": [
-    "Iwasaki I"
-   ],
-   "journal": "International Review of Law and Economics",
-   "journal_id": "irle",
-   "date": "2026-11-20",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.irle.2026.106347"
-  },
-  {
-   "doi": "10.1016/j.irle.2026.106360",
-   "title": "Policing or penalties? Deterrence in a model of plea bargaining with costly juror effort",
-   "authors": [
-    "Guha B"
-   ],
-   "journal": "International Review of Law and Economics",
-   "journal_id": "irle",
-   "date": "2026-11-20",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.irle.2026.106360"
-  },
-  {
-   "doi": "10.1016/j.irle.2026.106361",
-   "title": "Strict liability and moral hazard: Evidence from New York’s Scaffold law",
-   "authors": [
-    "Geddes R R",
-    "Park Y G",
-    "Zhang K"
-   ],
-   "journal": "International Review of Law and Economics",
-   "journal_id": "irle",
-   "date": "2026-11-20",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.irle.2026.106361"
-  },
-  {
-   "doi": "10.1016/j.irle.2026.106359",
-   "title": "Settlement of litigation may increase or decrease deterrence and social welfare",
-   "authors": [
-    "Shavell S"
-   ],
-   "journal": "International Review of Law and Economics",
-   "journal_id": "irle",
-   "date": "2026-11-20",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.irle.2026.106359"
-  },
-  {
-   "doi": "10.1016/j.irle.2026.106362",
-   "title": "From antitrust to digital market governance: Data, access, and the choice of instrument",
-   "authors": [
-    "Carbonara E",
-    "Gianfreda G",
-    "Xu W"
-   ],
-   "journal": "International Review of Law and Economics",
-   "journal_id": "irle",
-   "date": "2026-11-20",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.irle.2026.106362"
-  },
-  {
-   "doi": "10.1016/j.irle.2026.106363",
-   "title": "Sentencing under deadline pressure: Evidence from drunk driving cases in China",
-   "authors": [
-    "Huang Z"
-   ],
-   "journal": "International Review of Law and Economics",
-   "journal_id": "irle",
-   "date": "2026-11-20",
-   "abstract": "",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1016/j.irle.2026.106363"
   },
   {
    "doi": "10.1007/s11151-026-10073-1",
