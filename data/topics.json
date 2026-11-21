@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-20 20:23",
- "doc_count": 374,
+ "updated_at": "2026-11-21 07:10",
+ "doc_count": 373,
  "heat": [
   {
    "term": "costs",
@@ -219,10 +219,6 @@
    "count": 6
   },
   {
-   "term": "choice",
-   "count": 6
-  },
-  {
    "term": "damages",
    "count": 6
   },
@@ -255,10 +251,6 @@
    "count": 6
   },
   {
-   "term": "only",
-   "count": 6
-  },
-  {
    "term": "workers",
    "count": 6
   },
@@ -280,6 +272,14 @@
   },
   {
    "term": "contract",
+   "count": 6
+  },
+  {
+   "term": "regulatory",
+   "count": 6
+  },
+  {
+   "term": "contracts",
    "count": 6
   }
  ],
@@ -453,7 +453,7 @@
    ]
   },
   "aler": {
-   "count": 29,
+   "count": 28,
    "avg_authors": 2.1,
    "terms": [
     {

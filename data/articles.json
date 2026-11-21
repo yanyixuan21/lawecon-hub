@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-20 20:22",
- "count": 374,
+ "updated_at": "2026-11-21 07:10",
+ "count": 373,
  "articles": [
   {
    "doi": "10.1016/j.ijindorg.2026.103320",
@@ -5250,20 +5250,6 @@
    "abstract": "Abstract This paper applies meta-analysis of school quality capitalization estimates reported in the literature to examine the relationship between differences across US state approaches to protecting property rights and price discovery in housing markets. After controlling for possibly confounding influences from the housing supply elasticity and regional effects, the analysis shows that restricting local government powers of eminent domain for redevelopment is associated with house prices doing a better job conveying information about school quality differences across neighborhoods. While the property rights variables used here are narrowly defined, following previous literature, we argue they likely indicate the state’s broader approach to protecting private property rights in general.",
    "type": "journal-article",
    "url": "https://doi.org/10.1515/rle-2025-0019"
-  },
-  {
-   "doi": "10.1093/aler/ahaf003",
-   "title": "The Choice of Land Titling System and the Blockchain",
-   "authors": [
-    "Crettez B",
-    "Obidzinski M"
-   ],
-   "journal": "American Law And Economics Review",
-   "journal_id": "aler",
-   "date": "2025-11-20",
-   "abstract": "Abstract Should the advent of the blockchain lead to the reorganization or even the replacement of traditional land titling systems? In addressing this issue, we first generalize the model developed by Arruñada and Garoupa (2005) to study optimal land titling systems. Instead of considering only recording and registration alone, we examine an a priori infinite set of systems, each characterized by its quality (the probability that there is no forfeiture for a given plot of land) and its unit transaction cost. In this respect, the blockchain is viewed as a cost-efficient mechanism albeit not one providing the highest quality. We find that, despite the introduction of the blockchain, under some reasonable assumptions, it is still socially optimal to maintain traditional public land titling. In that case, the optimal quality of protection provided by traditional land titling must be either sufficiently high (and higher than that of the blockchain), or low enough (and lower than that of the blockchain). Yet under another set of assumptions, it is optimal to rely on the blockchain alone and to abandon traditional land titling.",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1093/aler/ahaf003"
   }
  ]
 }
