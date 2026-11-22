@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21 19:17",
+ "updated_at": "2026-11-22 06:51",
  "doc_count": 373,
  "heat": [
   {
@@ -95,10 +95,6 @@
    "count": 9
   },
   {
-   "term": "across",
-   "count": 9
-  },
-  {
    "term": "efficiency",
    "count": 9
   },
@@ -139,6 +135,10 @@
    "count": 8
   },
   {
+   "term": "across",
+   "count": 8
+  },
+  {
    "term": "remedies",
    "count": 8
   },
@@ -175,14 +175,6 @@
    "count": 7
   },
   {
-   "term": "relationship",
-   "count": 7
-  },
-  {
-   "term": "after",
-   "count": 7
-  },
-  {
    "term": "major",
    "count": 7
   },
@@ -192,10 +184,6 @@
   },
   {
    "term": "test",
-   "count": 7
-  },
-  {
-   "term": "state",
    "count": 7
   },
   {
@@ -243,7 +231,15 @@
    "count": 6
   },
   {
+   "term": "relationship",
+   "count": 6
+  },
+  {
    "term": "framework",
+   "count": 6
+  },
+  {
+   "term": "after",
    "count": 6
   },
   {
@@ -256,6 +252,10 @@
   },
   {
    "term": "structural",
+   "count": 6
+  },
+  {
+   "term": "state",
    "count": 6
   },
   {
@@ -285,7 +285,7 @@
  ],
  "profiles": {
   "irle": {
-   "count": 43,
+   "count": 44,
    "avg_authors": 2.3,
    "terms": [
     {
@@ -314,6 +314,10 @@
     },
     {
      "term": "costs",
+     "count": 3
+    },
+    {
+     "term": "social",
      "count": 3
     },
     {
@@ -577,7 +581,7 @@
    "terms": []
   },
   "rle": {
-   "count": 15,
+   "count": 14,
    "avg_authors": 1.8,
    "terms": []
   },
