@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-22 19:42",
- "count": 373,
+ "updated_at": "2026-11-23 07:40",
+ "count": 372,
  "articles": [
   {
    "doi": "10.1016/j.irle.2026.106349",
@@ -5237,19 +5237,6 @@
    "abstract": "Abstract This study investigates the Italian sex market and its current legislative framework, offering policy recommendations aimed at protecting sex workers from exploitation and preventing human trafficking. We compare alternative European regulatory models to identify their core components and adopt a trade-off framework to explicitly assess whose welfare would be affected by the proposed reform. Based on our analysis, we find that several stakeholders would benefit from the adoption of a hybrid legislative model that combines (i) regulation and licensing of sex services with (ii) a system of incentives and disincentives designed to guide both workers and clients toward the formal market. According to our budget impact analysis, if implemented in 2024, this policy reform could generate between €3.893 and €7.410 billion in income, with estimated tax revenues under a flat-rate regime would fall between €0.875 and €1.470 billion.",
    "type": "journal-article",
    "url": "https://doi.org/10.1007/s10657-025-09863-x"
-  },
-  {
-   "doi": "10.1093/aler/ahae001",
-   "title": "Are There Empirical Foundations for the Iron Law of Financial Regulation?",
-   "authors": [
-    "Romano R"
-   ],
-   "journal": "American Law And Economics Review",
-   "journal_id": "aler",
-   "date": "2025-11-22",
-   "abstract": "Abstract This article examines whether there are empirical foundations for what I term the “iron law of financial regulation”: following financial crises, Congress enacts legislation that increases financial regulation, resulting in a regulatory ratchet in which new statutes are layered atop existing laws and new regulations are grafted onto existing ones, creating an increasingly complex and opaque regime. A key contention is that the shock to the economic system from a financial crisis results in legislation that is different in content and in its impact on regulation from that of legislation enacted in noncrisis times. This article investigates empirically two foundational premises of the iron law: 1. whether there is an association between financial crises and legislation; and 2. whether financial legislation enacted in the wake of crises differs significantly from that enacted in noncrisis times as measured by its content and regulatory effect. Using proxies for regulation related to textual constraints and complexity, I find that crisis-driven financial legislation has significantly greater regulatory content, and is followed by higher levels of regulation, than noncrisis-driven legislation, although the impact differs across crises, as one of three crises identified in the literature has considerably less of an effect than the others.",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1093/aler/ahae001"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-22 19:42",
- "doc_count": 373,
+ "updated_at": "2026-11-23 07:41",
+ "doc_count": 372,
  "heat": [
   {
    "term": "costs",
@@ -195,6 +195,10 @@
    "count": 7
   },
   {
+   "term": "financial",
+   "count": 7
+  },
+  {
    "term": "higher",
    "count": 6
   },
@@ -272,10 +276,6 @@
   },
   {
    "term": "contract",
-   "count": 6
-  },
-  {
-   "term": "regulatory",
    "count": 6
   },
   {
@@ -457,7 +457,7 @@
    ]
   },
   "aler": {
-   "count": 28,
+   "count": 27,
    "avg_authors": 2.1,
    "terms": [
     {
