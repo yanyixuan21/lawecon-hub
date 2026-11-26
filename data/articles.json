@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-26 08:20",
- "count": 373,
+ "updated_at": "2026-11-26 21:33",
+ "count": 374,
  "articles": [
   {
    "doi": "10.1016/j.irle.2026.106349",
@@ -363,6 +363,22 @@
    "abstract": "",
    "type": "journal-article",
    "url": "https://doi.org/10.1016/j.ijindorg.2026.103345"
+  },
+  {
+   "doi": "10.1007/s11151-026-10074-0",
+   "title": "The Year in Review: Economics at the Antitrust Division 2025–2026",
+   "authors": [
+    "Galperin M",
+    "Knudsen H",
+    "Mark N",
+    "Marks L"
+   ],
+   "journal": "Review of Industrial Organization",
+   "journal_id": "rio",
+   "date": "2026-11-26",
+   "abstract": "",
+   "type": "journal-article",
+   "url": "https://doi.org/10.1007/s11151-026-10074-0"
   },
   {
    "doi": "10.1007/s11151-026-10073-1",

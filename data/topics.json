@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-26 08:21",
- "doc_count": 373,
+ "updated_at": "2026-11-26 21:34",
+ "doc_count": 374,
  "heat": [
   {
    "term": "costs",
@@ -373,9 +373,21 @@
    ]
   },
   "rio": {
-   "count": 39,
-   "avg_authors": 2.3,
+   "count": 40,
+   "avg_authors": 2.4,
    "terms": [
+    {
+     "term": "year economics",
+     "count": 2
+    },
+    {
+     "term": "economics antitrust",
+     "count": 2
+    },
+    {
+     "term": "antitrust division",
+     "count": 2
+    },
     {
      "term": "recent developments",
      "count": 2
@@ -397,24 +409,12 @@
      "count": 2
     },
     {
-     "term": "pricing after",
-     "count": 2
-    },
-    {
-     "term": "adam smith",
-     "count": 2
-    },
-    {
      "term": "competition",
      "count": 6
     },
     {
      "term": "pricing",
      "count": 5
-    },
-    {
-     "term": "mergers",
-     "count": 4
     }
    ]
   },

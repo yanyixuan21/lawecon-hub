@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-26 08:21",
- "count": 137,
+ "updated_at": "2026-11-26 21:34",
+ "count": 143,
  "articles": [
   {
    "doi": "10.1093/restud/rdag122",
@@ -82,6 +82,28 @@
    "scholar_id": "fiona-scott-morton",
    "scholar_name": "Fiona Scott Morton",
    "scholar_institution": "Yale University"
+  },
+  {
+   "doi": "10.1002/alz.72020",
+   "title": "Integrative single‐cell multi‐omics of African ancestry Alzheimer's disease brains reveals APOE ε4‐dependent effects on glial translation pathways and neuronal synaptic function",
+   "authors": [
+    "Daniel C. Gingerich",
+    "Elliot Keats Shwab",
+    "Dellila Hodgson",
+    "Melanie E. Garrett",
+    "Gregory E. Crawford",
+    "Allison E. Ashley‐Koch",
+    "Ornit Chiba‐Falek"
+   ],
+   "journal": "Alzheimer s & Dementia",
+   "journal_id": "",
+   "date": "2026-11-01",
+   "abstract": "INTRODUCTION: Late-onset Alzheimer's disease (LOAD) is biologically heterogeneous, and apolipoprotein E (APOE) ε4-associated risk varies across ancestries. We investigated molecular mechanisms underlying LOAD and APOE ε4 effects in African ancestry (AA) individuals. METHODS: Multiomic single-cell transcriptomic and chromatin accessibility profiles were generated from AA brains and integrated to identify differentially expressed genes (DEGs), enriched pathways, transcription factor-cis-regulatory element-DEG (TF-cCRE-DEG) regulatory trios, and variant-disrupted regulatory networks. RESULTS: Glial subpopulations were enriched for APOE genotype-dependent DEGs, whereas neuronal subtypes exhibited predominantly APOE-independent LOAD-associated expression changes. APOE expression was upregulated in a microglial subtype of ε4 non-carriers (ε3/ε3). APOE ε4 carriers (ε3/ε4) showed impaired ribosomal and translational pathways, including L13a/GAIT, in specific glial populations. Integration of multiomic data identified numerous LOAD-associated TF-cCRE-DEG trios, particularly in glutamatergic neurons, including prostaglandin D synthase gene regulatory networks. Predicted regulatory-disrupting variants defined TF-cCRE-DEG-single-nucleotide variant quartets. DISCUSSION: These findings provide mechanistic insight into APOE-mediated LOAD risk and non-coding regulatory variation in AA populations, highlighting potential precision therapeutic targets.",
+   "type": "article",
+   "url": "https://doi.org/10.1002/alz.72020",
+   "scholar_id": "gregory-crawford",
+   "scholar_name": "Gregory Crawford",
+   "scholar_institution": "University of Zurich"
   },
   {
    "doi": "10.1086/743388",
@@ -345,6 +367,25 @@
    "abstract": "",
    "type": "conference-paper",
    "url": "https://openalex.org/works/W7236512996",
+   "scholar_id": "nicolas-petit",
+   "scholar_name": "Nicolas Petit",
+   "scholar_institution": "University of Liège"
+  },
+  {
+   "doi": "",
+   "title": "Multi-target UAV assignment problem and coordinated attack for a swarm of UAVs",
+   "authors": [
+    "Benjamin Piet",
+    "Guillaume Strub",
+    "Sébastien Changey",
+    "Nicolas Petit"
+   ],
+   "journal": "HAL",
+   "journal_id": "",
+   "date": "2026-08-23",
+   "abstract": "",
+   "type": "conference-paper",
+   "url": "https://openalex.org/works/W7236552270",
    "scholar_id": "nicolas-petit",
    "scholar_name": "Nicolas Petit",
    "scholar_institution": "University of Liège"
@@ -678,6 +719,25 @@
    "scholar_institution": "Toulouse School of Economics"
   },
   {
+   "doi": "",
+   "title": "Sampled data closed-loop controller of a pressure-driven filtration device with dead volume: companion paper",
+   "authors": [
+    "Michaël Vincendon",
+    "David Laurin",
+    "Philippe Drillat",
+    "Nicolas Petit"
+   ],
+   "journal": "HAL",
+   "journal_id": "",
+   "date": "2026-05-20",
+   "abstract": "The paper contains the simulation and experimental results of the article published at IFAC WC 2026 Vincendon et al. (2026).",
+   "type": "preprint",
+   "url": "https://openalex.org/works/W7162280906",
+   "scholar_id": "nicolas-petit",
+   "scholar_name": "Nicolas Petit",
+   "scholar_institution": "University of Liège"
+  },
+  {
    "doi": "10.1177/0003603x261443672",
    "title": "Damage Quantification in Exclusionary Abuse Cases",
    "authors": [
@@ -913,7 +973,7 @@
    "journal": "bioRxiv (Cold Spring Harbor Laboratory)",
    "journal_id": "",
    "date": "2026-03-07",
-   "abstract": "Heterotypic cell-cell interactions are critical to governing cellular physiology, disease progression, and responses to the environment and pharmacologic interventions. For example, neurons and astrocytes engage in intricate interactions that are essential for brain development and function 1–3. However, the transformation of these extracellular signals into epigenomic regulation that governs cell function is poorly understood. Here, we report that weeks of co-culture between human induced pluripotent stem cell (hiPSC)-derived neurons and mouse cortical astrocytes extensively reprograms gene expression and the chromatin accessibility landscape in neurons, affecting thousands of genes and putative gene regulatory elements (REs), including many transcription factors (TFs). These genes are enriched for functions implicated in neuronal differentiation and maturation, and tend to be impacted in schizophrenia, and autosomal dominant Alzheimer’s disease. Through complementary CRISPR interference and activation screens, we recapitulated hundreds of astrocyte-induced transcriptional and chromatin remodeling events in mono-cultured neurons at both promoters and distal regulatory elements (REs) of TF genes. We discovered functional REs for ∼50 astrocyte-responsive TF genes, providing a map of gene regulatory network control. Astrocyte-responsive TF genes fall into groups that exert independent or counter-balancing transcriptional effects, highlighting the complex coordination of the neuronal response to astrocytes. Functional effects of specific TFs, including POU3F2 and TFAP2E, on neurite morphology and neuronal electrophysiology are consistent with transcriptional effects, demonstrating the capacity of direct epigenetic control to mimic heterotypic cellular signals. This work illuminates the regulation of neurodevelopment-and disease-relevant gene modules by neuron-astrocyte interactions, and provides a blueprint for applying modern functional genomics to uncover the links between cell microenvironment and epigenomic programming. Highlights Neuronal gene expression and chromatin accessibility landscape are profoundly remodeled by astrocytes over weeks of co-culture Astrocyte-responsive neuronal gene modules and neuron-responsive astrocytic gene modules are enriched for genes associated with schizophrenia and familial Alzheimer’s Disease Single-cell CRISPR interference and activation screens of astrocyte-responsive gene regulatory elements identified dozens of functional regulatory elements of TF genes in neurons Single-cell CRISPR interference and activation screens of >200 astrocyte-responsive TF genes uncovered discrete functional clusters that promote neuronal maturity or stemness Astrocyte-responsive TF genes reprogram neuronal electrophysiology and neurite morphology",
+   "abstract": "Heterotypic cell-cell interactions are critical to governing cellular physiology, disease progression, and responses to the environment and pharmacologic interventions. For example, neurons and astrocytes engage in intricate interactions that are essential for brain development and function1-3. However, the transformation of these extracellular signals into epigenomic regulation that governs cell function is poorly understood. Here, we report that weeks of co-culture between human induced pluripotent stem cell (hiPSC)-derived neurons and mouse cortical astrocytes extensively reprograms gene expression and the chromatin accessibility landscape in neurons, affecting thousands of genes and putative gene regulatory elements (REs), including many transcription factors (TFs). These genes are enriched for functions implicated in neuronal differentiation and maturation, and tend to be impacted in schizophrenia, and autosomal dominant Alzheimer's disease. Through complementary CRISPR interference and activation screens, we recapitulated hundreds of astrocyte-induced transcriptional and chromatin remodeling events in mono-cultured neurons at both promoters and distal regulatory elements (REs) of TF genes. We discovered functional REs for ~50 astrocyte-responsive TF genes, providing a map of gene regulatory network control. Astrocyte-responsive TF genes fall into groups that exert independent or counter-balancing transcriptional effects, highlighting the complex coordination of the neuronal response to astrocytes. Functional effects of specific TFs, including POU3F2 and TFAP2E, on neurite morphology and neuronal electrophysiology are consistent with transcriptional effects, demonstrating the capacity of direct epigenetic control to mimic heterotypic cellular signals. This work illuminates the regulation of neurodevelopment- and disease-relevant gene modules by neuron-astrocyte interactions, and provides a blueprint for applying modern functional genomics to uncover the links between cell microenvironment and epigenomic programming.",
    "type": "preprint",
    "url": "https://doi.org/10.64898/2026.03.07.710282",
    "scholar_id": "gregory-crawford",
@@ -1247,7 +1307,7 @@
    "title": "On the Right to Obscurity",
    "authors": [
     "Woodrow Hartzog",
-    "Evan Selinger"
+    "Evan M. Selinger"
    ],
    "journal": "SSRN Electronic Journal",
    "journal_id": "",
@@ -1812,9 +1872,9 @@
    "abstract": "Merger control is a hot topic. The hot policy question these days is whether merger law is too permissive or too strict. One powerful statistical argument often advanced by the ‘too permissive’ view is this: most reviewed transactions are cleared, and only a small number give rise to remedies or a prohibition.1 In the USA, between 2001 and 2020, antitrust authorities received roughly 31,500 merger notifications, scrutinized around 970 in detail, and blocked approximately 300. This represents 0.28 per cent of all USA transactions in the period, and intervention in fewer than one in a thousand. Figures for the European Union (EU) tell a similar story.2 The implication drawn from these numbers is straightforward: if so few mergers are stopped, enforcement is too permissive. That line of reasoning conflates merger prohibition rates with the overall deterrence effect of merger policy. But the deterrent effects of merger policy extend well beyond the small set of deals that are formally challenged.3 To see why, consider a simple framework of two variables. One is the enforcer’s decision: clear or intervene. The other is the firms’ action: propose a merger or refrain. From their interaction, four scenarios emerge4: (i) Firm proposes, enforcer clears. This is the majority of notified transactions. (ii) Firm refrains, enforcer would have blocked. The parties correctly anticipated that the deal would be blocked and chose not to proceed. This is successful deterrence. (iii) Firm proposes, enforcer intervenes. The firms believed their deal would be cleared, but the enforcer disagreed. This is the scenario covered by the oft-cited low intervention rates. From a legal perspective, that represents insufficient deterrence. (iv) Firm refrains, enforcer would have cleared. The firms do not file a deal because they wrongly believe the enforcer would block it. From a legal perspective, that represents excessive deterrence. The critical point is this: the prohibition rates cited as evidence of insufficient deterrence comprise only Scenario 3 (the firm’s self-assessment error). We cannot infer anything relevant to deterrence from current prohibition rates unless we include Scenario 4 in the picture. Put differently, it is crucial to consider the rate of excessive deterrence in any discussion on whether merger enforcement is too lax or too strict.5 Now, this framework operates under simplified assumptions. The real world is uncertain. But the core insight survives, and may actually intensify, under uncertainty. Merger agencies make decisions on a balance-of-probabilities standard. Firms know this. Risk-averse firms may rationally forgo a pro-competitive merger not because they misread the enforcer’s likely decision, but because the costs of an uncertain review process (litigating a potential challenge, management distraction, reputational risk) exceed expected gains from the transaction. This is not a self-assessment error. It is a rational response to uncertainty. Yet, the social cost of excessive deterrence remains. This reading is reinforced under a bargaining lens. Most merger enforcement does not involve outright prohibition. Deals are often cleared after parties negotiate with enforcers over remedies. In a perfect enforcement scenario, the prohibition rate would be close to zero, and the number of conditional clearances would be substantial. This is because firms would correctly anticipate the enforcer’s position and propose only (conditionally/unconditionally) clearable deals. By contrast, observing a high level of prohibitions would reflect bargaining error: parties that file overestimate their bargaining power in the sense that they underestimate the enforcer’s ‘price’ for clearance.6 In other words, a low prohibition rate may reflect a market that has already internalized strict enforcement norms. An analogy captures the point: saying that merger enforcement is too lax because few mergers get blocked is akin to saying that having few open protests in a country must mean it ranks high in the Freedom Index. This may or may not be the case: few protests happen both in Switzerland and Russia, for example. A small but established empirical literature actually documents how deterrence materializes in practice through two channels. The first is frequency effects. Stricter merger enforcement reduces the overall volume of deal activity. Increasing the challenge rate, defined as the conditional probability of a remedy or prohibition given an investigation, produces significant and robust deterrence of future horizontal merger activity.7 Similarly, stricter merger policy induces some firms to drop from, or not participate in, ongoing merger waves.8 The second is composition effects. Firms do not simply abandon deals; they restructure them. A merger may transform into a partial asset acquisition, and a horizontal deal may become a vertical or conglomerate transaction.9 Firms may opt for alternative arrangements, such as acquihires, to reduce regulatory exposure as well.10 The composition channel is particularly relevant today: the outsized attention given to technology mergers may partially be the reason why firms structure their AI-related deals as acquihires and licensing arrangements rather than outright acquisitions. Both frequency and composition effects point in the same direction. Enforcement decisions today shape the self-assessment of prospective merging parties tomorrow. Evidence shows that some jurisdictions’ merger law has grown stricter over time.11 And as the OECD documents, the number of merger interventions has been increasing.12 Each intervention sends a signal that recalibrates the expectations of future deal-makers, sometimes usefully, sometimes excessively.13 If the argument that observed prohibition rates say little is correct, three implications follow: one on policy, one on law, and another on methodology. Low prohibition rates cannot, and should not, on their own, be an argument in support of stricter merger review. The claim that ‘ten thousand mergers were filed, and only 39 were blocked’ is a rhetorical device that cannot support the view that merger review is too permissive.14 For indeed, a low intervention rate may already denote strict merger review that over-deters deals. The limited intervention rate of EU merger agencies is not a good justification for adopting ‘call-in powers’ by national competition authorities, devising structural presumptions, or shifting burdens of proof against merging parties. These proposals may actually induce merging firms to further internalize the risk of merger challenge, and deter more M&A transactions. Merger policy’s deterrent effect materializes partly through abandoned or restructured deals. This has been notoriously difficult to measure, as many authorities have also acknowledged.15 Tackling this data problem head-on, through systematic surveys of deal advisors or analysis of withdrawn filings, would go a long way in completing the picture of how merger enforcement actually operates. The claim that ‘few mergers are blocked, therefore enforcement is too lax’ has an intuitive ring that has allowed it to travel far. But it rests on a logical error: it treats the observable output of the merger review system in the form of explicit prohibitions as the whole of the system’s effect. It is not. The evidence used to support the proposition that enforcement is too lax is equally supportive of the proposition that enforcement is too strict, because deterrence is imperfectly observable. The deals that were never proposed, the mergers that were restructured beyond recognition, the acquisitions that became acquihires do not show up in the prohibition rate. But they may represent the most consequential impact of merger policy. A more satisfactory evaluation of merger policy requires considering the full extent of deterrence, not just the part that happens to be observable. Until we do, the debate over whether merger policy is ‘too permissive’ or ‘too strict’ risks being driven by numbers that say nothing.",
    "type": "article",
    "url": "https://doi.org/10.1093/jeclap/lpag031",
-   "scholar_id": "frederic-jenny",
-   "scholar_name": "Frédéric Jenny",
-   "scholar_institution": "ESSEC Business School"
+   "scholar_id": "nicolas-petit",
+   "scholar_name": "Nicolas Petit",
+   "scholar_institution": "University of Liège"
   },
   {
    "doi": "10.2139/ssrn.7033699",
@@ -2107,6 +2167,59 @@
    "scholar_institution": "Imperial College London"
   },
   {
+   "doi": "10.2139/ssrn.6291538",
+   "title": "The Innovation Defence: A Capabilities Test for Merger Review",
+   "authors": [
+    "Nicolas Petit",
+    "Constance E. Helfat"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.6291538",
+   "scholar_id": "nicolas-petit",
+   "scholar_name": "Nicolas Petit",
+   "scholar_institution": "University of Liège"
+  },
+  {
+   "doi": "",
+   "title": "Appendix to : Multi-target UAV assignment problem and coordinated attack for a swarm of UAVs",
+   "authors": [
+    "Benjamin Piet",
+    "Guillaume Strub",
+    "Sébastien Changey",
+    "Nicolas Petit"
+   ],
+   "journal": "HAL",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "In this document, we present some extra material and results that could not be featured in the final version of \"Multi-target UAV assignment problem and coordinated attack for a swarm of UAVs\" for the IFAC conference 2026. This include a procedure for coordinated attack on multiple targets, and a proposition of an algorithm to solve the final MILP problem as a finite amount of LP.",
+   "type": "preprint",
+   "url": "https://openalex.org/works/W7162230742",
+   "scholar_id": "nicolas-petit",
+   "scholar_name": "Nicolas Petit",
+   "scholar_institution": "University of Liège"
+  },
+  {
+   "doi": "10.2139/ssrn.6883220",
+   "title": "Capabilities Analysis in Competition Policy: Evidence from Merger Remedies",
+   "authors": [
+    "Nicolas Petit",
+    "Selçukhan Ünekbaş"
+   ],
+   "journal": "SSRN Electronic Journal",
+   "journal_id": "",
+   "date": "2026-01-01",
+   "abstract": "",
+   "type": "preprint",
+   "url": "https://doi.org/10.2139/ssrn.6883220",
+   "scholar_id": "nicolas-petit",
+   "scholar_name": "Nicolas Petit",
+   "scholar_institution": "University of Liège"
+  },
+  {
    "doi": "10.1093/joclec/nhaf035",
    "title": "Monopolization in Europe: Understanding Dominance as an Ability",
    "authors": [
@@ -2188,7 +2301,7 @@
    "title": "Unraveling the genetic complexity of Alzheimer's disease across diverse populations via integrative single‐cell multi‐omics",
    "authors": [
     "Elliot Keats Shwab",
-    "Daniel Gingerich",
+    "Daniel C. Gingerich",
     "Dellila Hodgson",
     "Zhaohui Man",
     "Melanie E. Garrett",
