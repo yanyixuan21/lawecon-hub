@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-26 21:34",
- "doc_count": 374,
+ "updated_at": "2026-11-27 08:37",
+ "doc_count": 372,
  "heat": [
   {
    "term": "costs",
@@ -99,10 +99,6 @@
    "count": 9
   },
   {
-   "term": "italian",
-   "count": 9
-  },
-  {
    "term": "industrial",
    "count": 9
   },
@@ -143,6 +139,10 @@
    "count": 8
   },
   {
+   "term": "italian",
+   "count": 8
+  },
+  {
    "term": "digital markets",
    "count": 7
   },
@@ -168,10 +168,6 @@
   },
   {
    "term": "good",
-   "count": 7
-  },
-  {
-   "term": "insights",
    "count": 7
   },
   {
@@ -203,6 +199,10 @@
    "count": 6
   },
   {
+   "term": "growth",
+   "count": 6
+  },
+  {
    "term": "deterrence",
    "count": 6
   },
@@ -227,6 +227,10 @@
    "count": 6
   },
   {
+   "term": "insights",
+   "count": 6
+  },
+  {
    "term": "act",
    "count": 6
   },
@@ -239,23 +243,11 @@
    "count": 6
   },
   {
-   "term": "relationship",
-   "count": 6
-  },
-  {
-   "term": "framework",
-   "count": 6
-  },
-  {
    "term": "after",
    "count": 6
   },
   {
    "term": "input",
-   "count": 6
-  },
-  {
-   "term": "workers",
    "count": 6
   },
   {
@@ -280,6 +272,14 @@
   },
   {
    "term": "contract",
+   "count": 6
+  },
+  {
+   "term": "contracts",
+   "count": 6
+  },
+  {
+   "term": "licensing",
    "count": 6
   }
  ],
@@ -419,7 +419,7 @@
    ]
   },
   "ejle": {
-   "count": 33,
+   "count": 31,
    "avg_authors": 2.2,
    "terms": [
     {
