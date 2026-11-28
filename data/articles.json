@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-27 21:18",
- "count": 372,
+ "updated_at": "2026-11-28 07:51",
+ "count": 371,
  "articles": [
   {
    "doi": "10.1016/j.irle.2026.106349",
@@ -5224,20 +5224,6 @@
    "abstract": "Abstract I propose a theoretical model to analyze the effects of cheap-talk legal advice on pretrial negotiations with asymmetric information when a conflict of interest between plaintiffs and attorneys is possible. An informed defendant makes a settlement offer to an uninformed plaintiff who may consult her attorney before taking the decision. Hiring an attorney biased against going to trial does not affect the outcome of the negotiations. Conversely, hiring an attorney biased towards going to trial improves the settlement offers received by the plaintiff. Negotiations fail only when the conflict of interest between the plaintiff and the attorney is extreme. Typically the plaintiff is able to separate the defendant with high liability value from the defendant with low liability value without trial. The incentives of the agents can depend on contracts that specify the attorney’s fees. Optimal contracts always result in some conflict of interest. Commonly used contingency-fee and hourly-fee contracts are optimal for some parameters of the model. Contracts which perfectly align the incentives of the agents are feasible but never optimal.",
    "type": "journal-article",
    "url": "https://doi.org/10.1093/aler/ahaf002"
-  },
-  {
-   "doi": "10.1111/joie.70015",
-   "title": "The High Cost of Low Range: Estimating the Hidden Cost of Range Anxiety in Electric Vehicles",
-   "authors": [
-    "Scott J B",
-    "Qin M"
-   ],
-   "journal": "The Journal of Industrial Economics",
-   "journal_id": "jie",
-   "date": "2025-11-27",
-   "abstract": "ABSTRACT Electric vehicle (EV) drivers experience range anxiety (RA) due to a gap between latent travel demand and battery range. Low fuel prices or limited range exacerbate RA. Range relevance diminishes under high fuel prices, as driving demand is suppressed, while low fuel prices have small effects on RA when range is sufficiently high. We formalize and estimate RA, leveraging the implicit interaction between local electricity prices and range. Results suggest average prospective EV consumers expect $2500–3400/year welfare costs through the RA mechanism. These estimates have strong implications for policies targeting EV ownership, underscoring another channel EV costs exceed conventional vehicles.",
-   "type": "journal-article",
-   "url": "https://doi.org/10.1111/joie.70015"
   }
  ]
 }

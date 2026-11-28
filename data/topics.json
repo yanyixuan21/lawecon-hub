@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-27 21:19",
- "doc_count": 372,
+ "updated_at": "2026-11-28 07:51",
+ "doc_count": 371,
  "heat": [
   {
    "term": "costs",
@@ -35,15 +35,15 @@
    "count": 14
   },
   {
-   "term": "cost",
-   "count": 14
-  },
-  {
    "term": "role",
    "count": 12
   },
   {
    "term": "firm",
+   "count": 12
+  },
+  {
+   "term": "cost",
    "count": 12
   },
   {
@@ -56,10 +56,6 @@
   },
   {
    "term": "industry",
-   "count": 11
-  },
-  {
-   "term": "demand",
    "count": 11
   },
   {
@@ -79,6 +75,10 @@
    "count": 10
   },
   {
+   "term": "prices",
+   "count": 10
+  },
+  {
    "term": "cartel",
    "count": 10
   },
@@ -88,6 +88,10 @@
   },
   {
    "term": "value",
+   "count": 9
+  },
+  {
+   "term": "demand",
    "count": 9
   },
   {
@@ -276,10 +280,6 @@
   },
   {
    "term": "contracts",
-   "count": 6
-  },
-  {
-   "term": "licensing",
    "count": 6
   }
  ],
@@ -537,7 +537,7 @@
    ]
   },
   "jie": {
-   "count": 30,
+   "count": 29,
    "avg_authors": 2.0,
    "terms": [
     {
